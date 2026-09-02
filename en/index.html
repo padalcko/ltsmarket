@@ -24,9 +24,14 @@
       content="LTS Market offers new and used professional beauty equipment for salons and aesthetic clinics. Diode lasers, ND:YAG, IPL, leasing and professional technical support."
     />
 
+    <meta
+      name="keywords"
+      content="beauty equipment, professional beauty equipment, diode laser, aesthetic laser, used beauty equipment, equipment leasing, salon lasers, LTS Market"
+    />
+
     <meta name="author" content="LTS Market" />
 
-    <meta name="theme-color" content="#0b0b0b" />
+    <meta name="theme-color" content="#0b0f13" />
 
     <!-- =====================================================
          03. CANONICAL
@@ -68,11 +73,16 @@
 
     <meta property="og:url" content="https://ltsmarket.pl/en/" />
 
+    <meta
+      property="og:image"
+      content="https://ltsmarket.pl/assets/img/og/lts-market-og.jpg"
+    />
+
     <!-- =====================================================
          06. TWITTER
     ====================================================== -->
 
-    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:card" content="summary_large_image" />
 
     <meta
       name="twitter:title"
@@ -84,14 +94,37 @@
       content="New and used equipment for the beauty industry. Purchase, leasing and professional technical support."
     />
 
+    <meta
+      name="twitter:image"
+      content="https://ltsmarket.pl/assets/img/og/lts-market-og.jpg"
+    />
+
     <!-- =====================================================
-         07. CSS
+         07. FAVICON
+    ====================================================== -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="../assets/img/favicon/favicon-32x32.png"
+    />
+
+    <link
+      rel="apple-touch-icon"
+      href="../assets/img/favicon/apple-touch-icon.png"
+    />
+
+    <link rel="manifest" href="../site.webmanifest" />
+
+    <!-- =====================================================
+         08. CSS
     ====================================================== -->
 
     <link rel="stylesheet" href="../assets/css/main.css" />
 
     <!-- =====================================================
-         08. STRUCTURED DATA
+         09. STRUCTURED DATA
     ====================================================== -->
 
     <script type="application/ld+json">
@@ -120,21 +153,17 @@
 
     <header class="site-header" id="top">
       <div class="container header-inner">
-        <!-- LOGO -->
-
         <a href="index.html" class="site-logo" aria-label="LTS Market - home">
           <span class="logo-main">LTS</span>
           <span class="logo-sub">MARKET</span>
         </a>
-
-        <!-- DESKTOP NAV -->
 
         <nav class="main-nav" aria-label="Main navigation">
           <a href="index.html" class="nav-link active" aria-current="page">
             Market
           </a>
 
-          <a href="#polecane" class="nav-link"> New </a>
+          <a href="nowe.html" class="nav-link"> New </a>
 
           <a href="#uzywane" class="nav-link"> Used </a>
 
@@ -149,8 +178,6 @@
 
           <a href="kontakt.html" class="nav-link"> Contact </a>
         </nav>
-
-        <!-- HEADER ACTIONS -->
 
         <div class="header-actions">
           <div class="language-switcher" aria-label="Choose language">
@@ -192,15 +219,13 @@
         </div>
       </div>
 
-      <!-- =====================================================
-           MOBILE MENU
-      ====================================================== -->
+      <!-- MOBILE MENU -->
 
       <div class="mobile-menu" id="mobile-menu">
         <nav class="mobile-menu-nav" aria-label="Mobile menu">
           <a href="index.html"> Market </a>
 
-          <a href="#polecane"> New equipment </a>
+          <a href="nowe.html"> New equipment </a>
 
           <a href="#uzywane"> Used equipment </a>
 
@@ -246,7 +271,7 @@
             </p>
 
             <div class="hero-actions">
-              <a href="#polecane" class="btn btn-primary"> View equipment </a>
+              <a href="nowe.html" class="btn btn-primary"> View equipment </a>
 
               <a href="#leasing" class="btn btn-secondary"> Explore leasing </a>
             </div>
@@ -269,9 +294,7 @@
             </div>
           </div>
 
-          <!-- =================================================
-               HERO SLIDER
-          ================================================== -->
+          <!-- HERO SLIDER -->
 
           <div class="hero-visual">
             <div class="hero-product-slider" data-product-slider>
@@ -281,7 +304,7 @@
                 <div class="hero-product-image">
                   <img
                     src="../assets/img/laser-diodowy.png"
-                    alt="Professional diode laser available from LTS Market"
+                    alt="Diode laser available from LTS Market"
                     width="760"
                     height="760"
                   />
@@ -292,7 +315,7 @@
 
                   <strong> Professional hair removal systems </strong>
 
-                  <a href="kontakt.html"> Request an offer → </a>
+                  <a href="nowe.html"> View models → </a>
                 </div>
               </article>
 
@@ -302,7 +325,7 @@
                 <div class="hero-product-image">
                   <img
                     src="../assets/img/nd-yag.png"
-                    alt="ND:YAG tattoo removal laser available from LTS Market"
+                    alt="ND:YAG laser available from LTS Market"
                     width="760"
                     height="760"
                     loading="lazy"
@@ -312,7 +335,7 @@
                 <div class="hero-product-info">
                   <span class="product-category"> ND:YAG </span>
 
-                  <strong> Professional tattoo removal devices </strong>
+                  <strong> Tattoo removal equipment </strong>
 
                   <a href="kontakt.html"> Request an offer → </a>
                 </div>
@@ -324,7 +347,7 @@
                 <div class="hero-product-image">
                   <img
                     src="../assets/img/ipl.png"
-                    alt="Professional IPL system available from LTS Market"
+                    alt="IPL equipment available from LTS Market"
                     width="760"
                     height="760"
                     loading="lazy"
@@ -341,14 +364,12 @@
               </article>
             </div>
 
-            <!-- SLIDER CONTROLS -->
-
             <div class="hero-slider-controls">
               <button
                 type="button"
                 class="slider-arrow"
                 data-slider-prev
-                aria-label="Previous device"
+                aria-label="Previous equipment"
               >
                 ←
               </button>
@@ -377,7 +398,7 @@
                 type="button"
                 class="slider-arrow"
                 data-slider-next
-                aria-label="Next device"
+                aria-label="Next equipment"
               >
                 →
               </button>
@@ -398,15 +419,13 @@
             <h2>Choose the right solution for your business</h2>
 
             <p>
-              A new device, technically inspected pre-owned equipment or
-              financing tailored to your company's needs.
+              New equipment, technically inspected used devices or financing
+              tailored to your business needs.
             </p>
           </div>
 
           <div class="direction-grid">
-            <!-- NEW -->
-
-            <a href="#polecane" class="direction-card">
+            <a href="nowe.html" class="direction-card">
               <div class="direction-number">01</div>
 
               <div class="direction-icon">+</div>
@@ -414,14 +433,12 @@
               <h3>New equipment</h3>
 
               <p>
-                Professional equipment for beauty salons, cosmetology practices
-                and aesthetic clinics.
+                Professional equipment for salons, aesthetic clinics and beauty
+                practices.
               </p>
 
               <span class="card-link"> View equipment → </span>
             </a>
-
-            <!-- USED -->
 
             <a href="#uzywane" class="direction-card">
               <div class="direction-number">02</div>
@@ -431,14 +448,12 @@
               <h3>Used equipment</h3>
 
               <p>
-                Pre-owned equipment with the option of professional technical
-                inspection by LTS Service.
+                Pre-owned equipment with the option of a technical inspection by
+                LTS Service.
               </p>
 
               <span class="card-link"> Learn more → </span>
             </a>
-
-            <!-- LEASING -->
 
             <a href="#leasing" class="direction-card">
               <div class="direction-number">03</div>
@@ -448,8 +463,8 @@
               <h3>Leasing</h3>
 
               <p>
-                Equipment financing solutions for businesses, salons and
-                aesthetic clinics.
+                Financing solutions for beauty businesses and aesthetic
+                practices.
               </p>
 
               <span class="card-link"> Explore options → </span>
@@ -464,24 +479,26 @@
 
       <section class="featured-products section" id="polecane">
         <div class="container">
-          <div class="section-heading">
-            <span class="section-eyebrow"> FEATURED </span>
+          <div class="section-heading section-heading-row">
+            <div>
+              <span class="section-eyebrow"> FEATURED </span>
 
-            <h2>Selected equipment</h2>
+              <h2>Selected equipment</h2>
+            </div>
+
+            <a href="nowe.html" class="text-link"> View all new equipment → </a>
           </div>
 
           <div class="products-grid">
-            <!-- =================================================
-                 PRODUCT 01
-            ================================================== -->
+            <!-- PRODUCT 1 -->
 
             <article class="product-card">
               <div class="product-card-image">
                 <span class="product-badge"> NEW </span>
 
                 <img
-                  src="../assets/img/laser-diodowy.png"
-                  alt="LTS professional diode laser"
+                  src="../assets/img/placeholders/laser-diodowy.webp"
+                  alt="LTS diode laser"
                   width="600"
                   height="600"
                   loading="lazy"
@@ -491,30 +508,30 @@
               <div class="product-card-body">
                 <span class="product-card-category"> Diode laser </span>
 
-                <h3>LTS Diode Laser</h3>
+                <h3>LTS diode laser</h3>
 
                 <p>
-                  Professional laser hair removal system designed for beauty
-                  salons and aesthetic clinics.
+                  Professional laser hair removal system for beauty and
+                  aesthetic clinics.
                 </p>
 
                 <ul class="product-mini-features">
-                  <li>New device</li>
+                  <li>New equipment</li>
                   <li>Leasing available</li>
-                  <li>LTS technical service</li>
+                  <li>LTS service support</li>
                 </ul>
 
                 <div class="product-card-footer">
                   <div class="product-price">
-                    <span> Price </span>
+                    <span>Price</span>
 
-                    <strong> On request </strong>
+                    <strong> Ask us </strong>
                   </div>
 
                   <a
-                    href="kontakt.html"
+                    href="nowe.html"
                     class="product-arrow"
-                    aria-label="Ask about the LTS diode laser"
+                    aria-label="View new diode lasers"
                   >
                     →
                   </a>
@@ -522,17 +539,15 @@
               </div>
             </article>
 
-            <!-- =================================================
-                 PRODUCT 02
-            ================================================== -->
+            <!-- PRODUCT 2 -->
 
             <article class="product-card">
               <div class="product-card-image">
                 <span class="product-badge product-badge-used"> USED </span>
 
                 <img
-                  src="../assets/img/nd-yag.png"
-                  alt="Professional ND:YAG laser"
+                  src="../assets/img/placeholders/nd-yag.webp"
+                  alt="ND:YAG laser"
                   width="600"
                   height="600"
                   loading="lazy"
@@ -542,30 +557,30 @@
               <div class="product-card-body">
                 <span class="product-card-category"> ND:YAG </span>
 
-                <h3>ND:YAG Laser</h3>
+                <h3>ND:YAG laser</h3>
 
                 <p>
-                  Professional system for pigmentation treatments and tattoo
-                  removal procedures.
+                  Equipment for treatments related to pigmentation and tattoo
+                  removal.
                 </p>
 
                 <ul class="product-mini-features">
-                  <li>Pre-owned device</li>
-                  <li>Technical diagnostics available</li>
-                  <li>LTS technical service</li>
+                  <li>Used equipment</li>
+                  <li>Diagnostic inspection available</li>
+                  <li>LTS service support</li>
                 </ul>
 
                 <div class="product-card-footer">
                   <div class="product-price">
-                    <span> Price </span>
+                    <span>Price</span>
 
-                    <strong> On request </strong>
+                    <strong> Ask us </strong>
                   </div>
 
                   <a
                     href="kontakt.html"
                     class="product-arrow"
-                    aria-label="Ask about the ND:YAG laser"
+                    aria-label="Ask about ND:YAG laser"
                   >
                     →
                   </a>
@@ -573,17 +588,15 @@
               </div>
             </article>
 
-            <!-- =================================================
-                 PRODUCT 03
-            ================================================== -->
+            <!-- PRODUCT 3 -->
 
             <article class="product-card">
               <div class="product-card-image">
                 <span class="product-badge"> NEW </span>
 
                 <img
-                  src="../assets/img/ipl.png"
-                  alt="Professional IPL treatment system"
+                  src="../assets/img/placeholders/ipl.webp"
+                  alt="IPL system"
                   width="600"
                   height="600"
                   loading="lazy"
@@ -593,30 +606,30 @@
               <div class="product-card-body">
                 <span class="product-card-category"> IPL </span>
 
-                <h3>IPL System</h3>
+                <h3>IPL system</h3>
 
                 <p>
-                  Multifunctional treatment platform for modern beauty salons
-                  and aesthetic clinics.
+                  Multifunctional treatment platform for modern beauty and
+                  aesthetic clinics.
                 </p>
 
                 <ul class="product-mini-features">
-                  <li>New device</li>
+                  <li>New equipment</li>
                   <li>Financing available</li>
                   <li>Technical support</li>
                 </ul>
 
                 <div class="product-card-footer">
                   <div class="product-price">
-                    <span> Price </span>
+                    <span>Price</span>
 
-                    <strong> On request </strong>
+                    <strong> Ask us </strong>
                   </div>
 
                   <a
                     href="kontakt.html"
                     class="product-arrow"
-                    aria-label="Ask about the IPL system"
+                    aria-label="Ask about IPL equipment"
                   >
                     →
                   </a>
@@ -637,14 +650,14 @@
             <span class="section-eyebrow"> USED EQUIPMENT </span>
 
             <h2>
-              Pre-owned.
+              Used.
               <span>Inspected by LTS Service.</span>
             </h2>
 
             <p>
-              Buying used equipment does not have to mean taking a risk. Thanks
-              to the experience of Laser Tech Service, we can assess the
-              technical condition of equipment before it is offered for sale.
+              Buying used equipment does not have to mean taking unnecessary
+              risks. Thanks to the experience of Laser Tech Service, we can
+              assess the technical condition of equipment before sale.
             </p>
 
             <div class="process-list">
@@ -660,7 +673,7 @@
 
               <div class="process-item">
                 <span>03</span>
-                <strong>Device preparation</strong>
+                <strong>Equipment preparation</strong>
               </div>
 
               <div class="process-item">
@@ -676,8 +689,8 @@
 
           <div class="split-visual">
             <img
-              src="../assets/img/nd-yag.png"
-              alt="Pre-owned professional beauty equipment inspected by LTS"
+              src="../assets/img/placeholders/used-device.webp"
+              alt="Used professional beauty equipment"
               width="800"
               height="900"
               loading="lazy"
@@ -695,24 +708,24 @@
           <div class="service-content">
             <span class="section-eyebrow"> LASER TECH SERVICE </span>
 
-            <h2>The purchase is only the beginning</h2>
+            <h2>The sale is only the beginning</h2>
 
             <p>
               LTS Market operates within the same ecosystem as Laser Tech
               Service. This means that after purchasing your equipment, you can
-              also rely on professional technical support and service.
+              also rely on professional technical and service support.
             </p>
 
             <div class="service-features">
               <span>Diagnostics</span>
-              <span>Repairs</span>
+              <span>Repair</span>
               <span>Refurbishment</span>
               <span>Parts</span>
               <span>Technical support</span>
             </div>
 
             <a href="https://lasertechservice.pl/" class="btn btn-secondary">
-              Visit Laser Tech Service
+              Visit our service website
             </a>
           </div>
 
@@ -737,13 +750,13 @@
             <span class="section-eyebrow"> FINANCING </span>
 
             <h2>
-              You don't have to pay
-              <span>the full amount upfront</span>
+              You do not have to buy
+              <span>with cash</span>
             </h2>
 
             <p>
-              Explore equipment financing through leasing and choose a solution
-              tailored to your company's financial needs.
+              Explore leasing options and choose a financing solution suited to
+              your business.
             </p>
 
             <div class="leasing-benefits">
@@ -758,35 +771,31 @@
           </div>
 
           <div class="leasing-card">
-            <span class="leasing-card-label"> EXAMPLE STRUCTURE </span>
+            <span class="leasing-card-label"> SAMPLE STRUCTURE </span>
 
             <div class="leasing-row">
-              <span> Equipment </span>
-
-              <strong> selected model </strong>
+              <span>Equipment</span>
+              <strong>selected model</strong>
             </div>
 
             <div class="leasing-row">
-              <span> Financing period </span>
-
-              <strong> individual </strong>
+              <span>Financing period</span>
+              <strong>individual</strong>
             </div>
 
             <div class="leasing-row">
-              <span> Initial payment </span>
-
-              <strong> depends on the offer </strong>
+              <span>Initial payment</span>
+              <strong>depends on the offer</strong>
             </div>
 
             <div class="leasing-row leasing-row-highlight">
-              <span> Monthly payment </span>
-
-              <strong> individual calculation </strong>
+              <span>Monthly payment</span>
+              <strong>individual calculation</strong>
             </div>
 
             <small>
-              Financing conditions depend on the value of the equipment, the
-              company's financial situation and the current leasing offer.
+              Financing terms depend on the equipment value, the financial
+              situation of the business and the current leasing offer.
             </small>
           </div>
         </div>
@@ -801,29 +810,22 @@
           <div class="section-heading">
             <span class="section-eyebrow"> WHY LTS </span>
 
-            <h2>We are more than an equipment supplier</h2>
+            <h2>We are more than an equipment seller</h2>
 
-            <p>
-              We combine equipment sales with practical technical and service
-              expertise.
-            </p>
+            <p>We combine equipment sales with practical service expertise.</p>
           </div>
 
           <div class="why-grid">
-            <!-- CARD 01 -->
-
             <article class="why-card">
               <span class="why-number"> 01 </span>
 
-              <h3>We know the equipment inside out</h3>
+              <h3>We know the equipment from the inside</h3>
 
               <p>
                 Every day we diagnose, repair and service professional beauty
-                and aesthetic equipment.
+                equipment.
               </p>
             </article>
-
-            <!-- CARD 02 -->
 
             <article class="why-card">
               <span class="why-number"> 02 </span>
@@ -831,30 +833,25 @@
               <h3>Professional service support</h3>
 
               <p>
-                When you buy equipment from LTS, you know where to turn if a
-                technical problem occurs.
+                When you buy from LTS, you know where to turn if a technical
+                problem appears.
               </p>
             </article>
-
-            <!-- CARD 03 -->
 
             <article class="why-card">
               <span class="why-number"> 03 </span>
 
-              <h3>New and pre-owned</h3>
+              <h3>New and used equipment</h3>
 
               <p>
-                We help you choose equipment suited to the needs and budget of
-                your salon or clinic.
+                We help you select equipment suited to your needs and budget.
               </p>
             </article>
-
-            <!-- CARD 04 -->
 
             <article class="why-card">
               <span class="why-number"> 04 </span>
 
-              <h3>Financing options</h3>
+              <h3>Financing available</h3>
 
               <p>Selected equipment can be financed through leasing.</p>
             </article>
@@ -871,22 +868,20 @@
           <div>
             <span class="section-eyebrow"> LTS MARKET </span>
 
-            <h2>
-              Professional beauty equipment for salons and aesthetic clinics
-            </h2>
+            <h2>Professional beauty equipment for clinics and salons</h2>
           </div>
 
           <div class="seo-content-text">
             <p>
-              LTS Market offers professional beauty and aesthetic equipment for
-              beauty salons, cosmetology practices and aesthetic clinics.
+              LTS Market offers professional beauty equipment for beauty salons,
+              aesthetic practices and clinics.
             </p>
 
             <p>
-              In addition to new equipment, we are continuously developing our
-              range of pre-owned devices. Through cooperation with Laser Tech
-              Service, we combine equipment sales with technical expertise,
-              diagnostics and ongoing service support.
+              In addition to new equipment, we are also developing our range of
+              used devices. Thanks to our cooperation with Laser Tech Service,
+              we combine equipment sales with technical expertise, diagnostics
+              and ongoing service support.
             </p>
           </div>
         </div>
@@ -901,11 +896,11 @@
           <div class="market-cta-content">
             <span class="section-eyebrow"> CONTACT </span>
 
-            <h2>Looking for equipment for your salon or clinic?</h2>
+            <h2>Looking for equipment for your clinic?</h2>
 
             <p>
               Tell us what you need. We will help you choose the right equipment
-              and the most suitable purchase or financing option.
+              and the most suitable purchase option.
             </p>
           </div>
 
@@ -926,8 +921,6 @@
 
     <footer class="site-footer">
       <div class="container footer-grid">
-        <!-- BRAND -->
-
         <div class="footer-brand">
           <a
             href="index.html"
@@ -939,24 +932,20 @@
           </a>
 
           <p>
-            Professional equipment for the beauty industry. New, pre-owned,
-            leasing and technical support.
+            Professional equipment for the beauty industry. New, used, leasing
+            and technical support.
           </p>
         </div>
-
-        <!-- MARKET -->
 
         <div class="footer-column">
           <h3>Market</h3>
 
-          <a href="#polecane"> New equipment </a>
+          <a href="nowe.html"> New equipment </a>
 
           <a href="#uzywane"> Used equipment </a>
 
           <a href="#leasing"> Leasing </a>
         </div>
-
-        <!-- LTS -->
 
         <div class="footer-column">
           <h3>LTS</h3>
@@ -967,12 +956,10 @@
             Equipment service
           </a>
 
-          <a href="https://lasertechservice.pl/realizacje/"> Case studies </a>
+          <a href="https://lasertechservice.pl/realizacje/"> Projects </a>
 
           <a href="kontakt.html"> Contact </a>
         </div>
-
-        <!-- LANGUAGES -->
 
         <div class="footer-column">
           <h3>Language</h3>
@@ -984,8 +971,6 @@
           <a href="../ru/index.html" hreflang="ru"> Русский </a>
         </div>
 
-        <!-- CONTACT -->
-
         <div class="footer-column">
           <h3>Contact</h3>
 
@@ -993,7 +978,7 @@
 
           <a href="mailto:sales@ltsmarket.pl"> sales@ltsmarket.pl </a>
 
-          <span> Poland </span>
+          <span>Poland</span>
         </div>
       </div>
 
@@ -1023,7 +1008,7 @@
     <nav class="mobile-bottom-nav" aria-label="Quick mobile navigation">
       <a href="index.html" class="active"> Market </a>
 
-      <a href="#polecane"> New </a>
+      <a href="nowe.html"> New </a>
 
       <a href="#uzywane"> Used </a>
 
