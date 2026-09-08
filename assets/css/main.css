@@ -17,6 +17,8 @@
 html {
     scroll-behavior: smooth;
     scroll-padding-top: 90px;
+
+    background: #0b0f13;
 }
 
 body,
@@ -63,17 +65,20 @@ select {
 
 button {
     border: 0;
+    padding: 0;
+
+    color: inherit;
     background: none;
+
     cursor: pointer;
 }
 
 
 /* ==========================================================
-   02. ROOT VARIABLES
+   02. VARIABLES
    ========================================================== */
 
 :root {
-
     --color-bg: #0b0f13;
     --color-bg-soft: #10151b;
     --color-bg-light: #151b22;
@@ -119,12 +124,10 @@ button {
    03. BASE
    ========================================================== */
 
-html {
-    background: var(--color-bg);
-}
-
 body {
     min-width: 320px;
+
+    overflow-x: hidden;
 
     font-family: var(--font-main);
     font-size: 16px;
@@ -133,9 +136,9 @@ body {
     color: var(--color-text);
 
     background:
-        radial-gradient(circle at 80% 15%,
+        radial-gradient(circle at 80% 10%,
             rgba(42, 168, 255, 0.035),
-            transparent 30%),
+            transparent 28%),
         var(--color-bg);
 
     -webkit-font-smoothing: antialiased;
@@ -161,20 +164,23 @@ body {
 
 
 /* ==========================================================
-   05. SECTIONS
+   05. COMMON SECTIONS
    ========================================================== */
 
 .section {
-    padding: var(--section-space) 0;
+    padding:
+        var(--section-space) 0;
 }
 
 .section-dark {
-    background: var(--color-bg-soft);
+    background:
+        var(--color-bg-soft);
 }
 
 .section-eyebrow {
     display: inline-flex;
     align-items: center;
+
     gap: 10px;
 
     margin-bottom: 18px;
@@ -182,9 +188,11 @@ body {
     font-size: 12px;
     font-weight: 800;
     line-height: 1;
+
     letter-spacing: 0.16em;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 
     text-transform: uppercase;
 }
@@ -195,11 +203,15 @@ body {
     width: 28px;
     height: 1px;
 
-    background: var(--color-accent);
+    flex-shrink: 0;
+
+    background:
+        var(--color-accent);
 }
 
 .section-heading {
     max-width: 780px;
+
     margin-bottom: 52px;
 }
 
@@ -207,7 +219,7 @@ body {
     max-width: none;
 
     display: flex;
-    align-items: end;
+    align-items: flex-end;
     justify-content: space-between;
 
     gap: 40px;
@@ -219,8 +231,13 @@ body {
 .leasing-content h2,
 .market-cta-content h2,
 .seo-content h2 {
-    font-size: clamp(34px, 4vw, 58px);
+    font-size:
+        clamp(34px,
+            4vw,
+            58px);
+
     line-height: 1.04;
+
     letter-spacing: -0.04em;
 }
 
@@ -235,10 +252,13 @@ body {
     font-size: 17px;
     line-height: 1.75;
 
-    color: var(--color-text-soft);
+    color:
+        var(--color-text-soft);
 }
 
 .text-link {
+    display: inline-flex;
+
     flex-shrink: 0;
 
     padding-bottom: 4px;
@@ -246,9 +266,11 @@ body {
     font-size: 14px;
     font-weight: 700;
 
-    color: var(--color-text);
+    color:
+        var(--color-text);
 
-    border-bottom: 1px solid var(--color-border-strong);
+    border-bottom:
+        1px solid var(--color-border-strong);
 
     transition:
         color var(--transition),
@@ -256,8 +278,11 @@ body {
 }
 
 .text-link:hover {
-    color: var(--color-accent);
-    border-color: var(--color-accent);
+    color:
+        var(--color-accent);
+
+    border-color:
+        var(--color-accent);
 }
 
 
@@ -272,13 +297,19 @@ body {
     align-items: center;
     justify-content: center;
 
-    padding: 14px 24px;
+    width: auto;
 
-    border-radius: var(--radius-small);
+    padding:
+        14px 24px;
+
+    border-radius:
+        var(--radius-small);
 
     font-size: 14px;
     font-weight: 800;
     line-height: 1.2;
+
+    text-align: center;
 
     transition:
         transform var(--transition),
@@ -289,36 +320,45 @@ body {
 }
 
 .btn:hover {
-    transform: translateY(-2px);
+    transform:
+        translateY(-2px);
 }
 
 .btn-primary {
     color: #041018;
-    background: var(--color-accent);
+
+    background:
+        var(--color-accent);
 
     box-shadow:
         0 10px 26px rgba(42, 168, 255, 0.14);
 }
 
 .btn-primary:hover {
-    background: var(--color-accent-light);
+    background:
+        var(--color-accent-light);
 
     box-shadow:
         0 14px 32px rgba(42, 168, 255, 0.22);
 }
 
 .btn-secondary {
-    color: var(--color-text);
+    color:
+        var(--color-text);
 
-    background: transparent;
+    background:
+        transparent;
 
-    border: 1px solid var(--color-border-strong);
+    border:
+        1px solid var(--color-border-strong);
 }
 
 .btn-secondary:hover {
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 
-    border-color: var(--color-accent);
+    border-color:
+        var(--color-accent);
 }
 
 
@@ -329,16 +369,32 @@ body {
 .site-header {
     position: sticky;
     top: 0;
+
     z-index: 1000;
 
     background:
         rgba(11, 15, 19, 0.92);
 
-    backdrop-filter: blur(18px);
-    -webkit-backdrop-filter: blur(18px);
+    backdrop-filter:
+        blur(18px);
+
+    -webkit-backdrop-filter:
+        blur(18px);
 
     border-bottom:
         1px solid var(--color-border);
+
+    transition:
+        background var(--transition),
+        box-shadow var(--transition);
+}
+
+.site-header.is-scrolled {
+    background:
+        rgba(8, 12, 16, 0.97);
+
+    box-shadow:
+        0 12px 35px rgba(0, 0, 0, 0.18);
 }
 
 .header-inner {
@@ -379,14 +435,15 @@ body {
 
     letter-spacing: 0.22em;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 
     text-transform: uppercase;
 }
 
 
 /* ==========================================================
-   09. NAVIGATION
+   09. DESKTOP NAVIGATION
    ========================================================== */
 
 .main-nav {
@@ -402,23 +459,27 @@ body {
 .nav-link {
     position: relative;
 
-    padding: 11px 12px;
+    padding:
+        11px 12px;
 
     font-size: 14px;
     font-weight: 650;
 
-    color: var(--color-text-soft);
+    color:
+        var(--color-text-soft);
 
     transition:
         color var(--transition);
 }
 
 .nav-link:hover {
-    color: var(--color-white);
+    color:
+        var(--color-white);
 }
 
 .nav-link.active {
-    color: var(--color-white);
+    color:
+        var(--color-white);
 }
 
 .nav-link.active::after {
@@ -432,13 +493,15 @@ body {
 
     height: 2px;
 
-    border-radius: 10px;
+    border-radius: 999px;
 
-    background: var(--color-accent);
+    background:
+        var(--color-accent);
 }
 
 .nav-link-service {
-    color: var(--color-accent-light);
+    color:
+        var(--color-accent-light);
 }
 
 
@@ -485,7 +548,8 @@ body {
     font-size: 11px;
     font-weight: 800;
 
-    color: var(--color-text-muted);
+    color:
+        var(--color-text-muted);
 
     transition:
         background var(--transition),
@@ -493,32 +557,37 @@ body {
 }
 
 .lang-link:hover {
-    color: var(--color-white);
+    color:
+        var(--color-white);
 }
 
 .lang-link.active {
     color: #041018;
 
-    background: var(--color-accent);
+    background:
+        var(--color-accent);
 }
 
 
 /* ==========================================================
-   12. SERVICE LINK
+   12. OPTIONAL SERVICE BUTTON
    ========================================================== */
 
 .header-service-link {
-    padding: 10px 14px;
+    padding:
+        10px 14px;
 
     font-size: 12px;
     font-weight: 800;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 
     border:
         1px solid rgba(42, 168, 255, 0.28);
 
-    border-radius: var(--radius-small);
+    border-radius:
+        var(--radius-small);
 
     transition:
         background var(--transition),
@@ -529,7 +598,8 @@ body {
     background:
         rgba(42, 168, 255, 0.08);
 
-    border-color: var(--color-accent);
+    border-color:
+        var(--color-accent);
 }
 
 
@@ -551,14 +621,34 @@ body {
     border:
         1px solid var(--color-border);
 
-    border-radius: var(--radius-small);
+    border-radius:
+        var(--radius-small);
 }
 
 .menu-toggle span {
     width: 18px;
     height: 1.5px;
 
-    background: var(--color-white);
+    background:
+        var(--color-white);
+
+    transition:
+        transform var(--transition),
+        opacity var(--transition);
+}
+
+.menu-toggle.is-active span:nth-child(1) {
+    transform:
+        translateY(6.5px) rotate(45deg);
+}
+
+.menu-toggle.is-active span:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-toggle.is-active span:nth-child(3) {
+    transform:
+        translateY(-6.5px) rotate(-45deg);
 }
 
 
@@ -572,7 +662,8 @@ body {
     padding:
         22px 24px 28px;
 
-    background: var(--color-bg);
+    background:
+        var(--color-bg);
 
     border-top:
         1px solid var(--color-border);
@@ -587,13 +678,22 @@ body {
 }
 
 .mobile-menu-nav a {
-    padding: 14px 0;
+    padding:
+        14px 0;
 
     font-size: 18px;
     font-weight: 700;
 
     border-bottom:
         1px solid var(--color-border);
+
+    transition:
+        color var(--transition);
+}
+
+.mobile-menu-nav a:hover {
+    color:
+        var(--color-accent);
 }
 
 .mobile-language-switcher {
@@ -615,7 +715,8 @@ body {
     border:
         1px solid var(--color-border);
 
-    border-radius: var(--radius-small);
+    border-radius:
+        var(--radius-small);
 
     font-size: 12px;
     font-weight: 800;
@@ -624,9 +725,11 @@ body {
 .mobile-language-switcher a.active {
     color: #041018;
 
-    background: var(--color-accent);
+    background:
+        var(--color-accent);
 
-    border-color: var(--color-accent);
+    border-color:
+        var(--color-accent);
 }
 
 
@@ -654,11 +757,11 @@ body {
 
     position: absolute;
 
-    width: 700px;
-    height: 700px;
+    width: 720px;
+    height: 720px;
 
     top: 50%;
-    right: -280px;
+    right: -300px;
 
     transform:
         translateY(-50%);
@@ -703,7 +806,7 @@ body {
 }
 
 .hero-content h1 {
-    max-width: 680px;
+    max-width: 700px;
 
     font-size:
         clamp(46px,
@@ -713,12 +816,15 @@ body {
     line-height: 0.98;
 
     letter-spacing: -0.055em;
+
+    overflow-wrap: break-word;
 }
 
 .hero-content h1 span {
     display: block;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 }
 
 .hero-description {
@@ -733,7 +839,8 @@ body {
 
     line-height: 1.7;
 
-    color: var(--color-text-soft);
+    color:
+        var(--color-text-soft);
 }
 
 .hero-actions {
@@ -792,7 +899,8 @@ body {
 
     font-size: 12px;
 
-    color: var(--color-text-muted);
+    color:
+        var(--color-text-muted);
 }
 
 
@@ -805,11 +913,6 @@ body {
 
     min-width: 0;
 }
-
-
-/* ==========================================================
-   20. HERO PRODUCT SLIDER
-   ========================================================== */
 
 .hero-product-slider {
     position: relative;
@@ -861,7 +964,7 @@ body {
 
 
 /* ==========================================================
-   21. PRODUCT IMAGE AREA
+   20. HERO PRODUCT IMAGE
    ========================================================== */
 
 .hero-product-image {
@@ -884,6 +987,7 @@ body {
     position: absolute;
 
     width: 72%;
+
     aspect-ratio: 1;
 
     border-radius: 50%;
@@ -893,11 +997,9 @@ body {
             rgba(42, 168, 255, 0.16),
             transparent 70%);
 
-    filter: blur(10px);
+    filter:
+        blur(10px);
 }
-
-
-/* IMAGE */
 
 .hero-product-image img {
     position: relative;
@@ -911,9 +1013,6 @@ body {
     object-fit: contain;
 }
 
-
-/* BROKEN IMAGE FALLBACK */
-
 .hero-product-image img:not([src]),
 .hero-product-image img[src=""] {
     display: none;
@@ -921,7 +1020,7 @@ body {
 
 
 /* ==========================================================
-   22. HERO PRODUCT INFO
+   21. HERO PRODUCT INFO
    ========================================================== */
 
 .hero-product-info {
@@ -934,7 +1033,11 @@ body {
     background:
         rgba(7, 10, 13, 0.84);
 
-    backdrop-filter: blur(12px);
+    backdrop-filter:
+        blur(12px);
+
+    -webkit-backdrop-filter:
+        blur(12px);
 
     border-top:
         1px solid var(--color-border);
@@ -950,7 +1053,8 @@ body {
 
     letter-spacing: 0.12em;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 
     text-transform: uppercase;
 }
@@ -962,6 +1066,8 @@ body {
 
     font-size: 21px;
     line-height: 1.25;
+
+    overflow-wrap: break-word;
 }
 
 .hero-product-info a {
@@ -972,19 +1078,21 @@ body {
     font-size: 13px;
     font-weight: 750;
 
-    color: var(--color-text-soft);
+    color:
+        var(--color-text-soft);
 
     transition:
         color var(--transition);
 }
 
 .hero-product-info a:hover {
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 }
 
 
 /* ==========================================================
-   23. SLIDER CONTROLS
+   22. HERO SLIDER CONTROLS
    ========================================================== */
 
 .hero-slider-controls {
@@ -1005,7 +1113,10 @@ body {
     align-items: center;
     justify-content: center;
 
-    color: var(--color-white);
+    flex-shrink: 0;
+
+    color:
+        var(--color-white);
 
     border:
         1px solid var(--color-border);
@@ -1019,9 +1130,11 @@ body {
 }
 
 .slider-arrow:hover {
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 
-    border-color: var(--color-accent);
+    border-color:
+        var(--color-accent);
 
     background:
         rgba(42, 168, 255, 0.06);
@@ -1038,8 +1151,6 @@ body {
     width: 7px;
     height: 7px;
 
-    padding: 0;
-
     border-radius: 50%;
 
     background:
@@ -1055,19 +1166,24 @@ body {
 
     border-radius: 999px;
 
-    background: var(--color-accent);
+    background:
+        var(--color-accent);
 }
 
 
 /* ==========================================================
-   24. MARKET DIRECTIONS
+   23. MARKET DIRECTIONS
    ========================================================== */
+
+.market-directions {
+    position: relative;
+}
 
 .direction-grid {
     display: grid;
 
     grid-template-columns:
-        repeat(3, 1fr);
+        repeat(3, minmax(0, 1fr));
 
     gap: 18px;
 }
@@ -1075,12 +1191,15 @@ body {
 .direction-card {
     position: relative;
 
+    min-width: 0;
     min-height: 300px;
 
     display: flex;
     flex-direction: column;
 
     padding: 30px;
+
+    overflow: hidden;
 
     border:
         1px solid var(--color-border);
@@ -1097,6 +1216,32 @@ body {
         background var(--transition);
 }
 
+.direction-card::after {
+    content: "";
+
+    position: absolute;
+
+    width: 220px;
+    height: 220px;
+
+    right: -130px;
+    bottom: -130px;
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(circle,
+            rgba(42, 168, 255, 0.12),
+            transparent 70%);
+
+    opacity: 0;
+
+    pointer-events: none;
+
+    transition:
+        opacity var(--transition);
+}
+
 .direction-card:hover {
     transform:
         translateY(-5px);
@@ -1108,11 +1253,16 @@ body {
         var(--color-card-hover);
 }
 
+.direction-card:hover::after {
+    opacity: 1;
+}
+
 .direction-number {
     font-size: 11px;
     font-weight: 800;
 
-    color: var(--color-text-muted);
+    color:
+        var(--color-text-muted);
 }
 
 .direction-icon {
@@ -1127,7 +1277,8 @@ body {
 
     font-size: 24px;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 
     border:
         1px solid rgba(42, 168, 255, 0.22);
@@ -1145,6 +1296,8 @@ body {
     line-height: 1.2;
 
     letter-spacing: -0.025em;
+
+    overflow-wrap: break-word;
 }
 
 .direction-card p {
@@ -1153,7 +1306,8 @@ body {
     font-size: 14px;
     line-height: 1.7;
 
-    color: var(--color-text-soft);
+    color:
+        var(--color-text-soft);
 }
 
 .card-link {
@@ -1164,12 +1318,13 @@ body {
     font-size: 13px;
     font-weight: 800;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 }
 
 
 /* ==========================================================
-   25. FEATURED PRODUCTS
+   24. FEATURED PRODUCTS
    ========================================================== */
 
 .featured-products {
@@ -1181,12 +1336,14 @@ body {
     display: grid;
 
     grid-template-columns:
-        repeat(3, 1fr);
+        repeat(3, minmax(0, 1fr));
 
     gap: 20px;
 }
 
 .product-card {
+    min-width: 0;
+
     overflow: hidden;
 
     border:
@@ -1200,7 +1357,8 @@ body {
 
     transition:
         transform var(--transition),
-        border-color var(--transition);
+        border-color var(--transition),
+        background var(--transition);
 }
 
 .product-card:hover {
@@ -1209,12 +1367,23 @@ body {
 
     border-color:
         rgba(42, 168, 255, 0.38);
+
+    background:
+        var(--color-card-hover);
 }
+
+
+/* ==========================================================
+   25. PRODUCT IMAGE
+   ========================================================== */
 
 .product-card-image {
     position: relative;
 
-    aspect-ratio: 1 / 0.88;
+    width: 100%;
+
+    aspect-ratio:
+        1 / 0.88;
 
     display: flex;
     align-items: center;
@@ -1239,6 +1408,7 @@ body {
     position: absolute;
 
     width: 72%;
+
     aspect-ratio: 1;
 
     border-radius: 50%;
@@ -1252,6 +1422,8 @@ body {
 .product-card-image img {
     position: relative;
     z-index: 1;
+
+    width: 100%;
 
     max-height: 290px;
 
@@ -1273,6 +1445,7 @@ body {
 
 .product-badge {
     position: absolute;
+
     z-index: 2;
 
     top: 18px;
@@ -1286,16 +1459,21 @@ body {
     font-size: 9px;
     font-weight: 900;
 
+    line-height: 1;
+
     letter-spacing: 0.11em;
 
     color: #031016;
 
     background:
         var(--color-accent);
+
+    text-transform: uppercase;
 }
 
 .product-badge-used {
-    color: var(--color-white);
+    color:
+        var(--color-white);
 
     background:
         rgba(255, 255, 255, 0.12);
@@ -1323,7 +1501,8 @@ body {
 
     letter-spacing: 0.13em;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 
     text-transform: uppercase;
 }
@@ -1333,10 +1512,18 @@ body {
     line-height: 1.25;
 
     letter-spacing: -0.025em;
+
+    overflow-wrap: break-word;
+}
+
+.product-card h3 a {
+    transition:
+        color var(--transition);
 }
 
 .product-card h3 a:hover {
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 }
 
 .product-card p {
@@ -1345,8 +1532,56 @@ body {
     font-size: 14px;
     line-height: 1.7;
 
-    color: var(--color-text-soft);
+    color:
+        var(--color-text-soft);
 }
+
+.product-card-price {
+    margin-top: 20px;
+
+    font-size: 23px;
+    font-weight: 900;
+    line-height: 1;
+
+    letter-spacing: -0.035em;
+
+    color:
+        var(--color-white);
+}
+
+.product-card-link {
+    display: inline-flex;
+
+    margin-top: 20px;
+
+    padding-bottom: 3px;
+
+    font-size: 13px;
+    font-weight: 800;
+
+    color:
+        var(--color-accent);
+
+    border-bottom:
+        1px solid rgba(42, 168, 255, 0.35);
+
+    transition:
+        color var(--transition),
+        border-color var(--transition);
+}
+
+.product-card-link:hover {
+    color:
+        var(--color-accent-light);
+
+    border-color:
+        var(--color-accent-light);
+}
+
+
+/* ==========================================================
+   28. LEGACY PRODUCT FEATURES
+   ========================================================== */
 
 .product-mini-features {
     display: grid;
@@ -1363,7 +1598,8 @@ body {
 
     font-size: 12px;
 
-    color: var(--color-text-muted);
+    color:
+        var(--color-text-muted);
 }
 
 .product-mini-features li::before {
@@ -1385,7 +1621,7 @@ body {
 
 .product-card-footer {
     display: flex;
-    align-items: end;
+    align-items: flex-end;
     justify-content: space-between;
 
     gap: 20px;
@@ -1409,7 +1645,8 @@ body {
 
     font-size: 10px;
 
-    color: var(--color-text-muted);
+    color:
+        var(--color-text-muted);
 
     text-transform: uppercase;
 }
@@ -1439,7 +1676,8 @@ body {
 }
 
 .product-arrow:hover {
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 
     border-color:
         var(--color-accent);
@@ -1447,7 +1685,704 @@ body {
 
 
 /* ==========================================================
-   28. USED EQUIPMENT
+   29. LEASING PRODUCT CARD
+   ========================================================== */
+
+.product-card-accent {
+    position: relative;
+
+    min-height: 100%;
+
+    display: flex;
+    align-items: flex-end;
+
+    background:
+        linear-gradient(145deg,
+            rgba(42, 168, 255, 0.09),
+            rgba(255, 255, 255, 0.015));
+
+    border-color:
+        rgba(42, 168, 255, 0.20);
+}
+
+.product-card-accent::before {
+    content: "";
+
+    position: absolute;
+
+    width: 420px;
+    height: 420px;
+
+    right: -220px;
+    top: -220px;
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(circle,
+            rgba(42, 168, 255, 0.18),
+            transparent 70%);
+
+    pointer-events: none;
+}
+
+.product-card-accent .product-card-body {
+    position: relative;
+    z-index: 1;
+
+    width: 100%;
+
+    padding:
+        38px 30px;
+}
+
+.product-card-accent h3 {
+    max-width: 340px;
+
+    font-size:
+        clamp(29px,
+            3vw,
+            42px);
+
+    line-height: 1.05;
+
+    letter-spacing: -0.04em;
+}
+
+
+/* ==========================================================
+   30. USED HOMEPAGE SECTION
+   ========================================================== */
+
+.market-used {
+    background:
+        var(--color-bg);
+
+    border-top:
+        1px solid var(--color-border);
+
+    border-bottom:
+        1px solid var(--color-border);
+}
+
+
+/* ==========================================================
+   31. NEW SERVICE SECTION
+   ========================================================== */
+
+.service-section {
+    position: relative;
+
+    overflow: hidden;
+
+    border-bottom:
+        1px solid var(--color-border);
+}
+
+.service-section::before {
+    content: "";
+
+    position: absolute;
+
+    width: 620px;
+    height: 620px;
+
+    left: -330px;
+    top: 50%;
+
+    transform:
+        translateY(-50%);
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(circle,
+            rgba(42, 168, 255, 0.065),
+            transparent 70%);
+
+    pointer-events: none;
+}
+
+.service-grid {
+    position: relative;
+    z-index: 1;
+
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1fr) minmax(360px, 0.72fr);
+
+    align-items: start;
+
+    gap: 80px;
+}
+
+.service-content {
+    min-width: 0;
+
+    max-width: 720px;
+}
+
+.service-content h2 span {
+    display: block;
+
+    color:
+        var(--color-accent);
+}
+
+.service-content>p+p {
+    margin-top: 16px;
+}
+
+.service-actions {
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 12px;
+
+    margin-top: 34px;
+}
+
+.service-points {
+    min-width: 0;
+
+    border-top:
+        1px solid var(--color-border);
+}
+
+.service-point {
+    display: grid;
+
+    grid-template-columns:
+        42px minmax(0, 1fr);
+
+    gap: 20px;
+
+    padding:
+        26px 0;
+
+    border-bottom:
+        1px solid var(--color-border);
+}
+
+.service-point>span {
+    padding-top: 3px;
+
+    font-size: 10px;
+    font-weight: 900;
+
+    letter-spacing: 0.14em;
+
+    color:
+        var(--color-accent);
+}
+
+.service-point h3 {
+    font-size: 20px;
+    line-height: 1.25;
+
+    letter-spacing: -0.025em;
+}
+
+.service-point p {
+    margin-top: 9px;
+
+    font-size: 14px;
+    line-height: 1.7;
+
+    color:
+        var(--color-text-soft);
+}
+
+
+/* ==========================================================
+   32. HOMEPAGE LEASING
+   scoped to avoid conflicts with leasing.html
+   ========================================================== */
+
+.leasing-section {
+    position: relative;
+
+    overflow: hidden;
+
+    background:
+        var(--color-bg-soft);
+
+    border-bottom:
+        1px solid var(--color-border);
+}
+
+.leasing-section::before {
+    content: "";
+
+    position: absolute;
+
+    width: 650px;
+    height: 650px;
+
+    top: 50%;
+    right: -280px;
+
+    transform:
+        translateY(-50%);
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(circle,
+            rgba(42, 168, 255, 0.10),
+            transparent 70%);
+
+    pointer-events: none;
+}
+
+.leasing-section .leasing-grid {
+    position: relative;
+    z-index: 1;
+
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1fr) minmax(340px, 0.70fr);
+
+    align-items: center;
+
+    gap: 80px;
+}
+
+.leasing-section .leasing-content {
+    min-width: 0;
+
+    max-width: 720px;
+}
+
+.leasing-section .leasing-content h2 span {
+    display: block;
+
+    color:
+        var(--color-accent);
+}
+
+.leasing-section .leasing-content .btn {
+    margin-top: 32px;
+}
+
+.leasing-stats {
+    min-width: 0;
+
+    overflow: hidden;
+
+    border:
+        1px solid var(--color-border);
+
+    border-radius:
+        var(--radius-large);
+
+    background:
+        rgba(255, 255, 255, 0.018);
+}
+
+.leasing-stat {
+    min-height: 108px;
+
+    display: grid;
+
+    grid-template-columns:
+        80px minmax(0, 1fr);
+
+    align-items: center;
+
+    gap: 24px;
+
+    padding:
+        22px 26px;
+}
+
+.leasing-stat+.leasing-stat {
+    border-top:
+        1px solid var(--color-border);
+}
+
+.leasing-stat strong {
+    font-size: 27px;
+    font-weight: 900;
+
+    letter-spacing: -0.04em;
+
+    color:
+        var(--color-accent);
+}
+
+.leasing-stat span {
+    font-size: 15px;
+    line-height: 1.55;
+
+    color:
+        var(--color-text-soft);
+}
+
+
+/* ==========================================================
+   33. WHY LTS MARKET
+   ========================================================== */
+
+.why-section {
+    border-bottom:
+        1px solid var(--color-border);
+}
+
+.why-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(4, minmax(0, 1fr));
+
+    gap: 16px;
+}
+
+.why-card {
+    min-width: 0;
+    min-height: 250px;
+
+    padding: 26px;
+
+    border:
+        1px solid var(--color-border);
+
+    border-radius:
+        var(--radius-medium);
+
+    background:
+        var(--color-card);
+
+    transition:
+        transform var(--transition),
+        border-color var(--transition),
+        background var(--transition);
+}
+
+.why-card:hover {
+    transform:
+        translateY(-4px);
+
+    border-color:
+        rgba(42, 168, 255, 0.3);
+
+    background:
+        var(--color-card-hover);
+}
+
+.why-number {
+    display: inline-block;
+
+    font-size: 11px;
+    font-weight: 900;
+
+    letter-spacing: 0.12em;
+
+    color:
+        var(--color-accent);
+}
+
+.why-card h3 {
+    margin-top: 52px;
+
+    font-size: 20px;
+    line-height: 1.3;
+
+    letter-spacing: -0.02em;
+
+    overflow-wrap: break-word;
+}
+
+.why-card p {
+    margin-top: 12px;
+
+    font-size: 13px;
+    line-height: 1.7;
+
+    color:
+        var(--color-text-soft);
+}
+
+
+/* ==========================================================
+   34. FINAL CONTACT CTA
+   ========================================================== */
+
+.market-contact {
+    padding-top:
+        var(--section-space);
+
+    background:
+        var(--color-bg);
+}
+
+.market-contact-box {
+    position: relative;
+
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1fr) auto;
+
+    align-items: center;
+
+    gap: 64px;
+
+    overflow: hidden;
+
+    padding:
+        48px 52px;
+
+    border:
+        1px solid rgba(42, 168, 255, 0.20);
+
+    border-radius:
+        var(--radius-large);
+
+    background:
+        linear-gradient(135deg,
+            rgba(42, 168, 255, 0.065),
+            rgba(255, 255, 255, 0.012));
+}
+
+.market-contact-box::before {
+    content: "";
+
+    position: absolute;
+
+    width: 430px;
+    height: 430px;
+
+    right: -250px;
+    bottom: -280px;
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(circle,
+            rgba(42, 168, 255, 0.15),
+            transparent 70%);
+
+    pointer-events: none;
+}
+
+.market-contact-box>* {
+    position: relative;
+    z-index: 1;
+
+    min-width: 0;
+}
+
+.market-contact-box h2 {
+    max-width: 720px;
+
+    font-size:
+        clamp(36px,
+            4.3vw,
+            58px);
+
+    line-height: 1.03;
+
+    letter-spacing: -0.045em;
+
+    overflow-wrap: break-word;
+}
+
+.market-contact-box h2 span {
+    display: block;
+
+    color:
+        var(--color-accent);
+}
+
+.market-contact-box p {
+    max-width: 670px;
+
+    margin-top: 18px;
+
+    font-size: 16px;
+    line-height: 1.7;
+
+    color:
+        var(--color-text-soft);
+}
+
+
+/* IMPORTANT:
+   compact CTA – no giant full-width buttons
+   ========================================================== */
+
+.market-contact-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+
+    width: auto;
+    max-width: 430px;
+
+    gap: 12px;
+}
+
+.market-contact-actions .btn {
+    width: auto;
+
+    white-space: nowrap;
+}
+
+.market-contact-actions .text-link {
+    flex-basis: 100%;
+
+    width: fit-content;
+
+    margin-top: 6px;
+
+    font-size: 14px;
+}
+
+
+/* ==========================================================
+   35. FOOTER
+   ========================================================== */
+
+.site-footer {
+    padding:
+        72px 0 28px;
+
+    background:
+        #090c0f;
+
+    border-top:
+        1px solid var(--color-border);
+}
+
+.footer-grid {
+    display: grid;
+
+    grid-template-columns:
+        1.7fr repeat(4, 1fr);
+
+    gap: 44px;
+}
+
+.footer-brand {
+    min-width: 0;
+}
+
+.footer-brand p {
+    max-width: 300px;
+
+    margin-top: 20px;
+
+    font-size: 13px;
+    line-height: 1.7;
+
+    color:
+        var(--color-text-muted);
+}
+
+.footer-column {
+    min-width: 0;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: flex-start;
+
+    gap: 9px;
+}
+
+.footer-column h3 {
+    margin-bottom: 7px;
+
+    font-size: 11px;
+    font-weight: 800;
+
+    letter-spacing: 0.12em;
+
+    text-transform: uppercase;
+}
+
+.footer-column a,
+.footer-column span {
+    font-size: 12px;
+
+    color:
+        var(--color-text-muted);
+
+    overflow-wrap: anywhere;
+
+    transition:
+        color var(--transition);
+}
+
+.footer-column a:hover {
+    color:
+        var(--color-accent);
+}
+
+
+/* ==========================================================
+   36. FOOTER BOTTOM
+   ========================================================== */
+
+.footer-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 30px;
+
+    margin-top: 58px;
+
+    padding-top: 22px;
+
+    border-top:
+        1px solid var(--color-border);
+}
+
+.footer-bottom p {
+    font-size: 11px;
+
+    color:
+        var(--color-text-muted);
+}
+
+.footer-created a {
+    color:
+        var(--color-text-soft);
+
+    border-bottom:
+        1px solid rgba(255, 255, 255, 0.18);
+
+    transition:
+        color var(--transition),
+        border-color var(--transition);
+}
+
+.footer-created a:hover {
+    color:
+        var(--color-accent);
+
+    border-color:
+        var(--color-accent);
+}
+
+
+/* ==========================================================
+   37. MOBILE BOTTOM NAV
+   ========================================================== */
+
+.mobile-bottom-nav {
+    display: none;
+}
+
+
+/* ==========================================================
+   38. LEGACY / SHARED COMPONENTS
+   Kept because other existing pages may still use them
    ========================================================== */
 
 .split-section {
@@ -1464,7 +2399,8 @@ body {
 .split-content h2 span {
     display: block;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 }
 
 .split-visual {
@@ -1498,6 +2434,7 @@ body {
     position: absolute;
 
     width: 78%;
+
     aspect-ratio: 1;
 
     border-radius: 50%;
@@ -1519,7 +2456,7 @@ body {
 
 
 /* ==========================================================
-   29. PROCESS
+   39. PROCESS
    ========================================================== */
 
 .process-list {
@@ -1542,7 +2479,8 @@ body {
 
     gap: 16px;
 
-    padding: 16px 0;
+    padding:
+        16px 0;
 
     border-bottom:
         1px solid var(--color-border);
@@ -1552,7 +2490,8 @@ body {
     font-size: 11px;
     font-weight: 800;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 }
 
 .process-item strong {
@@ -1561,14 +2500,14 @@ body {
 
 
 /* ==========================================================
-   30. CATEGORIES
+   40. CATEGORIES
    ========================================================== */
 
 .category-grid {
     display: grid;
 
     grid-template-columns:
-        repeat(2, 1fr);
+        repeat(2, minmax(0, 1fr));
 
     border-top:
         1px solid var(--color-border);
@@ -1580,7 +2519,7 @@ body {
     display: grid;
 
     grid-template-columns:
-        44px 1fr 30px;
+        44px minmax(0, 1fr) 30px;
 
     align-items: center;
 
@@ -1613,7 +2552,8 @@ body {
     font-size: 10px;
     font-weight: 800;
 
-    color: var(--color-text-muted);
+    color:
+        var(--color-text-muted);
 }
 
 .category-card strong {
@@ -1625,14 +2565,15 @@ body {
 .category-arrow {
     font-size: 20px;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 
     text-align: right;
 }
 
 
 /* ==========================================================
-   31. SERVICE SECTION
+   41. LEGACY SERVICE BOX
    ========================================================== */
 
 .service-box {
@@ -1682,7 +2623,7 @@ body {
             transparent 70%);
 }
 
-.service-content {
+.service-box .service-content {
     position: relative;
     z-index: 1;
 }
@@ -1704,7 +2645,8 @@ body {
     font-size: 11px;
     font-weight: 700;
 
-    color: var(--color-text-soft);
+    color:
+        var(--color-text-soft);
 
     border:
         1px solid var(--color-border);
@@ -1750,55 +2692,14 @@ body {
 }
 
 .service-visual strong span {
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 }
 
 
 /* ==========================================================
-   32. LEASING
+   42. LEGACY LEASING CARD
    ========================================================== */
-
-.leasing-grid {
-    display: grid;
-
-    grid-template-columns:
-        minmax(0, 0.9fr) minmax(420px, 1.1fr);
-
-    align-items: center;
-
-    gap: 78px;
-}
-
-.leasing-content h2 span {
-    display: block;
-
-    color: var(--color-accent);
-}
-
-.leasing-benefits {
-    display: flex;
-    flex-wrap: wrap;
-
-    gap: 8px;
-
-    margin:
-        28px 0 32px;
-}
-
-.leasing-benefits span {
-    padding:
-        8px 12px;
-
-    border:
-        1px solid var(--color-border);
-
-    border-radius: 999px;
-
-    font-size: 11px;
-    font-weight: 700;
-
-    color: var(--color-text-soft);
-}
 
 .leasing-card {
     padding: 34px;
@@ -1823,7 +2724,8 @@ body {
 
     letter-spacing: 0.12em;
 
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 }
 
 .leasing-row {
@@ -1835,7 +2737,8 @@ body {
 
     gap: 30px;
 
-    padding: 16px 0;
+    padding:
+        16px 0;
 
     border-top:
         1px solid var(--color-border);
@@ -1844,7 +2747,8 @@ body {
 .leasing-row span {
     font-size: 13px;
 
-    color: var(--color-text-soft);
+    color:
+        var(--color-text-soft);
 }
 
 .leasing-row strong {
@@ -1854,7 +2758,8 @@ body {
 }
 
 .leasing-row-highlight strong {
-    color: var(--color-accent);
+    color:
+        var(--color-accent);
 }
 
 .leasing-card small {
@@ -1865,66 +2770,13 @@ body {
     font-size: 10px;
     line-height: 1.6;
 
-    color: var(--color-text-muted);
+    color:
+        var(--color-text-muted);
 }
 
 
 /* ==========================================================
-   33. WHY LTS
-   ========================================================== */
-
-.why-grid {
-    display: grid;
-
-    grid-template-columns:
-        repeat(4, 1fr);
-
-    gap: 16px;
-}
-
-.why-card {
-    min-height: 250px;
-
-    padding: 26px;
-
-    border:
-        1px solid var(--color-border);
-
-    border-radius:
-        var(--radius-medium);
-
-    background:
-        var(--color-card);
-}
-
-.why-number {
-    font-size: 11px;
-    font-weight: 800;
-
-    color: var(--color-accent);
-}
-
-.why-card h3 {
-    margin-top: 56px;
-
-    font-size: 20px;
-    line-height: 1.3;
-
-    letter-spacing: -0.02em;
-}
-
-.why-card p {
-    margin-top: 12px;
-
-    font-size: 13px;
-    line-height: 1.7;
-
-    color: var(--color-text-soft);
-}
-
-
-/* ==========================================================
-   34. SEO CONTENT
+   43. SEO CONTENT
    ========================================================== */
 
 .seo-content {
@@ -1942,6 +2794,8 @@ body {
 }
 
 .seo-content-text {
+    min-width: 0;
+
     display: grid;
 
     gap: 4px;
@@ -1953,7 +2807,7 @@ body {
 
 
 /* ==========================================================
-   35. FINAL CTA
+   44. LEGACY CTA
    ========================================================== */
 
 .market-cta-box {
@@ -1983,142 +2837,23 @@ body {
 
 .market-cta-actions {
     display: flex;
-    flex-direction: column;
-
-    min-width: 190px;
+    flex-wrap: wrap;
 
     gap: 10px;
 }
 
-
-/* ==========================================================
-   36. FOOTER
-   ========================================================== */
-
-.site-footer {
-    padding:
-        72px 0 28px;
-
-    background: #090c0f;
-
-    border-top:
-        1px solid var(--color-border);
-}
-
-.footer-grid {
-    display: grid;
-
-    grid-template-columns:
-        1.7fr repeat(4, 1fr);
-
-    gap: 44px;
-}
-
-.footer-brand p {
-    max-width: 300px;
-
-    margin-top: 20px;
-
-    font-size: 13px;
-    line-height: 1.7;
-
-    color: var(--color-text-muted);
-}
-
-.footer-column {
-    display: flex;
-    flex-direction: column;
-
-    align-items: flex-start;
-
-    gap: 9px;
-}
-
-.footer-column h3 {
-    margin-bottom: 7px;
-
-    font-size: 11px;
-    font-weight: 800;
-
-    letter-spacing: 0.12em;
-
-    text-transform: uppercase;
-}
-
-.footer-column a,
-.footer-column span {
-    font-size: 12px;
-
-    color: var(--color-text-muted);
-
-    transition:
-        color var(--transition);
-}
-
-.footer-column a:hover {
-    color: var(--color-accent);
+.market-cta-actions .btn {
+    width: auto;
 }
 
 
 /* ==========================================================
-   37. FOOTER BOTTOM
-   ========================================================== */
-
-.footer-bottom {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-
-    gap: 30px;
-
-    margin-top: 58px;
-
-    padding-top: 22px;
-
-    border-top:
-        1px solid var(--color-border);
-}
-
-.footer-bottom p {
-    font-size: 11px;
-
-    color: var(--color-text-muted);
-}
-
-.footer-created a {
-    color: var(--color-text-soft);
-
-    border-bottom:
-        1px solid rgba(255, 255, 255, 0.18);
-
-    transition:
-        color var(--transition),
-        border-color var(--transition);
-}
-
-.footer-created a:hover {
-    color: var(--color-accent);
-
-    border-color:
-        var(--color-accent);
-}
-
-
-/* ==========================================================
-   38. MOBILE BOTTOM NAV
-   ========================================================== */
-
-.mobile-bottom-nav {
-    display: none;
-}
-
-
-/* ==========================================================
-   39. NOSCRIPT
+   45. NOSCRIPT
    ========================================================== */
 
 .noscript-message {
-    padding: 12px 20px;
+    padding:
+        12px 20px;
 
     font-size: 12px;
 
@@ -2131,7 +2866,7 @@ body {
 
 
 /* ==========================================================
-   40. FOCUS
+   46. ACCESSIBILITY
    ========================================================== */
 
 a:focus-visible,
@@ -2144,7 +2879,7 @@ button:focus-visible {
 
 
 /* ==========================================================
-   41. RESPONSIVE 1180
+   47. RESPONSIVE — 1180
    ========================================================== */
 
 @media (max-width: 1180px) {
@@ -2153,45 +2888,52 @@ button:focus-visible {
         --section-space: 96px;
     }
 
-
     .main-nav {
         display: none;
     }
-
 
     .header-service-link {
         display: none;
     }
 
-
     .menu-toggle {
         display: flex;
     }
 
-
     .hero-grid {
         grid-template-columns:
-            minmax(0, 1fr) minmax(390px, 0.9fr);
+            minmax(0, 1fr) minmax(380px, 0.90fr);
 
         gap: 44px;
     }
-
 
     .hero-product-slider {
         min-height: 500px;
     }
 
-
     .hero-product-image {
         min-height: 350px;
     }
 
+    .service-grid,
+    .leasing-section .leasing-grid {
+        gap: 52px;
+    }
 
     .why-grid {
         grid-template-columns:
-            repeat(2, 1fr);
+            repeat(2, minmax(0, 1fr));
     }
 
+    .market-contact-box {
+        grid-template-columns:
+            minmax(0, 1fr) minmax(280px, auto);
+
+        gap: 42px;
+
+        padding:
+            44px;
+    }
 
     .footer-grid {
         grid-template-columns:
@@ -2202,7 +2944,7 @@ button:focus-visible {
 
 
 /* ==========================================================
-   42. RESPONSIVE 960
+   48. RESPONSIVE — 960
    ========================================================== */
 
 @media (max-width: 960px) {
@@ -2211,18 +2953,15 @@ button:focus-visible {
         --section-space: 84px;
     }
 
-
     .container {
         width:
             min(calc(100% - 36px),
                 var(--container));
     }
 
-
     .market-hero {
         min-height: auto;
     }
-
 
     .hero-grid {
         grid-template-columns: 1fr;
@@ -2233,45 +2972,60 @@ button:focus-visible {
         padding-bottom: 64px;
     }
 
-
     .hero-content {
         max-width: 760px;
     }
-
 
     .hero-product-slider {
         min-height: 560px;
     }
 
-
     .hero-product-image {
         min-height: 400px;
     }
-
 
     .direction-grid {
         grid-template-columns: 1fr;
     }
 
-
     .direction-card {
         min-height: 250px;
     }
 
-
     .products-grid {
         grid-template-columns:
-            repeat(2, 1fr);
+            repeat(2, minmax(0, 1fr));
     }
 
-
     .products-grid .product-card:last-child {
-        grid-column: 1 / -1;
+        grid-column:
+            1 / -1;
 
         max-width:
             calc(50% - 10px);
     }
 
+    .service-grid,
+    .leasing-section .leasing-grid {
+        grid-template-columns: 1fr;
+
+        gap: 46px;
+    }
+
+    .service-points,
+    .leasing-stats {
+        max-width: 700px;
+    }
+
+    .market-contact-box {
+        grid-template-columns: 1fr;
+
+        gap: 30px;
+    }
+
+    .market-contact-actions {
+        max-width: none;
+    }
 
     .split-section {
         grid-template-columns: 1fr;
@@ -2279,11 +3033,9 @@ button:focus-visible {
         gap: 48px;
     }
 
-
     .split-visual {
         min-height: 460px;
     }
-
 
     .service-box {
         grid-template-columns: 1fr;
@@ -2291,18 +3043,9 @@ button:focus-visible {
         padding: 48px;
     }
 
-
     .service-visual {
         min-height: 180px;
     }
-
-
-    .leasing-grid {
-        grid-template-columns: 1fr;
-
-        gap: 48px;
-    }
-
 
     .seo-content-grid {
         grid-template-columns: 1fr;
@@ -2310,19 +3053,10 @@ button:focus-visible {
         gap: 32px;
     }
 
-
     .market-cta-box {
         align-items: flex-start;
         flex-direction: column;
     }
-
-
-    .market-cta-actions {
-        flex-direction: row;
-
-        min-width: 0;
-    }
-
 
     .footer-grid {
         grid-template-columns:
@@ -2333,7 +3067,7 @@ button:focus-visible {
 
 
 /* ==========================================================
-   43. RESPONSIVE 720
+   49. RESPONSIVE — 720
    ========================================================== */
 
 @media (max-width: 720px) {
@@ -2342,11 +3076,9 @@ button:focus-visible {
         --section-space: 70px;
     }
 
-
     body {
         padding-bottom: 70px;
     }
-
 
     .container {
         width:
@@ -2354,40 +3086,33 @@ button:focus-visible {
                 var(--container));
     }
 
-
     .header-inner {
         min-height: 70px;
     }
-
 
     .logo-main {
         font-size: 27px;
     }
 
-
     .language-switcher {
         display: none;
     }
-
 
     .hero-grid {
         padding-top: 50px;
         padding-bottom: 54px;
     }
 
-
     .hero-content h1 {
         font-size:
-            clamp(42px,
-                13vw,
-                58px);
+            clamp(40px,
+                12vw,
+                56px);
     }
-
 
     .hero-description {
         font-size: 16px;
     }
-
 
     .hero-actions {
         display: grid;
@@ -2395,21 +3120,18 @@ button:focus-visible {
         grid-template-columns: 1fr;
     }
 
-
     .hero-actions .btn {
         width: 100%;
     }
-
 
     .hero-features {
         display: grid;
 
         grid-template-columns:
-            repeat(3, 1fr);
+            repeat(3, minmax(0, 1fr));
 
         margin-top: 38px;
     }
-
 
     .hero-feature {
         min-width: 0;
@@ -2422,17 +3144,14 @@ button:focus-visible {
         text-align: center;
     }
 
-
     .hero-feature strong {
         font-size: 12px;
     }
-
 
     .hero-feature span {
         font-size: 9px;
         line-height: 1.35;
     }
-
 
     .hero-product-slider {
         min-height: 460px;
@@ -2440,29 +3159,24 @@ button:focus-visible {
         border-radius: 20px;
     }
 
-
     .hero-product-image {
         min-height: 320px;
 
         padding: 26px;
     }
 
-
     .hero-product-info {
         padding:
             20px 22px 24px;
     }
 
-
     .hero-product-info strong {
         font-size: 18px;
     }
 
-
     .section-heading {
         margin-bottom: 36px;
     }
-
 
     .section-heading-row {
         align-items: flex-start;
@@ -2471,7 +3185,6 @@ button:focus-visible {
         gap: 20px;
     }
 
-
     .section-heading h2,
     .split-content h2,
     .service-content h2,
@@ -2479,23 +3192,20 @@ button:focus-visible {
     .market-cta-content h2,
     .seo-content h2 {
         font-size:
-            clamp(32px,
-                10vw,
+            clamp(31px,
+                9.5vw,
                 43px);
     }
 
-
     .direction-card {
-        min-height: 280px;
+        min-height: 275px;
 
         padding: 24px;
     }
 
-
     .products-grid {
         grid-template-columns: 1fr;
     }
-
 
     .products-grid .product-card:last-child {
         grid-column: auto;
@@ -2503,6 +3213,78 @@ button:focus-visible {
         max-width: none;
     }
 
+    .product-card-accent .product-card-body {
+        padding:
+            30px 24px;
+    }
+
+    .service-actions {
+        flex-direction: column;
+    }
+
+    .service-actions .btn {
+        width: 100%;
+    }
+
+    .service-point {
+        grid-template-columns:
+            36px minmax(0, 1fr);
+
+        gap: 14px;
+    }
+
+    .leasing-stat {
+        grid-template-columns:
+            60px minmax(0, 1fr);
+
+        min-height: 94px;
+
+        padding:
+            20px;
+    }
+
+    .leasing-stat strong {
+        font-size: 23px;
+    }
+
+    .market-contact-box {
+        padding:
+            34px 28px;
+
+        border-radius: 20px;
+    }
+
+    .market-contact-box h2 {
+        font-size:
+            clamp(32px,
+                9.5vw,
+                44px);
+    }
+
+    .market-contact-actions {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        align-items: center;
+
+        gap: 10px;
+    }
+
+    .market-contact-actions .btn {
+        width: auto;
+
+        min-height: 48px;
+
+        padding:
+            12px 18px;
+
+        white-space: normal;
+    }
+
+    .market-contact-actions .text-link {
+        flex-basis: 100%;
+    }
 
     .split-visual {
         min-height: 360px;
@@ -2512,16 +3294,13 @@ button:focus-visible {
         border-radius: 20px;
     }
 
-
     .category-grid {
         grid-template-columns: 1fr;
     }
 
-
     .category-card:nth-child(odd) {
         border-right: 0;
     }
-
 
     .category-card {
         min-height: 82px;
@@ -2530,11 +3309,9 @@ button:focus-visible {
             16px 12px;
     }
 
-
     .category-card:hover {
         padding-left: 18px;
     }
-
 
     .service-box {
         padding:
@@ -2543,18 +3320,15 @@ button:focus-visible {
         border-radius: 20px;
     }
 
-
     .service-logo-mark {
         font-size: 100px;
     }
-
 
     .leasing-card {
         padding: 24px;
 
         border-radius: 20px;
     }
-
 
     .leasing-row {
         align-items: flex-start;
@@ -2563,21 +3337,21 @@ button:focus-visible {
         gap: 5px;
     }
 
-
     .leasing-row strong {
         text-align: left;
     }
-
 
     .why-grid {
         grid-template-columns: 1fr;
     }
 
-
     .why-card {
-        min-height: 220px;
+        min-height: 210px;
     }
 
+    .why-card h3 {
+        margin-top: 40px;
+    }
 
     .market-cta-box {
         padding:
@@ -2586,18 +3360,11 @@ button:focus-visible {
         border-radius: 20px;
     }
 
-
     .market-cta-actions {
-        width: 100%;
-
         flex-direction: column;
+
+        align-items: flex-start;
     }
-
-
-    .market-cta-actions .btn {
-        width: 100%;
-    }
-
 
     .footer-grid {
         grid-template-columns: 1fr;
@@ -2605,14 +3372,12 @@ button:focus-visible {
         gap: 34px;
     }
 
-
     .footer-bottom {
         align-items: flex-start;
         flex-direction: column;
 
         gap: 10px;
     }
-
 
     .mobile-bottom-nav {
         position: fixed;
@@ -2633,13 +3398,15 @@ button:focus-visible {
         background:
             rgba(10, 13, 16, 0.96);
 
-        backdrop-filter: blur(16px);
-        -webkit-backdrop-filter: blur(16px);
+        backdrop-filter:
+            blur(16px);
+
+        -webkit-backdrop-filter:
+            blur(16px);
 
         border-top:
             1px solid var(--color-border);
     }
-
 
     .mobile-bottom-nav a {
         position: relative;
@@ -2654,15 +3421,14 @@ button:focus-visible {
         font-size: 10px;
         font-weight: 750;
 
-        color: var(--color-text-muted);
+        color:
+            var(--color-text-muted);
     }
-
 
     .mobile-bottom-nav a.active {
         color:
             var(--color-accent);
     }
-
 
     .mobile-bottom-nav a.active::before {
         content: "";
@@ -2683,7 +3449,75 @@ button:focus-visible {
 
 
 /* ==========================================================
-   44. RESPONSIVE 420
+   50. RESPONSIVE — 520
+   ========================================================== */
+
+@media (max-width: 520px) {
+
+    .section-eyebrow {
+        font-size: 10px;
+    }
+
+    .hero-features {
+        grid-template-columns: 1fr;
+    }
+
+    .hero-feature {
+        padding:
+            12px 0;
+
+        text-align: left;
+
+        border-right:
+            0 !important;
+    }
+
+    .hero-feature:not(:last-child) {
+        border-bottom:
+            1px solid var(--color-border);
+    }
+
+    .hero-product-slider {
+        min-height: 420px;
+    }
+
+    .hero-product-image {
+        min-height: 280px;
+    }
+
+    .direction-card h3 {
+        font-size: 22px;
+    }
+
+    .leasing-stat {
+        grid-template-columns: 1fr;
+
+        gap: 7px;
+    }
+
+    .market-contact-actions {
+        flex-direction: column;
+
+        align-items: stretch;
+    }
+
+    .market-contact-actions .btn {
+        width: 100%;
+    }
+
+    .market-contact-actions .text-link {
+        width: fit-content;
+
+        flex-basis: auto;
+
+        margin-top: 7px;
+    }
+
+}
+
+
+/* ==========================================================
+   51. RESPONSIVE — 420
    ========================================================== */
 
 @media (max-width: 420px) {
@@ -2694,47 +3528,28 @@ button:focus-visible {
                 var(--container));
     }
 
-
-    .hero-features {
-        grid-template-columns: 1fr;
+    .hero-content h1 {
+        font-size:
+            clamp(37px,
+                11.5vw,
+                48px);
     }
 
+    .product-card-body {
+        padding: 22px;
+    }
 
-    .hero-feature {
+    .market-contact-box {
         padding:
-            12px 0;
-
-        text-align: left;
-
-        border-right: 0 !important;
+            28px 22px;
     }
 
-
-    .hero-feature:not(:last-child) {
-        border-bottom:
-            1px solid var(--color-border);
+    .market-contact-box h2 {
+        font-size:
+            clamp(30px,
+                9.5vw,
+                40px);
     }
-
-
-    .hero-product-slider {
-        min-height: 420px;
-    }
-
-
-    .hero-product-image {
-        min-height: 280px;
-    }
-
-
-    .direction-card h3 {
-        font-size: 22px;
-    }
-
-
-    .category-card strong {
-        font-size: 17px;
-    }
-
 
     .market-cta-box,
     .service-box,
@@ -2747,7 +3562,7 @@ button:focus-visible {
 
 
 /* ==========================================================
-   45. REDUCED MOTION
+   52. REDUCED MOTION
    ========================================================== */
 
 @media (prefers-reduced-motion: reduce) {

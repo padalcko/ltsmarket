@@ -2,39 +2,38 @@
 <html lang="ru">
   <head>
     <!-- =====================================================
-         BASIC META
+         01. BASIC META
     ====================================================== -->
 
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <meta name="robots" content="index, follow, max-image-preview:large" />
 
     <!-- =====================================================
-         SEO
+         02. SEO
     ====================================================== -->
 
-    <title>Контакты | LTS Market – оборудование для салонов</title>
+    <title>Контакты | LTS Market – косметологическое оборудование</title>
 
     <meta
       name="description"
-      content="Свяжитесь с LTS Market по вопросам покупки нового и б/у косметологического оборудования, лизинга, финансирования и технической поддержки."
+      content="Свяжитесь с LTS Market по вопросам нового и б/у косметологического оборудования, лизинга и технической поддержки по всей Польше."
     />
 
     <meta name="author" content="LTS Market" />
-    <meta name="theme-color" content="#0b0b0b" />
+    <meta name="theme-color" content="#0b0f13" />
 
     <!-- =====================================================
-         CANONICAL
+         03. CANONICAL
     ====================================================== -->
 
-    <link
-      rel="canonical"
-      href="https://ltsmarket.pl/ru/kontakt.html"
-    />
+    <link rel="canonical" href="https://ltsmarket.pl/ru/kontakt.html" />
 
     <!-- =====================================================
-         HREFLANG
+         04. HREFLANG
     ====================================================== -->
 
     <link
@@ -62,27 +61,21 @@
     />
 
     <!-- =====================================================
-         OPEN GRAPH
+         05. OPEN GRAPH
     ====================================================== -->
 
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="ru_RU" />
     <meta property="og:site_name" content="LTS Market" />
 
-    <meta
-      property="og:title"
-      content="Контакты | LTS Market"
-    />
+    <meta property="og:title" content="Контакты | LTS Market" />
 
     <meta
       property="og:description"
-      content="Свяжитесь с LTS Market по вопросам оборудования, наличия, покупки, лизинга и технической поддержки."
+      content="Свяжитесь с LTS Market по вопросам оборудования, покупки, лизинга и технической поддержки."
     />
 
-    <meta
-      property="og:url"
-      content="https://ltsmarket.pl/ru/kontakt.html"
-    />
+    <meta property="og:url" content="https://ltsmarket.pl/ru/kontakt.html" />
 
     <meta
       property="og:image"
@@ -90,15 +83,12 @@
     />
 
     <!-- =====================================================
-         TWITTER
+         06. TWITTER
     ====================================================== -->
 
     <meta name="twitter:card" content="summary_large_image" />
 
-    <meta
-      name="twitter:title"
-      content="Контакты | LTS Market"
-    />
+    <meta name="twitter:title" content="Контакты | LTS Market" />
 
     <meta
       name="twitter:description"
@@ -111,7 +101,7 @@
     />
 
     <!-- =====================================================
-         FAVICON
+         07. FAVICON
     ====================================================== -->
 
     <link
@@ -126,30 +116,28 @@
       href="../assets/img/favicon/apple-touch-icon.png"
     />
 
-    <link
-      rel="manifest"
-      href="../site.webmanifest"
-    />
+    <link rel="manifest" href="../site.webmanifest" />
 
     <!-- =====================================================
-         CSS
+         08. CSS
     ====================================================== -->
 
-    <link
-      rel="stylesheet"
-      href="../assets/css/kontakt.css"
-    />
+    <link rel="stylesheet" href="../assets/css/main.css" />
+
+    <link rel="stylesheet" href="../assets/css/kontakt.css" />
 
     <!-- =====================================================
-         STRUCTURED DATA
+         09. STRUCTURED DATA — CONTACT PAGE
     ====================================================== -->
 
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "ContactPage",
-        "name": "Контакты | LTS Market",
+        "@id": "https://ltsmarket.pl/ru/kontakt.html#contact",
         "url": "https://ltsmarket.pl/ru/kontakt.html",
+        "name": "Контакты | LTS Market",
+        "description": "Контакты LTS Market по вопросам нового и б/у косметологического оборудования, лизинга и технической поддержки.",
         "inLanguage": "ru-RU",
         "about": {
           "@type": "Organization",
@@ -159,6 +147,31 @@
           "telephone": "+48 575 254 431",
           "email": "sales@ltsmarket.pl"
         }
+      }
+    </script>
+
+    <!-- =====================================================
+         10. STRUCTURED DATA — BREADCRUMB
+    ====================================================== -->
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "LTS Market",
+            "item": "https://ltsmarket.pl/ru/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Контакты",
+            "item": "https://ltsmarket.pl/ru/kontakt.html"
+          }
+        ]
       }
     </script>
   </head>
@@ -179,25 +192,14 @@
           <span class="logo-sub">MARKET</span>
         </a>
 
-        <nav
-          class="main-nav"
-          aria-label="Основная навигация"
-        >
-          <a href="index.html" class="nav-link">
-            Market
-          </a>
+        <nav class="main-nav" aria-label="Основная навигация">
+          <a href="index.html" class="nav-link"> Market </a>
 
-          <a href="nowe.html" class="nav-link">
-            Новые
-          </a>
+          <a href="nowe.html" class="nav-link"> Новые </a>
 
-          <a href="index.html#uzywane" class="nav-link">
-            Б/у
-          </a>
+          <a href="../uzywane.html" class="nav-link"> Б/у </a>
 
-          <a href="index.html#leasing" class="nav-link">
-            Лизинг
-          </a>
+          <a href="leasing.html" class="nav-link"> Лизинг </a>
 
           <a
             href="https://lasertechservice.pl/"
@@ -206,26 +208,14 @@
             Сервис
           </a>
 
-          <a
-            href="kontakt.html"
-            class="nav-link active"
-            aria-current="page"
-          >
+          <a href="kontakt.html" class="nav-link active" aria-current="page">
             Контакты
           </a>
         </nav>
 
         <div class="header-actions">
-          <div
-            class="language-switcher"
-            aria-label="Выберите язык"
-          >
-            <a
-              href="../kontakt.html"
-              class="lang-link"
-              hreflang="pl"
-              lang="pl"
-            >
+          <div class="language-switcher" aria-label="Выберите язык">
+            <a href="../kontakt.html" class="lang-link" hreflang="pl" lang="pl">
               PL
             </a>
 
@@ -263,68 +253,33 @@
         </div>
       </div>
 
-      <!-- =====================================================
+      <!-- =================================================
            MOBILE MENU
-      ====================================================== -->
+      ================================================== -->
 
-      <div
-        class="mobile-menu"
-        id="mobile-menu"
-      >
-        <nav
-          class="mobile-menu-nav"
-          aria-label="Мобильное меню"
-        >
-          <a href="index.html">
-            Market
-          </a>
+      <div class="mobile-menu" id="mobile-menu">
+        <nav class="mobile-menu-nav" aria-label="Мобильное меню">
+          <a href="index.html"> Market </a>
 
-          <a href="nowe.html">
-            Новое оборудование
-          </a>
+          <a href="nowe.html"> Новое оборудование </a>
 
-          <a href="index.html#uzywane">
-            Б/у оборудование
-          </a>
+          <a href="../uzywane.html"> Б/у оборудование </a>
 
-          <a href="index.html#leasing">
-            Лизинг
-          </a>
+          <a href="leasing.html"> Лизинг </a>
 
-          <a href="https://lasertechservice.pl/">
-            Laser Tech Service
-          </a>
+          <a href="https://lasertechservice.pl/"> Laser Tech Service </a>
 
-          <a
-            href="kontakt.html"
-            class="active"
-          >
+          <a href="kontakt.html" class="active" aria-current="page">
             Контакты
           </a>
         </nav>
 
         <div class="mobile-language-switcher">
-          <a
-            href="../kontakt.html"
-            hreflang="pl"
-          >
-            PL
-          </a>
+          <a href="../kontakt.html" hreflang="pl"> PL </a>
 
-          <a
-            href="../en/kontakt.html"
-            hreflang="en"
-          >
-            EN
-          </a>
+          <a href="../en/kontakt.html" hreflang="en"> EN </a>
 
-          <a
-            href="kontakt.html"
-            class="active"
-            hreflang="ru"
-          >
-            RU
-          </a>
+          <a href="kontakt.html" class="active" hreflang="ru"> RU </a>
         </div>
       </div>
     </header>
@@ -335,39 +290,31 @@
 
     <main>
       <!-- =================================================
-           HERO
+           01. HERO
       ================================================== -->
 
       <section class="contact-hero">
         <div class="container contact-hero-grid">
           <div class="contact-hero-content">
-            <span class="section-eyebrow">
-              КОНТАКТЫ
-            </span>
+            <span class="section-eyebrow"> КОНТАКТЫ </span>
 
             <h1>
-              Давайте обсудим
-              <span>ваше оборудование</span>
+              Есть вопрос?
+              <span>Давайте обсудим.</span>
             </h1>
 
             <p>
-              Ищете оборудование для своего кабинета?
-              Есть вопросы о наличии, покупке или финансировании?
-              Свяжитесь с LTS Market.
+              Ищете оборудование для кабинета, интересуетесь б/у техникой или
+              хотите узнать о вариантах финансирования? Свяжитесь напрямую с LTS
+              Market.
             </p>
 
             <div class="contact-hero-actions">
-              <a
-                href="tel:+48575254431"
-                class="btn btn-primary"
-              >
-                Позвонить нам
+              <a href="tel:+48575254431" class="btn btn-primary">
+                +48 575 254 431
               </a>
 
-              <a
-                href="mailto:sales@ltsmarket.pl"
-                class="btn btn-secondary"
-              >
+              <a href="mailto:sales@ltsmarket.pl" class="btn btn-secondary">
                 Написать e-mail
               </a>
             </div>
@@ -375,229 +322,159 @@
 
           <!-- QUICK CONTACT -->
 
-          <div class="contact-quick">
-            <span class="contact-quick-label">
-              LTS MARKET
-            </span>
+          <aside class="contact-quick">
+            <span class="contact-quick-label"> LTS MARKET </span>
 
             <div class="contact-quick-item">
-              <span>Телефон</span>
+              <span> Телефон </span>
 
-              <a href="tel:+48575254431">
-                +48 575 254 431
-              </a>
+              <a href="tel:+48575254431"> +48 575 254 431 </a>
             </div>
 
             <div class="contact-quick-item">
-              <span>E-mail</span>
+              <span> E-mail </span>
 
-              <a href="mailto:sales@ltsmarket.pl">
-                sales@ltsmarket.pl
-              </a>
+              <a href="mailto:sales@ltsmarket.pl"> sales@ltsmarket.pl </a>
             </div>
 
             <div class="contact-quick-item">
-              <span>Рынок</span>
+              <span> Работаем </span>
 
-              <strong>
-                Польша
-              </strong>
+              <strong> По всей Польше </strong>
             </div>
 
             <div class="contact-quick-note">
               <span></span>
 
               <p>
-                Продажа косметологического оборудования,
-                лизинг и техническая поддержка.
+                Новое и б/у оборудование, лизинг и профессиональная техническая
+                поддержка.
               </p>
             </div>
-          </div>
+          </aside>
         </div>
       </section>
 
       <!-- =================================================
-           CONTACT OPTIONS
+           02. CONTACT OPTIONS
       ================================================== -->
 
       <section class="contact-options section">
         <div class="container">
           <div class="section-heading">
-            <span class="section-eyebrow">
-              СВЯЖИТЕСЬ С НАМИ
-            </span>
+            <span class="section-eyebrow"> СВЯЗЬ </span>
 
-            <h2>
-              Выберите удобный способ связи
-            </h2>
+            <h2>Выберите удобный способ связи.</h2>
 
             <p>
-              Если вас интересует конкретное оборудование,
-              укажите модель или категорию.
+              Если вас интересует конкретное устройство, укажите его название
+              или категорию — так мы быстрее подготовим ответ.
             </p>
           </div>
 
           <div class="contact-options-grid">
             <!-- PHONE -->
 
-            <a
-              href="tel:+48575254431"
-              class="contact-option-card"
-            >
-              <span class="contact-option-number">
-                01
-              </span>
+            <a href="tel:+48575254431" class="contact-option-card">
+              <span class="contact-option-number"> 01 </span>
 
-              <div class="contact-option-icon">
-                TEL
-              </div>
+              <span class="contact-option-label"> ТЕЛЕФОН </span>
 
-              <span class="contact-option-label">
-                ТЕЛЕФОН
-              </span>
-
-              <h3>
-                +48 575 254 431
-              </h3>
+              <h3>+48 575 254 431</h3>
 
               <p>
-                Позвоните по вопросу оборудования,
-                наличия или предложения.
+                Самый быстрый способ обсудить оборудование, наличие или покупку.
               </p>
 
-              <span class="contact-option-link">
-                Позвонить →
-              </span>
+              <span class="contact-option-link"> Позвонить → </span>
             </a>
 
             <!-- EMAIL -->
 
-            <a
-              href="mailto:sales@ltsmarket.pl"
-              class="contact-option-card"
-            >
-              <span class="contact-option-number">
-                02
-              </span>
+            <a href="mailto:sales@ltsmarket.pl" class="contact-option-card">
+              <span class="contact-option-number"> 02 </span>
 
-              <div class="contact-option-icon">
-                @
-              </div>
+              <span class="contact-option-label"> E-MAIL </span>
 
-              <span class="contact-option-label">
-                E-MAIL
-              </span>
-
-              <h3>
-                sales@ltsmarket.pl
-              </h3>
+              <h3>sales@ltsmarket.pl</h3>
 
               <p>
-                Отправьте запрос по вопросам покупки,
-                оборудования или сотрудничества.
+                Отправьте детали запроса, название оборудования или информацию о
+                планируемой покупке.
               </p>
 
-              <span class="contact-option-link">
-                Написать →
-              </span>
+              <span class="contact-option-link"> Написать → </span>
             </a>
 
             <!-- SERVICE -->
 
-            <a
-              href="https://lasertechservice.pl/"
-              class="contact-option-card"
-            >
-              <span class="contact-option-number">
-                03
-              </span>
+            <a href="https://lasertechservice.pl/" class="contact-option-card">
+              <span class="contact-option-number"> 03 </span>
 
-              <div class="contact-option-icon">
-                LTS
-              </div>
+              <span class="contact-option-label"> СЕРВИС </span>
 
-              <span class="contact-option-label">
-                СЕРВИС
-              </span>
-
-              <h3>
-                Laser Tech Service
-              </h3>
+              <h3>Laser Tech Service</h3>
 
               <p>
-                Нужен ремонт или диагностика?
-                Перейдите непосредственно на сайт нашего сервиса.
+                Уже есть оборудование и нужна диагностика, ремонт или
+                профессиональное обслуживание?
               </p>
 
-              <span class="contact-option-link">
-                Перейти в сервис →
-              </span>
+              <span class="contact-option-link"> Перейти в сервис → </span>
             </a>
           </div>
         </div>
       </section>
 
       <!-- =================================================
-           FORM
+           03. FORM
       ================================================== -->
 
-      <section class="contact-form-section section section-dark">
+      <section class="contact-form-section section section-dark" id="form">
         <div class="container contact-form-grid">
+          <!-- LEFT -->
+
           <div class="contact-form-content">
-            <span class="section-eyebrow">
-              ФОРМА
-            </span>
+            <span class="section-eyebrow"> ФОРМА </span>
 
             <h2>
               Напишите в
-              <span>LTS Market</span>
+              <span>LTS Market.</span>
             </h2>
 
             <p>
-              Опишите, что вы ищете
-              или какой вопрос хотите задать.
+              Опишите, что вы ищете. Можно спросить о конкретном устройстве, б/у
+              оборудовании, лизинге или вариантах покупки.
             </p>
 
             <div class="contact-form-details">
               <div class="contact-detail">
-                <span>01</span>
+                <span> 01 </span>
 
                 <div>
-                  <strong>
-                    Оборудование
-                  </strong>
+                  <strong> Новое оборудование </strong>
 
-                  <p>
-                    Новое и б/у оборудование для индустрии красоты.
-                  </p>
+                  <p>Профессиональная техника для beauty-кабинетов и клиник.</p>
                 </div>
               </div>
 
               <div class="contact-detail">
-                <span>02</span>
+                <span> 02 </span>
 
                 <div>
-                  <strong>
-                    Финансирование
-                  </strong>
+                  <strong> Б/у оборудование </strong>
 
-                  <p>
-                    Возможность финансирования оборудования через лизинг.
-                  </p>
+                  <p>Актуальные предложения оборудования с вторичного рынка.</p>
                 </div>
               </div>
 
               <div class="contact-detail">
-                <span>03</span>
+                <span> 03 </span>
 
                 <div>
-                  <strong>
-                    Сервис
-                  </strong>
+                  <strong> Лизинг </strong>
 
-                  <p>
-                    Профессиональная техническая база Laser Tech Service.
-                  </p>
+                  <p>Финансирование подбирается индивидуально под покупку.</p>
                 </div>
               </div>
             </div>
@@ -606,15 +483,12 @@
           <!-- FORM -->
 
           <div class="contact-form-wrapper">
-            <form
-              class="contact-form"
-              id="contact-form"
-            >
+            <form class="contact-form" id="contact-form">
+              <!-- NAME + COMPANY -->
+
               <div class="form-row">
                 <div class="form-field">
-                  <label for="name">
-                    Имя и фамилия
-                  </label>
+                  <label for="name"> Имя и фамилия * </label>
 
                   <input
                     type="text"
@@ -627,9 +501,7 @@
                 </div>
 
                 <div class="form-field">
-                  <label for="company">
-                    Компания
-                  </label>
+                  <label for="company"> Компания </label>
 
                   <input
                     type="text"
@@ -641,26 +513,24 @@
                 </div>
               </div>
 
+              <!-- EMAIL + PHONE -->
+
               <div class="form-row">
                 <div class="form-field">
-                  <label for="email">
-                    E-mail
-                  </label>
+                  <label for="email"> E-mail * </label>
 
                   <input
                     type="email"
                     id="email"
                     name="email"
                     autocomplete="email"
-                    placeholder="email@company.pl"
+                    placeholder="email@company.com"
                     required
                   />
                 </div>
 
                 <div class="form-field">
-                  <label for="phone">
-                    Телефон
-                  </label>
+                  <label for="phone"> Телефон </label>
 
                   <input
                     type="tel"
@@ -672,50 +542,32 @@
                 </div>
               </div>
 
+              <!-- SUBJECT -->
+
               <div class="form-field">
-                <label for="subject">
-                  Тема
-                </label>
+                <label for="subject"> Тема * </label>
 
-                <select
-                  id="subject"
-                  name="subject"
-                  required
-                >
-                  <option
-                    value=""
-                    selected
-                    disabled
-                  >
-                    Выберите тему
-                  </option>
+                <select id="subject" name="subject" required>
+                  <option value="" selected disabled>Выберите тему</option>
 
-                  <option value="nowe-urzadzenie">
-                    Новое оборудование
-                  </option>
+                  <option value="nowe-urzadzenie">Новое оборудование</option>
 
-                  <option value="uzywane-urzadzenie">
-                    Б/у оборудование
-                  </option>
+                  <option value="uzywane-urzadzenie">Б/у оборудование</option>
 
-                  <option value="leasing">
-                    Лизинг / финансирование
-                  </option>
+                  <option value="leasing">Лизинг / финансирование</option>
 
-                  <option value="wspolpraca">
-                    Сотрудничество
-                  </option>
+                  <option value="serwis">Сервис оборудования</option>
 
-                  <option value="inne">
-                    Другое
-                  </option>
+                  <option value="wspolpraca">Сотрудничество</option>
+
+                  <option value="inne">Другое</option>
                 </select>
               </div>
 
+              <!-- MESSAGE -->
+
               <div class="form-field">
-                <label for="message">
-                  Сообщение
-                </label>
+                <label for="message"> Сообщение * </label>
 
                 <textarea
                   id="message"
@@ -726,77 +578,99 @@
                 ></textarea>
               </div>
 
-              <div class="form-consent">
-                <label>
-                  <input
-                    type="checkbox"
-                    name="privacy"
-                    required
-                  />
+              <!-- CONSENT -->
 
-                  <span>
-                    Я согласен на связь со мной
-                    для ответа на мой запрос.
-                  </span>
-                </label>
-              </div>
+              <label class="form-consent">
+                <input type="checkbox" name="consent" value="1" required />
 
-              <button
-                type="submit"
-                class="btn btn-primary contact-submit"
-              >
-                Отправить сообщение
+                <span> Я согласен на контакт для ответа на мой запрос. </span>
+              </label>
+
+              <!-- SUBMIT -->
+
+              <button type="submit" class="btn btn-primary form-submit">
+                Отправить запрос
               </button>
 
-              <div
+              <p
                 class="form-status"
                 id="form-status"
                 role="status"
                 aria-live="polite"
-              ></div>
+              ></p>
             </form>
           </div>
         </div>
       </section>
 
       <!-- =================================================
-           SERVICE
+           04. LEASING
       ================================================== -->
 
-      <section class="contact-service section">
-        <div class="container contact-service-box">
-          <div class="contact-service-content">
-            <span class="section-eyebrow">
-              LASER TECH SERVICE
-            </span>
+      <section class="contact-leasing section">
+        <div class="container contact-leasing-box">
+          <div>
+            <span class="section-eyebrow"> ЛИЗИНГ </span>
 
             <h2>
-              Нужен сервис оборудования?
+              Хотите купить оборудование
+              <span>с финансированием?</span>
             </h2>
 
             <p>
-              Если вам нужна диагностика,
-              ремонт или профессиональное обслуживание,
-              перейдите на сайт Laser Tech Service.
+              Финансирование подбирается индивидуально. Работаем с клиентами по
+              всей Польше и ищем решение под конкретную покупку.
+            </p>
+          </div>
+
+          <a href="leasing.html" class="btn btn-primary">
+            Подробнее о лизинге
+          </a>
+        </div>
+      </section>
+
+      <!-- =================================================
+           05. SERVICE
+      ================================================== -->
+
+      <section class="contact-service section section-dark">
+        <div class="container contact-service-grid">
+          <div class="contact-service-content">
+            <span class="section-eyebrow"> СЕРВИС </span>
+
+            <h2>
+              Продажа — не всё.
+              <span>Есть техническая поддержка.</span>
+            </h2>
+
+            <p>
+              LTS Market сотрудничает с Laser Tech Service — профессиональным
+              сервисом лазерного и косметологического оборудования.
             </p>
 
-            <a
-              href="https://lasertechservice.pl/"
-              class="btn btn-secondary"
-            >
-              Перейти в Laser Tech Service
+            <a href="https://lasertechservice.pl/" class="btn btn-secondary">
+              Laser Tech Service
             </a>
           </div>
 
-          <div class="contact-service-mark">
-            <div class="service-logo-mark">
-              LTS
+          <div class="contact-service-points">
+            <div class="contact-service-point">
+              <span> 01 </span>
+
+              <strong> Диагностика оборудования </strong>
             </div>
 
-            <strong>
-              LASER TECH
-              <span>SERVICE</span>
-            </strong>
+            <div class="contact-service-point">
+              <span> 02 </span>
+
+              <strong> Ремонт и обслуживание </strong>
+            </div>
+
+            <div class="contact-service-point">
+              <span> 03 </span>
+
+              <strong> Техническая поддержка </strong>
+            </div>
           </div>
         </div>
       </section>
@@ -807,119 +681,91 @@
     ====================================================== -->
 
     <footer class="site-footer">
-      <div class="container footer-grid">
-        <div class="footer-brand">
-          <a
-            href="index.html"
-            class="site-logo footer-logo"
-            aria-label="LTS Market"
-          >
-            <span class="logo-main">LTS</span>
-            <span class="logo-sub">MARKET</span>
-          </a>
+      <div class="container">
+        <div class="footer-grid">
+          <!-- BRAND -->
 
-          <p>
-            Профессиональное оборудование для индустрии красоты.
-            Новое, б/у, лизинг и сервисная поддержка.
+          <div class="footer-brand">
+            <a href="index.html" class="site-logo" aria-label="LTS Market">
+              <span class="logo-main"> LTS </span>
+
+              <span class="logo-sub"> MARKET </span>
+            </a>
+
+            <p>
+              Профессиональное оборудование для beauty-индустрии. Новая и б/у
+              техника, лизинг и техническая поддержка.
+            </p>
+          </div>
+
+          <!-- MARKET -->
+
+          <div class="footer-column">
+            <h3>Market</h3>
+
+            <a href="nowe.html"> Новое оборудование </a>
+
+            <a href="../uzywane.html"> Б/у оборудование </a>
+
+            <a href="leasing.html"> Лизинг </a>
+
+            <a href="kontakt.html"> Контакты </a>
+          </div>
+
+          <!-- SERVICE -->
+
+          <div class="footer-column">
+            <h3>Сервис</h3>
+
+            <a href="https://lasertechservice.pl/"> Laser Tech Service </a>
+
+            <a href="https://lasertechservice.pl/uslugi.html"> Услуги </a>
+
+            <a href="https://lasertechservice.pl/realizacje/"> Реализации </a>
+          </div>
+
+          <!-- LANGUAGES -->
+
+          <div class="footer-column">
+            <h3>Языки</h3>
+
+            <a href="../kontakt.html"> Polski </a>
+
+            <a href="../en/kontakt.html"> English </a>
+
+            <a href="kontakt.html"> Русский </a>
+          </div>
+
+          <!-- CONTACT -->
+
+          <div class="footer-column">
+            <h3>Контакты</h3>
+
+            <a href="tel:+48575254431"> +48 575 254 431 </a>
+
+            <a href="mailto:sales@ltsmarket.pl"> sales@ltsmarket.pl </a>
+
+            <span> Польша </span>
+          </div>
+        </div>
+
+        <!-- FOOTER BOTTOM -->
+
+        <div class="footer-bottom">
+          <p>© 2026 LTS Market</p>
+
+          <p class="footer-created">
+            Created by
+            <a
+              href="https://raccoon-studio.com.ua/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Raccoon Studio
+            </a>
+            © 2026
           </p>
         </div>
-
-        <div class="footer-column">
-          <h3>Market</h3>
-
-          <a href="nowe.html">
-            Новое оборудование
-          </a>
-
-          <a href="index.html#uzywane">
-            Б/у оборудование
-          </a>
-
-          <a href="index.html#leasing">
-            Лизинг
-          </a>
-        </div>
-
-        <div class="footer-column">
-          <h3>LTS</h3>
-
-          <a href="https://lasertechservice.pl/">
-            Laser Tech Service
-          </a>
-
-          <a href="https://lasertechservice.pl/uslugi.html">
-            Сервис оборудования
-          </a>
-
-          <a href="https://lasertechservice.pl/realizacje/">
-            Реализованные проекты
-          </a>
-
-          <a href="kontakt.html">
-            Контакты
-          </a>
-        </div>
-
-        <div class="footer-column">
-          <h3>Язык</h3>
-
-          <a
-            href="../kontakt.html"
-            hreflang="pl"
-          >
-            Polski
-          </a>
-
-          <a
-            href="../en/kontakt.html"
-            hreflang="en"
-          >
-            English
-          </a>
-
-          <a
-            href="kontakt.html"
-            hreflang="ru"
-          >
-            Русский
-          </a>
-        </div>
-
-        <div class="footer-column">
-          <h3>Контакты</h3>
-
-          <a href="tel:+48575254431">
-            +48 575 254 431
-          </a>
-
-          <a href="mailto:sales@ltsmarket.pl">
-            sales@ltsmarket.pl
-          </a>
-
-          <span>
-            Польша
-          </span>
-        </div>
-      </div>
-
-      <div class="container footer-bottom">
-        <p>
-          LTS Market © 2026
-        </p>
-
-        <p class="footer-created">
-          Created by
-
-          <a
-            href="https://raccoon-studio.com.ua/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Raccoon Studio
-          </a>
-
-          © 2026
-        </p>
       </div>
     </footer>
 
@@ -927,37 +773,32 @@
          MOBILE BOTTOM NAV
     ====================================================== -->
 
-    <nav
-      class="mobile-bottom-nav"
-      aria-label="Быстрая мобильная навигация"
-    >
-      <a href="index.html">
-        Market
-      </a>
+    <nav class="mobile-bottom-nav" aria-label="Быстрая навигация">
+      <a href="index.html"> Market </a>
 
-      <a href="nowe.html">
-        Новые
-      </a>
+      <a href="nowe.html"> Новые </a>
 
-      <a href="index.html#uzywane">
-        Б/у
-      </a>
+      <a href="../uzywane.html"> Б/у </a>
 
-      <a
-        href="kontakt.html"
-        class="active"
-      >
-        Контакты
-      </a>
+      <a href="kontakt.html" class="active" aria-current="page"> Контакты </a>
     </nav>
 
     <!-- =====================================================
-         JAVASCRIPT
+         NOSCRIPT
     ====================================================== -->
 
-    <script
-      src="../assets/js/kontakt.js"
-      defer
-    ></script>
+    <noscript>
+      <div class="noscript-message">
+        Для работы мобильного меню и контактной формы требуется JavaScript.
+      </div>
+    </noscript>
+
+    <!-- =====================================================
+         JS
+    ====================================================== -->
+
+    <script src="../assets/js/main.js" defer></script>
+
+    <script src="../assets/js/kontakt.js" defer></script>
   </body>
 </html>

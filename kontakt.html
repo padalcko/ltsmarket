@@ -2,36 +2,37 @@
 <html lang="pl">
   <head>
     <!-- =====================================================
-         BASIC META
+         01. BASIC META
     ====================================================== -->
 
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <meta name="robots" content="index, follow, max-image-preview:large" />
 
     <!-- =====================================================
-         SEO
+         02. SEO
     ====================================================== -->
 
-    <title>Kontakt | LTS Market – urządzenia kosmetyczne</title>
+    <title>Kontakt | LTS Market – urządzenia kosmetyczne i leasing</title>
 
     <meta
       name="description"
-      content="Skontaktuj się z LTS Market. Sprzedaż nowych i używanych urządzeń kosmetycznych, leasing oraz profesjonalne wsparcie techniczne dla branży beauty."
+      content="Skontaktuj się z LTS Market. Nowe i używane urządzenia kosmetyczne, leasing sprzętu beauty oraz wsparcie techniczne na terenie całej Polski."
     />
 
     <meta name="author" content="LTS Market" />
-    <meta name="theme-color" content="#0b0b0b" />
+    <meta name="theme-color" content="#0b0f13" />
 
     <!-- =====================================================
-         CANONICAL
+         03. CANONICAL
     ====================================================== -->
 
     <link rel="canonical" href="https://ltsmarket.pl/kontakt.html" />
 
     <!-- =====================================================
-         HREFLANG
+         04. HREFLANG
     ====================================================== -->
 
     <link
@@ -59,7 +60,7 @@
     />
 
     <!-- =====================================================
-         OPEN GRAPH
+         05. OPEN GRAPH
     ====================================================== -->
 
     <meta property="og:type" content="website" />
@@ -70,7 +71,7 @@
 
     <meta
       property="og:description"
-      content="Skontaktuj się z LTS Market w sprawie urządzeń kosmetycznych, dostępności, zakupu lub finansowania."
+      content="Porozmawiaj z LTS Market o zakupie urządzenia kosmetycznego, sprzęcie używanym, leasingu lub wsparciu technicznym."
     />
 
     <meta property="og:url" content="https://ltsmarket.pl/kontakt.html" />
@@ -81,7 +82,7 @@
     />
 
     <!-- =====================================================
-         TWITTER
+         06. TWITTER
     ====================================================== -->
 
     <meta name="twitter:card" content="summary_large_image" />
@@ -99,7 +100,7 @@
     />
 
     <!-- =====================================================
-         FAVICON
+         07. FAVICON
     ====================================================== -->
 
     <link
@@ -117,21 +118,25 @@
     <link rel="manifest" href="site.webmanifest" />
 
     <!-- =====================================================
-         CSS
+         08. CSS
     ====================================================== -->
+
+    <link rel="stylesheet" href="assets/css/main.css" />
 
     <link rel="stylesheet" href="assets/css/kontakt.css" />
 
     <!-- =====================================================
-         STRUCTURED DATA
+         09. STRUCTURED DATA — CONTACT PAGE
     ====================================================== -->
 
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "ContactPage",
-        "name": "Kontakt | LTS Market",
+        "@id": "https://ltsmarket.pl/kontakt.html#contact",
         "url": "https://ltsmarket.pl/kontakt.html",
+        "name": "Kontakt | LTS Market",
+        "description": "Kontakt z LTS Market w sprawie nowych i używanych urządzeń kosmetycznych, leasingu i wsparcia technicznego.",
         "inLanguage": "pl-PL",
         "about": {
           "@type": "Organization",
@@ -143,11 +148,37 @@
         }
       }
     </script>
+
+    <!-- =====================================================
+         10. STRUCTURED DATA — BREADCRUMB
+    ====================================================== -->
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "LTS Market",
+            "item": "https://ltsmarket.pl/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Kontakt",
+            "item": "https://ltsmarket.pl/kontakt.html"
+          }
+        ]
+      }
+    </script>
   </head>
 
   <body>
     <!-- =====================================================
          HEADER
+         Global component — same as homepage
     ====================================================== -->
 
     <header class="site-header" id="top">
@@ -168,7 +199,7 @@
 
           <a href="uzywane.html" class="nav-link"> Używane </a>
 
-          <a href="index.html#leasing" class="nav-link"> Leasing </a>
+          <a href="leasing.html" class="nav-link"> Leasing </a>
 
           <a
             href="https://lasertechservice.pl/"
@@ -217,9 +248,9 @@
         </div>
       </div>
 
-      <!-- =====================================================
+      <!-- =================================================
            MOBILE MENU
-      ====================================================== -->
+      ================================================== -->
 
       <div class="mobile-menu" id="mobile-menu">
         <nav class="mobile-menu-nav" aria-label="Menu mobilne">
@@ -227,13 +258,15 @@
 
           <a href="nowe.html"> Nowe urządzenia </a>
 
-          <a href="index.html#uzywane"> Urządzenia używane </a>
+          <a href="uzywane.html"> Urządzenia używane </a>
 
-          <a href="index.html#leasing"> Leasing </a>
+          <a href="leasing.html"> Leasing </a>
 
           <a href="https://lasertechservice.pl/"> Laser Tech Service </a>
 
-          <a href="kontakt.html" class="active"> Kontakt </a>
+          <a href="kontakt.html" class="active" aria-current="page">
+            Kontakt
+          </a>
         </nav>
 
         <div class="mobile-language-switcher">
@@ -252,7 +285,7 @@
 
     <main>
       <!-- =================================================
-           HERO
+           01. CONTACT HERO
       ================================================== -->
 
       <section class="contact-hero">
@@ -261,18 +294,19 @@
             <span class="section-eyebrow"> KONTAKT </span>
 
             <h1>
-              Porozmawiajmy o
-              <span>Twoim urządzeniu</span>
+              Masz pytanie?
+              <span>Porozmawiajmy.</span>
             </h1>
 
             <p>
-              Szukasz urządzenia do swojego gabinetu? Masz pytanie dotyczące
-              dostępności, zakupu lub finansowania? Skontaktuj się z LTS Market.
+              Szukasz urządzenia do swojego gabinetu, interesuje Cię sprzęt
+              używany albo chcesz poznać możliwości finansowania? Skontaktuj się
+              bezpośrednio z LTS Market.
             </p>
 
             <div class="contact-hero-actions">
               <a href="tel:+48575254431" class="btn btn-primary">
-                Zadzwoń do nas
+                Zadzwoń: +48 575 254 431
               </a>
 
               <a href="mailto:sales@ltsmarket.pl" class="btn btn-secondary">
@@ -281,39 +315,45 @@
             </div>
           </div>
 
-          <div class="contact-quick">
+          <!-- =============================================
+               QUICK CONTACT
+          ============================================== -->
+
+          <aside class="contact-quick">
             <span class="contact-quick-label"> LTS MARKET </span>
 
             <div class="contact-quick-item">
-              <span>Telefon</span>
+              <span> Telefon </span>
 
               <a href="tel:+48575254431"> +48 575 254 431 </a>
             </div>
 
             <div class="contact-quick-item">
-              <span>E-mail</span>
+              <span> E-mail </span>
 
               <a href="mailto:sales@ltsmarket.pl"> sales@ltsmarket.pl </a>
             </div>
 
             <div class="contact-quick-item">
-              <span>Obsługiwany rynek</span>
-              <strong>Polska</strong>
+              <span> Obsługa </span>
+
+              <strong> Cała Polska </strong>
             </div>
 
             <div class="contact-quick-note">
               <span></span>
 
               <p>
-                Sprzedaż urządzeń kosmetycznych, leasing i wsparcie techniczne.
+                Nowe i używane urządzenia, leasing oraz profesjonalne zaplecze
+                serwisowe.
               </p>
             </div>
-          </div>
+          </aside>
         </div>
       </section>
 
       <!-- =================================================
-           CONTACT OPTIONS
+           02. CONTACT METHODS
       ================================================== -->
 
       <section class="contact-options section">
@@ -321,57 +361,61 @@
           <div class="section-heading">
             <span class="section-eyebrow"> SKONTAKTUJ SIĘ </span>
 
-            <h2>Wybierz najwygodniejszy sposób kontaktu</h2>
+            <h2>Wybierz najwygodniejszy sposób kontaktu.</h2>
 
             <p>
               Jeśli interesuje Cię konkretne urządzenie, podaj jego nazwę lub
-              kategorię.
+              kategorię — łatwiej przygotujemy odpowiednią odpowiedź.
             </p>
           </div>
 
           <div class="contact-options-grid">
+            <!-- PHONE -->
+
             <a href="tel:+48575254431" class="contact-option-card">
               <span class="contact-option-number"> 01 </span>
-
-              <div class="contact-option-icon">TEL</div>
 
               <span class="contact-option-label"> TELEFON </span>
 
               <h3>+48 575 254 431</h3>
 
-              <p>Zadzwoń w sprawie urządzenia, dostępności lub oferty.</p>
+              <p>
+                Najszybszy sposób, jeśli chcesz porozmawiać o urządzeniu,
+                dostępności lub zakupie.
+              </p>
 
               <span class="contact-option-link"> Zadzwoń → </span>
             </a>
 
+            <!-- EMAIL -->
+
             <a href="mailto:sales@ltsmarket.pl" class="contact-option-card">
               <span class="contact-option-number"> 02 </span>
-
-              <div class="contact-option-icon">@</div>
 
               <span class="contact-option-label"> E-MAIL </span>
 
               <h3>sales@ltsmarket.pl</h3>
 
               <p>
-                Wyślij zapytanie dotyczące zakupu, urządzenia lub współpracy.
+                Wyślij szczegóły zapytania, nazwę urządzenia lub informacje
+                dotyczące planowanego zakupu.
               </p>
 
-              <span class="contact-option-link"> Napisz e-mail → </span>
+              <span class="contact-option-link"> Napisz → </span>
             </a>
+
+            <!-- SERVICE -->
 
             <a href="https://lasertechservice.pl/" class="contact-option-card">
               <span class="contact-option-number"> 03 </span>
-
-              <div class="contact-option-icon">LTS</div>
 
               <span class="contact-option-label"> SERWIS </span>
 
               <h3>Laser Tech Service</h3>
 
               <p>
-                Potrzebujesz naprawy lub diagnostyki? Przejdź bezpośrednio do
-                naszego serwisu.
+                Masz już urządzenie i potrzebujesz diagnostyki, naprawy lub
+                profesjonalnego serwisu?
               </p>
 
               <span class="contact-option-link"> Przejdź do serwisu → </span>
@@ -381,59 +425,70 @@
       </section>
 
       <!-- =================================================
-           FORM
+           03. CONTACT FORM
       ================================================== -->
 
-      <section class="contact-form-section section section-dark">
+      <section class="contact-form-section section section-dark" id="formularz">
         <div class="container contact-form-grid">
+          <!-- LEFT -->
+
           <div class="contact-form-content">
             <span class="section-eyebrow"> FORMULARZ </span>
 
             <h2>
               Napisz do
-              <span>LTS Market</span>
+              <span>LTS Market.</span>
             </h2>
 
-            <p>Opisz, czego szukasz lub czego dotyczy Twoje pytanie.</p>
+            <p>
+              Opisz, czego szukasz. Możesz zapytać o konkretne urządzenie,
+              sprzęt używany, leasing albo dostępne możliwości zakupu.
+            </p>
 
             <div class="contact-form-details">
               <div class="contact-detail">
-                <span>01</span>
+                <span> 01 </span>
 
                 <div>
-                  <strong>Urządzenia</strong>
+                  <strong> Nowe urządzenia </strong>
 
-                  <p>Nowe i używane urządzenia dla branży beauty.</p>
+                  <p>Profesjonalny sprzęt dla gabinetów i klinik beauty.</p>
                 </div>
               </div>
 
               <div class="contact-detail">
-                <span>02</span>
+                <span> 02 </span>
 
                 <div>
-                  <strong>Finansowanie</strong>
+                  <strong> Urządzenia używane </strong>
 
-                  <p>Możliwość finansowania urządzeń w leasingu.</p>
+                  <p>Sprawdź aktualnie dostępne urządzenia z rynku wtórnego.</p>
                 </div>
               </div>
 
               <div class="contact-detail">
-                <span>03</span>
+                <span> 03 </span>
 
                 <div>
-                  <strong>Serwis</strong>
+                  <strong> Leasing </strong>
 
-                  <p>Profesjonalne zaplecze Laser Tech Service.</p>
+                  <p>Finansowanie dobierane indywidualnie do zakupu.</p>
                 </div>
               </div>
             </div>
           </div>
 
+          <!-- FORM -->
+
           <div class="contact-form-wrapper">
             <form class="contact-form" id="contact-form">
+              <!-- -----------------------------------------
+                   NAME + COMPANY
+              ------------------------------------------ -->
+
               <div class="form-row">
                 <div class="form-field">
-                  <label for="name"> Imię i nazwisko </label>
+                  <label for="name"> Imię i nazwisko * </label>
 
                   <input
                     type="text"
@@ -458,9 +513,13 @@
                 </div>
               </div>
 
+              <!-- -----------------------------------------
+                   EMAIL + PHONE
+              ------------------------------------------ -->
+
               <div class="form-row">
                 <div class="form-field">
-                  <label for="email"> E-mail </label>
+                  <label for="email"> E-mail * </label>
 
                   <input
                     type="email"
@@ -485,8 +544,12 @@
                 </div>
               </div>
 
+              <!-- -----------------------------------------
+                   SUBJECT
+              ------------------------------------------ -->
+
               <div class="form-field">
-                <label for="subject"> Temat </label>
+                <label for="subject"> Temat * </label>
 
                 <select id="subject" name="subject" required>
                   <option value="" selected disabled>Wybierz temat</option>
@@ -497,14 +560,20 @@
 
                   <option value="leasing">Leasing / finansowanie</option>
 
+                  <option value="serwis">Serwis urządzenia</option>
+
                   <option value="wspolpraca">Współpraca</option>
 
                   <option value="inne">Inne</option>
                 </select>
               </div>
 
+              <!-- -----------------------------------------
+                   MESSAGE
+              ------------------------------------------ -->
+
               <div class="form-field">
-                <label for="message"> Wiadomość </label>
+                <label for="message"> Wiadomość * </label>
 
                 <textarea
                   id="message"
@@ -515,60 +584,103 @@
                 ></textarea>
               </div>
 
-              <div class="form-consent">
-                <label>
-                  <input type="checkbox" name="privacy" required />
+              <!-- -----------------------------------------
+                   CONSENT
+              ------------------------------------------ -->
 
-                  <span>
-                    Wyrażam zgodę na kontakt w celu odpowiedzi na moje
-                    zapytanie.
-                  </span>
-                </label>
-              </div>
+              <label class="form-consent">
+                <input type="checkbox" name="consent" value="1" required />
 
-              <button type="submit" class="btn btn-primary contact-submit">
-                Wyślij wiadomość
+                <span>
+                  Wyrażam zgodę na kontakt w celu odpowiedzi na moje zapytanie.
+                </span>
+              </label>
+
+              <!-- -----------------------------------------
+                   SUBMIT
+              ------------------------------------------ -->
+
+              <button type="submit" class="btn btn-primary form-submit">
+                Wyślij zapytanie
               </button>
 
-              <div
+              <p
                 class="form-status"
                 id="form-status"
                 role="status"
                 aria-live="polite"
-              ></div>
+              ></p>
             </form>
           </div>
         </div>
       </section>
 
       <!-- =================================================
-           SERVICE
+           04. LEASING
       ================================================== -->
 
-      <section class="contact-service section">
-        <div class="container contact-service-box">
-          <div class="contact-service-content">
-            <span class="section-eyebrow"> LASER TECH SERVICE </span>
+      <section class="contact-leasing section">
+        <div class="container contact-leasing-box">
+          <div>
+            <span class="section-eyebrow"> LEASING </span>
 
-            <h2>Potrzebujesz serwisu urządzenia?</h2>
+            <h2>
+              Chcesz kupić urządzenie
+              <span>z finansowaniem?</span>
+            </h2>
 
             <p>
-              Jeżeli potrzebujesz diagnostyki, naprawy lub profesjonalnego
-              serwisu, przejdź do Laser Tech Service.
+              Finansowanie dobieramy indywidualnie. Obsługujemy klientów z całej
+              Polski i szukamy rozwiązania dopasowanego do konkretnego zakupu.
+            </p>
+          </div>
+
+          <a href="leasing.html" class="btn btn-primary"> Sprawdź leasing </a>
+        </div>
+      </section>
+
+      <!-- =================================================
+           05. SERVICE
+      ================================================== -->
+
+      <section class="contact-service section section-dark">
+        <div class="container contact-service-grid">
+          <div class="contact-service-content">
+            <span class="section-eyebrow"> SERWIS </span>
+
+            <h2>
+              Sprzedaż to nie wszystko.
+              <span>Mamy zaplecze techniczne.</span>
+            </h2>
+
+            <p>
+              LTS Market współpracuje z Laser Tech Service, profesjonalnym
+              serwisem urządzeń laserowych i kosmetologicznych.
             </p>
 
             <a href="https://lasertechservice.pl/" class="btn btn-secondary">
-              Przejdź do Laser Tech Service
+              Laser Tech Service
             </a>
           </div>
 
-          <div class="contact-service-mark">
-            <div class="service-logo-mark">LTS</div>
+          <div class="contact-service-points">
+            <div class="contact-service-point">
+              <span> 01 </span>
 
-            <strong>
-              LASER TECH
-              <span>SERVICE</span>
-            </strong>
+              <strong> Diagnostyka urządzeń </strong>
+            </div>
+
+            <div class="contact-service-point">
+              <span> 02 </span>
+
+              <strong> Naprawy i serwis </strong>
+            </div>
+
+            <div class="contact-service-point">
+              <span> 03 </span>
+
+              <strong> Wsparcie techniczne </strong>
+            </div>
           </div>
         </div>
       </section>
@@ -576,87 +688,95 @@
 
     <!-- =====================================================
          FOOTER
+         Global component
     ====================================================== -->
 
     <footer class="site-footer">
-      <div class="container footer-grid">
-        <div class="footer-brand">
-          <a
-            href="index.html"
-            class="site-logo footer-logo"
-            aria-label="LTS Market"
-          >
-            <span class="logo-main">LTS</span>
-            <span class="logo-sub">MARKET</span>
-          </a>
+      <div class="container">
+        <div class="footer-grid">
+          <!-- BRAND -->
 
-          <p>
-            Profesjonalne urządzenia dla branży beauty. Nowe, używane, leasing i
-            wsparcie serwisowe.
+          <div class="footer-brand">
+            <a href="index.html" class="site-logo" aria-label="LTS Market">
+              <span class="logo-main"> LTS </span>
+
+              <span class="logo-sub"> MARKET </span>
+            </a>
+
+            <p>
+              Profesjonalne urządzenia dla branży beauty. Sprzedaż, urządzenia
+              używane, leasing i zaplecze serwisowe.
+            </p>
+          </div>
+
+          <!-- MARKET -->
+
+          <div class="footer-column">
+            <h3>Market</h3>
+
+            <a href="nowe.html"> Nowe urządzenia </a>
+
+            <a href="uzywane.html"> Używane urządzenia </a>
+
+            <a href="leasing.html"> Leasing </a>
+
+            <a href="kontakt.html"> Kontakt </a>
+          </div>
+
+          <!-- SERVICE -->
+
+          <div class="footer-column">
+            <h3>Serwis</h3>
+
+            <a href="https://lasertechservice.pl/"> Laser Tech Service </a>
+
+            <a href="https://lasertechservice.pl/uslugi.html"> Usługi </a>
+
+            <a href="https://lasertechservice.pl/realizacje/"> Realizacje </a>
+          </div>
+
+          <!-- LANGUAGES -->
+
+          <div class="footer-column">
+            <h3>Języki</h3>
+
+            <a href="kontakt.html"> Polski </a>
+
+            <a href="en/kontakt.html"> English </a>
+
+            <a href="ru/kontakt.html"> Русский </a>
+          </div>
+
+          <!-- CONTACT -->
+
+          <div class="footer-column">
+            <h3>Kontakt</h3>
+
+            <a href="tel:+48575254431"> +48 575 254 431 </a>
+
+            <a href="mailto:sales@ltsmarket.pl"> sales@ltsmarket.pl </a>
+
+            <span> Polska </span>
+          </div>
+        </div>
+
+        <!-- FOOTER BOTTOM -->
+
+        <div class="footer-bottom">
+          <p>© 2026 LTS Market</p>
+
+          <p class="footer-created">
+            Created by
+            <a
+              href="https://raccoon-studio.com.ua/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Raccoon Studio
+            </a>
+            © 2026
           </p>
         </div>
-
-        <div class="footer-column">
-          <h3>Market</h3>
-
-          <a href="nowe.html"> Nowe urządzenia </a>
-
-          <a href="uzywane.html"> Używane urządzenia </a>
-
-          <a href="index.html#leasing"> Leasing </a>
-        </div>
-
-        <div class="footer-column">
-          <h3>LTS</h3>
-
-          <a href="https://lasertechservice.pl/"> Laser Tech Service </a>
-
-          <a href="https://lasertechservice.pl/uslugi.html">
-            Serwis urządzeń
-          </a>
-
-          <a href="https://lasertechservice.pl/realizacje/"> Realizacje </a>
-
-          <a href="kontakt.html"> Kontakt </a>
-        </div>
-
-        <div class="footer-column">
-          <h3>Język</h3>
-
-          <a href="kontakt.html" hreflang="pl"> Polski </a>
-
-          <a href="en/kontakt.html" hreflang="en"> English </a>
-
-          <a href="ru/kontakt.html" hreflang="ru"> Русский </a>
-        </div>
-
-        <div class="footer-column">
-          <h3>Kontakt</h3>
-
-          <a href="tel:+48575254431"> +48 575 254 431 </a>
-
-          <a href="mailto:sales@ltsmarket.pl"> sales@ltsmarket.pl </a>
-
-          <span>Polska</span>
-        </div>
-      </div>
-
-      <div class="container footer-bottom">
-        <p>LTS Market © 2026</p>
-
-        <p class="footer-created">
-          Created by
-
-          <a
-            href="https://raccoon-studio.com.ua/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Raccoon Studio
-          </a>
-
-          © 2026
-        </p>
       </div>
     </footer>
 
@@ -664,19 +784,32 @@
          MOBILE BOTTOM NAV
     ====================================================== -->
 
-    <nav class="mobile-bottom-nav" aria-label="Szybka nawigacja mobilna">
+    <nav class="mobile-bottom-nav" aria-label="Szybka nawigacja">
       <a href="index.html"> Market </a>
 
       <a href="nowe.html"> Nowe </a>
 
       <a href="uzywane.html"> Używane </a>
 
-      <a href="kontakt.html" class="active"> Kontakt </a>
+      <a href="kontakt.html" class="active" aria-current="page"> Kontakt </a>
     </nav>
 
     <!-- =====================================================
-         JAVASCRIPT
+         NOSCRIPT
     ====================================================== -->
+
+    <noscript>
+      <div class="noscript-message">
+        Ta strona korzysta z JavaScript do obsługi menu oraz formularza
+        kontaktowego.
+      </div>
+    </noscript>
+
+    <!-- =====================================================
+         JS
+    ====================================================== -->
+
+    <script src="assets/js/main.js" defer></script>
 
     <script src="assets/js/kontakt.js" defer></script>
   </body>
