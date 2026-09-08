@@ -1,0 +1,1252 @@
+/* ==========================================================
+   LTS MARKET
+   LEASING
+   leasing.css
+   ========================================================== */
+
+
+/* ==========================================================
+   01. SHARED LEASING ELEMENTS
+   ========================================================== */
+
+.leasing-eyebrow {
+    display: inline-flex;
+    align-items: center;
+
+    margin-bottom: 18px;
+
+    font-size: 11px;
+    font-weight: 900;
+    line-height: 1;
+
+    letter-spacing: 0.16em;
+
+    text-transform: uppercase;
+
+    color: var(--color-accent);
+}
+
+.leasing-section {
+    padding:
+        110px 0;
+
+    border-top:
+        1px solid var(--color-border);
+}
+
+.leasing-section-soft {
+    background: var(--color-bg-soft);
+}
+
+.leasing-heading {
+    max-width: 820px;
+
+    margin-bottom: 52px;
+}
+
+.leasing-heading h2,
+.leasing-section-title h2,
+.leasing-faq-intro h2,
+.leasing-highlight-content h2,
+.leasing-final-inner h2 {
+    font-size:
+        clamp(38px,
+            4.8vw,
+            64px);
+
+    line-height: 1.03;
+
+    letter-spacing: -0.05em;
+
+    color: var(--color-white);
+}
+
+.leasing-heading h2 span,
+.leasing-section-title h2 span,
+.leasing-faq-intro h2 span,
+.leasing-highlight-content h2 span,
+.leasing-final-inner h2 span {
+    color: var(--color-accent);
+}
+
+.leasing-heading p {
+    max-width: 680px;
+
+    margin-top: 20px;
+
+    font-size: 17px;
+    line-height: 1.75;
+
+    color: var(--color-text-soft);
+}
+
+
+/* ==========================================================
+   02. HERO
+   ========================================================== */
+
+.leasing-hero {
+    position: relative;
+
+    overflow: hidden;
+
+    padding:
+        92px 0 110px;
+}
+
+.leasing-hero::before {
+    content: "";
+
+    position: absolute;
+
+    width: 700px;
+    height: 700px;
+
+    right: -250px;
+    top: -250px;
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(circle,
+            rgba(42, 168, 255, 0.13),
+            rgba(42, 168, 255, 0.045) 34%,
+            transparent 70%);
+
+    pointer-events: none;
+}
+
+.leasing-hero::after {
+    content: "";
+
+    position: absolute;
+
+    width: 420px;
+    height: 420px;
+
+    left: -220px;
+    bottom: -220px;
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(circle,
+            rgba(255, 255, 255, 0.035),
+            transparent 70%);
+
+    pointer-events: none;
+}
+
+.leasing-hero-grid {
+    position: relative;
+    z-index: 1;
+
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1.25fr) minmax(340px, 0.75fr);
+
+    gap: 72px;
+
+    align-items: center;
+}
+
+.leasing-hero-content {
+    max-width: 800px;
+}
+
+.leasing-hero-content h1 {
+    font-size:
+        clamp(48px,
+            6vw,
+            82px);
+
+    line-height: 0.98;
+
+    letter-spacing: -0.06em;
+
+    color: var(--color-white);
+}
+
+.leasing-hero-content h1 span {
+    display: block;
+
+    color: var(--color-accent);
+}
+
+.leasing-hero-lead {
+    max-width: 720px;
+
+    margin-top: 30px;
+
+    font-size: 19px;
+    line-height: 1.7;
+
+    color: var(--color-text);
+}
+
+.leasing-hero-secondary {
+    max-width: 720px;
+
+    margin-top: 18px;
+
+    font-size: 15px;
+    line-height: 1.75;
+
+    color: var(--color-text-soft);
+}
+
+.leasing-hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 12px;
+
+    margin-top: 34px;
+}
+
+
+/* ==========================================================
+   03. HERO CARD
+   ========================================================== */
+
+.leasing-hero-card {
+    padding:
+        32px;
+
+    border:
+        1px solid var(--color-border);
+
+    border-radius: var(--radius-large);
+
+    background:
+        linear-gradient(145deg,
+            rgba(255, 255, 255, 0.035),
+            rgba(42, 168, 255, 0.025));
+
+    box-shadow:
+        0 22px 60px rgba(0, 0, 0, 0.18);
+}
+
+.leasing-card-label {
+    display: inline-block;
+
+    margin-bottom: 18px;
+
+    font-size: 10px;
+    font-weight: 900;
+    line-height: 1;
+
+    letter-spacing: 0.16em;
+
+    color: var(--color-accent);
+}
+
+.leasing-hero-card h2 {
+    font-size:
+        clamp(28px,
+            3vw,
+            40px);
+
+    line-height: 1.08;
+
+    letter-spacing: -0.04em;
+}
+
+.leasing-hero-card>p {
+    margin-top: 16px;
+
+    font-size: 14px;
+    line-height: 1.7;
+
+    color: var(--color-text-soft);
+}
+
+.leasing-hero-features {
+    margin-top: 28px;
+
+    border-top:
+        1px solid var(--color-border);
+}
+
+.leasing-hero-features>div {
+    display: grid;
+
+    grid-template-columns:
+        40px minmax(0, 1fr);
+
+    gap: 14px;
+
+    align-items: center;
+
+    min-height: 58px;
+
+    border-bottom:
+        1px solid var(--color-border);
+}
+
+.leasing-hero-features span {
+    font-size: 10px;
+    font-weight: 900;
+
+    color: var(--color-accent);
+}
+
+.leasing-hero-features strong {
+    font-size: 14px;
+
+    color: var(--color-white);
+}
+
+
+/* ==========================================================
+   04. SPLIT SECTION
+   ========================================================== */
+
+.leasing-split {
+    display: grid;
+
+    grid-template-columns:
+        minmax(300px, 0.8fr) minmax(0, 1.2fr);
+
+    gap: 76px;
+
+    align-items: start;
+}
+
+.leasing-section-title {
+    position: sticky;
+
+    top: 120px;
+}
+
+.leasing-copy {
+    max-width: 760px;
+}
+
+.leasing-copy p {
+    font-size: 17px;
+    line-height: 1.85;
+
+    color: var(--color-text-soft);
+}
+
+.leasing-copy p+p {
+    margin-top: 22px;
+}
+
+
+/* ==========================================================
+   05. STEPS
+   ========================================================== */
+
+.leasing-steps {
+    display: grid;
+
+    grid-template-columns:
+        repeat(4, minmax(0, 1fr));
+
+    border-top:
+        1px solid var(--color-border);
+    border-left:
+        1px solid var(--color-border);
+}
+
+.leasing-step {
+    position: relative;
+
+    min-height: 330px;
+
+    padding:
+        30px 26px;
+
+    border-right:
+        1px solid var(--color-border);
+    border-bottom:
+        1px solid var(--color-border);
+
+    background:
+        linear-gradient(180deg,
+            rgba(255, 255, 255, 0.015),
+            transparent);
+
+    transition:
+        background var(--transition),
+        transform var(--transition);
+}
+
+.leasing-step:hover {
+    background:
+        rgba(42, 168, 255, 0.035);
+}
+
+.leasing-step-number {
+    display: block;
+
+    margin-bottom: 72px;
+
+    font-size: 11px;
+    font-weight: 900;
+
+    letter-spacing: 0.14em;
+
+    color: var(--color-accent);
+}
+
+.leasing-step h3 {
+    font-size: 22px;
+    line-height: 1.15;
+
+    letter-spacing: -0.03em;
+}
+
+.leasing-step p {
+    margin-top: 16px;
+
+    font-size: 14px;
+    line-height: 1.7;
+
+    color: var(--color-text-soft);
+}
+
+
+/* ==========================================================
+   06. HIGHLIGHT BLOCK
+   ========================================================== */
+
+.leasing-highlight {
+    display: grid;
+
+    grid-template-columns:
+        160px minmax(0, 1fr);
+
+    gap: 48px;
+
+    align-items: center;
+
+    padding:
+        54px;
+
+    border:
+        1px solid rgba(42, 168, 255, 0.18);
+
+    border-radius: var(--radius-large);
+
+    background:
+        linear-gradient(135deg,
+            rgba(42, 168, 255, 0.055),
+            rgba(255, 255, 255, 0.02));
+}
+
+.leasing-highlight-number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 140px;
+    height: 140px;
+
+    border:
+        1px solid rgba(42, 168, 255, 0.2);
+
+    border-radius: 50%;
+
+    background:
+        rgba(42, 168, 255, 0.04);
+}
+
+.leasing-highlight-number span {
+    font-size: 34px;
+    font-weight: 900;
+
+    letter-spacing: -0.04em;
+
+    color: var(--color-accent);
+}
+
+.leasing-highlight-content p {
+    max-width: 760px;
+
+    margin-top: 18px;
+
+    font-size: 16px;
+    line-height: 1.75;
+
+    color: var(--color-text-soft);
+}
+
+.leasing-highlight-content strong {
+    display: block;
+
+    margin-top: 24px;
+
+    font-size: 15px;
+    line-height: 1.5;
+
+    color: var(--color-white);
+}
+
+
+/* ==========================================================
+   07. EQUIPMENT GRID
+   ========================================================== */
+
+.leasing-equipment-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(5, minmax(0, 1fr));
+
+    gap: 14px;
+}
+
+.leasing-equipment-card {
+    min-height: 270px;
+
+    padding:
+        26px;
+
+    border:
+        1px solid var(--color-border);
+
+    border-radius: var(--radius-medium);
+
+    background: var(--color-card);
+
+    transition:
+        transform var(--transition),
+        border-color var(--transition),
+        background var(--transition);
+}
+
+.leasing-equipment-card:hover {
+    transform: translateY(-4px);
+
+    border-color:
+        rgba(42, 168, 255, 0.28);
+
+    background: var(--color-card-hover);
+}
+
+.leasing-equipment-card>span {
+    display: inline-block;
+
+    margin-bottom: 70px;
+
+    font-size: 10px;
+    font-weight: 900;
+
+    letter-spacing: 0.14em;
+
+    color: var(--color-accent);
+}
+
+.leasing-equipment-card h3 {
+    font-size: 20px;
+    line-height: 1.2;
+
+    letter-spacing: -0.025em;
+}
+
+.leasing-equipment-card p {
+    margin-top: 14px;
+
+    font-size: 13px;
+    line-height: 1.7;
+
+    color: var(--color-text-soft);
+}
+
+
+/* ==========================================================
+   08. USED EQUIPMENT NOTE
+   ========================================================== */
+
+.leasing-used-note {
+    display: grid;
+
+    grid-template-columns:
+        minmax(240px, 0.8fr) minmax(0, 1.2fr);
+
+    gap: 50px;
+
+    align-items: center;
+
+    margin-top: 42px;
+
+    padding:
+        34px 38px;
+
+    border:
+        1px solid var(--color-border);
+
+    border-radius: var(--radius-medium);
+
+    background:
+        rgba(255, 255, 255, 0.015);
+}
+
+.leasing-used-note h3 {
+    font-size: 28px;
+    line-height: 1.1;
+
+    letter-spacing: -0.035em;
+}
+
+.leasing-used-note>p {
+    font-size: 14px;
+    line-height: 1.75;
+
+    color: var(--color-text-soft);
+}
+
+
+/* ==========================================================
+   09. DISCLAIMER
+   ========================================================== */
+
+.leasing-disclaimer {
+    margin-top: 28px;
+
+    padding:
+        18px 20px;
+
+    border-left:
+        3px solid var(--color-accent);
+
+    border-radius:
+        0 var(--radius-small) var(--radius-small) 0;
+
+    font-size: 13px;
+    line-height: 1.7;
+
+    color: var(--color-text-soft);
+
+    background:
+        rgba(42, 168, 255, 0.045);
+}
+
+
+/* ==========================================================
+   10. BENEFITS
+   ========================================================== */
+
+.leasing-benefits {
+    display: grid;
+
+    grid-template-columns:
+        repeat(4, minmax(0, 1fr));
+
+    gap: 14px;
+}
+
+.leasing-benefits article {
+    min-height: 250px;
+
+    padding:
+        26px;
+
+    border:
+        1px solid var(--color-border);
+
+    border-radius: var(--radius-medium);
+
+    background: var(--color-card);
+
+    transition:
+        transform var(--transition),
+        border-color var(--transition);
+}
+
+.leasing-benefits article:hover {
+    transform: translateY(-4px);
+
+    border-color:
+        rgba(42, 168, 255, 0.28);
+}
+
+.leasing-benefits article>span {
+    display: inline-block;
+
+    margin-bottom: 68px;
+
+    font-size: 10px;
+    font-weight: 900;
+
+    letter-spacing: 0.14em;
+
+    color: var(--color-accent);
+}
+
+.leasing-benefits h3 {
+    font-size: 20px;
+    line-height: 1.2;
+
+    letter-spacing: -0.025em;
+}
+
+.leasing-benefits p {
+    margin-top: 14px;
+
+    font-size: 13px;
+    line-height: 1.7;
+
+    color: var(--color-text-soft);
+}
+
+
+/* ==========================================================
+   11. FAQ
+   ========================================================== */
+
+.leasing-faq-layout {
+    display: grid;
+
+    grid-template-columns:
+        minmax(300px, 0.8fr) minmax(0, 1.2fr);
+
+    gap: 76px;
+
+    align-items: start;
+}
+
+.leasing-faq-intro {
+    position: sticky;
+
+    top: 120px;
+}
+
+.leasing-faq-intro p {
+    max-width: 420px;
+
+    margin-top: 20px;
+
+    font-size: 15px;
+    line-height: 1.7;
+
+    color: var(--color-text-soft);
+}
+
+.leasing-text-link {
+    display: inline-flex;
+
+    margin-top: 24px;
+
+    padding-bottom: 3px;
+
+    font-size: 16px;
+    font-weight: 800;
+
+    color: var(--color-accent);
+
+    border-bottom:
+        1px solid rgba(42, 168, 255, 0.4);
+
+    transition:
+        border-color var(--transition),
+        color var(--transition);
+}
+
+.leasing-text-link:hover {
+    color: var(--color-accent-light);
+
+    border-color: var(--color-accent-light);
+}
+
+.leasing-faq {
+    border-top:
+        1px solid var(--color-border);
+}
+
+.leasing-faq-item {
+    border-bottom:
+        1px solid var(--color-border);
+}
+
+.leasing-faq-question {
+    width: 100%;
+
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1fr) 44px;
+
+    gap: 24px;
+
+    align-items: center;
+
+    min-height: 84px;
+
+    padding:
+        20px 0;
+
+    text-align: left;
+
+    color: var(--color-white);
+
+    transition:
+        color var(--transition);
+}
+
+.leasing-faq-question:hover {
+    color: var(--color-accent);
+}
+
+.leasing-faq-question>span:first-child {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.45;
+}
+
+.leasing-faq-icon {
+    width: 40px;
+    height: 40px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    justify-self: end;
+
+    border:
+        1px solid var(--color-border-strong);
+
+    border-radius: 50%;
+
+    font-size: 21px;
+    font-weight: 300;
+
+    color: var(--color-accent);
+
+    transition:
+        transform var(--transition),
+        border-color var(--transition),
+        background var(--transition);
+}
+
+.leasing-faq-question[aria-expanded="true"] .leasing-faq-icon {
+    transform: rotate(45deg);
+
+    border-color:
+        rgba(42, 168, 255, 0.38);
+
+    background:
+        rgba(42, 168, 255, 0.06);
+}
+
+.leasing-faq-answer {
+    display: grid;
+
+    grid-template-rows: 0fr;
+
+    transition:
+        grid-template-rows 0.3s ease;
+}
+
+.leasing-faq-answer>p {
+    overflow: hidden;
+
+    max-width: 760px;
+
+    margin: 0;
+
+    padding-right: 68px;
+
+    font-size: 14px;
+    line-height: 1.75;
+
+    color: var(--color-text-soft);
+
+    transition:
+        padding-bottom 0.3s ease;
+}
+
+.leasing-faq-item.is-open .leasing-faq-answer {
+    grid-template-rows: 1fr;
+}
+
+.leasing-faq-item.is-open .leasing-faq-answer>p {
+    padding-bottom: 26px;
+}
+
+
+/* ==========================================================
+   12. FINAL CTA
+   ========================================================== */
+
+.leasing-final {
+    padding:
+        0 0 110px;
+}
+
+.leasing-final-inner {
+    position: relative;
+
+    overflow: hidden;
+
+    padding:
+        64px;
+
+    border:
+        1px solid rgba(42, 168, 255, 0.2);
+
+    border-radius: var(--radius-large);
+
+    background:
+        linear-gradient(135deg,
+            rgba(42, 168, 255, 0.07),
+            rgba(255, 255, 255, 0.018));
+}
+
+.leasing-final-inner::before {
+    content: "";
+
+    position: absolute;
+
+    width: 480px;
+    height: 480px;
+
+    right: -180px;
+    top: 50%;
+
+    transform: translateY(-50%);
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(circle,
+            rgba(42, 168, 255, 0.14),
+            transparent 70%);
+
+    pointer-events: none;
+}
+
+.leasing-final-inner>* {
+    position: relative;
+    z-index: 1;
+}
+
+.leasing-final-inner h2 {
+    max-width: 900px;
+}
+
+.leasing-final-inner>p {
+    max-width: 720px;
+
+    margin-top: 22px;
+
+    font-size: 17px;
+    line-height: 1.75;
+
+    color: var(--color-text-soft);
+}
+
+.leasing-final-actions {
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 12px;
+
+    margin-top: 34px;
+}
+
+.leasing-final-email {
+    display: inline-flex;
+
+    margin-top: 20px;
+
+    padding-bottom: 2px;
+
+    font-size: 14px;
+    font-weight: 700;
+
+    color: var(--color-text-soft);
+
+    border-bottom:
+        1px solid var(--color-border-strong);
+
+    transition:
+        color var(--transition),
+        border-color var(--transition);
+}
+
+.leasing-final-email:hover {
+    color: var(--color-accent);
+
+    border-color: var(--color-accent);
+}
+
+
+/* ==========================================================
+   13. RESPONSIVE — LARGE
+   ========================================================== */
+
+@media (max-width: 1180px) {
+
+    .leasing-hero-grid {
+        grid-template-columns:
+            minmax(0, 1fr) minmax(320px, 0.72fr);
+
+        gap: 48px;
+    }
+
+    .leasing-equipment-grid {
+        grid-template-columns:
+            repeat(3, minmax(0, 1fr));
+    }
+
+    .leasing-benefits {
+        grid-template-columns:
+            repeat(2, minmax(0, 1fr));
+    }
+
+}
+
+
+/* ==========================================================
+   14. RESPONSIVE — TABLET
+   ========================================================== */
+
+@media (max-width: 960px) {
+
+    .leasing-hero {
+        padding:
+            74px 0 90px;
+    }
+
+    .leasing-hero-grid {
+        grid-template-columns: 1fr;
+
+        gap: 44px;
+    }
+
+    .leasing-hero-card {
+        max-width: 700px;
+    }
+
+    .leasing-split,
+    .leasing-faq-layout {
+        grid-template-columns: 1fr;
+
+        gap: 42px;
+    }
+
+    .leasing-section-title,
+    .leasing-faq-intro {
+        position: static;
+    }
+
+    .leasing-steps {
+        grid-template-columns:
+            repeat(2, minmax(0, 1fr));
+    }
+
+    .leasing-highlight {
+        grid-template-columns:
+            120px minmax(0, 1fr);
+
+        padding:
+            44px;
+    }
+
+    .leasing-highlight-number {
+        width: 110px;
+        height: 110px;
+    }
+
+    .leasing-used-note {
+        grid-template-columns: 1fr;
+
+        gap: 20px;
+    }
+
+}
+
+
+/* ==========================================================
+   15. RESPONSIVE — SMALL TABLET
+   ========================================================== */
+
+@media (max-width: 720px) {
+
+    .leasing-section {
+        padding:
+            82px 0;
+    }
+
+    .leasing-hero {
+        padding:
+            60px 0 76px;
+    }
+
+    .leasing-hero-content h1 {
+        font-size:
+            clamp(44px,
+                12vw,
+                64px);
+    }
+
+    .leasing-hero-actions {
+        flex-direction: column;
+    }
+
+    .leasing-hero-actions .btn {
+        width: 100%;
+    }
+
+    .leasing-steps {
+        grid-template-columns: 1fr;
+    }
+
+    .leasing-step {
+        min-height: auto;
+    }
+
+    .leasing-step-number {
+        margin-bottom: 44px;
+    }
+
+    .leasing-highlight {
+        grid-template-columns: 1fr;
+
+        gap: 28px;
+
+        padding:
+            36px 30px;
+    }
+
+    .leasing-highlight-number {
+        width: 86px;
+        height: 86px;
+    }
+
+    .leasing-highlight-number span {
+        font-size: 26px;
+    }
+
+    .leasing-equipment-grid {
+        grid-template-columns:
+            repeat(2, minmax(0, 1fr));
+    }
+
+    .leasing-used-note {
+        padding:
+            28px;
+    }
+
+    .leasing-final-inner {
+        padding:
+            46px 34px;
+    }
+
+}
+
+
+/* ==========================================================
+   16. RESPONSIVE — MOBILE
+   ========================================================== */
+
+@media (max-width: 520px) {
+
+    .leasing-heading h2,
+    .leasing-section-title h2,
+    .leasing-faq-intro h2,
+    .leasing-highlight-content h2,
+    .leasing-final-inner h2 {
+        font-size:
+            clamp(34px,
+                11vw,
+                48px);
+    }
+
+    .leasing-hero-card {
+        padding:
+            26px 22px;
+
+        border-radius:
+            var(--radius-medium);
+    }
+
+    .leasing-equipment-grid,
+    .leasing-benefits {
+        grid-template-columns: 1fr;
+    }
+
+    .leasing-equipment-card,
+    .leasing-benefits article {
+        min-height: auto;
+    }
+
+    .leasing-equipment-card>span,
+    .leasing-benefits article>span {
+        margin-bottom: 42px;
+    }
+
+    .leasing-used-note {
+        padding:
+            26px 22px;
+    }
+
+    .leasing-faq-question {
+        grid-template-columns:
+            minmax(0, 1fr) 38px;
+
+        gap: 14px;
+
+        min-height: 76px;
+    }
+
+    .leasing-faq-question>span:first-child {
+        font-size: 15px;
+    }
+
+    .leasing-faq-icon {
+        width: 36px;
+        height: 36px;
+    }
+
+    .leasing-faq-answer>p {
+        padding-right: 0;
+    }
+
+    .leasing-final {
+        padding-bottom: 90px;
+    }
+
+    .leasing-final-inner {
+        padding:
+            36px 24px;
+
+        border-radius:
+            var(--radius-medium);
+    }
+
+    .leasing-final-actions {
+        flex-direction: column;
+    }
+
+    .leasing-final-actions .btn {
+        width: 100%;
+    }
+
+}
+
+
+/* ==========================================================
+   17. REDUCED MOTION
+   ========================================================== */
+
+@media (prefers-reduced-motion: reduce) {
+
+    .leasing-step,
+    .leasing-equipment-card,
+    .leasing-benefits article,
+    .leasing-faq-icon,
+    .leasing-faq-answer,
+    .leasing-faq-answer>p,
+    .leasing-text-link,
+    .leasing-final-email {
+        transition: none;
+    }
+
+}
