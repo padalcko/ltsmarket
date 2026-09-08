@@ -1,0 +1,1047 @@
+/* ==========================================================
+   LTS MARKET
+   PRODUKT UŻYWANY
+   produkt-uzywany.css
+   ========================================================== */
+
+
+/* ==========================================================
+   01. BREADCRUMBS
+   ========================================================== */
+
+.product-breadcrumbs {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+    gap: 8px;
+
+    padding-top: 26px;
+    padding-bottom: 12px;
+
+    font-size: 13px;
+
+    color: var(--color-text-muted);
+}
+
+.product-breadcrumbs a {
+    transition:
+        color var(--transition);
+}
+
+.product-breadcrumbs a:hover {
+    color: var(--color-accent);
+}
+
+.product-breadcrumbs span[aria-current="page"] {
+    color: var(--color-text-soft);
+}
+
+
+/* ==========================================================
+   02. PRODUCT PAGE
+   ========================================================== */
+
+.used-product-page {
+    padding:
+        34px 0 86px;
+}
+
+
+/* ==========================================================
+   03. MAIN PRODUCT LAYOUT
+   ========================================================== */
+
+.product-layout {
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1.1fr) minmax(360px, 0.9fr);
+
+    gap: 62px;
+
+    align-items: start;
+}
+
+
+/* ==========================================================
+   04. GALLERY
+   ========================================================== */
+
+.product-gallery {
+    min-width: 0;
+}
+
+.product-main-image {
+    position: relative;
+
+    overflow: hidden;
+
+    aspect-ratio: 1 / 1;
+
+    border:
+        1px solid var(--color-border);
+
+    border-radius: var(--radius-large);
+
+    background:
+        linear-gradient(145deg,
+            #151b22,
+            #0d1217);
+}
+
+.product-main-image img {
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+
+    transition:
+        opacity 0.18s ease,
+        transform 0.35s ease;
+}
+
+.product-main-image:hover img {
+    transform: scale(1.015);
+}
+
+
+/* ==========================================================
+   05. USED BADGE
+   ========================================================== */
+
+.product-used-badge {
+    position: absolute;
+
+    top: 18px;
+    left: 18px;
+
+    z-index: 2;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 32px;
+
+    padding:
+        8px 12px;
+
+    border-radius: 999px;
+
+    font-size: 10px;
+    font-weight: 900;
+    line-height: 1;
+
+    letter-spacing: 0.14em;
+
+    text-transform: uppercase;
+
+    color: #041018;
+
+    background: var(--color-accent);
+
+    box-shadow:
+        0 10px 26px rgba(42, 168, 255, 0.18);
+}
+
+
+/* ==========================================================
+   06. THUMBNAILS
+   ========================================================== */
+
+.product-thumbnails {
+    display: grid;
+
+    grid-template-columns:
+        repeat(7,
+            minmax(0, 1fr));
+
+    gap: 10px;
+
+    margin-top: 12px;
+}
+
+.product-thumbnail {
+    position: relative;
+
+    overflow: hidden;
+
+    aspect-ratio: 1 / 1;
+
+    padding: 0;
+
+    border:
+        1px solid var(--color-border);
+
+    border-radius: var(--radius-small);
+
+    background: var(--color-card);
+
+    transition:
+        border-color var(--transition),
+        transform var(--transition),
+        box-shadow var(--transition),
+        opacity var(--transition);
+}
+
+.product-thumbnail:hover {
+    transform: translateY(-2px);
+
+    border-color:
+        rgba(42, 168, 255, 0.45);
+}
+
+.product-thumbnail.is-active {
+    border-color: var(--color-accent);
+
+    box-shadow:
+        0 0 0 1px var(--color-accent);
+}
+
+.product-thumbnail img {
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+}
+
+
+/* ==========================================================
+   07. PRODUCT INFO
+   ========================================================== */
+
+.product-info {
+    position: sticky;
+
+    top: 112px;
+
+    min-width: 0;
+
+    padding:
+        30px 30px 32px;
+
+    border:
+        1px solid var(--color-border);
+
+    border-radius: var(--radius-large);
+
+    background:
+        linear-gradient(145deg,
+            rgba(255, 255, 255, 0.025),
+            rgba(42, 168, 255, 0.018));
+}
+
+
+/* ==========================================================
+   08. PRODUCT TOPLINE
+   ========================================================== */
+
+.product-topline {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 16px;
+
+    margin-bottom: 22px;
+}
+
+.product-category {
+    font-size: 10px;
+    font-weight: 900;
+    line-height: 1;
+
+    letter-spacing: 0.16em;
+
+    text-transform: uppercase;
+
+    color: var(--color-accent);
+}
+
+.product-availability {
+    display: inline-flex;
+    align-items: center;
+
+    gap: 7px;
+
+    font-size: 10px;
+    font-weight: 800;
+    line-height: 1;
+
+    letter-spacing: 0.12em;
+
+    text-transform: uppercase;
+
+    color: var(--color-text-soft);
+}
+
+.product-availability::before {
+    content: "";
+
+    width: 7px;
+    height: 7px;
+
+    border-radius: 50%;
+
+    background: #46d17b;
+
+    box-shadow:
+        0 0 0 4px rgba(70, 209, 123, 0.08);
+}
+
+
+/* ==========================================================
+   09. PRODUCT TITLE
+   ========================================================== */
+
+.product-info h1 {
+    max-width: 560px;
+
+    font-size:
+        clamp(42px,
+            4.8vw,
+            68px);
+
+    line-height: 0.98;
+
+    letter-spacing: -0.055em;
+}
+
+.product-info h1 span {
+    display: block;
+
+    color: var(--color-accent);
+}
+
+.product-type {
+    margin-top: 18px;
+
+    font-size: 18px;
+    line-height: 1.5;
+
+    color: var(--color-text-soft);
+}
+
+
+/* ==========================================================
+   10. STATUS LIST
+   ========================================================== */
+
+.product-status-list {
+    display: grid;
+
+    gap: 0;
+
+    margin-top: 30px;
+
+    border-top:
+        1px solid var(--color-border);
+}
+
+.product-status-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 18px;
+
+    min-height: 52px;
+
+    padding:
+        12px 0;
+
+    border-bottom:
+        1px solid var(--color-border);
+}
+
+.product-status-item span {
+    font-size: 13px;
+
+    color: var(--color-text-muted);
+}
+
+.product-status-item strong {
+    font-size: 13px;
+    font-weight: 750;
+
+    text-align: right;
+
+    color: var(--color-white);
+}
+
+
+/* ==========================================================
+   11. PRICE
+   ========================================================== */
+
+.product-price-box {
+    margin-top: 30px;
+
+    padding:
+        22px 0 2px;
+}
+
+.product-price-label {
+    display: block;
+
+    margin-bottom: 4px;
+
+    font-size: 10px;
+    font-weight: 800;
+
+    letter-spacing: 0.14em;
+
+    text-transform: uppercase;
+
+    color: var(--color-text-muted);
+}
+
+.product-price {
+    display: block;
+
+    font-size:
+        clamp(34px,
+            3.8vw,
+            48px);
+
+    line-height: 1;
+
+    letter-spacing: -0.04em;
+
+    color: var(--color-white);
+}
+
+
+/* ==========================================================
+   12. PRODUCT ACTIONS
+   ========================================================== */
+
+.product-actions {
+    display: grid;
+
+    grid-template-columns:
+        1fr 1fr;
+
+    gap: 10px;
+
+    margin-top: 26px;
+}
+
+.product-actions .btn {
+    width: 100%;
+}
+
+.product-email-link {
+    display: inline-flex;
+
+    margin-top: 18px;
+
+    padding-bottom: 2px;
+
+    font-size: 13px;
+    font-weight: 700;
+
+    color: var(--color-text-soft);
+
+    border-bottom:
+        1px solid var(--color-border-strong);
+
+    transition:
+        color var(--transition),
+        border-color var(--transition);
+}
+
+.product-email-link:hover {
+    color: var(--color-accent);
+
+    border-color: var(--color-accent);
+}
+
+
+/* ==========================================================
+   13. SERVICE NOTE
+   ========================================================== */
+
+.product-service-note {
+    display: grid;
+
+    grid-template-columns:
+        auto minmax(0, 1fr);
+
+    gap: 14px;
+
+    margin-top: 28px;
+
+    padding-top: 24px;
+
+    border-top:
+        1px solid var(--color-border);
+}
+
+.product-service-icon {
+    width: 44px;
+    height: 44px;
+
+    flex-shrink: 0;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    border:
+        1px solid rgba(42, 168, 255, 0.28);
+
+    border-radius: var(--radius-small);
+
+    font-size: 11px;
+    font-weight: 900;
+
+    letter-spacing: 0.08em;
+
+    color: var(--color-accent);
+
+    background:
+        rgba(42, 168, 255, 0.06);
+}
+
+.product-service-note strong {
+    display: block;
+
+    margin-bottom: 4px;
+
+    font-size: 14px;
+
+    color: var(--color-white);
+}
+
+.product-service-note p {
+    font-size: 12px;
+    line-height: 1.6;
+
+    color: var(--color-text-muted);
+}
+
+
+/* ==========================================================
+   14. GENERAL PRODUCT SECTION
+   ========================================================== */
+
+.product-section {
+    padding:
+        100px 0;
+
+    border-top:
+        1px solid var(--color-border);
+}
+
+.product-section-dark {
+    background: var(--color-bg-soft);
+}
+
+
+/* ==========================================================
+   15. DESCRIPTION
+   ========================================================== */
+
+.product-description-grid {
+    display: grid;
+
+    grid-template-columns:
+        minmax(280px, 0.7fr) minmax(0, 1.3fr);
+
+    gap: 72px;
+
+    align-items: start;
+}
+
+.product-description-grid h2,
+.product-section-heading h2,
+.product-lts-content h2,
+.product-final-cta-inner h2 {
+    font-size:
+        clamp(34px,
+            4vw,
+            56px);
+
+    line-height: 1.04;
+
+    letter-spacing: -0.045em;
+}
+
+.product-description-text {
+    max-width: 780px;
+}
+
+.product-description-text p {
+    font-size: 17px;
+    line-height: 1.8;
+
+    color: var(--color-text-soft);
+}
+
+.product-description-text p+p {
+    margin-top: 20px;
+}
+
+
+/* ==========================================================
+   16. SECTION HEADING
+   ========================================================== */
+
+.product-section-heading {
+    max-width: 780px;
+
+    margin-bottom: 46px;
+}
+
+.product-section-heading p {
+    margin-top: 18px;
+
+    font-size: 16px;
+    line-height: 1.7;
+
+    color: var(--color-text-soft);
+}
+
+
+/* ==========================================================
+   17. SPECIFICATIONS
+   ========================================================== */
+
+.product-specifications {
+    max-width: 920px;
+
+    border-top:
+        1px solid var(--color-border);
+}
+
+.product-spec-row {
+    display: grid;
+
+    grid-template-columns:
+        minmax(180px, 0.7fr) minmax(0, 1.3fr);
+
+    gap: 32px;
+
+    align-items: center;
+
+    min-height: 62px;
+
+    padding:
+        15px 0;
+
+    border-bottom:
+        1px solid var(--color-border);
+}
+
+.product-spec-row span {
+    font-size: 13px;
+
+    color: var(--color-text-muted);
+}
+
+.product-spec-row strong {
+    font-size: 14px;
+    font-weight: 750;
+
+    color: var(--color-white);
+}
+
+
+/* ==========================================================
+   18. LTS BOX
+   ========================================================== */
+
+.product-lts-box {
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1fr) auto;
+
+    align-items: center;
+
+    gap: 48px;
+
+    padding:
+        46px 48px;
+
+    border:
+        1px solid var(--color-border);
+
+    border-radius: var(--radius-large);
+
+    background:
+        linear-gradient(135deg,
+            var(--color-bg-soft),
+            var(--color-card));
+}
+
+.product-lts-content {
+    max-width: 780px;
+}
+
+.product-lts-content p {
+    max-width: 680px;
+
+    margin-top: 18px;
+
+    font-size: 16px;
+    line-height: 1.7;
+
+    color: var(--color-text-soft);
+}
+
+.product-lts-actions {
+    min-width: 200px;
+}
+
+
+/* ==========================================================
+   19. FINAL CTA
+   ========================================================== */
+
+.product-final-cta {
+    padding:
+        0 0 110px;
+}
+
+.product-final-cta-inner {
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1fr) auto;
+
+    align-items: center;
+
+    gap: 48px;
+
+    padding:
+        48px;
+
+    overflow: hidden;
+
+    position: relative;
+
+    border:
+        1px solid rgba(42, 168, 255, 0.18);
+
+    border-radius: var(--radius-large);
+
+    background:
+        linear-gradient(135deg,
+            rgba(42, 168, 255, 0.055),
+            rgba(255, 255, 255, 0.02));
+}
+
+.product-final-cta-inner::after {
+    content: "";
+
+    position: absolute;
+
+    width: 360px;
+    height: 360px;
+
+    right: -170px;
+    top: 50%;
+
+    transform: translateY(-50%);
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(circle,
+            rgba(42, 168, 255, 0.12),
+            transparent 70%);
+
+    pointer-events: none;
+}
+
+.product-final-cta-inner>* {
+    position: relative;
+    z-index: 1;
+}
+
+.product-final-cta-inner p {
+    max-width: 680px;
+
+    margin-top: 18px;
+
+    font-size: 16px;
+    line-height: 1.7;
+
+    color: var(--color-text-soft);
+}
+
+.product-final-actions {
+    min-width: 210px;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 10px;
+}
+
+
+/* ==========================================================
+   20. RESPONSIVE — LARGE
+   ========================================================== */
+
+@media (max-width: 1100px) {
+
+    .product-layout {
+        gap: 42px;
+
+        grid-template-columns:
+            minmax(0, 1fr) minmax(330px, 0.85fr);
+    }
+
+    .product-info {
+        padding:
+            26px 24px;
+    }
+
+    .product-thumbnails {
+        grid-template-columns:
+            repeat(4,
+                minmax(0, 1fr));
+    }
+
+}
+
+
+/* ==========================================================
+   21. RESPONSIVE — TABLET
+   ========================================================== */
+
+@media (max-width: 900px) {
+
+    .used-product-page {
+        padding-bottom: 70px;
+    }
+
+    .product-layout {
+        grid-template-columns: 1fr;
+
+        gap: 34px;
+    }
+
+    .product-info {
+        position: static;
+    }
+
+    .product-main-image {
+        max-height: none;
+    }
+
+    .product-thumbnails {
+        grid-template-columns:
+            repeat(7,
+                minmax(0, 1fr));
+    }
+
+    .product-description-grid {
+        grid-template-columns: 1fr;
+
+        gap: 34px;
+    }
+
+    .product-lts-box,
+    .product-final-cta-inner {
+        grid-template-columns: 1fr;
+
+        gap: 28px;
+    }
+
+    .product-lts-actions,
+    .product-final-actions {
+        min-width: 0;
+    }
+
+    .product-final-actions {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+}
+
+
+/* ==========================================================
+   22. RESPONSIVE — SMALL TABLET
+   ========================================================== */
+
+@media (max-width: 720px) {
+
+    .product-breadcrumbs {
+        padding-top: 20px;
+
+        font-size: 12px;
+    }
+
+    .used-product-page {
+        padding-top: 22px;
+    }
+
+    .product-thumbnails {
+        grid-template-columns:
+            repeat(4,
+                minmax(0, 1fr));
+    }
+
+    .product-info {
+        padding:
+            24px 22px;
+    }
+
+    .product-info h1 {
+        font-size:
+            clamp(38px,
+                11vw,
+                56px);
+    }
+
+    .product-actions {
+        grid-template-columns: 1fr;
+    }
+
+    .product-section {
+        padding:
+            78px 0;
+    }
+
+    .product-spec-row {
+        grid-template-columns:
+            minmax(130px, 0.7fr) minmax(0, 1.3fr);
+
+        gap: 18px;
+    }
+
+    .product-lts-box,
+    .product-final-cta-inner {
+        padding:
+            36px 30px;
+    }
+
+}
+
+
+/* ==========================================================
+   23. RESPONSIVE — MOBILE
+   ========================================================== */
+
+@media (max-width: 520px) {
+
+    .product-breadcrumbs {
+        overflow-x: auto;
+
+        flex-wrap: nowrap;
+
+        white-space: nowrap;
+
+        scrollbar-width: none;
+    }
+
+    .product-breadcrumbs::-webkit-scrollbar {
+        display: none;
+    }
+
+    .product-main-image {
+        border-radius: var(--radius-medium);
+    }
+
+    .product-used-badge {
+        top: 12px;
+        left: 12px;
+
+        min-height: 28px;
+
+        padding:
+            7px 10px;
+
+        font-size: 9px;
+    }
+
+    .product-thumbnails {
+        display: flex;
+
+        overflow-x: auto;
+
+        gap: 8px;
+
+        padding-bottom: 4px;
+
+        scrollbar-width: none;
+    }
+
+    .product-thumbnails::-webkit-scrollbar {
+        display: none;
+    }
+
+    .product-thumbnail {
+        width: 76px;
+
+        flex: 0 0 76px;
+    }
+
+    .product-info {
+        border-radius: var(--radius-medium);
+    }
+
+    .product-topline {
+        align-items: flex-start;
+
+        flex-direction: column;
+
+        gap: 10px;
+    }
+
+    .product-price {
+        font-size: 38px;
+    }
+
+    .product-service-note {
+        grid-template-columns: 1fr;
+    }
+
+    .product-spec-row {
+        grid-template-columns: 1fr;
+
+        gap: 4px;
+
+        min-height: 0;
+
+        padding:
+            14px 0;
+    }
+
+    .product-lts-box,
+    .product-final-cta-inner {
+        padding:
+            30px 22px;
+    }
+
+    .product-final-actions {
+        flex-direction: column;
+    }
+
+    .product-final-actions .btn {
+        width: 100%;
+    }
+
+}
+
+
+/* ==========================================================
+   24. REDUCED MOTION
+   ========================================================== */
+
+@media (prefers-reduced-motion: reduce) {
+
+    .product-main-image img,
+    .product-thumbnail,
+    .product-breadcrumbs a,
+    .product-email-link {
+        transition: none;
+    }
+
+}
