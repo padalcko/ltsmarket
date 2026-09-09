@@ -2,14 +2,23 @@
 <html lang="ru">
   <head>
     <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1Z98BZS3WW"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-1Z98BZS3WW"
+    ></script>
 
-  gtag('config', 'G-1Z98BZS3WW');
-</script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+
+      gtag("config", "G-1Z98BZS3WW");
+    </script>
+
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -131,8 +140,9 @@
           class="site-logo"
           aria-label="LTS Market — главная"
         >
-          <span class="logo-main">LTS</span>
-          <span class="logo-sub">MARKET</span>
+          <span class="logo-main"> LTS </span>
+
+          <span class="logo-sub"> MARKET </span>
         </a>
 
         <nav class="main-nav" aria-label="Основная навигация">
@@ -222,7 +232,9 @@
     </header>
 
     <main>
-      <!-- HERO -->
+      <!-- =================================================
+           HERO
+      ================================================== -->
 
       <section class="hero market-hero">
         <div class="container hero-grid">
@@ -231,7 +243,8 @@
 
             <h1>
               Профессиональное оборудование
-              <span>для beauty-индустрии</span>
+
+              <span> для beauty-индустрии </span>
             </h1>
 
             <p class="hero-description">
@@ -252,24 +265,29 @@
 
             <div class="hero-features">
               <div class="hero-feature">
-                <strong>Новое</strong>
-                <span>оборудование</span>
+                <strong> Новое </strong>
+
+                <span> оборудование </span>
               </div>
 
               <div class="hero-feature">
-                <strong>Б/у</strong>
-                <span>оборудование с пробегом</span>
+                <strong> Б/у </strong>
+
+                <span> оборудование с пробегом </span>
               </div>
 
               <div class="hero-feature">
-                <strong>Лизинг</strong>
-                <span>индивидуальное финансирование</span>
+                <strong> Лизинг </strong>
+
+                <span> индивидуальное финансирование </span>
               </div>
             </div>
           </div>
 
           <div class="hero-visual">
             <div class="hero-product-slider" data-product-slider>
+              <!-- SLIDE 01 -->
+
               <article class="hero-product active">
                 <div class="hero-product-image">
                   <img
@@ -288,6 +306,8 @@
                   <a href="nowe.html"> Смотреть оборудование → </a>
                 </div>
               </article>
+
+              <!-- SLIDE 02 -->
 
               <article class="hero-product">
                 <div class="hero-product-image">
@@ -310,6 +330,8 @@
                   <a href="uzywane.html"> Смотреть б/у → </a>
                 </div>
               </article>
+
+              <!-- SLIDE 03 -->
 
               <article class="hero-product">
                 <div class="hero-product-image">
@@ -375,7 +397,9 @@
         </div>
       </section>
 
-      <!-- DIRECTIONS -->
+      <!-- =================================================
+           DIRECTIONS
+      ================================================== -->
 
       <section class="market-directions section">
         <div class="container">
@@ -439,7 +463,9 @@
         </div>
       </section>
 
-      <!-- NEW EQUIPMENT -->
+      <!-- =================================================
+           NEW EQUIPMENT
+      ================================================== -->
 
       <section class="featured-products section">
         <div class="container">
@@ -531,7 +557,10 @@
         </div>
       </section>
 
-      <!-- USED -->
+      <!-- =================================================
+           USED EQUIPMENT
+           AUTOMATICALLY GENERATED
+      ================================================== -->
 
       <section class="section market-used">
         <div class="container">
@@ -545,46 +574,13 @@
             <a href="uzywane.html" class="text-link"> Смотреть всё б/у → </a>
           </div>
 
-          <div class="products-grid">
-            <article class="product-card">
-              <a
-                href="../uzywane/daeyang-carbo-3000.html"
-                class="product-card-image"
-                aria-label="DaeYang CARBO 3000"
-              >
-                <span class="product-badge"> Б/У </span>
-
-                <img
-                  src="../assets/img/uzywane/daeyang-carbo-3000/daeyang-carbo-3000-01.webp"
-                  alt="DaeYang CARBO 3000 б/у CO2 insuflator"
-                  width="600"
-                  height="600"
-                  loading="lazy"
-                />
-              </a>
-
-              <div class="product-card-body">
-                <span class="product-card-category"> ДРУГОЕ </span>
-
-                <h3>DaeYang CARBO 3000</h3>
-
-                <p>Б/у insuflator CO₂. Исправен и после сервиса.</p>
-
-                <div class="product-card-price">5 000 zł</div>
-
-                <a
-                  href="../uzywane/daeyang-carbo-3000.html"
-                  class="product-card-link"
-                >
-                  Смотреть оборудование →
-                </a>
-              </div>
-            </article>
-          </div>
+          <div class="products-grid" id="used-products-home"></div>
         </div>
       </section>
 
-      <!-- SERVICE -->
+      <!-- =================================================
+           SERVICE
+      ================================================== -->
 
       <section class="service-section section">
         <div class="container service-grid">
@@ -593,7 +589,8 @@
 
             <h2>
               Мы не только продаем.
-              <span>Мы знаем эту технику изнутри.</span>
+
+              <span> Мы знаем эту технику изнутри. </span>
             </h2>
 
             <p>
@@ -659,7 +656,9 @@
         </div>
       </section>
 
-      <!-- LEASING -->
+      <!-- =================================================
+           LEASING
+      ================================================== -->
 
       <section class="leasing-section section">
         <div class="container leasing-grid">
@@ -668,7 +667,8 @@
 
             <h2>
               Оборудование сейчас.
-              <span>Финансирование под ваш бизнес.</span>
+
+              <span> Финансирование под ваш бизнес. </span>
             </h2>
 
             <p>
@@ -703,7 +703,9 @@
         </div>
       </section>
 
-      <!-- WHY -->
+      <!-- =================================================
+           WHY
+      ================================================== -->
 
       <section class="why-section section">
         <div class="container">
@@ -761,7 +763,9 @@
         </div>
       </section>
 
-      <!-- FINAL CTA -->
+      <!-- =================================================
+           FINAL CTA
+      ================================================== -->
 
       <section class="market-contact section">
         <div class="container">
@@ -771,7 +775,8 @@
 
               <h2>
                 Ищете оборудование
-                <span>для своего бизнеса?</span>
+
+                <span> для своего бизнеса? </span>
               </h2>
 
               <p>
@@ -798,6 +803,10 @@
       </section>
     </main>
 
+    <!-- =====================================================
+         FOOTER
+    ====================================================== -->
+
     <footer class="site-footer">
       <div class="container footer-grid">
         <div class="footer-brand">
@@ -806,8 +815,9 @@
             class="site-logo footer-logo"
             aria-label="LTS Market"
           >
-            <span class="logo-main">LTS</span>
-            <span class="logo-sub">MARKET</span>
+            <span class="logo-main"> LTS </span>
+
+            <span class="logo-sub"> MARKET </span>
           </a>
 
           <p>
@@ -880,6 +890,10 @@
       </div>
     </footer>
 
+    <!-- =====================================================
+         MOBILE BOTTOM NAV
+    ====================================================== -->
+
     <nav class="mobile-bottom-nav" aria-label="Быстрая навигация">
       <a href="index.html" class="active"> Market </a>
 
@@ -890,6 +904,14 @@
       <a href="leasing.html"> Лизинг </a>
     </nav>
 
+    <!-- =====================================================
+         JAVASCRIPT
+    ====================================================== -->
+
     <script src="../assets/js/main.js" defer></script>
+
+    <script src="../assets/js/used-products.js" defer></script>
+
+    <script src="../assets/js/used-products-home.js" defer></script>
   </body>
 </html>

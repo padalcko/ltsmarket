@@ -6,6 +6,7 @@
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-1Z98BZS3WW"
     ></script>
+
     <script>
       window.dataLayer = window.dataLayer || [];
 
@@ -22,6 +23,7 @@
     ====================================================== -->
 
     <meta charset="UTF-8" />
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -40,6 +42,7 @@
     />
 
     <meta name="author" content="LTS Market" />
+
     <meta name="theme-color" content="#0b0f13" />
 
     <!-- =====================================================
@@ -65,7 +68,9 @@
     ====================================================== -->
 
     <meta property="og:type" content="website" />
+
     <meta property="og:locale" content="pl_PL" />
+
     <meta property="og:site_name" content="LTS Market" />
 
     <meta
@@ -179,8 +184,9 @@
           class="site-logo"
           aria-label="LTS Market - strona główna"
         >
-          <span class="logo-main">LTS</span>
-          <span class="logo-sub">MARKET</span>
+          <span class="logo-main"> LTS </span>
+
+          <span class="logo-sub"> MARKET </span>
         </a>
 
         <nav class="main-nav" aria-label="Główna nawigacja">
@@ -280,7 +286,8 @@
 
             <h1>
               Profesjonalne urządzenia
-              <span>dla branży beauty</span>
+
+              <span> dla branży beauty </span>
             </h1>
 
             <p class="hero-description">
@@ -299,18 +306,21 @@
 
             <div class="hero-features">
               <div class="hero-feature">
-                <strong>Nowe</strong>
-                <span>urządzenia</span>
+                <strong> Nowe </strong>
+
+                <span> urządzenia </span>
               </div>
 
               <div class="hero-feature">
-                <strong>Używane</strong>
-                <span>sprzęt z drugiej ręki</span>
+                <strong> Używane </strong>
+
+                <span> sprzęt z drugiej ręki </span>
               </div>
 
               <div class="hero-feature">
-                <strong>Leasing</strong>
-                <span>indywidualne finansowanie</span>
+                <strong> Leasing </strong>
+
+                <span> indywidualne finansowanie </span>
               </div>
             </div>
           </div>
@@ -607,6 +617,7 @@
 
       <!-- =================================================
            USED EQUIPMENT
+           AUTOMATYCZNIE Z used-products.js
       ================================================== -->
 
       <section class="section market-used">
@@ -623,51 +634,15 @@
             </a>
           </div>
 
-          <div class="products-grid">
-            <!-- =================================================
-                 DAEYANG CARBO 3000
-            ================================================== -->
+          <!--
+            KARTY UŻYWANYCH URZĄDZEŃ
+            GENERUJE assets/js/used-products-home.js
 
-            <article class="product-card">
-              <a
-                href="uzywane/daeyang-carbo-3000.html"
-                class="product-card-image"
-                aria-label="DaeYang CARBO 3000"
-              >
-                <span class="product-badge"> UŻYWANY </span>
+            DANE:
+            assets/js/used-products.js
+          -->
 
-                <img
-                  src="assets/img/uzywane/daeyang-carbo-3000/daeyang-carbo-3000-01.webp"
-                  alt="DaeYang CARBO 3000 – używany insuflator CO2"
-                  width="600"
-                  height="600"
-                  loading="lazy"
-                />
-              </a>
-
-              <div class="product-card-body">
-                <span class="product-card-category"> INNE </span>
-
-                <h3>DaeYang CARBO 3000</h3>
-
-                <p>Używany insuflator CO₂. Urządzenie sprawne i po serwisie.</p>
-
-                <div class="product-card-price">5 000 zł</div>
-
-                <a
-                  href="uzywane/daeyang-carbo-3000.html"
-                  class="product-card-link"
-                >
-                  Zobacz urządzenie →
-                </a>
-              </div>
-            </article>
-
-            <!-- =================================================
-                 FUTURE USED PRODUCT
-                 KOLEJNE URZĄDZENIA DODAJEMY TUTAJ
-            ================================================== -->
-          </div>
+          <div class="products-grid" id="used-products-home"></div>
         </div>
       </section>
 
@@ -682,7 +657,8 @@
 
             <h2>
               Nie tylko sprzedajemy.
-              <span>Znamy te urządzenia od środka.</span>
+
+              <span> Znamy te urządzenia od środka. </span>
             </h2>
 
             <p>
@@ -762,7 +738,8 @@
 
             <h2>
               Urządzenie teraz.
-              <span>Finansowanie dopasowane do firmy.</span>
+
+              <span> Finansowanie dopasowane do firmy. </span>
             </h2>
 
             <p>
@@ -869,7 +846,8 @@
 
               <h2>
                 Szukasz urządzenia
-                <span>dla swojego gabinetu?</span>
+
+                <span> dla swojego gabinetu? </span>
               </h2>
 
               <p>
@@ -908,8 +886,9 @@
             class="site-logo footer-logo"
             aria-label="LTS Market"
           >
-            <span class="logo-main">LTS</span>
-            <span class="logo-sub">MARKET</span>
+            <span class="logo-main"> LTS </span>
+
+            <span class="logo-sub"> MARKET </span>
           </a>
 
           <p>
@@ -1001,5 +980,19 @@
     ====================================================== -->
 
     <script src="assets/js/main.js" defer></script>
+
+    <!--
+      BAZA UŻYWANYCH URZĄDZEŃ
+      MUSI BYĆ WCZYTANA PRZED used-products-home.js
+    -->
+
+    <script src="assets/js/used-products.js" defer></script>
+
+    <!--
+      AUTOMATYCZNE GENEROWANIE KART
+      UŻYWANYCH URZĄDZEŃ NA STRONIE GŁÓWNEJ
+    -->
+
+    <script src="assets/js/used-products-home.js" defer></script>
   </body>
 </html>
