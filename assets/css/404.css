@@ -1,0 +1,672 @@
+/* ==========================================================
+   LTS MARKET
+   404.css
+
+   IMPORTANT:
+   - nie stylujemy headera
+   - nie stylujemy footera
+   - nie zmieniamy .container
+   - nie zmieniamy .btn
+   - nie zmieniamy mobile-bottom-nav
+
+   Wszystkie wspólne elementy pochodzą z main.css.
+   ========================================================== */
+
+
+/* ==========================================================
+   01. PAGE
+   ========================================================== */
+
+.error-page {
+    width: 100%;
+
+    background: var(--color-bg);
+}
+
+
+/* ==========================================================
+   02. SECTION
+   ========================================================== */
+
+.error-section {
+    padding:
+        clamp(56px, 6vw, 96px) 0;
+
+    background:
+        radial-gradient(circle at 18% 35%,
+            rgba(42, 168, 255, 0.055),
+            transparent 35%),
+        var(--color-bg);
+}
+
+
+/* ==========================================================
+   03. GRID
+   ========================================================== */
+
+.error-grid {
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1.05fr) minmax(0, 0.95fr);
+
+    align-items: center;
+
+    gap:
+        clamp(44px, 5vw, 78px);
+}
+
+
+/* ==========================================================
+   04. IMAGE
+   ========================================================== */
+
+.error-visual {
+    position: relative;
+
+    min-width: 0;
+
+    overflow: hidden;
+
+    border:
+        1px solid var(--color-border);
+
+    border-radius:
+        var(--radius-large);
+
+    background:
+        var(--color-card);
+}
+
+
+.error-visual::after {
+    content: "";
+
+    position: absolute;
+    inset: 0;
+
+    pointer-events: none;
+
+    box-shadow:
+        inset 0 0 70px rgba(0, 0, 0, 0.16);
+}
+
+
+.error-visual img {
+    display: block;
+
+    width: 100%;
+    height: auto;
+
+    aspect-ratio: 3 / 2;
+
+    object-fit: cover;
+
+    object-position: center center;
+}
+
+
+/* ==========================================================
+   05. CONTENT
+   ========================================================== */
+
+.error-content {
+    min-width: 0;
+
+    max-width: 580px;
+}
+
+
+/* ==========================================================
+   06. EYEBROW
+   ========================================================== */
+
+.error-eyebrow {
+    display: block;
+
+    margin-bottom: 14px;
+
+    color:
+        var(--color-accent);
+
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1.2;
+
+    letter-spacing: 0.18em;
+}
+
+
+/* ==========================================================
+   07. ERROR CODE
+   ========================================================== */
+
+.error-code {
+    display: block;
+
+    margin-bottom: 18px;
+
+    color: transparent;
+
+    font-size:
+        clamp(92px, 8vw, 142px);
+
+    font-weight: 800;
+    line-height: 0.78;
+
+    letter-spacing: -0.065em;
+
+    background:
+        linear-gradient(180deg,
+            #ffffff 0%,
+            #c9edff 22%,
+            #72c8ff 57%,
+            #2aa8ff 100%);
+
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+
+/* ==========================================================
+   08. H1
+   ========================================================== */
+
+.error-content h1 {
+    max-width: 570px;
+
+    margin: 0;
+
+    color:
+        var(--color-white);
+
+    font-size:
+        clamp(38px, 3.3vw, 54px);
+
+    font-weight: 750;
+    line-height: 1.06;
+
+    letter-spacing: -0.04em;
+}
+
+
+.error-content h1 span {
+    display: block;
+
+    color:
+        var(--color-accent-light);
+}
+
+
+/* ==========================================================
+   09. COPY
+   ========================================================== */
+
+.error-copy {
+    display: grid;
+
+    gap: 12px;
+
+    max-width: 540px;
+
+    margin-top: 24px;
+}
+
+
+.error-copy p {
+    margin: 0;
+
+    color:
+        var(--color-text-soft);
+
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.62;
+}
+
+
+/* ==========================================================
+   10. FORCE
+   ========================================================== */
+
+.error-force {
+    margin:
+        23px 0 0;
+
+    color:
+        var(--color-accent);
+
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+
+/* ==========================================================
+   11. ACTIONS
+   ========================================================== */
+
+.error-actions {
+    margin-top: 30px;
+}
+
+
+.error-home-button {
+    display: inline-flex;
+
+    align-items: center;
+    justify-content: center;
+
+    gap: 12px;
+}
+
+
+/* ==========================================================
+   12. SHORTCUTS
+   ========================================================== */
+
+.error-shortcuts {
+    display: flex;
+    flex-wrap: wrap;
+
+    align-items: center;
+
+    gap:
+        12px 24px;
+
+    margin-top: 23px;
+}
+
+
+.error-shortcuts a {
+    display: inline-flex;
+
+    align-items: center;
+
+    gap: 7px;
+
+    color:
+        var(--color-text-soft);
+
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.4;
+
+    transition:
+        color var(--transition);
+}
+
+
+.error-shortcuts a span {
+    color:
+        var(--color-accent);
+
+    transition:
+        transform var(--transition);
+}
+
+
+.error-shortcuts a:hover {
+    color:
+        var(--color-white);
+}
+
+
+.error-shortcuts a:hover span {
+    transform:
+        translateX(3px);
+}
+
+
+/* ==========================================================
+   13. LARGE DESKTOP
+   >= 1440
+   ========================================================== */
+
+@media (min-width: 1440px) {
+
+    .error-section {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+
+    .error-grid {
+        grid-template-columns:
+            minmax(0, 1.08fr) minmax(0, 0.92fr);
+
+        gap: 82px;
+    }
+
+
+    .error-content {
+        max-width: 600px;
+    }
+
+
+    .error-copy p {
+        font-size: 18px;
+    }
+}
+
+
+/* ==========================================================
+   14. LAPTOP
+   1001 - 1199
+   ========================================================== */
+
+@media (max-width: 1199px) and (min-width: 1001px) {
+
+    .error-section {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+
+    .error-grid {
+        grid-template-columns:
+            minmax(0, 1fr) minmax(0, 0.95fr);
+
+        gap: 44px;
+    }
+
+
+    .error-code {
+        font-size: 96px;
+    }
+
+
+    .error-content h1 {
+        font-size: 41px;
+    }
+
+
+    .error-copy {
+        margin-top: 20px;
+    }
+
+
+    .error-copy p {
+        font-size: 16px;
+    }
+
+
+    .error-force {
+        margin-top: 19px;
+
+        font-size: 18px;
+    }
+}
+
+
+/* ==========================================================
+   15. TABLET
+   <= 1000
+   ========================================================== */
+
+@media (max-width: 1000px) {
+
+    .error-section {
+        padding-top: 48px;
+        padding-bottom: 60px;
+    }
+
+
+    .error-grid {
+        grid-template-columns: 1fr;
+
+        gap: 38px;
+    }
+
+
+    .error-visual {
+        width: 100%;
+
+        max-width: 760px;
+
+        margin-inline: auto;
+    }
+
+
+    .error-visual img {
+        aspect-ratio: 16 / 9;
+
+        object-position: center 35%;
+    }
+
+
+    .error-content {
+        width: 100%;
+        max-width: 760px;
+
+        margin-inline: auto;
+    }
+
+
+    .error-eyebrow {
+        display: none;
+    }
+
+
+    .error-code {
+        font-size: 88px;
+    }
+
+
+    .error-content h1 {
+        max-width: 650px;
+
+        font-size: 40px;
+    }
+
+
+    .error-copy {
+        max-width: 650px;
+    }
+
+
+    .error-home-button {
+        min-width: 260px;
+    }
+}
+
+
+/* ==========================================================
+   16. MOBILE
+   <= 760
+   ========================================================== */
+
+@media (max-width: 760px) {
+
+    .error-section {
+        padding-top: 24px;
+
+        /* uwzględniamy dolną mobilną nawigację */
+        padding-bottom: 100px;
+    }
+
+
+    .error-grid {
+        gap: 28px;
+    }
+
+
+    .error-visual {
+        border-radius:
+            var(--radius-medium);
+    }
+
+
+    .error-visual img {
+        aspect-ratio: 4 / 3;
+
+        object-position: 35% 32%;
+    }
+
+
+    .error-code {
+        margin-bottom: 14px;
+
+        font-size:
+            clamp(68px, 19vw, 82px);
+    }
+
+
+    .error-content h1 {
+        font-size:
+            clamp(30px, 8.5vw, 38px);
+
+        line-height: 1.08;
+    }
+
+
+    .error-content h1 span {
+        display: inline;
+    }
+
+
+    .error-copy {
+        gap: 11px;
+
+        margin-top: 20px;
+    }
+
+
+    .error-copy p {
+        font-size: 16px;
+        line-height: 1.55;
+    }
+
+
+    .error-force {
+        margin-top: 20px;
+
+        font-size: 18px;
+    }
+
+
+    .error-actions {
+        margin-top: 25px;
+    }
+
+
+    .error-home-button {
+        width: 100%;
+        min-width: 0;
+
+        text-align: center;
+    }
+
+
+    .error-shortcuts {
+        gap:
+            10px 18px;
+
+        margin-top: 22px;
+    }
+
+
+    .error-shortcuts a {
+        font-size: 14px;
+    }
+}
+
+
+/* ==========================================================
+   17. SMALL MOBILE
+   <= 480
+   ========================================================== */
+
+@media (max-width: 480px) {
+
+    .error-section {
+        padding-top: 18px;
+    }
+
+
+    .error-grid {
+        gap: 24px;
+    }
+
+
+    .error-visual {
+        border-radius: 14px;
+    }
+
+
+    .error-visual img {
+        aspect-ratio: 1 / 1;
+
+        object-position: 36% 31%;
+    }
+
+
+    .error-code {
+        font-size: 64px;
+    }
+
+
+    .error-content h1 {
+        font-size: 29px;
+    }
+
+
+    .error-copy {
+        margin-top: 18px;
+    }
+
+
+    .error-copy p {
+        font-size: 15px;
+    }
+
+
+    .error-force {
+        font-size: 17px;
+    }
+
+
+    .error-shortcuts {
+        flex-direction: column;
+
+        align-items: flex-start;
+
+        gap: 10px;
+    }
+}
+
+
+/* ==========================================================
+   18. VERY SMALL MOBILE
+   <= 360
+   ========================================================== */
+
+@media (max-width: 360px) {
+
+    .error-code {
+        font-size: 58px;
+    }
+
+
+    .error-content h1 {
+        font-size: 27px;
+    }
+
+
+    .error-copy p {
+        font-size: 14px;
+    }
+}
+
+
+/* ==========================================================
+   19. REDUCED MOTION
+   ========================================================== */
+
+@media (prefers-reduced-motion: reduce) {
+
+    .error-shortcuts a,
+    .error-shortcuts a span {
+        transition: none;
+    }
+}
