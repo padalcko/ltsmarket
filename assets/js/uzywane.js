@@ -111,6 +111,25 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ======================================================
+     SORT PRODUCTS
+     NEWEST ADDED FIRST
+  ====================================================== */
+
+  function getAddedTimestamp(product) {
+    if (!product || !product.added) {
+      return 0;
+    }
+
+    const timestamp = Date.parse(product.added);
+
+    return Number.isNaN(timestamp) ? 0 : timestamp;
+  }
+
+  const sortedProducts = [...usedProducts].sort(
+    (a, b) => getAddedTimestamp(b) - getAddedTimestamp(a),
+  );
+
+  /* ======================================================
      NORMALIZE IMAGE PATH
   ====================================================== */
 
@@ -148,20 +167,85 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function getProductUrl(slug) {
     /*
-     * At the moment product detail pages exist in:
+     * Product detail pages currently exist only in:
      *
      * /uzywane/
      *
-     * There are no separate EN / RU product pages yet.
-     *
-     * Therefore all language catalogues safely lead
-     * to the existing product page instead of a 404.
-     *
-     * Later, when translated product pages are created,
-     * this function can be changed in one place.
+     * EN / RU catalogues therefore lead to the existing
+     * Polish product page instead of a 404.
      */
 
     return `/uzywane/${slug}.html`;
+  }
+
+  /* ======================================================
+     SERVICE CONTENT
+  ====================================================== */
+
+  function renderServiceValue(product) {
+    const service = getLocalizedValue(product.service);
+
+    if (!service) {
+      return "";
+    }
+
+    const serviceUrl = product.serviceUrl || "";
+
+    /*
+     * If no service URL exists,
+     * display the normal escaped text.
+     */
+
+    if (!serviceUrl) {
+      return escapeHTML(service);
+    }
+
+    /*
+     * Make only "Laser Tech Service" clickable.
+     *
+     * Example:
+     *
+     * Po serwisie Laser Tech Service
+     *
+     * becomes:
+     *
+     * Po serwisie <a>Laser Tech Service</a>
+     */
+
+    const serviceName = "Laser Tech Service";
+
+    const serviceNameIndex = service.indexOf(serviceName);
+
+    if (serviceNameIndex === -1) {
+      return `
+        <a
+          href="${escapeHTML(serviceUrl)}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          ${escapeHTML(service)}
+        </a>
+      `;
+    }
+
+    const before = service.slice(0, serviceNameIndex);
+
+    const after = service.slice(serviceNameIndex + serviceName.length);
+
+    return `
+      ${escapeHTML(before)}
+
+      <a
+        href="${escapeHTML(serviceUrl)}"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Laser Tech Service"
+      >
+        ${escapeHTML(serviceName)}
+      </a>
+
+      ${escapeHTML(after)}
+    `;
   }
 
   /* ======================================================
@@ -169,7 +253,7 @@ document.addEventListener("DOMContentLoaded", () => {
   ====================================================== */
 
   function renderProducts() {
-    productsGrid.innerHTML = usedProducts
+    productsGrid.innerHTML = sortedProducts
       .map((product) => {
         const name = getLocalizedValue(product.name);
 
@@ -276,7 +360,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         ${escapeHTML(t.service)}
 
                         <strong>
-                          ${escapeHTML(service)}
+                          ${renderServiceValue(product)}
                         </strong>
                       </span>
                     `

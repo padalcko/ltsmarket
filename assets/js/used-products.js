@@ -1,30 +1,32 @@
 const usedProducts = [
   {
-    slug: "daeyang-carbo-3000",
+    slug: "3d-contour",
     category: "inne",
 
+    added: "2026-09-14",
+
     name: {
-      pl: "DaeYang CARBO 3000",
-      en: "DaeYang CARBO 3000",
-      ru: "DaeYang CARBO 3000",
+      pl: "3D CONTOUR",
+      en: "3D CONTOUR",
+      ru: "3D CONTOUR",
     },
 
     categoryLabel: {
-      pl: "INNE",
-      en: "OTHER",
-      ru: "ДРУГОЕ",
+      pl: "MODELOWANIE SYLWETKI",
+      en: "BODY CONTOURING",
+      ru: "КОРРЕКЦИЯ ФИГУРЫ",
     },
 
     description: {
-      pl: "Używany insuflator CO₂. Urządzenie sprawne i po serwisie.",
-      en: "Pre-owned CO₂ insufflator. Fully operational and serviced.",
-      ru: "Б/у инсуффлятор CO₂. Аппарат исправен и прошёл сервисное обслуживание.",
+      pl: "Wielofunkcyjne urządzenie kosmetologiczne 3D CONTOUR do modelowania sylwetki. Kriolipoliza, lipolaser i masaż podciśnieniowy. Rok 2022. Urządzenie sprawne, po serwisie Laser Tech Service i gotowe do pracy.",
+      en: "Multifunctional 3D CONTOUR body-contouring system with cryolipolysis, lipolaser and vacuum massage. Manufactured in 2022. Fully operational, serviced by Laser Tech Service and ready for use.",
+      ru: "Многофункциональный аппарат 3D CONTOUR для коррекции фигуры с криолиполизом, липолазером и вакуумным массажем. Год выпуска 2022. Исправен, обслужен Laser Tech Service и готов к работе.",
     },
 
-    price: 5000,
-    priceLabel: "5 000 zł",
+    price: 12000,
+    priceLabel: "12 000 zł",
 
-    year: null,
+    year: 2022,
 
     condition: {
       pl: "Sprawny",
@@ -33,59 +35,21 @@ const usedProducts = [
     },
 
     service: {
-      pl: "Po serwisie",
-      en: "Serviced",
-      ru: "После сервиса",
+      pl: "Po serwisie Laser Tech Service",
+      en: "Serviced by Laser Tech Service",
+      ru: "После сервиса Laser Tech Service",
     },
 
-    image: "assets/img/uzywane/daeyang-carbo-3000/daeyang-carbo-3000-01.webp",
-  },
+    serviceUrl: "https://lasertechservice.pl/",
 
-  {
-    slug: "ellisys-plus",
-    category: "rf",
-
-    name: {
-      pl: "Chungwoo ELLISYS PLUS",
-      en: "Chungwoo ELLISYS PLUS",
-      ru: "Chungwoo ELLISYS PLUS",
-    },
-
-    categoryLabel: {
-      pl: "RF",
-      en: "RF",
-      ru: "RF",
-    },
-
-    description: {
-      pl: "Profesjonalne urządzenie RF mikroigłowe. Rok 2024, urządzenie sprawne i po serwisie.",
-      en: "Professional microneedling RF system from 2024. Fully operational and serviced.",
-      ru: "Профессиональный аппарат микроигольчатого RF 2024 года. Исправен и прошёл сервис.",
-    },
-
-    price: 30000,
-    priceLabel: "30 000 zł",
-
-    year: 2024,
-
-    condition: {
-      pl: "Sprawny",
-      en: "Operational",
-      ru: "Исправен",
-    },
-
-    service: {
-      pl: "Po serwisie",
-      en: "Serviced",
-      ru: "После сервиса",
-    },
-
-    image: "assets/img/uzywane/ellisys-plus/ellisys-plus-01.webp",
+    image: "assets/img/uzywane/3d-contour/3d-contour-01.webp",
   },
 
   {
     slug: "medilase-pro",
     category: "laser-diodowy",
+
+    added: "2026-09-09",
 
     name: {
       pl: "MEDILASE PRO",
@@ -100,9 +64,9 @@ const usedProducts = [
     },
 
     description: {
-      pl: "Profesjonalny laser diodowy. Rok 2021, urządzenie sprawne i po serwisie Laser Tech Service.",
-      en: "Professional diode laser from 2021. Fully operational and serviced by Laser Tech Service.",
-      ru: "Профессиональный диодный лазер 2021 года. Исправен и обслужен Laser Tech Service.",
+      pl: "Profesjonalny laser diodowy MEDILASE PRO z 2021 roku. Urządzenie sprawne, po serwisie Laser Tech Service i gotowe do pracy.",
+      en: "Professional MEDILASE PRO diode laser from 2021. Fully operational, serviced by Laser Tech Service and ready for use.",
+      ru: "Профессиональный диодный лазер MEDILASE PRO 2021 года. Исправен, обслужен Laser Tech Service и готов к работе.",
     },
 
     price: 35000,
@@ -117,11 +81,105 @@ const usedProducts = [
     },
 
     service: {
-      pl: "Po serwisie",
-      en: "Serviced",
-      ru: "После сервиса",
+      pl: "Po serwisie Laser Tech Service",
+      en: "Serviced by Laser Tech Service",
+      ru: "После сервиса Laser Tech Service",
     },
 
+    serviceUrl: "https://lasertechservice.pl/",
+
     image: "assets/img/uzywane/medilase-pro/medilase-pro-01.webp",
+  },
+
+  {
+    slug: "ellisys-plus",
+    category: "rf",
+
+    added: "2026-09-09",
+
+    name: {
+      pl: "Chungwoo ELLISYS PLUS",
+      en: "Chungwoo ELLISYS PLUS",
+      ru: "Chungwoo ELLISYS PLUS",
+    },
+
+    categoryLabel: {
+      pl: "RF",
+      en: "RF",
+      ru: "RF",
+    },
+
+    description: {
+      pl: "Profesjonalne urządzenie RF mikroigłowe Chungwoo ELLISYS PLUS z 2024 roku. Urządzenie sprawne, po serwisie Laser Tech Service i gotowe do pracy.",
+      en: "Professional Chungwoo ELLISYS PLUS microneedling RF system from 2024. Fully operational, serviced by Laser Tech Service and ready for use.",
+      ru: "Профессиональный аппарат микроигольчатого RF Chungwoo ELLISYS PLUS 2024 года. Исправен, обслужен Laser Tech Service и готов к работе.",
+    },
+
+    price: 30000,
+    priceLabel: "30 000 zł",
+
+    year: 2024,
+
+    condition: {
+      pl: "Sprawny",
+      en: "Operational",
+      ru: "Исправен",
+    },
+
+    service: {
+      pl: "Po serwisie Laser Tech Service",
+      en: "Serviced by Laser Tech Service",
+      ru: "После сервиса Laser Tech Service",
+    },
+
+    serviceUrl: "https://lasertechservice.pl/",
+
+    image: "assets/img/uzywane/ellisys-plus/ellisys-plus-01.webp",
+  },
+
+  {
+    slug: "daeyang-carbo-3000",
+    category: "inne",
+
+    added: "2026-09-09",
+
+    name: {
+      pl: "DaeYang CARBO 3000",
+      en: "DaeYang CARBO 3000",
+      ru: "DaeYang CARBO 3000",
+    },
+
+    categoryLabel: {
+      pl: "INNE",
+      en: "OTHER",
+      ru: "ДРУГОЕ",
+    },
+
+    description: {
+      pl: "Używany insuflator CO₂ DaeYang CARBO 3000. Urządzenie sprawne, po serwisie Laser Tech Service i gotowe do pracy.",
+      en: "Pre-owned DaeYang CARBO 3000 CO₂ insufflator. Fully operational, serviced by Laser Tech Service and ready for use.",
+      ru: "Б/у инсуффлятор CO₂ DaeYang CARBO 3000. Аппарат исправен, обслужен Laser Tech Service и готов к работе.",
+    },
+
+    price: 5000,
+    priceLabel: "5 000 zł",
+
+    year: null,
+
+    condition: {
+      pl: "Sprawny",
+      en: "Operational",
+      ru: "Исправен",
+    },
+
+    service: {
+      pl: "Po serwisie Laser Tech Service",
+      en: "Serviced by Laser Tech Service",
+      ru: "После сервиса Laser Tech Service",
+    },
+
+    serviceUrl: "https://lasertechservice.pl/",
+
+    image: "assets/img/uzywane/daeyang-carbo-3000/daeyang-carbo-3000-01.webp",
   },
 ];
