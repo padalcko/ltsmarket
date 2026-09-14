@@ -1,16 +1,19 @@
 /* ==========================================================
    LTS MARKET
-   UŻYWANE
+   USED PRODUCTS CATALOG
    uzywane.js
 
-   AUTOMATIC PRODUCT RENDERING
-   + MULTI-SELECT FILTERS
+   ONE CATALOG FOR:
+   PL / EN / RU
+
+   Product data:
+   assets/js/used-products.js
    ========================================================== */
 
 document.addEventListener("DOMContentLoaded", () => {
   /* ======================================================
      ELEMENTS
-     ====================================================== */
+  ====================================================== */
 
   const productsGrid = document.querySelector("[data-products-grid]");
 
@@ -21,8 +24,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const emptyState = document.querySelector("[data-catalog-empty]");
 
   /* ======================================================
-     CHECK PRODUCT DATA
-     ====================================================== */
+     CHECKS
+  ====================================================== */
 
   if (!productsGrid) {
     console.error("LTS Market: nie znaleziono kontenera [data-products-grid].");
@@ -37,12 +40,62 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ======================================================
-     HELPERS
-     ====================================================== */
+     LANGUAGE
+  ====================================================== */
 
-  function getPolishValue(value) {
+  const htmlLang = (document.documentElement.lang || "pl")
+    .toLowerCase()
+    .split("-")[0];
+
+  const supportedLanguages = ["pl", "en", "ru"];
+
+  const lang = supportedLanguages.includes(htmlLang) ? htmlLang : "pl";
+
+  /* ======================================================
+     TRANSLATIONS
+  ====================================================== */
+
+  const translations = {
+    pl: {
+      used: "UŻYWANY",
+      year: "Rok",
+      condition: "Stan",
+      service: "Serwis",
+      price: "Cena",
+      show: "Zobacz",
+      imageAltSuffix: "używane urządzenie dostępne w LTS Market",
+    },
+
+    en: {
+      used: "PRE-OWNED",
+      year: "Year",
+      condition: "Condition",
+      service: "Service",
+      price: "Price",
+      show: "View",
+      imageAltSuffix: "pre-owned device available at LTS Market",
+    },
+
+    ru: {
+      used: "Б/У",
+      year: "Год",
+      condition: "Состояние",
+      service: "Сервис",
+      price: "Цена",
+      show: "Подробнее",
+      imageAltSuffix: "б/у аппарат, доступный в LTS Market",
+    },
+  };
+
+  const t = translations[lang];
+
+  /* ======================================================
+     HELPERS
+  ====================================================== */
+
+  function getLocalizedValue(value) {
     if (value && typeof value === "object" && !Array.isArray(value)) {
-      return value.pl || "";
+      return value[lang] || value.pl || value.en || value.ru || "";
     }
 
     return value || "";
@@ -58,33 +111,89 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   /* ======================================================
+     NORMALIZE IMAGE PATH
+  ====================================================== */
+
+  function getImageUrl(image) {
+    if (!image) {
+      return "";
+    }
+
+    /*
+     * used-products.js stores paths like:
+     *
+     * assets/img/uzywane/...
+     *
+     * A leading slash is added so the image works from:
+     *
+     * /uzywane.html
+     * /en/uzywane.html
+     * /ru/uzywane.html
+     */
+
+    if (
+      image.startsWith("http://") ||
+      image.startsWith("https://") ||
+      image.startsWith("/")
+    ) {
+      return image;
+    }
+
+    return `/${image}`;
+  }
+
+  /* ======================================================
+     PRODUCT URL
+  ====================================================== */
+
+  function getProductUrl(slug) {
+    /*
+     * At the moment product detail pages exist in:
+     *
+     * /uzywane/
+     *
+     * There are no separate EN / RU product pages yet.
+     *
+     * Therefore all language catalogues safely lead
+     * to the existing product page instead of a 404.
+     *
+     * Later, when translated product pages are created,
+     * this function can be changed in one place.
+     */
+
+    return `/uzywane/${slug}.html`;
+  }
+
+  /* ======================================================
      RENDER PRODUCTS
-     ====================================================== */
+  ====================================================== */
 
   function renderProducts() {
     productsGrid.innerHTML = usedProducts
       .map((product) => {
-        const name = getPolishValue(product.name);
+        const name = getLocalizedValue(product.name);
 
-        const categoryLabel = getPolishValue(product.categoryLabel);
+        const categoryLabel = getLocalizedValue(product.categoryLabel);
 
-        const description = getPolishValue(product.description);
+        const description = getLocalizedValue(product.description);
 
-        const condition = getPolishValue(product.condition);
+        const condition = getLocalizedValue(product.condition);
 
-        const service = getPolishValue(product.service);
+        const service = getLocalizedValue(product.service);
 
         const slug = product.slug || "";
 
         const category = product.category || "";
 
-        const image = product.image || "";
+        const image = getImageUrl(product.image || "");
 
         const priceLabel = product.priceLabel || "";
 
         const year = product.year || "";
 
-        const productUrl = `uzywane/${slug}.html`;
+        const productUrl = getProductUrl(slug);
+
+        const imageAlt = `${name} – ${t.imageAltSuffix}`;
 
         return `
           <article
@@ -97,17 +206,16 @@ document.addEventListener("DOMContentLoaded", () => {
               aria-label="${escapeHTML(name)}"
             >
               <span class="used-product-status">
-                UŻYWANY
+                ${escapeHTML(t.used)}
               </span>
 
               <img
                 src="${escapeHTML(image)}"
-                alt="${escapeHTML(
-                  `${name} – używane urządzenie dostępne w LTS Market`,
-                )}"
+                alt="${escapeHTML(imageAlt)}"
                 width="600"
                 height="600"
                 loading="lazy"
+                decoding="async"
               />
             </a>
 
@@ -137,7 +245,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   year
                     ? `
                       <span>
-                        Rok
+                        ${escapeHTML(t.year)}
 
                         <strong>
                           ${escapeHTML(year)}
@@ -151,7 +259,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   condition
                     ? `
                       <span>
-                        Stan
+                        ${escapeHTML(t.condition)}
 
                         <strong>
                           ${escapeHTML(condition)}
@@ -165,7 +273,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   service
                     ? `
                       <span>
-                        Serwis
+                        ${escapeHTML(t.service)}
 
                         <strong>
                           ${escapeHTML(service)}
@@ -179,7 +287,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <div class="used-product-footer">
                 <div class="used-product-price">
                   <span>
-                    Cena
+                    ${escapeHTML(t.price)}
                   </span>
 
                   <strong>
@@ -190,7 +298,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <a
                   href="${escapeHTML(productUrl)}"
                   class="used-product-arrow"
-                  aria-label="${escapeHTML(`Zobacz ${name}`)}"
+                  aria-label="${escapeHTML(`${t.show} ${name}`)}"
                 >
                   →
                 </a>
@@ -206,7 +314,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   /* ======================================================
      PRODUCT CARDS
-     ====================================================== */
+  ====================================================== */
 
   const productCards = Array.from(
     productsGrid.querySelectorAll(".used-product-card"),
@@ -214,13 +322,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   /* ======================================================
      ACTIVE FILTERS
-     ====================================================== */
+  ====================================================== */
 
   const activeFilters = new Set();
 
   /* ======================================================
      EMPTY STATE
-     ====================================================== */
+  ====================================================== */
 
   function updateEmptyState(visibleCardsCount) {
     if (!emptyState) {
@@ -232,7 +340,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   /* ======================================================
      BUTTON STATE
-     ====================================================== */
+  ====================================================== */
 
   function updateButtons() {
     filterButtons.forEach((button) => {
@@ -254,34 +362,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
   /* ======================================================
      FILTER PRODUCTS
-     ====================================================== */
+  ====================================================== */
 
   function filterProducts() {
     let visibleCardsCount = 0;
 
     productCards.forEach((card) => {
-      /*
-       * Karta może mieć jedną lub kilka kategorii:
-       *
-       * data-category="rf"
-       *
-       * albo:
-       *
-       * data-category="rf nd-yag"
-       */
-
       const categories = (card.dataset.category || "")
         .split(/\s+/)
         .filter(Boolean);
-
-      /*
-       * Brak aktywnych filtrów:
-       * pokazujemy wszystkie urządzenia.
-       *
-       * Kilka aktywnych filtrów:
-       * urządzenie jest widoczne, jeśli należy
-       * do co najmniej jednej wybranej kategorii.
-       */
 
       const shouldShow =
         activeFilters.size === 0 ||
@@ -299,7 +388,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   /* ======================================================
      FILTER CLICK
-     ====================================================== */
+  ====================================================== */
 
   filterButtons.forEach((button) => {
     button.addEventListener("click", () => {
@@ -309,11 +398,7 @@ document.addEventListener("DOMContentLoaded", () => {
         return;
       }
 
-      /*
-       * WSZYSTKIE
-       *
-       * Czyści wszystkie wybrane filtry.
-       */
+      /* ALL */
 
       if (filter === "all") {
         activeFilters.clear();
@@ -324,12 +409,7 @@ document.addEventListener("DOMContentLoaded", () => {
         return;
       }
 
-      /*
-       * CATEGORY
-       *
-       * Ponowne kliknięcie tej samej kategorii
-       * wyłącza filtr.
-       */
+      /* CATEGORY */
 
       if (activeFilters.has(filter)) {
         activeFilters.delete(filter);
@@ -344,7 +424,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   /* ======================================================
      INITIAL STATE
-     ====================================================== */
+  ====================================================== */
 
   activeFilters.clear();
 

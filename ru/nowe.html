@@ -6,29 +6,34 @@
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-1Z98BZS3WW"
     ></script>
+
     <script>
       window.dataLayer = window.dataLayer || [];
+
       function gtag() {
         dataLayer.push(arguments);
       }
-      gtag("js", new Date());
 
+      gtag("js", new Date());
       gtag("config", "G-1Z98BZS3WW");
     </script>
+
     <!-- =====================================================
-         01. BASIC META
+         BASIC META
     ====================================================== -->
 
     <meta charset="UTF-8" />
-
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <meta name="robots" content="index, follow, max-image-preview:large" />
 
+    <meta name="author" content="LTS Market" />
+    <meta name="theme-color" content="#0b0f13" />
+
     <!-- =====================================================
-         02. SEO
+         SEO
     ====================================================== -->
 
     <title>
@@ -40,26 +45,23 @@
       content="Новые профессиональные лазеры для эпиляции для косметологических кабинетов и салонов красоты. Alpha Mini, Ray, Alpha, Lumos и Sirius. Финансирование, обучение, гарантия и техническая поддержка."
     />
 
-    <meta
-      name="keywords"
-      content="лазер для эпиляции, диодный лазер, косметологический лазер, лазер для салона, Alpha Mini, Ray laser, Alpha laser, Lumos laser, Sirius laser, четырехволновой лазер, косметологическое оборудование, LTS Market"
-    />
-
-    <meta name="author" content="LTS Market" />
-
-    <meta name="theme-color" content="#0b0f13" />
-
     <!-- =====================================================
-         03. CANONICAL
+         CANONICAL
     ====================================================== -->
 
     <link rel="canonical" href="https://ltsmarket.pl/ru/nowe.html" />
 
     <!-- =====================================================
-         04. HREFLANG
+         HREFLANG
     ====================================================== -->
 
     <link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe.html" />
+
+    <link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/nowe.html"
+    />
 
     <link
       rel="alternate"
@@ -74,13 +76,11 @@
     />
 
     <!-- =====================================================
-         05. OPEN GRAPH
+         OPEN GRAPH
     ====================================================== -->
 
     <meta property="og:type" content="website" />
-
     <meta property="og:locale" content="ru_RU" />
-
     <meta property="og:site_name" content="LTS Market" />
 
     <meta
@@ -97,11 +97,16 @@
 
     <meta
       property="og:image"
-      content="https://ltsmarket.pl/assets/img/og/lts-market-og.jpg"
+      content="https://ltsmarket.pl/assets/img/nowe/lumos-main.webp"
+    />
+
+    <meta
+      property="og:image:alt"
+      content="Профессиональный лазер Lumos для эпиляции от LTS Market"
     />
 
     <!-- =====================================================
-         06. TWITTER
+         TWITTER
     ====================================================== -->
 
     <meta name="twitter:card" content="summary_large_image" />
@@ -118,11 +123,25 @@
 
     <meta
       name="twitter:image"
-      content="https://ltsmarket.pl/assets/img/og/lts-market-og.jpg"
+      content="https://ltsmarket.pl/assets/img/nowe/lumos-main.webp"
     />
 
     <!-- =====================================================
-         07. CSS
+         FAVICON
+    ====================================================== -->
+
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- =====================================================
+         CSS
     ====================================================== -->
 
     <link rel="stylesheet" href="../assets/css/main.css" />
@@ -130,7 +149,7 @@
     <link rel="stylesheet" href="../assets/css/nowe.css" />
 
     <!-- =====================================================
-         08. STRUCTURED DATA
+         STRUCTURED DATA
     ====================================================== -->
 
     <script type="application/ld+json">
@@ -156,6 +175,7 @@
                 "@type": "Offer",
                 "priceCurrency": "PLN",
                 "price": "40000",
+                "availability": "https://schema.org/InStock",
                 "url": "https://ltsmarket.pl/ru/nowe.html#alpha-mini"
               }
             }
@@ -175,6 +195,7 @@
                 "@type": "Offer",
                 "priceCurrency": "PLN",
                 "price": "55000",
+                "availability": "https://schema.org/InStock",
                 "url": "https://ltsmarket.pl/ru/nowe.html#ray"
               }
             }
@@ -194,6 +215,7 @@
                 "@type": "Offer",
                 "priceCurrency": "PLN",
                 "price": "60000",
+                "availability": "https://schema.org/InStock",
                 "url": "https://ltsmarket.pl/ru/nowe.html#alpha"
               }
             }
@@ -233,6 +255,7 @@
                 "@type": "Offer",
                 "priceCurrency": "PLN",
                 "price": "105000",
+                "availability": "https://schema.org/InStock",
                 "url": "https://ltsmarket.pl/ru/nowe.html#sirius"
               }
             }
@@ -254,8 +277,9 @@
           class="site-logo"
           aria-label="LTS Market - главная"
         >
-          <span class="logo-main">LTS</span>
-          <span class="logo-sub">MARKET</span>
+          <span class="logo-main"> LTS </span>
+
+          <span class="logo-sub"> MARKET </span>
         </a>
 
         <nav class="main-nav" aria-label="Основная навигация">
@@ -265,9 +289,9 @@
             Новые
           </a>
 
-          <a href="index.html#uzywane" class="nav-link"> Б/у </a>
+          <a href="uzywane.html" class="nav-link"> Б/у </a>
 
-          <a href="index.html#leasing" class="nav-link"> Лизинг </a>
+          <a href="leasing.html" class="nav-link"> Лизинг </a>
 
           <a
             href="https://lasertechservice.pl/"
@@ -285,12 +309,7 @@
               PL
             </a>
 
-            <a
-              href="../en/index.html"
-              class="lang-link"
-              hreflang="en"
-              lang="en"
-            >
+            <a href="../en/nowe.html" class="lang-link" hreflang="en" lang="en">
               EN
             </a>
 
@@ -319,19 +338,19 @@
         </div>
       </div>
 
-      <!-- =================================================
+      <!-- =====================================================
            MOBILE MENU
-      ================================================== -->
+      ====================================================== -->
 
       <div class="mobile-menu" id="mobile-menu">
         <nav class="mobile-menu-nav" aria-label="Мобильное меню">
           <a href="index.html"> Market </a>
 
-          <a href="nowe.html"> Новое оборудование </a>
+          <a href="nowe.html" class="active"> Новое оборудование </a>
 
-          <a href="index.html#uzywane"> Б/у оборудование </a>
+          <a href="uzywane.html"> Б/у оборудование </a>
 
-          <a href="index.html#leasing"> Лизинг </a>
+          <a href="leasing.html"> Лизинг </a>
 
           <a href="https://lasertechservice.pl/"> Laser Tech Service </a>
 
@@ -341,7 +360,7 @@
         <div class="mobile-language-switcher">
           <a href="../nowe.html" hreflang="pl"> PL </a>
 
-          <a href="../en/index.html" hreflang="en"> EN </a>
+          <a href="../en/nowe.html" hreflang="en"> EN </a>
 
           <a href="nowe.html" class="active" hreflang="ru"> RU </a>
         </div>
@@ -364,7 +383,7 @@
 
             <h1>
               Лазеры для эпиляции
-              <span>для профессиональных кабинетов</span>
+              <span> для профессиональных кабинетов </span>
             </h1>
 
             <p class="new-products-hero-description">
@@ -374,7 +393,7 @@
             </p>
 
             <div class="new-products-hero-actions">
-              <a href="#modele" class="btn btn-primary"> Смотреть модели </a>
+              <a href="#models" class="btn btn-primary"> Смотреть модели </a>
 
               <a href="kontakt.html" class="btn btn-secondary">
                 Получить консультацию
@@ -383,18 +402,21 @@
 
             <div class="new-products-hero-stats">
               <div>
-                <strong>5</strong>
-                <span>моделей</span>
+                <strong> 5 </strong>
+
+                <span> моделей </span>
               </div>
 
               <div>
-                <strong>1000–4000 Вт</strong>
-                <span>доступная мощность</span>
+                <strong> 1000–4000 Вт </strong>
+
+                <span> доступная мощность </span>
               </div>
 
               <div>
-                <strong>до 5 лет</strong>
-                <span>возможной гарантии</span>
+                <strong> до 5 лет </strong>
+
+                <span> возможной гарантии </span>
               </div>
             </div>
           </div>
@@ -406,13 +428,17 @@
                 alt="Профессиональный лазер Lumos для эпиляции"
                 width="900"
                 height="1000"
+                fetchpriority="high"
+                decoding="async"
               />
             </div>
 
             <div class="hero-product-label">
-              <span>Премиальная модель</span>
-              <strong>Lumos</strong>
-              <small>2000–4000 Вт</small>
+              <span> Премиальная модель </span>
+
+              <strong> Lumos </strong>
+
+              <small> 2000–4000 Вт </small>
             </div>
           </div>
         </div>
@@ -429,7 +455,7 @@
 
             <h2>
               Один кабинет.
-              <span>Разные задачи.</span>
+              <span> Разные задачи. </span>
             </h2>
           </div>
 
@@ -452,7 +478,7 @@
            MODELS
       ================================================== -->
 
-      <section class="laser-models section" id="modele">
+      <section class="laser-models section" id="models">
         <div class="container">
           <div class="section-heading">
             <span class="section-eyebrow"> ПРЕДЛОЖЕНИЕ </span>
@@ -466,9 +492,7 @@
           </div>
 
           <div class="laser-models-list">
-            <!-- =============================================
-                 ALPHA MINI
-            ============================================== -->
+            <!-- ALPHA MINI -->
 
             <article class="laser-product" id="alpha-mini">
               <div class="laser-product-image">
@@ -480,6 +504,7 @@
                   width="760"
                   height="760"
                   loading="lazy"
+                  decoding="async"
                 />
               </div>
 
@@ -492,8 +517,9 @@
                   </div>
 
                   <div class="laser-product-price">
-                    <span>от</span>
-                    <strong>40 000 zł</strong>
+                    <span> от </span>
+
+                    <strong> 40 000 zł </strong>
                   </div>
                 </div>
 
@@ -504,23 +530,27 @@
 
                 <div class="laser-spec-grid">
                   <div class="laser-spec">
-                    <span>Мощность манипулы</span>
-                    <strong>1000–1200 Вт</strong>
+                    <span> Мощность манипулы </span>
+
+                    <strong> 1000–1200 Вт </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Энергия</span>
-                    <strong>120–140 Дж / 200 мс</strong>
+                    <span> Энергия </span>
+
+                    <strong> 120–140 Дж / 200 мс </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Рабочее окно</span>
-                    <strong>12 × 12 мм</strong>
+                    <span> Рабочее окно </span>
+
+                    <strong> 12 × 12 мм </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Охлаждение</span>
-                    <strong>TEC 500 Вт</strong>
+                    <span> Охлаждение </span>
+
+                    <strong> TEC 500 Вт </strong>
                   </div>
                 </div>
 
@@ -544,9 +574,7 @@
               </div>
             </article>
 
-            <!-- =============================================
-                 RAY
-            ============================================== -->
+            <!-- RAY -->
 
             <article class="laser-product laser-product-reverse" id="ray">
               <div class="laser-product-image">
@@ -558,6 +586,7 @@
                   width="760"
                   height="760"
                   loading="lazy"
+                  decoding="async"
                 />
               </div>
 
@@ -570,7 +599,7 @@
                   </div>
 
                   <div class="laser-product-price">
-                    <strong>55 000 zł</strong>
+                    <strong> 55 000 zł </strong>
                   </div>
                 </div>
 
@@ -581,23 +610,27 @@
 
                 <div class="laser-spec-grid">
                   <div class="laser-spec">
-                    <span>Мощность манипулы</span>
-                    <strong>1200 Вт</strong>
+                    <span> Мощность манипулы </span>
+
+                    <strong> 1200 Вт </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Энергия</span>
-                    <strong>150 Дж / 200 мс</strong>
+                    <span> Энергия </span>
+
+                    <strong> 150 Дж / 200 мс </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Насадки</span>
-                    <strong>4 сменные</strong>
+                    <span> Насадки </span>
+
+                    <strong> 4 сменные </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Охлаждение</span>
-                    <strong>Фреон 300 Вт</strong>
+                    <span> Охлаждение </span>
+
+                    <strong> Фреон 300 Вт </strong>
                   </div>
                 </div>
 
@@ -621,9 +654,7 @@
               </div>
             </article>
 
-            <!-- =============================================
-                 ALPHA
-            ============================================== -->
+            <!-- ALPHA -->
 
             <article class="laser-product" id="alpha">
               <div class="laser-product-image">
@@ -635,6 +666,7 @@
                   width="760"
                   height="760"
                   loading="lazy"
+                  decoding="async"
                 />
               </div>
 
@@ -647,8 +679,9 @@
                   </div>
 
                   <div class="laser-product-price">
-                    <span>от</span>
-                    <strong>60 000 zł</strong>
+                    <span> от </span>
+
+                    <strong> 60 000 zł </strong>
                   </div>
                 </div>
 
@@ -659,23 +692,27 @@
 
                 <div class="laser-spec-grid">
                   <div class="laser-spec">
-                    <span>Мощность манипулы</span>
-                    <strong>1600–2000 Вт</strong>
+                    <span> Мощность манипулы </span>
+
+                    <strong> 1600–2000 Вт </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Энергия</span>
-                    <strong>180–220 Дж / 200 мс</strong>
+                    <span> Энергия </span>
+
+                    <strong> 180–220 Дж / 200 мс </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Рабочее окно</span>
-                    <strong>12 × 20 мм</strong>
+                    <span> Рабочее окно </span>
+
+                    <strong> 12 × 20 мм </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Охлаждение</span>
-                    <strong>TEC 1200 Вт</strong>
+                    <span> Охлаждение </span>
+
+                    <strong> TEC 1200 Вт </strong>
                   </div>
                 </div>
 
@@ -699,9 +736,7 @@
               </div>
             </article>
 
-            <!-- =============================================
-                 LUMOS
-            ============================================== -->
+            <!-- LUMOS -->
 
             <article
               class="laser-product laser-product-featured laser-product-reverse"
@@ -718,6 +753,7 @@
                   width="760"
                   height="760"
                   loading="lazy"
+                  decoding="async"
                 />
               </div>
 
@@ -732,7 +768,7 @@
                   </div>
 
                   <div class="laser-product-price">
-                    <strong>68 000–100 000 zł</strong>
+                    <strong> 68 000–100 000 zł </strong>
                   </div>
                 </div>
 
@@ -744,23 +780,27 @@
 
                 <div class="laser-spec-grid">
                   <div class="laser-spec">
-                    <span>Мощность манипулы</span>
-                    <strong>2000–4000 Вт</strong>
+                    <span> Мощность манипулы </span>
+
+                    <strong> 2000–4000 Вт </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Длины волн</span>
-                    <strong>755 / 808 / 940 / 1064 нм</strong>
+                    <span> Длины волн </span>
+
+                    <strong> 755 / 808 / 940 / 1064 нм </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Энергия</span>
-                    <strong>10–240 Дж</strong>
+                    <span> Энергия </span>
+
+                    <strong> 10–240 Дж </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Частота</span>
-                    <strong>1–30 Гц</strong>
+                    <span> Частота </span>
+
+                    <strong> 1–30 Гц </strong>
                   </div>
                 </div>
 
@@ -787,9 +827,7 @@
               </div>
             </article>
 
-            <!-- =============================================
-                 SIRIUS
-            ============================================== -->
+            <!-- SIRIUS -->
 
             <article class="laser-product" id="sirius">
               <div class="laser-product-image">
@@ -801,6 +839,7 @@
                   width="760"
                   height="760"
                   loading="lazy"
+                  decoding="async"
                 />
               </div>
 
@@ -815,7 +854,7 @@
                   </div>
 
                   <div class="laser-product-price">
-                    <strong>105 000 zł</strong>
+                    <strong> 105 000 zł </strong>
                   </div>
                 </div>
 
@@ -826,23 +865,27 @@
 
                 <div class="laser-spec-grid">
                   <div class="laser-spec">
-                    <span>Мощность манипулы</span>
-                    <strong>3000 Вт</strong>
+                    <span> Мощность манипулы </span>
+
+                    <strong> 3000 Вт </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>RF</span>
-                    <strong>50 Дж</strong>
+                    <span> RF </span>
+
+                    <strong> 50 Дж </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Энергия</span>
-                    <strong>260 Дж / 90 мс</strong>
+                    <span> Энергия </span>
+
+                    <strong> 260 Дж / 90 мс </strong>
                   </div>
 
                   <div class="laser-spec">
-                    <span>Рабочее окно</span>
-                    <strong>12 × 23 мм</strong>
+                    <span> Рабочее окно </span>
+
+                    <strong> 12 × 23 мм </strong>
                   </div>
                 </div>
 
@@ -883,13 +926,13 @@
 
             <h2>
               Технологии для
-              <span>интенсивной работы</span>
+              <span> интенсивной работы </span>
             </h2>
           </div>
 
           <div class="technology-grid">
             <article class="technology-card">
-              <span class="technology-number">01</span>
+              <span class="technology-number"> 01 </span>
 
               <h3>4 длины волн</h3>
 
@@ -897,7 +940,7 @@
             </article>
 
             <article class="technology-card">
-              <span class="technology-number">02</span>
+              <span class="technology-number"> 02 </span>
 
               <h3>NeoDez</h3>
 
@@ -905,7 +948,7 @@
             </article>
 
             <article class="technology-card">
-              <span class="technology-number">03</span>
+              <span class="technology-number"> 03 </span>
 
               <h3>Дермаскоп</h3>
 
@@ -916,7 +959,7 @@
             </article>
 
             <article class="technology-card">
-              <span class="technology-number">04</span>
+              <span class="technology-number"> 04 </span>
 
               <h3>CRM</h3>
 
@@ -1001,7 +1044,7 @@
                 <tr>
                   <th>Sirius</th>
                   <td>3000 Вт</td>
-                  <td>Да / AI</td>
+                  <td>Да</td>
                   <td>Да</td>
                   <td>Да</td>
                   <td>TEC 2 × 1200 Вт</td>
@@ -1024,7 +1067,7 @@
 
             <h2>
               Оборудование —
-              <span>только часть инвестиции</span>
+              <span> только часть инвестиции </span>
             </h2>
           </div>
 
@@ -1071,14 +1114,14 @@
            FINANCING
       ================================================== -->
 
-      <section class="laser-financing section" id="finansowanie">
+      <section class="laser-financing section" id="financing">
         <div class="container laser-financing-grid">
           <div class="laser-financing-content">
             <span class="section-eyebrow"> ФИНАНСИРОВАНИЕ </span>
 
             <h2>
               Не обязательно оплачивать
-              <span>всю стоимость сразу</span>
+              <span> всю стоимость сразу </span>
             </h2>
 
             <p>
@@ -1086,8 +1129,8 @@
               лизинга. Условия финансирования рассчитываются индивидуально.
             </p>
 
-            <a href="kontakt.html" class="btn btn-primary">
-              Узнать о финансировании
+            <a href="leasing.html" class="btn btn-primary">
+              Подробнее о лизинге
             </a>
           </div>
 
@@ -1095,28 +1138,33 @@
             <span class="financing-label"> ПРИМЕР РАССРОЧКИ 0% </span>
 
             <div class="financing-row">
-              <span>Alpha Mini</span>
-              <strong>2 400 zł / мес.</strong>
+              <span> Alpha Mini </span>
+
+              <strong> 2 400 zł / мес. </strong>
             </div>
 
             <div class="financing-row">
-              <span>Ray</span>
-              <strong>3 300 zł / мес.</strong>
+              <span> Ray </span>
+
+              <strong> 3 300 zł / мес. </strong>
             </div>
 
             <div class="financing-row">
-              <span>Alpha</span>
-              <strong>3 000 zł / мес.</strong>
+              <span> Alpha </span>
+
+              <strong> 3 000 zł / мес. </strong>
             </div>
 
             <div class="financing-row">
-              <span>Lumos</span>
-              <strong>3 190 zł / мес.</strong>
+              <span> Lumos </span>
+
+              <strong> 3 190 zł / мес. </strong>
             </div>
 
             <div class="financing-row">
-              <span>Sirius</span>
-              <strong>3 500 zł / мес.</strong>
+              <span> Sirius </span>
+
+              <strong> 3 500 zł / мес. </strong>
             </div>
 
             <small>
@@ -1141,7 +1189,7 @@
 
           <div class="why-buy-grid">
             <article>
-              <span>01</span>
+              <span> 01 </span>
 
               <h3>Подбор оборудования</h3>
 
@@ -1152,7 +1200,7 @@
             </article>
 
             <article>
-              <span>02</span>
+              <span> 02 </span>
 
               <h3>Сервисная база</h3>
 
@@ -1160,7 +1208,7 @@
             </article>
 
             <article>
-              <span>03</span>
+              <span> 03 </span>
 
               <h3>Финансирование</h3>
 
@@ -1171,7 +1219,7 @@
             </article>
 
             <article>
-              <span>04</span>
+              <span> 04 </span>
 
               <h3>Поддержка после покупки</h3>
 
@@ -1230,8 +1278,9 @@
             class="site-logo footer-logo"
             aria-label="LTS Market"
           >
-            <span class="logo-main">LTS</span>
-            <span class="logo-sub">MARKET</span>
+            <span class="logo-main"> LTS </span>
+
+            <span class="logo-sub"> MARKET </span>
           </a>
 
           <p>
@@ -1245,9 +1294,9 @@
 
           <a href="nowe.html"> Новое оборудование </a>
 
-          <a href="index.html#uzywane"> Б/у оборудование </a>
+          <a href="uzywane.html"> Б/у оборудование </a>
 
-          <a href="index.html#leasing"> Лизинг </a>
+          <a href="leasing.html"> Лизинг </a>
         </div>
 
         <div class="footer-column">
@@ -1271,7 +1320,7 @@
 
           <a href="../nowe.html" hreflang="pl"> Polski </a>
 
-          <a href="../en/index.html" hreflang="en"> English </a>
+          <a href="../en/nowe.html" hreflang="en"> English </a>
 
           <a href="nowe.html" hreflang="ru"> Русский </a>
         </div>
@@ -1283,7 +1332,7 @@
 
           <a href="mailto:sales@ltsmarket.pl"> sales@ltsmarket.pl </a>
 
-          <span>Польша</span>
+          <span> Польша </span>
         </div>
       </div>
 
@@ -1313,9 +1362,9 @@
     <nav class="mobile-bottom-nav" aria-label="Быстрая мобильная навигация">
       <a href="index.html"> Market </a>
 
-      <a href="nowe.html" class="active"> Новые </a>
+      <a href="nowe.html" class="active" aria-current="page"> Новые </a>
 
-      <a href="index.html#uzywane"> Б/у </a>
+      <a href="uzywane.html"> Б/у </a>
 
       <a href="kontakt.html"> Контакты </a>
     </nav>

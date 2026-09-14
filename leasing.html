@@ -1,17 +1,152 @@
 <!doctype html>
 <html lang="pl">
   <head>
-    <!-- FAVICON / APP ICONS -->
-    <link rel="icon" href="/favicon.ico" sizes="any" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link rel="manifest" href="/site.webmanifest" />
-    <meta name="theme-color" content="#0b0f13" />
+    <!-- =====================================================
+         GOOGLE ANALYTICS
+    ====================================================== -->
 
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-1Z98BZS3WW"
+    ></script>
+
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+      gtag("config", "G-1Z98BZS3WW");
+    </script>
 
     <!-- =====================================================
-         06. CSS
+         BASIC META
+    ====================================================== -->
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+
+    <meta name="author" content="LTS Market" />
+    <meta name="theme-color" content="#0b0f13" />
+
+    <!-- =====================================================
+         SEO
+    ====================================================== -->
+
+    <title>Leasing urządzeń kosmetycznych i laserów | LTS Market</title>
+
+    <meta
+      name="description"
+      content="Leasing i finansowanie profesjonalnych urządzeń kosmetycznych, laserów diodowych, RF, HIFU i sprzętu beauty. Obsługujemy firmy w całej Polsce i współpracujemy z bankami oraz firmami leasingowymi."
+    />
+
+    <!-- =====================================================
+         CANONICAL
+    ====================================================== -->
+
+    <link rel="canonical" href="https://ltsmarket.pl/leasing.html" />
+
+    <!-- =====================================================
+         HREFLANG
+    ====================================================== -->
+
+    <link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/leasing.html"
+    />
+
+    <link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/leasing.html"
+    />
+
+    <link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/leasing.html"
+    />
+
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/leasing.html"
+    />
+
+    <!-- =====================================================
+         OPEN GRAPH
+    ====================================================== -->
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="pl_PL" />
+    <meta property="og:site_name" content="LTS Market" />
+
+    <meta
+      property="og:title"
+      content="Leasing urządzeń kosmetycznych | LTS Market"
+    />
+
+    <meta
+      property="og:description"
+      content="Indywidualne finansowanie profesjonalnych urządzeń beauty. Leasing dla firm na terenie całej Polski."
+    />
+
+    <meta property="og:url" content="https://ltsmarket.pl/leasing.html" />
+
+    <meta
+      property="og:image"
+      content="https://ltsmarket.pl/assets/img/nowe/lumos-main.webp"
+    />
+
+    <meta
+      property="og:image:alt"
+      content="Leasing profesjonalnych urządzeń kosmetycznych LTS Market"
+    />
+
+    <!-- =====================================================
+         TWITTER
+    ====================================================== -->
+
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta
+      name="twitter:title"
+      content="Leasing urządzeń kosmetycznych | LTS Market"
+    />
+
+    <meta
+      name="twitter:description"
+      content="Finansowanie profesjonalnego sprzętu beauty i laserów dla firm w całej Polsce."
+    />
+
+    <meta
+      name="twitter:image"
+      content="https://ltsmarket.pl/assets/img/nowe/lumos-main.webp"
+    />
+
+    <!-- =====================================================
+         FAVICON
+    ====================================================== -->
+
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- =====================================================
+         CSS
     ====================================================== -->
 
     <link rel="stylesheet" href="assets/css/main.css" />
@@ -19,17 +154,20 @@
     <link rel="stylesheet" href="assets/css/leasing.css" />
 
     <!-- =====================================================
-         07. STRUCTURED DATA — SERVICE
+         STRUCTURED DATA — SERVICE
     ====================================================== -->
 
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "Service",
+        "@id": "https://ltsmarket.pl/leasing.html#service",
         "name": "Leasing sprzętu kosmetycznego",
+        "url": "https://ltsmarket.pl/leasing.html",
         "description": "Pomoc w organizacji finansowania zakupu profesjonalnych urządzeń kosmetycznych i sprzętu beauty dla firm na terenie całej Polski.",
         "provider": {
           "@type": "Organization",
+          "@id": "https://ltsmarket.pl/#organization",
           "name": "LTS Market",
           "url": "https://ltsmarket.pl/",
           "telephone": "+48 575 254 431",
@@ -44,7 +182,7 @@
     </script>
 
     <!-- =====================================================
-         08. STRUCTURED DATA — FAQ
+         STRUCTURED DATA — FAQ
     ====================================================== -->
 
     <script type="application/ld+json">
@@ -105,7 +243,7 @@
     </script>
 
     <!-- =====================================================
-         09. BREADCRUMB STRUCTURED DATA
+         STRUCTURED DATA — BREADCRUMB
     ====================================================== -->
 
     <script type="application/ld+json">
@@ -142,8 +280,9 @@
           class="site-logo"
           aria-label="LTS Market - strona główna"
         >
-          <span class="logo-main">LTS</span>
-          <span class="logo-sub">MARKET</span>
+          <span class="logo-main"> LTS </span>
+
+          <span class="logo-sub"> MARKET </span>
         </a>
 
         <nav class="main-nav" aria-label="Główna nawigacja">
@@ -153,7 +292,9 @@
 
           <a href="uzywane.html" class="nav-link"> Używane </a>
 
-          <a href="leasing.html" class="nav-link active"> Leasing </a>
+          <a href="leasing.html" class="nav-link active" aria-current="page">
+            Leasing
+          </a>
 
           <a
             href="https://lasertechservice.pl/"
@@ -172,15 +313,16 @@
               class="lang-link active"
               hreflang="pl"
               lang="pl"
+              aria-current="page"
             >
               PL
             </a>
 
-            <a href="en/index.html" class="lang-link" hreflang="en" lang="en">
+            <a href="en/leasing.html" class="lang-link" hreflang="en" lang="en">
               EN
             </a>
 
-            <a href="ru/index.html" class="lang-link" hreflang="ru" lang="ru">
+            <a href="ru/leasing.html" class="lang-link" hreflang="ru" lang="ru">
               RU
             </a>
           </div>
@@ -199,6 +341,10 @@
         </div>
       </div>
 
+      <!-- =====================================================
+           MOBILE MENU
+      ====================================================== -->
+
       <div class="mobile-menu" id="mobile-menu">
         <nav class="mobile-menu-nav" aria-label="Menu mobilne">
           <a href="index.html"> Market </a>
@@ -207,7 +353,9 @@
 
           <a href="uzywane.html"> Urządzenia używane </a>
 
-          <a href="leasing.html" class="active"> Leasing </a>
+          <a href="leasing.html" class="active" aria-current="page">
+            Leasing
+          </a>
 
           <a href="https://lasertechservice.pl/"> Laser Tech Service </a>
 
@@ -217,9 +365,9 @@
         <div class="mobile-language-switcher">
           <a href="leasing.html" class="active" hreflang="pl"> PL </a>
 
-          <a href="en/index.html" hreflang="en"> EN </a>
+          <a href="en/leasing.html" hreflang="en"> EN </a>
 
-          <a href="ru/index.html" hreflang="ru"> RU </a>
+          <a href="ru/leasing.html" hreflang="ru"> RU </a>
         </div>
       </div>
     </header>
@@ -266,8 +414,6 @@
             </div>
           </div>
 
-          <!-- HERO INFO CARD -->
-
           <aside class="leasing-hero-card">
             <span class="leasing-card-label"> LTS MARKET </span>
 
@@ -280,23 +426,27 @@
 
             <div class="leasing-hero-features">
               <div>
-                <span>01</span>
-                <strong>Cała Polska</strong>
+                <span> 01 </span>
+
+                <strong> Cała Polska </strong>
               </div>
 
               <div>
-                <span>02</span>
-                <strong>Indywidualna oferta</strong>
+                <span> 02 </span>
+
+                <strong> Indywidualna oferta </strong>
               </div>
 
               <div>
-                <span>03</span>
-                <strong>Banki i leasing</strong>
+                <span> 03 </span>
+
+                <strong> Banki i leasing </strong>
               </div>
 
               <div>
-                <span>04</span>
-                <strong>Sprzęt beauty</strong>
+                <span> 04 </span>
+
+                <strong> Sprzęt beauty </strong>
               </div>
             </div>
           </aside>
@@ -314,7 +464,7 @@
 
             <h2>
               Nie wciskamy jednego leasingu.
-              <span>Szukamy rozwiązania dla Ciebie.</span>
+              <span> Szukamy rozwiązania dla Ciebie. </span>
             </h2>
           </div>
 
@@ -351,7 +501,7 @@
 
             <h2>
               Od urządzenia do finansowania
-              <span>w czterech krokach.</span>
+              <span> w czterech krokach. </span>
             </h2>
 
             <p>Zaczynamy od tego, czego naprawdę potrzebuje Twój gabinet.</p>
@@ -422,7 +572,7 @@
 
               <h2>
                 Jedno zapytanie.
-                <span>Wiele możliwości finansowania.</span>
+                <span> Wiele możliwości finansowania. </span>
               </h2>
 
               <p>
@@ -455,7 +605,7 @@
 
             <h2>
               Jakie urządzenia
-              <span>możemy finansować?</span>
+              <span> możemy finansować? </span>
             </h2>
 
             <p>
@@ -466,7 +616,7 @@
 
           <div class="leasing-equipment-grid">
             <article class="leasing-equipment-card">
-              <span>01</span>
+              <span> 01 </span>
 
               <h3>Lasery diodowe</h3>
 
@@ -476,7 +626,7 @@
             </article>
 
             <article class="leasing-equipment-card">
-              <span>02</span>
+              <span> 02 </span>
 
               <h3>ND:YAG</h3>
 
@@ -487,7 +637,7 @@
             </article>
 
             <article class="leasing-equipment-card">
-              <span>03</span>
+              <span> 03 </span>
 
               <h3>IPL</h3>
 
@@ -498,7 +648,7 @@
             </article>
 
             <article class="leasing-equipment-card">
-              <span>04</span>
+              <span> 04 </span>
 
               <h3>RF i HIFU</h3>
 
@@ -508,7 +658,7 @@
             </article>
 
             <article class="leasing-equipment-card">
-              <span>05</span>
+              <span> 05 </span>
 
               <h3>Inne urządzenia</h3>
 
@@ -547,7 +697,7 @@
 
             <h2>
               Rozwijaj gabinet bez jednorazowego finansowania
-              <span>całego zakupu.</span>
+              <span> całego zakupu. </span>
             </h2>
           </div>
 
@@ -583,13 +733,13 @@
 
             <h2>
               Sprzęt, finansowanie
-              <span>i zaplecze techniczne.</span>
+              <span> i zaplecze techniczne. </span>
             </h2>
           </div>
 
           <div class="leasing-benefits">
             <article>
-              <span>01</span>
+              <span> 01 </span>
 
               <h3>Cała Polska</h3>
 
@@ -597,7 +747,7 @@
             </article>
 
             <article>
-              <span>02</span>
+              <span> 02 </span>
 
               <h3>Indywidualne podejście</h3>
 
@@ -608,7 +758,7 @@
             </article>
 
             <article>
-              <span>03</span>
+              <span> 03 </span>
 
               <h3>Wybór urządzenia</h3>
 
@@ -619,7 +769,7 @@
             </article>
 
             <article>
-              <span>04</span>
+              <span> 04 </span>
 
               <h3>Zaplecze serwisowe</h3>
 
@@ -643,7 +793,7 @@
 
             <h2>
               Leasing urządzeń kosmetycznych
-              <span>— najczęstsze pytania.</span>
+              <span> — najczęstsze pytania. </span>
             </h2>
 
             <p>Nie znalazłeś odpowiedzi? Zadzwoń lub napisz do LTS Market.</p>
@@ -829,7 +979,7 @@
 
             <h2>
               Najpierw wybierz urządzenie.
-              <span>Finansowaniem zajmiemy się razem.</span>
+              <span> Finansowaniem zajmiemy się razem. </span>
             </h2>
 
             <p>
@@ -871,8 +1021,9 @@
             class="site-logo footer-logo"
             aria-label="LTS Market"
           >
-            <span class="logo-main">LTS</span>
-            <span class="logo-sub">MARKET</span>
+            <span class="logo-main"> LTS </span>
+
+            <span class="logo-sub"> MARKET </span>
           </a>
 
           <p>
@@ -908,11 +1059,11 @@
         <div class="footer-column">
           <h3>Język</h3>
 
-          <a href="leasing.html"> Polski </a>
+          <a href="leasing.html" hreflang="pl"> Polski </a>
 
-          <a href="en/index.html"> English </a>
+          <a href="en/leasing.html" hreflang="en"> English </a>
 
-          <a href="ru/index.html"> Русский </a>
+          <a href="ru/leasing.html" hreflang="ru"> Русский </a>
         </div>
 
         <div class="footer-column">
@@ -956,7 +1107,7 @@
 
       <a href="uzywane.html"> Używane </a>
 
-      <a href="leasing.html" class="active"> Leasing </a>
+      <a href="leasing.html" class="active" aria-current="page"> Leasing </a>
     </nav>
 
     <!-- =====================================================

@@ -1,23 +1,139 @@
 <!doctype html>
 <html lang="pl">
   <head>
-    <!-- FAVICON / APP ICONS -->
-    <link rel="icon" href="/favicon.ico" sizes="any" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link rel="manifest" href="/site.webmanifest" />
-    <meta name="theme-color" content="#0b0f13" />
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-1Z98BZS3WW"
+    ></script>
 
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag("js", new Date());
+      gtag("config", "G-1Z98BZS3WW");
+    </script>
 
     <!-- =====================================================
-         08. CSS
+         BASIC META
+    ====================================================== -->
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+
+    <meta name="author" content="LTS Market" />
+    <meta name="theme-color" content="#0b0f13" />
+
+    <!-- =====================================================
+         SEO
+    ====================================================== -->
+
+    <title>Urządzenia kosmetyczne nowe i używane | LTS Market</title>
+
+    <meta
+      name="description"
+      content="LTS Market – profesjonalne urządzenia kosmetyczne dla salonów, gabinetów i klinik w całej Polsce. Nowe i używane lasery, leasing, finansowanie oraz profesjonalne zaplecze techniczne Laser Tech Service."
+    />
+
+    <!-- =====================================================
+         CANONICAL
+    ====================================================== -->
+
+    <link rel="canonical" href="https://ltsmarket.pl/" />
+
+    <!-- =====================================================
+         HREFLANG
+    ====================================================== -->
+
+    <link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/" />
+
+    <link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/" />
+
+    <link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/" />
+
+    <link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/" />
+
+    <!-- =====================================================
+         OPEN GRAPH
+    ====================================================== -->
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="pl_PL" />
+    <meta property="og:site_name" content="LTS Market" />
+
+    <meta
+      property="og:title"
+      content="Profesjonalne urządzenia kosmetyczne | LTS Market"
+    />
+
+    <meta
+      property="og:description"
+      content="Nowe i używane urządzenia kosmetyczne, leasing, finansowanie oraz profesjonalne wsparcie techniczne dla branży beauty."
+    />
+
+    <meta property="og:url" content="https://ltsmarket.pl/" />
+
+    <meta
+      property="og:image"
+      content="https://ltsmarket.pl/assets/img/nowe/lumos-main.webp"
+    />
+
+    <meta
+      property="og:image:alt"
+      content="Profesjonalne urządzenia kosmetyczne LTS Market"
+    />
+
+    <!-- =====================================================
+         TWITTER
+    ====================================================== -->
+
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta
+      name="twitter:title"
+      content="Profesjonalne urządzenia kosmetyczne | LTS Market"
+    />
+
+    <meta
+      name="twitter:description"
+      content="Nowe i używane urządzenia dla branży beauty, leasing oraz profesjonalne wsparcie techniczne."
+    />
+
+    <meta
+      name="twitter:image"
+      content="https://ltsmarket.pl/assets/img/nowe/lumos-main.webp"
+    />
+
+    <!-- =====================================================
+         FAVICON / APP ICONS
+    ====================================================== -->
+
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- =====================================================
+         CSS
     ====================================================== -->
 
     <link rel="stylesheet" href="assets/css/main.css" />
 
     <!-- =====================================================
-         09. STRUCTURED DATA
+         STRUCTURED DATA — ORGANIZATION
     ====================================================== -->
 
     <script type="application/ld+json">
@@ -37,6 +153,10 @@
         "sameAs": ["https://lasertechservice.pl/"]
       }
     </script>
+
+    <!-- =====================================================
+         STRUCTURED DATA — WEBSITE
+    ====================================================== -->
 
     <script type="application/ld+json">
       {
@@ -126,9 +246,13 @@
         </div>
       </div>
 
+      <!-- =================================================
+           MOBILE MENU
+      ================================================== -->
+
       <div class="mobile-menu" id="mobile-menu">
         <nav class="mobile-menu-nav" aria-label="Menu mobilne">
-          <a href="index.html"> Market </a>
+          <a href="index.html" aria-current="page"> Market </a>
 
           <a href="nowe.html"> Nowe urządzenia </a>
 
@@ -167,7 +291,6 @@
 
             <h1>
               Profesjonalne urządzenia
-
               <span> dla branży beauty </span>
             </h1>
 
@@ -206,75 +329,91 @@
             </div>
           </div>
 
-          <!-- HERO VISUAL -->
+          <!-- =================================================
+               HERO PRODUCT SLIDER
+          ================================================== -->
 
           <div class="hero-visual">
             <div class="hero-product-slider" data-product-slider>
-              <!-- SLIDE 01 -->
+              <!-- =============================================
+                   SLIDE 01 — ALPHA MINI
+              ============================================== -->
 
               <article class="hero-product active">
                 <div class="hero-product-image">
                   <img
                     src="assets/img/nowe/alpha-mini.webp"
-                    alt="Profesjonalne urządzenia kosmetyczne LTS Market"
+                    alt="Alpha Mini - profesjonalny laser do epilacji"
                     width="760"
                     height="760"
+                    fetchpriority="high"
+                    decoding="async"
                   />
                 </div>
 
                 <div class="hero-product-info">
                   <span class="product-category"> NOWE URZĄDZENIA </span>
 
-                  <strong> Technologie dla profesjonalnych gabinetów </strong>
+                  <strong> Alpha Mini </strong>
 
-                  <a href="nowe.html"> Zobacz ofertę → </a>
+                  <a href="nowe.html#alpha-mini"> Zobacz Alpha Mini → </a>
                 </div>
               </article>
 
-              <!-- SLIDE 02 -->
+              <!-- =============================================
+                   SLIDE 02 — LUMOS
+              ============================================== -->
 
               <article class="hero-product">
                 <div class="hero-product-image">
                   <img
                     src="assets/img/nowe/lumos-main.webp"
-                    alt="Urządzenia kosmetyczne dla branży beauty"
+                    alt="Lumos - profesjonalny czterofalowy laser do epilacji"
                     width="760"
                     height="760"
                     loading="lazy"
+                    decoding="async"
                   />
                 </div>
 
                 <div class="hero-product-info">
-                  <span class="product-category"> UŻYWANE </span>
+                  <span class="product-category"> NOWE URZĄDZENIA </span>
 
-                  <strong> Sprzęt z drugiej ręki dostępny w LTS Market </strong>
+                  <strong> Lumos </strong>
 
-                  <a href="uzywane.html"> Zobacz urządzenia → </a>
+                  <a href="nowe.html#lumos"> Zobacz Lumos → </a>
                 </div>
               </article>
 
-              <!-- SLIDE 03 -->
+              <!-- =============================================
+                   SLIDE 03 — RAY
+              ============================================== -->
 
               <article class="hero-product">
                 <div class="hero-product-image">
                   <img
                     src="assets/img/nowe/ray.webp"
-                    alt="Leasing urządzeń kosmetycznych LTS Market"
+                    alt="Ray - profesjonalny laser do epilacji"
                     width="760"
                     height="760"
                     loading="lazy"
+                    decoding="async"
                   />
                 </div>
 
                 <div class="hero-product-info">
-                  <span class="product-category"> LEASING </span>
+                  <span class="product-category"> NOWE URZĄDZENIA </span>
 
-                  <strong> Finansowanie dopasowane do Twojej firmy </strong>
+                  <strong> Ray </strong>
 
-                  <a href="leasing.html"> Sprawdź możliwości → </a>
+                  <a href="nowe.html#ray"> Zobacz Ray → </a>
                 </div>
               </article>
             </div>
+
+            <!-- =================================================
+                 SLIDER CONTROLS
+            ================================================== -->
 
             <div class="hero-slider-controls">
               <button
@@ -337,7 +476,9 @@
           </div>
 
           <div class="direction-grid">
-            <!-- NOWE -->
+            <!-- =============================================
+                 NOWE
+            ============================================== -->
 
             <a href="nowe.html" class="direction-card">
               <div class="direction-number">01</div>
@@ -354,7 +495,9 @@
               <span class="card-link"> Zobacz nowe urządzenia → </span>
             </a>
 
-            <!-- UŻYWANE -->
+            <!-- =============================================
+                 UŻYWANE
+            ============================================== -->
 
             <a href="uzywane.html" class="direction-card">
               <div class="direction-number">02</div>
@@ -371,7 +514,9 @@
               <span class="card-link"> Zobacz używane urządzenia → </span>
             </a>
 
-            <!-- LEASING -->
+            <!-- =============================================
+                 LEASING
+            ============================================== -->
 
             <a href="leasing.html" class="direction-card">
               <div class="direction-number">03</div>
@@ -410,9 +555,9 @@
           </div>
 
           <div class="products-grid">
-            <!-- =================================================
+            <!-- =============================================
                  ALPHA MINI
-            ================================================== -->
+            ============================================== -->
 
             <article class="product-card">
               <div class="product-card-image">
@@ -420,10 +565,11 @@
 
                 <img
                   src="assets/img/nowe/alpha-mini.webp"
-                  alt="Alpha Mini – profesjonalne urządzenie kosmetyczne"
+                  alt="Alpha Mini - profesjonalny laser do epilacji"
                   width="600"
                   height="600"
                   loading="lazy"
+                  decoding="async"
                 />
               </div>
 
@@ -433,18 +579,19 @@
                 <h3>Alpha Mini</h3>
 
                 <p>
-                  Profesjonalne urządzenie dla nowoczesnych gabinetów beauty.
+                  Kompaktowy profesjonalny laser do epilacji dla nowoczesnych
+                  gabinetów beauty.
                 </p>
 
-                <a href="nowe.html" class="product-card-link">
+                <a href="nowe.html#alpha-mini" class="product-card-link">
                   Zobacz ofertę →
                 </a>
               </div>
             </article>
 
-            <!-- =================================================
+            <!-- =============================================
                  RAY
-            ================================================== -->
+            ============================================== -->
 
             <article class="product-card">
               <div class="product-card-image">
@@ -452,10 +599,11 @@
 
                 <img
                   src="assets/img/nowe/ray.webp"
-                  alt="Ray – profesjonalne urządzenie kosmetyczne"
+                  alt="Ray - profesjonalny laser do epilacji"
                   width="600"
                   height="600"
                   loading="lazy"
+                  decoding="async"
                 />
               </div>
 
@@ -464,17 +612,20 @@
 
                 <h3>Ray</h3>
 
-                <p>Profesjonalne rozwiązanie przeznaczone dla branży beauty.</p>
+                <p>
+                  Profesjonalny laser do epilacji ze zmiennymi końcówkami
+                  zabiegowymi.
+                </p>
 
-                <a href="nowe.html" class="product-card-link">
+                <a href="nowe.html#ray" class="product-card-link">
                   Zobacz ofertę →
                 </a>
               </div>
             </article>
 
-            <!-- =================================================
+            <!-- =============================================
                  LEASING CARD
-            ================================================== -->
+            ============================================== -->
 
             <article class="product-card product-card-accent">
               <div class="product-card-body">
@@ -517,7 +668,8 @@
 
           <!--
             KARTY UŻYWANYCH URZĄDZEŃ
-            GENERUJE assets/js/used-products-home.js
+            GENERUJE:
+            assets/js/used-products-home.js
 
             DANE:
             assets/js/used-products.js
@@ -538,7 +690,6 @@
 
             <h2>
               Nie tylko sprzedajemy.
-
               <span> Znamy te urządzenia od środka. </span>
             </h2>
 
@@ -619,7 +770,6 @@
 
             <h2>
               Urządzenie teraz.
-
               <span> Finansowanie dopasowane do firmy. </span>
             </h2>
 
@@ -727,7 +877,6 @@
 
               <h2>
                 Szukasz urządzenia
-
                 <span> dla swojego gabinetu? </span>
               </h2>
 
@@ -805,11 +954,11 @@
         <div class="footer-column">
           <h3>Język</h3>
 
-          <a href="index.html"> Polski </a>
+          <a href="index.html" hreflang="pl"> Polski </a>
 
-          <a href="en/index.html"> English </a>
+          <a href="en/index.html" hreflang="en"> English </a>
 
-          <a href="ru/index.html"> Русский </a>
+          <a href="ru/index.html" hreflang="ru"> Русский </a>
         </div>
 
         <div class="footer-column">
@@ -847,7 +996,7 @@
     ====================================================== -->
 
     <nav class="mobile-bottom-nav" aria-label="Szybka nawigacja">
-      <a href="index.html" class="active"> Market </a>
+      <a href="index.html" class="active" aria-current="page"> Market </a>
 
       <a href="nowe.html"> Nowe </a>
 
@@ -857,7 +1006,7 @@
     </nav>
 
     <!-- =====================================================
-         JS
+         JAVASCRIPT
     ====================================================== -->
 
     <script src="assets/js/main.js" defer></script>

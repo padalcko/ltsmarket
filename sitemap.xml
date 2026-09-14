@@ -6,12 +6,12 @@
 >
 
   <!-- =====================================================
-       STRONA GŁÓWNA
+       HOME — PL
   ====================================================== -->
 
   <url>
     <loc>https://ltsmarket.pl/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-14</lastmod>
 
     <xhtml:link
       rel="alternate"
@@ -38,14 +38,79 @@
     />
   </url>
 
+  <!-- =====================================================
+       HOME — EN
+  ====================================================== -->
+
+  <url>
+    <loc>https://ltsmarket.pl/en/</loc>
+    <lastmod>2026-09-14</lastmod>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/"
+    />
+  </url>
 
   <!-- =====================================================
-       NOWE URZĄDZENIA
+       HOME — RU
+  ====================================================== -->
+
+  <url>
+    <loc>https://ltsmarket.pl/ru/</loc>
+    <lastmod>2026-09-14</lastmod>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/"
+    />
+  </url>
+
+  <!-- =====================================================
+       NOWE — PL
   ====================================================== -->
 
   <url>
     <loc>https://ltsmarket.pl/nowe.html</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-14</lastmod>
 
     <xhtml:link
       rel="alternate"
@@ -72,19 +137,174 @@
     />
   </url>
 
+  <!-- =====================================================
+       NOWE — EN
+  ====================================================== -->
+
+  <url>
+    <loc>https://ltsmarket.pl/en/nowe.html</loc>
+    <lastmod>2026-09-14</lastmod>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/nowe.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/nowe.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/nowe.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/nowe.html"
+    />
+  </url>
 
   <!-- =====================================================
-       UŻYWANE URZĄDZENIA
+       NOWE — RU
+  ====================================================== -->
+
+  <url>
+    <loc>https://ltsmarket.pl/ru/nowe.html</loc>
+    <lastmod>2026-09-14</lastmod>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/nowe.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/nowe.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/nowe.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/nowe.html"
+    />
+  </url>
+
+  <!-- =====================================================
+       UŻYWANE — PL
   ====================================================== -->
 
   <url>
     <loc>https://ltsmarket.pl/uzywane.html</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-14</lastmod>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/uzywane.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/uzywane.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/uzywane.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/uzywane.html"
+    />
   </url>
 
+  <!-- =====================================================
+       UŻYWANE — EN
+  ====================================================== -->
+
+  <url>
+    <loc>https://ltsmarket.pl/en/uzywane.html</loc>
+    <lastmod>2026-09-14</lastmod>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/uzywane.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/uzywane.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/uzywane.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/uzywane.html"
+    />
+  </url>
 
   <!-- =====================================================
-       UŻYWANE – DAEYANG CARBO 3000
+       UŻYWANE — RU
+  ====================================================== -->
+
+  <url>
+    <loc>https://ltsmarket.pl/ru/uzywane.html</loc>
+    <lastmod>2026-09-14</lastmod>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/uzywane.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/uzywane.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/uzywane.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/uzywane.html"
+    />
+  </url>
+
+  <!-- =====================================================
+       UŻYWANE — DAEYANG CARBO 3000
+       Tylko wersja PL
   ====================================================== -->
 
   <url>
@@ -92,9 +312,9 @@
     <lastmod>2026-09-09</lastmod>
   </url>
 
-
   <!-- =====================================================
-       UŻYWANE – CHUNGWOO ELLISYS PLUS
+       UŻYWANE — CHUNGWOO ELLISYS PLUS
+       Tylko wersja PL
   ====================================================== -->
 
   <url>
@@ -102,9 +322,9 @@
     <lastmod>2026-09-09</lastmod>
   </url>
 
-
   <!-- =====================================================
-       UŻYWANE – MEDILASE PRO
+       UŻYWANE — MEDILASE PRO
+       Tylko wersja PL
   ====================================================== -->
 
   <url>
@@ -112,14 +332,13 @@
     <lastmod>2026-09-09</lastmod>
   </url>
 
-
   <!-- =====================================================
-       LEASING
+       LEASING — PL
   ====================================================== -->
 
   <url>
     <loc>https://ltsmarket.pl/leasing.html</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-14</lastmod>
 
     <xhtml:link
       rel="alternate"
@@ -146,14 +365,79 @@
     />
   </url>
 
+  <!-- =====================================================
+       LEASING — EN
+  ====================================================== -->
+
+  <url>
+    <loc>https://ltsmarket.pl/en/leasing.html</loc>
+    <lastmod>2026-09-14</lastmod>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/leasing.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/leasing.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/leasing.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/leasing.html"
+    />
+  </url>
 
   <!-- =====================================================
-       KONTAKT
+       LEASING — RU
+  ====================================================== -->
+
+  <url>
+    <loc>https://ltsmarket.pl/ru/leasing.html</loc>
+    <lastmod>2026-09-14</lastmod>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/leasing.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/leasing.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/leasing.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/leasing.html"
+    />
+  </url>
+
+  <!-- =====================================================
+       KONTAKT — PL
   ====================================================== -->
 
   <url>
     <loc>https://ltsmarket.pl/kontakt.html</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-14</lastmod>
 
     <xhtml:link
       rel="alternate"
@@ -180,54 +464,70 @@
     />
   </url>
 
-
   <!-- =====================================================
-       ENGLISH
+       KONTAKT — EN
   ====================================================== -->
-
-  <url>
-    <loc>https://ltsmarket.pl/en/</loc>
-    <lastmod>2026-09-09</lastmod>
-  </url>
-
-  <url>
-    <loc>https://ltsmarket.pl/en/nowe.html</loc>
-    <lastmod>2026-09-09</lastmod>
-  </url>
-
-  <url>
-    <loc>https://ltsmarket.pl/en/leasing.html</loc>
-    <lastmod>2026-09-09</lastmod>
-  </url>
 
   <url>
     <loc>https://ltsmarket.pl/en/kontakt.html</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-14</lastmod>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/kontakt.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/kontakt.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/kontakt.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/kontakt.html"
+    />
   </url>
 
-
   <!-- =====================================================
-       РУССКАЯ ВЕРСИЯ
+       KONTAKT — RU
   ====================================================== -->
 
   <url>
-    <loc>https://ltsmarket.pl/ru/</loc>
-    <lastmod>2026-09-09</lastmod>
-  </url>
-
-  <url>
-    <loc>https://ltsmarket.pl/ru/nowe.html</loc>
-    <lastmod>2026-09-09</lastmod>
-  </url>
-
-  <url>
-    <loc>https://ltsmarket.pl/ru/leasing.html</loc>
-    <lastmod>2026-09-09</lastmod>
-  </url>
-
-  <url>
     <loc>https://ltsmarket.pl/ru/kontakt.html</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-14</lastmod>
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl"
+      href="https://ltsmarket.pl/kontakt.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://ltsmarket.pl/en/kontakt.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://ltsmarket.pl/ru/kontakt.html"
+    />
+
+    <xhtml:link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://ltsmarket.pl/kontakt.html"
+    />
   </url>
 
 </urlset>
