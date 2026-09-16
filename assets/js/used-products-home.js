@@ -31,16 +31,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
     en: {
       badge: "USED",
-      link: "View equipment →",
+      link: "View equipment (Polish) →",
     },
 
     ru: {
       badge: "Б/У",
-      link: "Смотреть оборудование →",
+      link: "Смотреть оборудование (на польском) →",
     },
   };
 
-  const productsToShow = usedProducts.slice(0, 3);
+  const productsToShow = [...usedProducts]
+    .sort((a, b) => (Date.parse(b.added) || 0) - (Date.parse(a.added) || 0))
+    .slice(0, 3);
+  function escapeHTML(value) {
+    return String(value ?? "").replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;").replaceAll("'", "&#039;");
+  }
 
   homeUsedGrid.innerHTML = productsToShow
     .map((product) => {
@@ -64,17 +69,19 @@ document.addEventListener("DOMContentLoaded", () => {
       return `
         <article class="product-card">
           <a
-            href="${productUrl}"
+            href="${escapeHTML(productUrl)}"
             class="product-card-image"
-            aria-label="${productName}"
+            aria-label="${escapeHTML(productName)}"
           >
             <span class="product-badge">
               ${labels[language].badge}
             </span>
 
             <img
-              src="${image}"
-              alt="${productName}"
+              src="${escapeHTML(image)}"
+              srcset="${escapeHTML(image.replace('-960.webp', '-480.webp'))} 480w, ${escapeHTML(image)} ${product.imageWidth || 960}w"
+              sizes="(max-width: 700px) 90vw, 400px"
+              alt="${escapeHTML(productName)}"
               width="600"
               height="600"
               loading="lazy"
@@ -83,23 +90,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
           <div class="product-card-body">
             <span class="product-card-category">
-              ${category}
+              ${escapeHTML(category)}
             </span>
 
             <h3>
-              ${productName}
+              ${escapeHTML(productName)}
             </h3>
 
             <p>
-              ${description}
+              ${escapeHTML(description)}
             </p>
 
             <div class="product-card-price">
-              ${product.priceLabel}
+              ${escapeHTML(product.priceLabel)}
             </div>
 
             <a
-              href="${productUrl}"
+              href="${escapeHTML(productUrl)}"
               class="product-card-link"
             >
               ${labels[language].link}

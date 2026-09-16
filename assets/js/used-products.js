@@ -42,7 +42,7 @@ const usedProducts = [
 
     serviceUrl: "https://lasertechservice.pl/",
 
-    image: "assets/img/uzywane/3d-contour/3d-contour-01.webp",
+    image: "assets/img/optimized/uzywane/3d-contour/3d-contour-01-960.webp",
   },
 
   {
@@ -88,7 +88,7 @@ const usedProducts = [
 
     serviceUrl: "https://lasertechservice.pl/",
 
-    image: "assets/img/uzywane/medilase-pro/medilase-pro-01.webp",
+    image: "assets/img/optimized/uzywane/medilase-pro/medilase-pro-01-960.webp",
   },
 
   {
@@ -134,11 +134,12 @@ const usedProducts = [
 
     serviceUrl: "https://lasertechservice.pl/",
 
-    image: "assets/img/uzywane/ellisys-plus/ellisys-plus-01.webp",
+    image: "assets/img/optimized/uzywane/ellisys-plus/ellisys-plus-01-960.webp",
   },
 
   {
     slug: "daeyang-carbo-3000",
+    imageWidth: 864,
     category: "inne",
 
     added: "2026-09-09",
@@ -180,6 +181,6 @@ const usedProducts = [
 
     serviceUrl: "https://lasertechservice.pl/",
 
-    image: "assets/img/uzywane/daeyang-carbo-3000/daeyang-carbo-3000-01.webp",
+    image: "assets/img/optimized/uzywane/daeyang-carbo-3000/daeyang-carbo-3000-01-960.webp",
   },
 ];

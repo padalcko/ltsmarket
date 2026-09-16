@@ -260,7 +260,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const mailtoUrl = buildMailtoUrl(data);
 
-    showStatus(t.openingEmail, "success");
+    showStatus(t.openingEmail);
 
     window.location.href = mailtoUrl;
   });

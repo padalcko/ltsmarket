@@ -8,6 +8,13 @@ document.addEventListener("DOMContentLoaded", () => {
      01. MOBILE MENU
      ====================================================== */
 
+  const language = document.documentElement.lang.split("-")[0];
+  const labels = ({
+    pl: { open: "Otwórz menu", close: "Zamknij menu", pause: "Wstrzymaj slajdy", play: "Wznów slajdy" },
+    en: { open: "Open menu", close: "Close menu", pause: "Pause slides", play: "Resume slides" },
+    ru: { open: "Открыть меню", close: "Закрыть меню", pause: "Остановить слайды", play: "Продолжить слайды" },
+  })[language] || { open: "Open menu", close: "Close menu", pause: "Pause slides", play: "Resume slides" };
+  const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
   const menuToggle = document.querySelector(".menu-toggle");
   const mobileMenu = document.querySelector(".mobile-menu");
 
@@ -18,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       menuToggle.setAttribute("aria-expanded", "false");
 
-      menuToggle.setAttribute("aria-label", "Otwórz menu");
+      menuToggle.setAttribute("aria-label", labels.open);
     };
 
     menuToggle.addEventListener("click", () => {
@@ -30,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       menuToggle.setAttribute(
         "aria-label",
-        isOpen ? "Zamknij menu" : "Otwórz menu",
+        isOpen ? labels.close : labels.open,
       );
     });
 
@@ -39,8 +46,9 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     document.addEventListener("keydown", (event) => {
-      if (event.key === "Escape") {
+      if (event.key === "Escape" && mobileMenu.classList.contains("is-open")) {
         closeMenu();
+        menuToggle.focus();
       }
     });
 
@@ -71,6 +79,29 @@ document.addEventListener("DOMContentLoaded", () => {
     let autoplayTimer = null;
 
     const autoplayDelay = 5000;
+    let pausedByUser = false;
+    let hovered = false;
+    let touching = false;
+    const heroVisual = slider.closest(".hero-visual") || slider.parentElement;
+    const pauseButton = document.querySelector("[data-slider-pause]");
+    function syncPauseButton() {
+      if (!pauseButton) return;
+      pauseButton.textContent = pausedByUser ? labels.play : labels.pause;
+      pauseButton.setAttribute("aria-pressed", String(pausedByUser));
+    }
+    if (pauseButton) {
+      pauseButton.hidden = reducedMotion.matches;
+      pauseButton.addEventListener("click", () => {
+        pausedByUser = !pausedByUser;
+        syncPauseButton();
+        startAutoplay();
+      });
+      syncPauseButton();
+    }
+    reducedMotion.addEventListener("change", () => {
+      if (pauseButton) pauseButton.hidden = reducedMotion.matches;
+      startAutoplay();
+    });
 
     function showSlide(index) {
       if (!slides.length) {
@@ -123,6 +154,7 @@ document.addEventListener("DOMContentLoaded", () => {
     function startAutoplay() {
       stopAutoplay();
 
+      if (pausedByUser || reducedMotion.matches || document.hidden || hovered || touching || heroVisual?.contains(document.activeElement)) return;
       autoplayTimer = window.setInterval(nextSlide, autoplayDelay);
     }
 
@@ -152,12 +184,11 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     });
 
-    const heroVisual = document.querySelector(".hero-visual");
-
     if (heroVisual) {
-      heroVisual.addEventListener("mouseenter", stopAutoplay);
-
-      heroVisual.addEventListener("mouseleave", startAutoplay);
+      heroVisual.addEventListener("mouseenter", () => { hovered = true; stopAutoplay(); });
+      heroVisual.addEventListener("mouseleave", () => { hovered = false; startAutoplay(); });
+      heroVisual.addEventListener("focusin", stopAutoplay);
+      heroVisual.addEventListener("focusout", () => window.setTimeout(startAutoplay, 0));
     }
 
     document.addEventListener("visibilitychange", () => {
@@ -176,6 +207,7 @@ document.addEventListener("DOMContentLoaded", () => {
     slider.addEventListener(
       "touchstart",
       (event) => {
+        touching = true;
         touchStartX = event.changedTouches[0].screenX;
 
         stopAutoplay();
@@ -188,6 +220,7 @@ document.addEventListener("DOMContentLoaded", () => {
     slider.addEventListener(
       "touchend",
       (event) => {
+        touching = false;
         touchEndX = event.changedTouches[0].screenX;
 
         const distance = touchEndX - touchStartX;
@@ -207,6 +240,7 @@ document.addEventListener("DOMContentLoaded", () => {
       },
     );
 
+    slider.addEventListener("touchcancel", () => { touching = false; startAutoplay(); }, { passive: true });
     showSlide(0);
 
     startAutoplay();
@@ -226,7 +260,9 @@ document.addEventListener("DOMContentLoaded", () => {
         return;
       }
 
-      const target = document.querySelector(href);
+      let id;
+      try { id = decodeURIComponent(href.slice(1)); } catch { return; }
+      const target = document.getElementById(id);
 
       if (!target) {
         return;
@@ -235,7 +271,7 @@ document.addEventListener("DOMContentLoaded", () => {
       event.preventDefault();
 
       target.scrollIntoView({
-        behavior: "smooth",
+        behavior: reducedMotion.matches ? "auto" : "smooth",
         block: "start",
       });
     });

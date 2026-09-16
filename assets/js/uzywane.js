@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
       condition: "Condition",
       service: "Service",
       price: "Price",
-      show: "View",
+      show: "View (Polish page)",
       imageAltSuffix: "pre-owned device available at LTS Market",
     },
 
@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
       condition: "Состояние",
       service: "Сервис",
       price: "Цена",
-      show: "Подробнее",
+      show: "Подробнее (на польском)",
       imageAltSuffix: "б/у аппарат, доступный в LTS Market",
     },
   };
@@ -295,6 +295,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
               <img
                 src="${escapeHTML(image)}"
+                srcset="${escapeHTML(image.replace('-960.webp', '-480.webp'))} 480w, ${escapeHTML(image)} ${product.imageWidth || 960}w"
+                sizes="(max-width: 700px) 90vw, 400px"
                 alt="${escapeHTML(imageAlt)}"
                 width="600"
                 height="600"
@@ -324,6 +326,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   : ""
               }
 
+              ${lang !== "pl" ? `<p class="language-note">${lang === "en" ? "Product details are currently available in Polish." : "Описание товара пока доступно на польском языке."}</p>` : ""}
               <div class="used-product-meta">
                 ${
                   year

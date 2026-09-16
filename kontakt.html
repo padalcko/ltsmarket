@@ -1,31 +1,16 @@
 <!doctype html>
 <html lang="pl">
   <head>
+    <meta charset="UTF-8" />
     <!-- =====================================================
          GOOGLE ANALYTICS
     ====================================================== -->
-
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-1Z98BZS3WW"
-    ></script>
-
-    <script>
-      window.dataLayer = window.dataLayer || [];
-
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-
-      gtag("js", new Date());
-      gtag("config", "G-1Z98BZS3WW");
-    </script>
 
     <!-- =====================================================
          BASIC META
     ====================================================== -->
 
-    <meta charset="UTF-8" />
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -489,7 +474,8 @@
           </div>
 
           <div class="contact-form-wrapper">
-            <form class="contact-form" id="contact-form">
+            <form class="contact-form" id="contact-form" action="mailto:sales@ltsmarket.pl" method="post" enctype="text/plain" aria-describedby="email-form-note">
+              <p id="email-form-note" class="form-note">Formularz przygotuje wiadomość w Twojej aplikacji pocztowej. Aby ją wysłać, kliknij „Wyślij” w tej aplikacji. Możesz też napisać bezpośrednio na sales@ltsmarket.pl.</p>
               <div class="form-row">
                 <div class="form-field">
                   <label for="name"> Imię i nazwisko * </label>
@@ -576,6 +562,7 @@
                 ></textarea>
               </div>
 
+              <p class="form-note"><a href="/prywatnosc.html">Informacje o prywatności</a></p>
               <label class="form-consent">
                 <input type="checkbox" name="consent" value="1" required />
 
@@ -584,9 +571,7 @@
                 </span>
               </label>
 
-              <button type="submit" class="btn btn-primary form-submit">
-                Wyślij zapytanie
-              </button>
+              <button type="submit" class="btn btn-primary form-submit">Otwórz wiadomość e-mail</button>
 
               <p
                 class="form-status"
@@ -688,7 +673,17 @@
               Profesjonalne urządzenia dla branży beauty. Sprzedaż, urządzenia
               używane, leasing i zaplecze serwisowe.
             </p>
+
+          <div class="footer-company">
+            <span class="footer-company-name">Laser Tech Service sp. z o.o.</span>
+            <address>Marsz. Józefa Piłsudskiego 74 lok. 320<br />50-020 Wrocław</address>
+            <div class="footer-company-ids">
+              <span>NIP: 8971959502</span>
+              <span>KRS: 0001193879</span>
+              <span>REGON: 542701591</span>
+            </div>
           </div>
+        </div>
 
           <div class="footer-column">
             <h3>Market</h3>
@@ -751,6 +746,7 @@
           </p>
         </div>
       </div>
+
     </footer>
 
     <!-- =====================================================
@@ -785,5 +781,6 @@
     <script src="assets/js/main.js" defer></script>
 
     <script src="assets/js/kontakt.js" defer></script>
+  <script src="/assets/js/privacy.js" defer></script>
   </body>
 </html>

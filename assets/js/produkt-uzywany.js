@@ -25,33 +25,35 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  let imageRequest = 0;
+  const status = document.createElement("p");
+  status.setAttribute("role", "status");
+  status.className = "gallery-status";
+  mainImage.closest(".product-gallery").append(status);
+
   function changeMainImage(thumbnail) {
     const newImage = thumbnail.dataset.image;
-
-    const newAlt = thumbnail.dataset.alt || "";
-
-    if (!newImage) {
-      return;
-    }
-
+    if (!newImage) return;
+    const request = ++imageRequest;
+    status.textContent = "";
     if (mainImage.getAttribute("src") === newImage) {
       setActiveThumbnail(thumbnail);
-
       return;
     }
-
-    mainImage.style.opacity = "0";
-
-    window.setTimeout(() => {
+    const candidate = new Image();
+    candidate.onload = () => {
+      if (request !== imageRequest) return;
+      mainImage.removeAttribute("srcset");
+      mainImage.removeAttribute("sizes");
       mainImage.src = newImage;
-      mainImage.alt = newAlt;
-
-      mainImage.onload = () => {
-        mainImage.style.opacity = "1";
-      };
-    }, 120);
-
-    setActiveThumbnail(thumbnail);
+      mainImage.alt = thumbnail.dataset.alt || "";
+      setActiveThumbnail(thumbnail);
+    };
+    candidate.onerror = () => {
+      if (request !== imageRequest) return;
+      status.textContent = "Nie udało się wczytać zdjęcia. Spróbuj ponownie lub wybierz inne zdjęcie.";
+    };
+    candidate.src = newImage;
   }
 
   thumbnails.forEach((thumbnail) => {

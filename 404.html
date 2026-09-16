@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="pl">
   <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- FAVICON / APP ICONS -->
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -17,6 +19,9 @@
     <link rel="stylesheet" href="/assets/css/main.css" />
 
     <link rel="stylesheet" href="/assets/css/404.css" />
+  <title>Nie znaleziono strony | LTS Market</title>
+    <meta name="description" content="Nie znaleziono strony. Przejdź do katalogu LTS Market lub skontaktuj się z nami." />
+    <meta name="robots" content="noindex, follow" />
   </head>
 
   <body>
@@ -116,11 +121,11 @@
 
           <div class="error-visual">
             <img
-              src="/assets/img/404/404-raccoon.webp"
+              src="/assets/img/optimized/404/404-raccoon-960.webp"
               alt="Szop LTS Market z mieczem świetlnym obok profesjonalnego urządzenia laserowego"
               width="1536"
               height="1024"
-            />
+             srcset="/assets/img/optimized/404/404-raccoon-480.webp 480w, /assets/img/optimized/404/404-raccoon-960.webp 960w, /assets/img/optimized/404/404-raccoon-1440.webp 1440w" sizes="(max-width: 700px) 90vw, (max-width: 1180px) 60vw, 600px"  decoding="async" />
           </div>
 
           <!-- =================================================
@@ -197,6 +202,16 @@
             Profesjonalne urządzenia dla branży beauty. Nowe, używane, leasing i
             wsparcie techniczne.
           </p>
+
+          <div class="footer-company">
+            <span class="footer-company-name">Laser Tech Service sp. z o.o.</span>
+            <address>Marsz. Józefa Piłsudskiego 74 lok. 320<br />50-020 Wrocław</address>
+            <div class="footer-company-ids">
+              <span>NIP: 8971959502</span>
+              <span>KRS: 0001193879</span>
+              <span>REGON: 542701591</span>
+            </div>
+          </div>
         </div>
 
         <!-- MARKET -->
@@ -254,6 +269,10 @@
 
       <div class="container footer-bottom">
         <p>LTS Market © 2026</p>
+        <div class="footer-legal">
+          <a href="/prywatnosc.html">Informacje o prywatności</a>
+          <button type="button" class="privacy-settings" data-privacy-settings hidden>Ustawienia prywatności</button>
+        </div>
 
         <p class="footer-created">
           Created by
@@ -269,6 +288,7 @@
           © 2026
         </p>
       </div>
+
     </footer>
 
     <!-- =====================================================
@@ -291,5 +311,6 @@
     ====================================================== -->
 
     <script src="/assets/js/main.js" defer></script>
+  <script src="/assets/js/privacy.js" defer></script>
   </body>
 </html>
