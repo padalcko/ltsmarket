@@ -1,0 +1,870 @@
+{
+  "3D CONTOUR używany 2022 – 12 000 zł | LTS Market": {
+    "en": "Used 3D CONTOUR 2022 – PLN 12,000 · LTS Market",
+    "ru": "Б/у 3D CONTOUR 2022 – 12 000 zł · LTS Market"
+  },
+  "Używany 3D CONTOUR z 2022 roku. Kriolipoliza, lipolaser, masaż podciśnieniowy i technologie modelowania sylwetki. Sprawny, po serwisie Laser Tech Service. Cena 12 000 zł. Wrocław.": {
+    "en": "Used 3D CONTOUR from 2022. Cryolipolysis, lipolaser, vacuum massage and body-contouring technologies. Operational, serviced by Laser Tech Service. Price: PLN 12,000. Wrocław.",
+    "ru": "Б/у 3D CONTOUR 2022 года. Криолиполиз, липолазер, вакуумный массаж и технологии коррекции фигуры. Исправен, обслужен Laser Tech Service. Цена: 12 000 zł. Вроцлав."
+  },
+  "Wielofunkcyjne urządzenie do modelowania sylwetki. Rok 2022, sprawne, po serwisie Laser Tech Service. Dostępne we Wrocławiu.": {
+    "en": "Multifunctional body-contouring device. Manufactured in 2022, operational and serviced by Laser Tech Service. Available in Wrocław.",
+    "ru": "Многофункциональный аппарат для коррекции фигуры. Год выпуска 2022, исправен, обслужен Laser Tech Service. Доступен во Вроцлаве."
+  },
+  "3D CONTOUR – używane urządzenie do modelowania sylwetki": {
+    "en": "3D CONTOUR – used body-contouring device",
+    "ru": "3D CONTOUR — б/у аппарат для коррекции фигуры"
+  },
+  "3D CONTOUR z 2022 roku. Sprawny, po serwisie Laser Tech Service. Cena 12 000 zł.": {
+    "en": "3D CONTOUR from 2022. Operational, serviced by Laser Tech Service. Price: PLN 12,000.",
+    "ru": "3D CONTOUR 2022 года. Исправен, обслужен Laser Tech Service. Цена: 12 000 zł."
+  },
+  "LTS Market - strona główna": {
+    "en": "LTS Market - home",
+    "ru": "LTS Market — главная"
+  },
+  "Główna nawigacja": {
+    "en": "Main navigation",
+    "ru": "Основная навигация"
+  },
+  "Nowe": {
+    "en": "New",
+    "ru": "Новое"
+  },
+  "Używane": {
+    "en": "Pre-owned",
+    "ru": "Б/у"
+  },
+  "Leasing": {
+    "en": "Leasing",
+    "ru": "Лизинг"
+  },
+  "Serwis": {
+    "en": "Service",
+    "ru": "Сервис"
+  },
+  "Kontakt": {
+    "en": "Contact",
+    "ru": "Контакты"
+  },
+  "Wybierz język": {
+    "en": "Choose language",
+    "ru": "Выбрать язык"
+  },
+  "Otwórz menu": {
+    "en": "Open menu",
+    "ru": "Открыть меню"
+  },
+  "Menu mobilne": {
+    "en": "Mobile menu",
+    "ru": "Мобильное меню"
+  },
+  "Nowe urządzenia": {
+    "en": "New equipment",
+    "ru": "Новое оборудование"
+  },
+  "Urządzenia używane": {
+    "en": "Pre-owned equipment",
+    "ru": "Б/у оборудование"
+  },
+  "Okruszki": {
+    "en": "Breadcrumbs",
+    "ru": "Навигационная цепочка"
+  },
+  "UŻYWANY": {
+    "en": "PRE-OWNED",
+    "ru": "Б/У"
+  },
+  "Galeria produktu": {
+    "en": "Product gallery",
+    "ru": "Галерея товара"
+  },
+  "3D CONTOUR – widok urządzenia z przodu": {
+    "en": "3D CONTOUR – front view",
+    "ru": "3D CONTOUR — вид спереди"
+  },
+  "3D CONTOUR – urządzenie i zestaw głowic": {
+    "en": "3D CONTOUR – device and handpiece set",
+    "ru": "3D CONTOUR — аппарат и комплект манипул"
+  },
+  "3D CONTOUR – widok wyposażenia urządzenia": {
+    "en": "3D CONTOUR – equipment overview",
+    "ru": "3D CONTOUR — комплектация аппарата"
+  },
+  "3D CONTOUR – urządzenie podczas pracy": {
+    "en": "3D CONTOUR – device in operation",
+    "ru": "3D CONTOUR — аппарат во время работы"
+  },
+  "3D CONTOUR – ekran trybu kriolipolizy": {
+    "en": "3D CONTOUR – cryolipolysis mode screen",
+    "ru": "3D CONTOUR — экран режима криолиполиза"
+  },
+  "3D CONTOUR – głowica rolek próżniowych": {
+    "en": "3D CONTOUR – vacuum roller handpiece",
+    "ru": "3D CONTOUR — манипула с вакуумными роликами"
+  },
+  "3D CONTOUR – głowica Cryo Lipo": {
+    "en": "3D CONTOUR – Cryo Lipo handpiece",
+    "ru": "3D CONTOUR — манипула Cryo Lipo"
+  },
+  "3D CONTOUR – głowica zabiegowa": {
+    "en": "3D CONTOUR – treatment handpiece",
+    "ru": "3D CONTOUR — рабочая манипула"
+  },
+  "3D CONTOUR – panel sterowania rolkami próżniowymi": {
+    "en": "3D CONTOUR – vacuum roller control panel",
+    "ru": "3D CONTOUR — панель управления вакуумными роликами"
+  },
+  "3D CONTOUR – ekran trybu Lipolaser": {
+    "en": "3D CONTOUR – Lipolaser mode screen",
+    "ru": "3D CONTOUR — экран режима Lipolaser"
+  },
+  "3D CONTOUR – zestaw padów Lipolaser": {
+    "en": "3D CONTOUR – Lipolaser pad set",
+    "ru": "3D CONTOUR — комплект пластин Lipolaser"
+  },
+  "3D CONTOUR – tabliczka znamionowa urządzenia": {
+    "en": "3D CONTOUR – device nameplate",
+    "ru": "3D CONTOUR — заводская табличка аппарата"
+  },
+  "MODELOWANIE SYLWETKI": {
+    "en": "BODY CONTOURING",
+    "ru": "КОРРЕКЦИЯ ФИГУРЫ"
+  },
+  "DOSTĘPNY": {
+    "en": "AVAILABLE",
+    "ru": "В НАЛИЧИИ"
+  },
+  "Wielofunkcyjne urządzenie do modelowania sylwetki": {
+    "en": "Multifunctional body-contouring device",
+    "ru": "Многофункциональный аппарат для коррекции фигуры"
+  },
+  "Stan": {
+    "en": "Condition",
+    "ru": "Состояние"
+  },
+  "Używany": {
+    "en": "Pre-owned",
+    "ru": "Б/у"
+  },
+  "Sprawność": {
+    "en": "Working condition",
+    "ru": "Работоспособность"
+  },
+  "Sprawny": {
+    "en": "Operational",
+    "ru": "Исправен"
+  },
+  "Po serwisie": {
+    "en": "Serviced",
+    "ru": "После обслуживания"
+  },
+  "Rok": {
+    "en": "Year",
+    "ru": "Год"
+  },
+  "Lokalizacja": {
+    "en": "Location",
+    "ru": "Местонахождение"
+  },
+  "Wrocław": {
+    "en": "Wrocław",
+    "ru": "Вроцлав"
+  },
+  "Cena": {
+    "en": "Price",
+    "ru": "Цена"
+  },
+  "12 000 zł": {
+    "en": "PLN 12,000",
+    "ru": "12 000 zł"
+  },
+  "Zapytaj o urządzenie": {
+    "en": "Ask about this device",
+    "ru": "Узнать об аппарате"
+  },
+  "Urządzenie zostało sprawdzone i serwisowane przed wystawieniem w ofercie. Jest sprawne i gotowe do pracy.": {
+    "en": "The device was inspected and serviced before being listed. It is operational and ready for use.",
+    "ru": "Аппарат проверен и обслужен перед размещением в продаже. Исправен и готов к работе."
+  },
+  "O URZĄDZENIU": {
+    "en": "ABOUT THE DEVICE",
+    "ru": "ОБ АППАРАТЕ"
+  },
+  "3D CONTOUR to wielofunkcyjne urządzenie kosmetologiczne przeznaczone do zabiegów związanych z modelowaniem sylwetki. Oferowany egzemplarz pochodzi z 2022 roku.": {
+    "en": "3D CONTOUR is a multifunctional aesthetic device designed for body-contouring treatments. This unit was manufactured in 2022.",
+    "ru": "3D CONTOUR — многофункциональный косметологический аппарат для процедур коррекции фигуры. Предлагаемый экземпляр выпущен в 2022 году."
+  },
+  "Zgodnie z oznaczeniami urządzenia i dostępnymi trybami pracy, system łączy kilka technologii w jednej platformie, między innymi kriolipolizę, lipolaser oraz masaż podciśnieniowy.": {
+    "en": "According to the device markings and available operating modes, the system combines several technologies in one platform, including cryolipolysis, lipolaser and vacuum massage.",
+    "ru": "Согласно обозначениям на аппарате и доступным режимам работы, система объединяет несколько технологий, включая криолиполиз, липолазер и вакуумный массаж."
+  },
+  "Urządzenie wyposażone jest w duży ekran dotykowy oraz zestaw różnych głowic i aplikatorów umożliwiających pracę z poszczególnymi funkcjami systemu.": {
+    "en": "The device features a large touchscreen and a set of different handpieces and applicators for the individual system functions.",
+    "ru": "Аппарат оснащён большим сенсорным экраном и комплектом различных манипул и аппликаторов для работы с отдельными функциями системы."
+  },
+  "Oferowany egzemplarz jest sprawny i został poddany obsłudze serwisowej w Laser Tech Service przed wystawieniem w ofercie LTS Market.": {
+    "en": "This unit is operational and was serviced by Laser Tech Service before being listed by LTS Market.",
+    "ru": "Предлагаемый экземпляр исправен и прошёл обслуживание в Laser Tech Service перед размещением в каталоге LTS Market."
+  },
+  "Sprzęt znajduje się we Wrocławiu i sprzedawany jest w stanie widocznym na aktualnych zdjęciach.": {
+    "en": "The equipment is located in Wrocław and is sold in the condition shown in the current photographs.",
+    "ru": "Оборудование находится во Вроцлаве и продаётся в состоянии, показанном на актуальных фотографиях."
+  },
+  "TECHNOLOGIE": {
+    "en": "TECHNOLOGIES",
+    "ru": "ТЕХНОЛОГИИ"
+  },
+  "Funkcje urządzenia": {
+    "en": "Device functions",
+    "ru": "Функции аппарата"
+  },
+  "Funkcje zgodne z oznaczeniem producenta oraz trybami widocznymi na ekranie oferowanego egzemplarza.": {
+    "en": "Functions as indicated by the manufacturer’s markings and the modes visible on this unit’s screen.",
+    "ru": "Функции указаны согласно обозначениям производителя и режимам, видимым на экране предлагаемого аппарата."
+  },
+  "Kriolipoliza": {
+    "en": "Cryolipolysis",
+    "ru": "Криолиполиз"
+  },
+  "Tak": {
+    "en": "Yes",
+    "ru": "Да"
+  },
+  "Lipolaser": {
+    "en": "Lipolaser",
+    "ru": "Липолазер"
+  },
+  "Masaż podciśnieniowy": {
+    "en": "Vacuum massage",
+    "ru": "Вакуумный массаж"
+  },
+  "Rolki próżniowe": {
+    "en": "Vacuum rollers",
+    "ru": "Вакуумные ролики"
+  },
+  "Modelowanie sylwetki": {
+    "en": "Body contouring",
+    "ru": "Коррекция фигуры"
+  },
+  "Ekran dotykowy": {
+    "en": "Touchscreen",
+    "ru": "Сенсорный экран"
+  },
+  "PARAMETRY": {
+    "en": "SPECIFICATIONS",
+    "ru": "ХАРАКТЕРИСТИКИ"
+  },
+  "Dane techniczne": {
+    "en": "Technical specifications",
+    "ru": "Технические характеристики"
+  },
+  "Dane odczytane z tabliczki znamionowej oferowanego urządzenia.": {
+    "en": "Information taken from the nameplate of the offered device.",
+    "ru": "Данные с заводской таблички предлагаемого аппарата."
+  },
+  "Model": {
+    "en": "Model",
+    "ru": "Модель"
+  },
+  "Typ": {
+    "en": "Type",
+    "ru": "Тип"
+  },
+  "Producent / marka": {
+    "en": "Manufacturer / brand",
+    "ru": "Производитель / бренд"
+  },
+  "Rok produkcji": {
+    "en": "Year of manufacture",
+    "ru": "Год выпуска"
+  },
+  "Miesiąc produkcji": {
+    "en": "Month of manufacture",
+    "ru": "Месяц выпуска"
+  },
+  "Zasilanie": {
+    "en": "Power supply",
+    "ru": "Питание"
+  },
+  "Częstotliwość": {
+    "en": "Frequency",
+    "ru": "Частота"
+  },
+  "Power input": {
+    "en": "Power input",
+    "ru": "Потребляемая мощность"
+  },
+  "Po serwisie Laser Tech Service": {
+    "en": "Serviced by Laser Tech Service",
+    "ru": "После обслуживания Laser Tech Service"
+  },
+  "WYPOSAŻENIE": {
+    "en": "EQUIPMENT",
+    "ru": "КОМПЛЕКТАЦИЯ"
+  },
+  "Elementy widoczne w zestawie": {
+    "en": "Items shown in the set",
+    "ru": "Элементы комплекта на фотографиях"
+  },
+  "Zakres zestawu zgodny ze zdjęciami oferowanego egzemplarza.": {
+    "en": "The included items correspond to the photographs of this unit.",
+    "ru": "Комплектация соответствует фотографиям предлагаемого экземпляра."
+  },
+  "Jednostka główna": {
+    "en": "Main unit",
+    "ru": "Основной блок"
+  },
+  "Aplikator kriolipolizy": {
+    "en": "Cryolipolysis applicator",
+    "ru": "Аппликатор для криолиполиза"
+  },
+  "Głowica rolek próżniowych": {
+    "en": "Vacuum roller handpiece",
+    "ru": "Манипула с вакуумными роликами"
+  },
+  "Pady Lipolaser": {
+    "en": "Lipolaser pads",
+    "ru": "Пластины Lipolaser"
+  },
+  "Pozostałe głowice widoczne na zdjęciach": {
+    "en": "Other handpieces shown in the photographs",
+    "ru": "Другие манипулы, показанные на фотографиях"
+  },
+  "Kluczyk": {
+    "en": "Key",
+    "ru": "Ключ"
+  },
+  "Wyłącznik awaryjny": {
+    "en": "Emergency stop switch",
+    "ru": "Кнопка аварийной остановки"
+  },
+  "Urządzenie po profesjonalnym serwisie": {
+    "en": "Professionally serviced device",
+    "ru": "Аппарат после профессионального обслуживания"
+  },
+  "Oferowany 3D CONTOUR został sprawdzony i serwisowany przez Laser Tech Service. Urządzenie jest sprawne i gotowe do pracy.": {
+    "en": "This 3D CONTOUR unit was inspected and serviced by Laser Tech Service. It is operational and ready for use.",
+    "ru": "Предлагаемый 3D CONTOUR проверен и обслужен Laser Tech Service. Аппарат исправен и готов к работе."
+  },
+  "Laser Tech Service zapewnia również profesjonalne zaplecze techniczne dla urządzeń kosmetologicznych — diagnostykę, konserwację oraz obsługę serwisową.": {
+    "en": "Laser Tech Service also provides professional technical support for aesthetic equipment, including diagnostics, maintenance and servicing.",
+    "ru": "Laser Tech Service также обеспечивает профессиональную техническую поддержку косметологического оборудования: диагностику, техническое обслуживание и сервис."
+  },
+  "OFERTA": {
+    "en": "OFFER",
+    "ru": "ПРЕДЛОЖЕНИЕ"
+  },
+  "Dostępny we Wrocławiu": {
+    "en": "Available in Wrocław",
+    "ru": "Доступен во Вроцлаве"
+  },
+  "Urządzenie znajduje się we Wrocławiu. Istnieje możliwość kontaktu w celu uzyskania dodatkowych informacji o urządzeniu, wyposażeniu oraz warunkach zakupu.": {
+    "en": "The device is located in Wrocław. Contact us for additional information about the equipment, included accessories and purchase terms.",
+    "ru": "Аппарат находится во Вроцлаве. Свяжитесь с нами для получения дополнительной информации об оборудовании, комплектации и условиях покупки."
+  },
+  "Cena oferowanego egzemplarza wynosi": {
+    "en": "The price of this unit is",
+    "ru": "Цена предлагаемого экземпляра составляет"
+  },
+  "Jeżeli zakup urządzenia ma być finansowany, skontaktuj się z nami również w sprawie możliwości indywidualnego leasingu.": {
+    "en": "If you need financing for your purchase, contact us to discuss individual leasing options.",
+    "ru": "Если для покупки требуется финансирование, свяжитесь с нами, чтобы обсудить индивидуальные возможности лизинга."
+  },
+  "Sprawdź leasing": {
+    "en": "Explore leasing",
+    "ru": "Узнать о лизинге"
+  },
+  "Zainteresowany urządzeniem?": {
+    "en": "Interested in this device?",
+    "ru": "Заинтересовал аппарат?"
+  },
+  "Skontaktuj się z nami, aby uzyskać dodatkowe informacje dotyczące 3D CONTOUR, jego stanu, wyposażenia i zakupu.": {
+    "en": "Contact us for more information about the 3D CONTOUR, its condition, included equipment and purchase options.",
+    "ru": "Свяжитесь с нами для получения дополнительной информации о 3D CONTOUR, его состоянии, комплектации и покупке."
+  },
+  "Zadzwoń": {
+    "en": "Call us",
+    "ru": "Позвонить"
+  },
+  "Profesjonalne urządzenia dla branży beauty. Nowe, używane, leasing i wsparcie serwisowe.": {
+    "en": "Professional beauty equipment. New and pre-owned devices, leasing and service support.",
+    "ru": "Профессиональное оборудование для индустрии красоты. Новые и б/у аппараты, лизинг и сервисная поддержка."
+  },
+  "Używane urządzenia": {
+    "en": "Pre-owned equipment",
+    "ru": "Б/у оборудование"
+  },
+  "Serwis urządzeń": {
+    "en": "Equipment servicing",
+    "ru": "Сервис оборудования"
+  },
+  "Realizacje": {
+    "en": "Projects",
+    "ru": "Наши работы"
+  },
+  "Język": {
+    "en": "Language",
+    "ru": "Язык"
+  },
+  "Polska": {
+    "en": "Poland",
+    "ru": "Польша"
+  },
+  "Informacje o prywatności": {
+    "en": "Privacy information",
+    "ru": "Информация о конфиденциальности"
+  },
+  "Ustawienia prywatności": {
+    "en": "Privacy settings",
+    "ru": "Настройки конфиденциальности"
+  },
+  "Szybka nawigacja mobilna": {
+    "en": "Quick mobile navigation",
+    "ru": "Быстрая мобильная навигация"
+  },
+  "DaeYang CARBO 3000 – używane urządzenie | LTS Market": {
+    "en": "DaeYang CARBO 3000 – pre-owned equipment · LTS Market",
+    "ru": "DaeYang CARBO 3000 — б/у оборудование · LTS Market"
+  },
+  "Używany insuflator CO2 DaeYang CARBO 3000. Urządzenie sprawne i po serwisie.": {
+    "en": "Pre-owned DaeYang CARBO 3000 CO2 insufflator. Operational and serviced.",
+    "ru": "Б/у инсуффлятор CO2 DaeYang CARBO 3000. Исправен, после обслуживания."
+  },
+  "DaeYang CARBO 3000 – widok urządzenia": {
+    "en": "DaeYang CARBO 3000 – device overview",
+    "ru": "DaeYang CARBO 3000 — общий вид аппарата"
+  },
+  "DaeYang CARBO 3000 – widok z przodu": {
+    "en": "DaeYang CARBO 3000 – front view",
+    "ru": "DaeYang CARBO 3000 — вид спереди"
+  },
+  "DaeYang CARBO 3000 – widok pod kątem": {
+    "en": "DaeYang CARBO 3000 – angled view",
+    "ru": "DaeYang CARBO 3000 — вид под углом"
+  },
+  "DaeYang CARBO 3000 – panel sterowania": {
+    "en": "DaeYang CARBO 3000 – control panel",
+    "ru": "DaeYang CARBO 3000 — панель управления"
+  },
+  "DaeYang CARBO 3000 – widok z boku": {
+    "en": "DaeYang CARBO 3000 – side view",
+    "ru": "DaeYang CARBO 3000 — вид сбоку"
+  },
+  "DaeYang CARBO 3000 – tył urządzenia": {
+    "en": "DaeYang CARBO 3000 – rear view",
+    "ru": "DaeYang CARBO 3000 — вид сзади"
+  },
+  "DaeYang CARBO 3000 – tabliczka znamionowa": {
+    "en": "DaeYang CARBO 3000 – nameplate",
+    "ru": "DaeYang CARBO 3000 — заводская табличка"
+  },
+  "DaeYang CARBO 3000 – ekran urządzenia": {
+    "en": "DaeYang CARBO 3000 – device screen",
+    "ru": "DaeYang CARBO 3000 — экран аппарата"
+  },
+  "INNE": {
+    "en": "OTHER",
+    "ru": "ДРУГОЕ"
+  },
+  "Insuflator CO₂": {
+    "en": "CO₂ insufflator",
+    "ru": "Инсуффлятор CO₂"
+  },
+  "5 000 zł": {
+    "en": "PLN 5,000",
+    "ru": "5 000 zł"
+  },
+  "Urządzenie po serwisie": {
+    "en": "Serviced device",
+    "ru": "Аппарат после обслуживания"
+  },
+  "Sprzęt został sprawdzony przed wystawieniem w ofercie LTS Market.": {
+    "en": "The equipment was inspected before being listed by LTS Market.",
+    "ru": "Оборудование проверено перед размещением в каталоге LTS Market."
+  },
+  "DaeYang CARBO 3000 to używany insuflator CO₂ producenta DaeYang Medical. Oferowany egzemplarz jest sprawny i został poddany obsłudze serwisowej przed wystawieniem w LTS Market.": {
+    "en": "DaeYang CARBO 3000 is a pre-owned CO₂ insufflator manufactured by DaeYang Medical. This unit is operational and was serviced before being listed by LTS Market.",
+    "ru": "DaeYang CARBO 3000 — б/у инсуффлятор CO₂ производства DaeYang Medical. Предлагаемый экземпляр исправен и прошёл обслуживание перед размещением в каталоге LTS Market."
+  },
+  "Urządzenie sprzedawane jest w stanie widocznym na aktualnych zdjęciach zamieszczonych w galerii. W przypadku dodatkowych pytań dotyczących sprzętu prosimy o kontakt z LTS Market.": {
+    "en": "The device is sold in the condition shown in the current gallery photographs. Please contact LTS Market with any further questions about the equipment.",
+    "ru": "Аппарат продаётся в состоянии, показанном на актуальных фотографиях в галерее. По дополнительным вопросам об оборудовании обращайтесь в LTS Market."
+  },
+  "Parametry na podstawie tabliczki znamionowej urządzenia.": {
+    "en": "Specifications based on the device nameplate.",
+    "ru": "Характеристики приведены по заводской табличке аппарата."
+  },
+  "Producent": {
+    "en": "Manufacturer",
+    "ru": "Производитель"
+  },
+  "Typ urządzenia": {
+    "en": "Device type",
+    "ru": "Тип аппарата"
+  },
+  "Napięcie zasilania": {
+    "en": "Supply voltage",
+    "ru": "Напряжение питания"
+  },
+  "Pobór mocy": {
+    "en": "Power consumption",
+    "ru": "Потребляемая мощность"
+  },
+  "Waga urządzenia": {
+    "en": "Device weight",
+    "ru": "Вес аппарата"
+  },
+  "Sprzęt z zapleczem serwisowym": {
+    "en": "Equipment backed by technical support",
+    "ru": "Оборудование с сервисной поддержкой"
+  },
+  "LTS Market współpracuje z Laser Tech Service, dzięki czemu możemy łączyć sprzedaż urządzeń z profesjonalnym zapleczem technicznym i serwisowym.": {
+    "en": "LTS Market works with Laser Tech Service, combining equipment sales with professional technical and service support.",
+    "ru": "LTS Market сотрудничает с Laser Tech Service, объединяя продажу оборудования с профессиональной технической и сервисной поддержкой."
+  },
+  "Skontaktuj się z nami, aby uzyskać dodatkowe informacje dotyczące urządzenia i zakupu.": {
+    "en": "Contact us for more information about the device and purchase options.",
+    "ru": "Свяжитесь с нами для получения дополнительной информации об аппарате и покупке."
+  },
+  "Chungwoo ELLISYS PLUS CWM-930M – używane urządzenie | LTS Market": {
+    "en": "Chungwoo ELLISYS PLUS CWM-930M – pre-owned equipment · LTS Market",
+    "ru": "Chungwoo ELLISYS PLUS CWM-930M — б/у оборудование · LTS Market"
+  },
+  "Używany Chungwoo ELLISYS PLUS CWM-930M – profesjonalne urządzenie do frakcyjnej radiofrekwencji mikroigłowej. Rok produkcji 2024. Urządzenie sprawne i po serwisie.": {
+    "en": "Pre-owned Chungwoo ELLISYS PLUS CWM-930M professional fractional microneedling RF system. Manufactured in 2024. Operational and serviced.",
+    "ru": "Б/у Chungwoo ELLISYS PLUS CWM-930M — профессиональный аппарат фракционного микроигольчатого RF. Год выпуска 2024. Исправен, после обслуживания."
+  },
+  "Chungwoo ELLISYS PLUS CWM-930M – urządzenie RF mikroigłowe": {
+    "en": "Chungwoo ELLISYS PLUS CWM-930M – microneedling RF device",
+    "ru": "Chungwoo ELLISYS PLUS CWM-930M — аппарат микроигольчатого RF"
+  },
+  "Chungwoo ELLISYS PLUS – widok urządzenia": {
+    "en": "Chungwoo ELLISYS PLUS – device overview",
+    "ru": "Chungwoo ELLISYS PLUS — общий вид аппарата"
+  },
+  "Chungwoo ELLISYS PLUS – głowica RF i kartridż": {
+    "en": "Chungwoo ELLISYS PLUS – RF handpiece and cartridge",
+    "ru": "Chungwoo ELLISYS PLUS — RF-манипула и картридж"
+  },
+  "Chungwoo ELLISYS PLUS CWM-930M – tabliczka znamionowa": {
+    "en": "Chungwoo ELLISYS PLUS CWM-930M – nameplate",
+    "ru": "Chungwoo ELLISYS PLUS CWM-930M — заводская табличка"
+  },
+  "Chungwoo ELLISYS PLUS – panel sterowania": {
+    "en": "Chungwoo ELLISYS PLUS – control panel",
+    "ru": "Chungwoo ELLISYS PLUS — панель управления"
+  },
+  "Chungwoo ELLISYS PLUS – aktywna głowica RF": {
+    "en": "Chungwoo ELLISYS PLUS – active RF handpiece",
+    "ru": "Chungwoo ELLISYS PLUS — активная RF-манипула"
+  },
+  "Chungwoo ELLISYS PLUS – pedał nożny": {
+    "en": "Chungwoo ELLISYS PLUS – foot pedal",
+    "ru": "Chungwoo ELLISYS PLUS — ножная педаль"
+  },
+  "RF mikroigłowa / frakcyjna radiofrekwencja": {
+    "en": "Microneedling RF / fractional radiofrequency",
+    "ru": "Микроигольчатый RF / фракционная радиочастотная технология"
+  },
+  "30 000 zł": {
+    "en": "PLN 30,000",
+    "ru": "30 000 zł"
+  },
+  "Chungwoo ELLISYS PLUS CWM-930M to profesjonalne urządzenie wykorzystujące technologię frakcyjnej radiofrekwencji mikroigłowej. System umożliwia precyzyjne dostarczanie energii RF do skóry za pomocą sterylnych kartridży mikroigłowych.": {
+    "en": "Chungwoo ELLISYS PLUS CWM-930M is a professional fractional microneedling radiofrequency device. The system delivers RF energy precisely to the skin through sterile microneedle cartridges.",
+    "ru": "Chungwoo ELLISYS PLUS CWM-930M — профессиональный аппарат фракционного микроигольчатого RF. Система обеспечивает точную подачу радиочастотной энергии в кожу через стерильные микроигольчатые картриджи."
+  },
+  "Technologia RF mikroigłowej stosowana jest w profesjonalnych gabinetach kosmetologicznych i medycyny estetycznej podczas zabiegów ukierunkowanych na poprawę jakości, struktury i napięcia skóry.": {
+    "en": "Microneedling RF technology is used in professional cosmetology and aesthetic medicine practices for treatments aimed at improving skin quality, texture and firmness.",
+    "ru": "Технология микроигольчатого RF применяется в профессиональных косметологических кабинетах и клиниках эстетической медицины для процедур, направленных на улучшение качества, структуры и упругости кожи."
+  },
+  "Oferowany egzemplarz został wyprodukowany w 2024 roku. Urządzenie jest sprawne i zostało poddane obsłudze serwisowej przed wystawieniem w ofercie LTS Market.": {
+    "en": "This unit was manufactured in 2024. It is operational and was serviced before being listed by LTS Market.",
+    "ru": "Предлагаемый экземпляр выпущен в 2024 году. Аппарат исправен и прошёл обслуживание перед размещением в каталоге LTS Market."
+  },
+  "Sprzęt sprzedawany jest w stanie widocznym na aktualnych zdjęciach zamieszczonych w galerii. W zestawie znajduje się urządzenie, głowica zabiegowa, pedał nożny oraz elementy widoczne na zdjęciach.": {
+    "en": "The equipment is sold in the condition shown in the current gallery photographs. The set includes the device, treatment handpiece, foot pedal and the items shown in the photographs.",
+    "ru": "Оборудование продаётся в состоянии, показанном на актуальных фотографиях в галерее. В комплект входят аппарат, рабочая манипула, ножная педаль и элементы, показанные на фотографиях."
+  },
+  "TECHNOLOGIA": {
+    "en": "TECHNOLOGY",
+    "ru": "ТЕХНОЛОГИЯ"
+  },
+  "RF mikroigłowa": {
+    "en": "Microneedling RF",
+    "ru": "Микроигольчатый RF"
+  },
+  "Precyzyjna technologia frakcyjnej radiofrekwencji przeznaczona do profesjonalnej pracy zabiegowej.": {
+    "en": "Precise fractional radiofrequency technology designed for professional treatments.",
+    "ru": "Точная технология фракционного радиочастотного воздействия для профессионального проведения процедур."
+  },
+  "Technologia": {
+    "en": "Technology",
+    "ru": "Технология"
+  },
+  "Tryb działania": {
+    "en": "Operating mode",
+    "ru": "Режим работы"
+  },
+  "Frakcyjna radiofrekwencja": {
+    "en": "Fractional radiofrequency",
+    "ru": "Фракционное радиочастотное воздействие"
+  },
+  "Częstotliwość RF": {
+    "en": "RF frequency",
+    "ru": "Частота RF"
+  },
+  "Moc RF": {
+    "en": "RF power",
+    "ru": "Мощность RF"
+  },
+  "do 10 W": {
+    "en": "Up to 10 W",
+    "ru": "До 10 W"
+  },
+  "Regulacja głębokości": {
+    "en": "Depth adjustment",
+    "ru": "Регулировка глубины"
+  },
+  "0,5–3,5 mm": {
+    "en": "0.5–3.5 mm",
+    "ru": "0,5–3,5 mm"
+  },
+  "Sterowanie": {
+    "en": "Controls",
+    "ru": "Управление"
+  },
+  "Obsługa zabiegu": {
+    "en": "Treatment operation",
+    "ru": "Управление процедурой"
+  },
+  "Głowica + pedał nożny": {
+    "en": "Handpiece + foot pedal",
+    "ru": "Манипула + ножная педаль"
+  },
+  "Dane urządzenia": {
+    "en": "Device information",
+    "ru": "Данные аппарата"
+  },
+  "Dane identyfikacyjne na podstawie tabliczki znamionowej oferowanego egzemplarza.": {
+    "en": "Identification data based on the nameplate of this unit.",
+    "ru": "Идентификационные данные приведены по заводской табличке предлагаемого экземпляра."
+  },
+  "Nazwa urządzenia": {
+    "en": "Device name",
+    "ru": "Название аппарата"
+  },
+  "Fractional RF Surgical Unit with Sterile Microneedle": {
+    "en": "Fractional RF Surgical Unit with Sterile Microneedle",
+    "ru": "Хирургический аппарат фракционного RF со стерильными микроиглами"
+  },
+  "Data produkcji": {
+    "en": "Manufacture date",
+    "ru": "Дата выпуска"
+  },
+  "Kraj produkcji": {
+    "en": "Country of manufacture",
+    "ru": "Страна производства"
+  },
+  "Korea Południowa": {
+    "en": "South Korea",
+    "ru": "Южная Корея"
+  },
+  "ZESTAW": {
+    "en": "INCLUDED ITEMS",
+    "ru": "КОМПЛЕКТ"
+  },
+  "Co znajduje się w ofercie": {
+    "en": "What is included",
+    "ru": "Что входит в предложение"
+  },
+  "Zakres zestawu zgodny ze zdjęciami oferowanego urządzenia.": {
+    "en": "The included items correspond to the photographs of the offered device.",
+    "ru": "Комплектация соответствует фотографиям предлагаемого аппарата."
+  },
+  "Głowica zabiegowa": {
+    "en": "Treatment handpiece",
+    "ru": "Рабочая манипула"
+  },
+  "Pedał nożny": {
+    "en": "Foot pedal",
+    "ru": "Ножная педаль"
+  },
+  "Kartridż / końcówka": {
+    "en": "Cartridge / tip",
+    "ru": "Картридж / насадка"
+  },
+  "Widoczna na zdjęciach": {
+    "en": "Shown in the photographs",
+    "ru": "Показан на фотографиях"
+  },
+  "Skontaktuj się z nami, aby uzyskać dodatkowe informacje dotyczące urządzenia, wyposażenia, odbioru i zakupu.": {
+    "en": "Contact us for more information about the device, included equipment, collection and purchase options.",
+    "ru": "Свяжитесь с нами для получения дополнительной информации об аппарате, комплектации, получении и покупке."
+  },
+  "MEDILASE PRO – używane urządzenie | LTS Market": {
+    "en": "MEDILASE PRO – pre-owned equipment · LTS Market",
+    "ru": "MEDILASE PRO — б/у оборудование · LTS Market"
+  },
+  "Używany profesjonalny laser diodowy MEDILASE PRO. Rok produkcji 2021. Urządzenie sprawne, po serwisie i obsługiwane przez Laser Tech Service.": {
+    "en": "Pre-owned MEDILASE PRO professional diode laser. Manufactured in 2021. Operational, serviced and supported by Laser Tech Service.",
+    "ru": "Б/у профессиональный диодный лазер MEDILASE PRO. Год выпуска 2021. Исправен, после обслуживания, с сервисной поддержкой Laser Tech Service."
+  },
+  "MEDILASE PRO – używany profesjonalny laser diodowy": {
+    "en": "MEDILASE PRO – pre-owned professional diode laser",
+    "ru": "MEDILASE PRO — б/у профессиональный диодный лазер"
+  },
+  "MEDILASE PRO – widok z przodu": {
+    "en": "MEDILASE PRO – front view",
+    "ru": "MEDILASE PRO — вид спереди"
+  },
+  "MEDILASE PRO – panel sterowania i pedał": {
+    "en": "MEDILASE PRO – control panel and pedal",
+    "ru": "MEDILASE PRO — панель управления и педаль"
+  },
+  "MEDILASE PRO – widok boczny i głowica": {
+    "en": "MEDILASE PRO – side view and handpiece",
+    "ru": "MEDILASE PRO — вид сбоку и манипула"
+  },
+  "MEDILASE PRO – widok urządzenia z tyłu": {
+    "en": "MEDILASE PRO – rear view",
+    "ru": "MEDILASE PRO — вид сзади"
+  },
+  "MEDILASE PRO – obudowa urządzenia": {
+    "en": "MEDILASE PRO – device housing",
+    "ru": "MEDILASE PRO — корпус аппарата"
+  },
+  "MEDILASE PRO – tabliczka znamionowa": {
+    "en": "MEDILASE PRO – nameplate",
+    "ru": "MEDILASE PRO — заводская табличка"
+  },
+  "MEDILASE PRO – ekran urządzenia": {
+    "en": "MEDILASE PRO – device screen",
+    "ru": "MEDILASE PRO — экран аппарата"
+  },
+  "MEDILASE PRO – głowica zabiegowa": {
+    "en": "MEDILASE PRO – treatment handpiece",
+    "ru": "MEDILASE PRO — рабочая манипула"
+  },
+  "LASER DIODOWY": {
+    "en": "DIODE LASER",
+    "ru": "ДИОДНЫЙ ЛАЗЕР"
+  },
+  "Profesjonalny laser diodowy": {
+    "en": "Professional diode laser",
+    "ru": "Профессиональный диодный лазер"
+  },
+  "35 000 zł": {
+    "en": "PLN 35,000",
+    "ru": "35 000 zł"
+  },
+  "Serwis Laser Tech Service": {
+    "en": "Laser Tech Service support",
+    "ru": "Сервис Laser Tech Service"
+  },
+  "Urządzenie jest sprawne, po serwisie i objęte profesjonalnym zapleczem technicznym Laser Tech Service.": {
+    "en": "The device is operational, has been serviced and is backed by professional technical support from Laser Tech Service.",
+    "ru": "Аппарат исправен, прошёл обслуживание и обеспечен профессиональной технической поддержкой Laser Tech Service."
+  },
+  "MEDILASE PRO to profesjonalny laser diodowy przeznaczony do pracy w gabinetach kosmetologicznych, salonach beauty oraz placówkach wykonujących zabiegi depilacji laserowej.": {
+    "en": "MEDILASE PRO is a professional diode laser designed for cosmetology practices, beauty salons and facilities offering laser hair removal treatments.",
+    "ru": "MEDILASE PRO — профессиональный диодный лазер для косметологических кабинетов, салонов красоты и учреждений, выполняющих процедуры лазерной эпиляции."
+  },
+  "Oferowany egzemplarz pochodzi z 2021 roku. Urządzenie jest sprawne i zostało poddane obsłudze serwisowej przed wystawieniem w ofercie LTS Market.": {
+    "en": "This unit was manufactured in 2021. It is operational and was serviced before being listed by LTS Market.",
+    "ru": "Предлагаемый экземпляр выпущен в 2021 году. Аппарат исправен и прошёл обслуживание перед размещением в каталоге LTS Market."
+  },
+  "System wyposażony jest w duży ekran dotykowy, głowicę zabiegową, system chłodzenia oraz sterowanie z użyciem pedału nożnego.": {
+    "en": "The system features a large touchscreen, treatment handpiece, cooling system and foot-pedal controls.",
+    "ru": "Система оснащена большим сенсорным экраном, рабочей манипулой, системой охлаждения и управлением с помощью ножной педали."
+  },
+  "Sprzęt sprzedawany jest w stanie widocznym na aktualnych zdjęciach. Wszystkie widoczne ślady użytkowania zostały pokazane w galerii produktu.": {
+    "en": "The equipment is sold in the condition shown in the current photographs. All visible signs of use are shown in the product gallery.",
+    "ru": "Оборудование продаётся в состоянии, показанном на актуальных фотографиях. Все видимые следы эксплуатации представлены в галерее товара."
+  },
+  "Dane na podstawie tabliczki znamionowej oferowanego urządzenia.": {
+    "en": "Information based on the nameplate of the offered device.",
+    "ru": "Данные приведены по заводской табличке предлагаемого аппарата."
+  },
+  "Diode laser device": {
+    "en": "Diode laser device",
+    "ru": "Диодный лазерный аппарат"
+  },
+  "Laser diodowy": {
+    "en": "Diode laser",
+    "ru": "Диодный лазер"
+  },
+  "Klasa urządzenia medycznego": {
+    "en": "Medical device class",
+    "ru": "Класс медицинского изделия"
+  },
+  "Class IIb": {
+    "en": "Class IIb",
+    "ru": "Класс IIb"
+  },
+  "Profesjonalne zaplecze serwisowe": {
+    "en": "Professional service support",
+    "ru": "Профессиональная сервисная поддержка"
+  },
+  "MEDILASE PRO jest obsługiwany przez Laser Tech Service. Dzięki temu po zakupie urządzenia możliwa jest dalsza profesjonalna diagnostyka, konserwacja i obsługa serwisowa.": {
+    "en": "MEDILASE PRO is supported by Laser Tech Service. Professional diagnostics, maintenance and servicing remain available after purchase.",
+    "ru": "Сервисную поддержку MEDILASE PRO обеспечивает Laser Tech Service. После покупки доступны профессиональная диагностика, техническое обслуживание и сервис аппарата."
+  },
+  "Skontaktuj się z nami, aby uzyskać dodatkowe informacje dotyczące urządzenia, jego stanu, wyposażenia i zakupu.": {
+    "en": "Contact us for more information about the device, its condition, included equipment and purchase options.",
+    "ru": "Свяжитесь с нами для получения дополнительной информации об аппарате, его состоянии, комплектации и покупке."
+  },
+  "Zdjęcie 1": {
+    "en": "Photo 1",
+    "ru": "Фото 1"
+  },
+  "Zdjęcie 2": {
+    "en": "Photo 2",
+    "ru": "Фото 2"
+  },
+  "Zdjęcie 3": {
+    "en": "Photo 3",
+    "ru": "Фото 3"
+  },
+  "Zdjęcie 4": {
+    "en": "Photo 4",
+    "ru": "Фото 4"
+  },
+  "Zdjęcie 5": {
+    "en": "Photo 5",
+    "ru": "Фото 5"
+  },
+  "Zdjęcie 6": {
+    "en": "Photo 6",
+    "ru": "Фото 6"
+  },
+  "Zdjęcie 7": {
+    "en": "Photo 7",
+    "ru": "Фото 7"
+  },
+  "Zdjęcie 8": {
+    "en": "Photo 8",
+    "ru": "Фото 8"
+  },
+  "Zdjęcie 9": {
+    "en": "Photo 9",
+    "ru": "Фото 9"
+  },
+  "Zdjęcie 10": {
+    "en": "Photo 10",
+    "ru": "Фото 10"
+  },
+  "Zdjęcie 11": {
+    "en": "Photo 11",
+    "ru": "Фото 11"
+  },
+  "Zdjęcie 12": {
+    "en": "Photo 12",
+    "ru": "Фото 12"
+  },
+  "Używane wielofunkcyjne urządzenie kosmetologiczne 3D CONTOUR do modelowania sylwetki. Rok produkcji 2022. Urządzenie sprawne i po serwisie Laser Tech Service.": {
+    "en": "Pre-owned multifunctional 3D CONTOUR aesthetic device for body contouring. Manufactured in 2022. Operational and serviced by Laser Tech Service.",
+    "ru": "Б/у многофункциональный косметологический аппарат 3D CONTOUR для коррекции фигуры. Год выпуска 2022. Исправен, обслужен Laser Tech Service."
+  }
+}

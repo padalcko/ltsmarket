@@ -24,7 +24,7 @@ class Element {
   const thumbs = ['original.webp','one.webp','two.webp'].map(url => { const e = new Element(); e.dataset = { image: url, alt: url }; return e; });
   thumbs[0].classes.add('is-active');
   const pending = [];
-  const document = { addEventListener: (_, fn) => fn(), querySelector: () => main, querySelectorAll: () => thumbs, createElement: () => new Element() };
+  const document = { documentElement: {lang: "pl"}, addEventListener: (_, fn) => fn(), querySelector: () => main, querySelectorAll: () => thumbs, createElement: () => new Element() };
   run('assets/js/produkt-uzywany.js', { document, Image: class { constructor() { pending.push(this); } } });
   thumbs[1].fire('click'); pending[0].onerror();
   assert.equal(main.attrs.src, 'original.webp'); assert.match(gallery.children[0].textContent, /Nie udało/);

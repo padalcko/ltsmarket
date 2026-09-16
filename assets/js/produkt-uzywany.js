@@ -25,6 +25,12 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  const language = document.documentElement.lang.split("-")[0];
+  const imageError = ({
+    pl: "Nie udało się wczytać zdjęcia. Spróbuj ponownie lub wybierz inne zdjęcie.",
+    en: "The photo could not be loaded. Try again or choose another photo.",
+    ru: "Не удалось загрузить фото. Повторите попытку или выберите другое фото.",
+  })[language] || "The photo could not be loaded. Please try again.";
   let imageRequest = 0;
   const status = document.createElement("p");
   status.setAttribute("role", "status");
@@ -51,7 +57,7 @@ document.addEventListener("DOMContentLoaded", () => {
     };
     candidate.onerror = () => {
       if (request !== imageRequest) return;
-      status.textContent = "Nie udało się wczytać zdjęcia. Spróbuj ponownie lub wybierz inne zdjęcie.";
+      status.textContent = imageError;
     };
     candidate.src = newImage;
   }

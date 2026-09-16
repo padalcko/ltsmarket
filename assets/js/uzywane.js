@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
       condition: "Condition",
       service: "Service",
       price: "Price",
-      show: "View (Polish page)",
+      show: "View",
       imageAltSuffix: "pre-owned device available at LTS Market",
     },
 
@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
       condition: "Состояние",
       service: "Сервис",
       price: "Цена",
-      show: "Подробнее (на польском)",
+      show: "Подробнее",
       imageAltSuffix: "б/у аппарат, доступный в LTS Market",
     },
   };
@@ -166,16 +166,7 @@ document.addEventListener("DOMContentLoaded", () => {
   ====================================================== */
 
   function getProductUrl(slug) {
-    /*
-     * Product detail pages currently exist only in:
-     *
-     * /uzywane/
-     *
-     * EN / RU catalogues therefore lead to the existing
-     * Polish product page instead of a 404.
-     */
-
-    return `/uzywane/${slug}.html`;
+    return `${lang === "pl" ? "" : "/" + lang}/uzywane/${slug}.html`;
   }
 
   /* ======================================================
@@ -325,8 +316,6 @@ document.addEventListener("DOMContentLoaded", () => {
                   `
                   : ""
               }
-
-              ${lang !== "pl" ? `<p class="language-note">${lang === "en" ? "Product details are currently available in Polish." : "Описание товара пока доступно на польском языке."}</p>` : ""}
               <div class="used-product-meta">
                 ${
                   year

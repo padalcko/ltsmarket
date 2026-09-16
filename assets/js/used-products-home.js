@@ -31,12 +31,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
     en: {
       badge: "USED",
-      link: "View equipment (Polish) →",
+      link: "View equipment →",
     },
 
     ru: {
       badge: "Б/У",
-      link: "Смотреть оборудование (на польском) →",
+      link: "Смотреть оборудование →",
     },
   };
 
@@ -59,12 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const image = `${rootPrefix}${product.image}`;
 
-      /*
-       * На даний момент окремі сторінки товарів існують польською.
-       * Тому EN/RU головні ведуть на польську картку товару.
-       * Коли створимо EN/RU product pages, змінимо це централізовано.
-       */
-      const productUrl = `${rootPrefix}uzywane/${product.slug}.html`;
+      const productUrl = `${language === "pl" ? "" : "/" + language}/uzywane/${product.slug}.html`;
 
       return `
         <article class="product-card">
