@@ -759,132 +759,6 @@ a {
 
 
 /* ============================================================
-   13. MARKET DIRECTIONS
-   NOWE / UŻYWANE / LEASING
-   ============================================================ */
-
-.market-directions {
-    background: #f4f6f8;
-
-    border-bottom: 1px solid var(--color-border);
-}
-
-.market-directions__grid {
-    width: 100%;
-}
-
-.direction-card {
-    display: grid;
-
-    grid-template-columns:
-        76px minmax(0, 1fr) 24px;
-
-    align-items: center;
-
-    gap: 16px;
-
-    min-height: 150px;
-
-    padding: 20px 16px;
-
-    border-bottom: 1px solid var(--color-border);
-
-    transition:
-        background-color var(--transition),
-        color var(--transition);
-}
-
-.direction-card:hover {
-    background: #ffffff;
-}
-
-.direction-card__visual {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    width: 76px;
-    height: 90px;
-
-    overflow: hidden;
-}
-
-.direction-card__visual img {
-    display: block;
-
-    width: 100%;
-    height: 100%;
-
-    object-fit: cover;
-    object-position: center;
-
-    transition: transform 260ms ease;
-}
-
-.direction-card:hover .direction-card__visual img {
-    transform: translateY(-3px) scale(1.025);
-}
-
-.direction-card__visual--icon {
-    color: var(--color-blue);
-}
-
-.direction-card__visual--icon svg {
-    width: 44px;
-    height: 44px;
-
-    fill: none;
-    stroke: currentColor;
-    stroke-width: 1.25;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-}
-
-.direction-card__content {
-    min-width: 0;
-}
-
-.direction-card .section-label {
-    margin-bottom: 6px;
-}
-
-.direction-card h2 {
-    margin-bottom: 6px;
-
-    font-size: 1.22rem;
-    font-weight: 650;
-
-    letter-spacing: -0.035em;
-}
-
-.direction-card p {
-    margin-bottom: 0;
-
-    color: var(--color-text-soft);
-
-    font-size: 0.82rem;
-    line-height: 1.45;
-}
-
-.direction-card__arrow {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-
-    color: var(--color-blue);
-
-    font-size: 1.4rem;
-    line-height: 1;
-
-    transition: transform var(--transition);
-}
-
-.direction-card:hover .direction-card__arrow {
-    transform: translateX(5px);
-}
-
-
-/* ============================================================
    14. PRODUCT SECTIONS
    ============================================================ */
 
@@ -1656,7 +1530,6 @@ a {
 }
 
 .footer__legal a,
-.footer__privacy-button,
 .footer__creator a {
     color: rgba(255, 255, 255, 0.52);
 
@@ -1664,19 +1537,10 @@ a {
 }
 
 .footer__legal a:hover,
-.footer__privacy-button:hover,
 .footer__creator a:hover {
     color: var(--color-blue);
 }
 
-.footer__privacy-button {
-    margin: 0;
-    padding: 0;
-
-    background: transparent;
-
-    cursor: pointer;
-}
 
 .footer__creator a {
     font-weight: 600;
@@ -1743,23 +1607,6 @@ a {
 
     .hero-benefit:hover {
         padding-left: 24px;
-    }
-
-
-    /* DIRECTIONS */
-
-    .direction-card {
-        grid-template-columns:
-            92px minmax(0, 1fr) 28px;
-
-        min-height: 155px;
-
-        padding: 20px 24px;
-    }
-
-    .direction-card__visual {
-        width: 92px;
-        height: 100px;
     }
 
 
@@ -1877,13 +1724,6 @@ a {
 
     .hero-benefit {
         min-height: 90px;
-    }
-
-
-    /* DIRECTIONS */
-
-    .direction-card {
-        min-height: 160px;
     }
 
 
@@ -2245,49 +2085,7 @@ a {
     }
 
 
-    /* ========================================================
-     DIRECTIONS
-     Compact desktop version
-     ======================================================== */
-
-    .market-directions__grid {
-        display: grid;
-
-        grid-template-columns:
-            repeat(3, minmax(0, 1fr));
-    }
-
-    .direction-card {
-        grid-template-columns:
-            92px minmax(0, 1fr) 28px;
-
-        gap: 18px;
-
-        min-height: 165px;
-
-        padding: 22px 28px;
-
-        border-right:
-            1px solid var(--color-border);
-
-        border-bottom: 0;
-    }
-
-    .direction-card:last-child {
-        border-right: 0;
-    }
-
-    .direction-card__visual {
-        width: 92px;
-        height: 100px;
-    }
-
-    .direction-card h2 {
-        font-size: 1.28rem;
-    }
-
-
-    /* ADVANTAGES */
+/* ADVANTAGES */
 
     .advantages__grid {
         grid-template-columns:
@@ -2458,38 +2256,6 @@ a {
 
 
     /* ========================================================
-     DIRECTIONS
-     Final desktop geometry
-     ======================================================== */
-
-    .direction-card {
-        grid-template-columns:
-            100px minmax(0, 1fr) 28px;
-
-        gap: 20px;
-
-        min-height: 170px;
-
-        padding: 22px 32px;
-    }
-
-    .direction-card__visual {
-        width: 100px;
-        height: 100px;
-    }
-
-    .direction-card h2 {
-        margin-bottom: 5px;
-
-        font-size: 1.3rem;
-    }
-
-    .direction-card p {
-        font-size: 0.8rem;
-    }
-
-
-    /* ========================================================
      PRODUCTS
      4 cards
      ======================================================== */
@@ -2636,26 +2402,6 @@ a {
     }
 
 
-    /* ========================================================
-     DIRECTIONS
-     DO NOT enlarge this section again
-     ======================================================== */
-
-    .direction-card {
-        grid-template-columns:
-            100px minmax(0, 1fr) 28px;
-
-        min-height: 170px;
-
-        padding: 22px 34px;
-    }
-
-    .direction-card__visual {
-        width: 100px;
-        height: 100px;
-    }
-
-
     /* PRODUCTS */
 
     .product-grid {
@@ -2692,9 +2438,86 @@ a {
     }
 
 }
-/* Shared privacy settings, opened from the existing footer button. */
-.privacy-dialog { width: min(560px, calc(100% - 32px)); max-height: 85vh; overflow: auto; padding: 28px; margin: auto; border: 1px solid var(--color-border); background: #fff; color: #122333; }
-.privacy-dialog::backdrop { background: rgba(5, 13, 20, .7); }
-.privacy-dialog h2 { margin: 0 0 16px; }
-.privacy-dialog p { line-height: 1.6; }
-.privacy-dialog__actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 24px; }
+
+/* Shared hero benefit geometry, formerly injected by JavaScript. */
+
+    /* HERO BENEFITS */
+
+    .hero-benefit {
+      display: grid;
+      grid-template-columns: 44px minmax(0, 1fr);
+      align-items: center;
+      column-gap: 16px;
+    }
+
+    .hero-benefit__icon {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      flex: none;
+
+      width: 44px;
+      height: 44px;
+
+      color: var(--color-blue);
+    }
+
+    .hero-benefit__icon svg {
+      display: block;
+
+      width: 32px;
+      height: 32px;
+      max-width: none;
+
+      overflow: visible;
+
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 1.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .hero-benefit__text {
+      min-width: 0;
+      line-height: 1.35;
+    }
+
+
+    /* TABLET */
+
+    @media (min-width: 640px) {
+      .hero-benefit {
+        grid-template-columns:
+          44px minmax(0, 1fr);
+
+        column-gap: 16px;
+      }
+
+
+    }
+
+
+    /* DESKTOP */
+
+    @media (min-width: 1024px) {
+      .hero-benefit {
+        grid-template-columns:
+          44px minmax(0, 1fr);
+
+        column-gap: 16px;
+      }
+
+      .hero-benefit__icon {
+        width: 44px;
+        height: 44px;
+      }
+
+      .hero-benefit__icon svg {
+        width: 32px;
+        height: 32px;
+      }
+
+
+}

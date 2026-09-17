@@ -277,7 +277,7 @@ async function handleSubmit(event) {
 
     if (!result.configured) {
       showStatus(
-        "Formularz jest gotowy. Wysyłka zostanie uruchomiona po podłączeniu systemu kontaktowego.",
+        "Wysyłka online jest obecnie niedostępna. Napisz na sales@ltsmarket.pl lub zadzwoń: +48 575 254 431.",
         "",
       );
 

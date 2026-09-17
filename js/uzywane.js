@@ -10,6 +10,8 @@ document.querySelectorAll("[data-gallery]").forEach((gallery) => {
       image.onload = () => {
         if (current !== request) return;
         main.src = image.src;
+        main.width = image.naturalWidth;
+        main.height = image.naturalHeight;
         main.alt = button.querySelector("img").alt;
         link.href = image.src;
         gallery.querySelectorAll("[data-image]").forEach((item) => item.setAttribute("aria-pressed", String(item === button)));
