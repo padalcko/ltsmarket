@@ -1,54 +1,80 @@
-# LTS Market
+# LTS Market — redesigned multilingual site
 
-Статичний сайт польською, англійською та російською мовами. Публікувати з кореня домену: шляхи `/assets/` абсолютні.
+Static site using the original design in `css/main.css`, `css/nowe.css`,
+`css/leasing.css` and `css/kontakt.css`. No framework or runtime translation.
 
-## Локальний перегляд
+## Pages
+
+- Polish: `/`, `/nowe.html`, `/uzywane.html`, `/leasing.html`, `/kontakt.html`.
+- English and Russian: the same routes under `/en/` and `/ru/`.
+- Four pre-owned product pages per language under `uzywane/`, with all 33
+  supplied photos, price, year (when supplied), condition and service information.
+- Privacy information in all three languages.
+- Language switches keep the current page/product. New-equipment home cards
+  open the matching section on `nowe.html`. Blog links open the existing
+  Laser Tech Service blog; there is no local blog in this checkout.
+
+## Editing and rebuilding
+
+The four original Polish page templates are in `scripts/templates/*.html.in`.
+The shared header and footer live in `scripts/templates/header.html.in` and
+`scripts/templates/footer.html.in`; all pages use these same components.
+Edit those templates rather than their generated HTML copies. Shared styles
+and Polish JavaScript remain in `css/` and `js/`.
+
+- `scripts/translations.json`: EN/RU translations of the existing pages and live JS messages.
+- `scripts/used-products.json`: catalogue data, retrieved on 2026-09-17 from
+  https://github.com/padalcko/ltsmarket/blob/main/assets/js/used-products.js.
+  Prices and condition are the source listing's claims; confirm availability with the seller.
+- `scripts/build-icons.py`: matching font-independent SVG, ICO and PNG icons; no dependencies.
+- `scripts/build-site.py`: new catalogue/detail markup, its translations,
+  metadata, manifests and sitemap. Uses Python's standard library only.
 
 ```sh
+python3 scripts/build-icons.py
+python3 scripts/build-site.py
+python3 scripts/check-site.py
 python3 -m http.server 8000
 ```
 
-Відкрити `http://localhost:8000/`. Простий локальний сервер не відтворює налаштування production-хостингу, зокрема custom 404, HTTPS, кешування та заголовки безпеки.
+Open `http://localhost:8000/`. Serve the repository at the domain root; URLs
+are root-relative. Production canonical URLs currently use `https://ltsmarket.pl`.
+Change `BASE` in the generator when deploying to a different canonical domain.
+All generated files are included; hosting does not need Python or a build step.
 
-## Оновлення каталогу
+`site.webmanifest`, language-specific manifests, favicon, Apple touch icon,
+192/512 px app icons, `robots.txt` and `sitemap.xml` are included.
 
-1. Відредагувати `assets/js/used-products.js` і відповідну сторінку в `uzywane/` (включно з ціною та JSON-LD).
-2. Оновити переклади в `scripts/product-translations.json` і запустити `python3 scripts/build-product-translations.py`.
-3. Запустити `node scripts/build-catalog.mjs` та `python3 scripts/build-sitemap.py`.
-4. Запустити перевірки нижче.
+## Behavior checks
 
-Генератор використовує ті самі дані та функції відображення, що й браузер. Картки включені в HTML, тому каталог доступний без JavaScript. Не редагувати вміст між коментарями `generated:products` вручну.
-
-Картки товарів доступні польською, англійською та російською. Після редагування польських оригіналів оновити переклади в `scripts/product-translations.json` і виконати `python3 scripts/build-product-translations.py`. Генератор зберігає структуру, фотографії, технічні параметри й реквізити польського оригіналу.
-
-## Зображення
-
-Оригінали залишаються в `assets/img/`. WebP-версії для відображення розміщені в `assets/img/optimized/`.
-
-Для регенерації встановити Pillow у своє Python-середовище та виконати:
+On macOS, from the repository root:
 
 ```sh
-python3 scripts/optimize_images.py
+/System/Library/Frameworks/JavaScriptCore.framework/Versions/A/Helpers/jsc scripts/test-behavior.js
 ```
 
-Суфікси `-320`, `-480`, `-960`, `-1440` — максимальна ширина, без збільшення оригіналу. У `srcset` потрібно вказувати фактичну ширину файлу. Для фото каталогу, вужчих за 960 px, задати `imageWidth` у даних товару.
+Checks cover consent/revocation, unavailable storage, gallery load races,
+retaining the current image on a failed load, and separate form handlers.
+Structural checks cover all 30 pages, assets, anchors, language counterparts,
+metadata, product JSON-LD, manifests and sitemap coverage.
+Rebuilding twice produces identical files.
 
-## Перевірки
+## Existing integration boundaries
 
-Потрібні Python 3 і Node.js. Сторінки працюють без Node.js на сервері.
+The contact forms have no configured sending backend. They validate input and
+show a localized unavailable message; no successful delivery is claimed.
+`js/kontakt.js` retains the empty `N8N_WEBHOOK_URL` configuration. The homepage
+form has its separate existing integration placeholder in `js/main.js`.
+A product enquiry fills in the selected model and pre-owned enquiry category.
 
-```sh
-python3 scripts/check-site.py
-python3 scripts/check-product-translations.py
-node scripts/test-behavior.mjs
-```
+Analytics is disabled until enabled through the existing footer privacy button.
+The choice is stored locally. Revocation disables subsequent analytics; it does
+not delete data already sent. Google Fonts and embedded maps still connect to
+Google when their resources load.
 
-Перша перевірка охоплює метадані, локальні ресурси й посилання, якорі, JSON-LD, наявність статичних карток і підключення аналітики через згоду. Друга виконує JS у контрольованому оточенні та перевіряє гонки завантаження галереї, помилки фото, згоду на аналітику і паузу слайдера. Це не замінює перевірку верстки у браузері.
+The confirmed LTS Market address is `Rybacka 7, Wrocław`. Homepage and
+contact text, embedded maps and structured data use this address in all three
+languages.
 
-## Форма та аналітика
-
-- Контактна форма готує лист у поштовій програмі. Кнопка й пояснення явно описують цю поведінку; відправлення з сервера не реалізоване. Резервний HTML-сценарій використовує POST/mailto, а не GET із персональними даними в URL сайту.
-- Для реального надсилання потрібен серверний endpoint. Після підключення потрібні серверна валідація, захист від спаму, обробка помилок і підтвердження прийняття заявки. Секрети не можна додавати у frontend.
-- `assets/js/privacy.js` завантажує GA лише після згоди. Вибір зберігається в localStorage. Відкликання згоди вимикає GA, очищає доступні GA-cookie та перезавантажує сторінку для вивантаження скрипта.
-- Реквізити прибрані з футера на прохання власника; контактні дані компанії залишені на сторінках приватності. Сторінки приватності пояснюють реалізовану поведінку сайту; строки зберігання листування й інші внутрішні процедури компанії власник має визначити окремо.
-- Netto/brutto/VAT не зазначено: власник ще не підтвердив податковий статус цін. Не припускати його при оновленні каталогу.
+No deployment was performed. Browser visual/mobile QA was unavailable in the
+editing environment; the checks above do not substitute for a visual review.
