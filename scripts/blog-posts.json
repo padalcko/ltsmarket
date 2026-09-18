@@ -76,7 +76,8 @@
             "Od pomysłu do konkretnego planu",
             "Spisz planowany zakres usług, budżet na wyposażenie oraz miesięczne koszty. Następnie porównaj dostępne modele, warunki zakupu i wsparcia. Na końcu zaplanuj przygotowanie zespołu i realistyczny harmonogram otwarcia.\n<a href=\"{prefix}kontakt.html\">Skontaktuj się z LTS Market</a> i opisz swój pomysł na gabinet w Polsce. Podaj budżet oraz informację, czy interesuje Cię sprzęt nowy, używany czy leasing. To dobry punkt wyjścia do rozmowy o dostępnych rozwiązaniach."
           ]
-        ]
+        ],
+        "category": "Biznes i depilacja laserowa"
       },
       "en": {
         "slug": "laser-hair-removal-business",
@@ -127,7 +128,8 @@
             "Turn the idea into a practical plan",
             "Write down your intended services, equipment budget and monthly expenses. Compare available models, purchase terms and support, then plan team preparation and a realistic opening schedule.\n<a href=\"{prefix}kontakt.html\">Contact LTS Market</a> with your plans for a salon in Poland. Include your budget and whether you are considering new equipment, a pre-owned device or leasing. This provides a useful starting point for discussing available options."
           ]
-        ]
+        ],
+        "category": "Business and laser hair removal"
       },
       "ru": {
         "slug": "lazernaya-epilyaciya-kak-biznes",
@@ -178,7 +180,8 @@
             "От идеи к конкретному плану",
             "Запишите перечень услуг, бюджет на оборудование и ежемесячные расходы. Затем сравните модели, условия покупки и поддержки. После этого спланируйте подготовку команды и реалистичный график открытия.\n<a href=\"{prefix}kontakt.html\">Свяжитесь с LTS Market</a> и расскажите о будущем кабинете в Польше. Укажите бюджет и интересующий вариант: новое оборудование, подержанный аппарат или лизинг. Это отправная точка для обсуждения доступных решений."
           ]
-        ]
+        ],
+        "category": "Бизнес и лазерная эпиляция"
       }
     },
     {
@@ -227,7 +230,8 @@
         ],
         "image": "/assets/img/blog/rf-article.webp",
         "image_width": 1080,
-        "image_height": 1080
+        "image_height": 1080,
+        "category": "Technologie kosmetologiczne"
       },
       "en": {
         "slug": "body-contouring-cavitation-rf",
@@ -274,7 +278,8 @@
         ],
         "image": "/assets/img/blog/rf-article.webp",
         "image_width": 1080,
-        "image_height": 1080
+        "image_height": 1080,
+        "category": "Beauty technologies"
       },
       "ru": {
         "slug": "modelirovanie-figury-kavitaciya-rf",
@@ -321,7 +326,300 @@
         ],
         "image": "/assets/img/blog/rf-article.webp",
         "image_width": 1080,
-        "image_height": 1080
+        "image_height": 1080,
+        "category": "Косметологические технологии"
+      }
+    },
+    {
+      "pl": {
+        "slug": "bezpieczne-usuwanie-tatuazu-laser-nd-yag",
+        "title": "Bezpieczne usuwanie tatuażu laserem Nd:YAG — co warto wiedzieć?",
+        "seo": "Usuwanie tatuażu laserem Nd:YAG — bezpieczeństwo | LTS Market",
+        "description": "Jak działa laser Nd:YAG do usuwania tatuażu? Poznaj możliwości, ograniczenia i zasady wyboru urządzenia dla gabinetu w Polsce.",
+        "category": "Laserowe usuwanie tatuażu",
+        "lead": "Usunięcie tatuażu wymaga rozsądnego wyboru metody i indywidualnej oceny skóry. Laser Nd:YAG może skutecznie rozjaśniać wybrane pigmenty, ale sam typ urządzenia nie gwarantuje bezpieczeństwa ani pełnego usunięcia wzoru. Wyjaśniamy, co warto wiedzieć przed zabiegiem i zakupem sprzętu do gabinetu w Polsce.",
+        "cta": "Planujesz zakup lasera do swojego gabinetu?",
+        "contact": "Porozmawiaj z LTS Market",
+        "image_alt": "Urządzenie laserowe z ekranem i głowicami w gabinecie zabiegowym",
+        "sections": [
+          [
+            "Czym jest laser neodymowy Nd:YAG?",
+            "Nd:YAG to laser wykorzystujący kryształ domieszkowany neodymem. Do tatuaży stosuje się urządzenia z bardzo krótkimi impulsami, m.in. Q-switched. Fala 1064 nm jest wykorzystywana przede wszystkim do ciemnych pigmentów; w odpowiedniej konfiguracji dostępna jest też fala 532 nm, stosowana m.in. przy czerwieni. Nie każdy kolor reaguje jednakowo. Zobacz <a href=\"https://dermnetnz.org/topics/ndyag-laser-treatment\">omówienie technologii Nd:YAG w DermNet</a>."
+          ],
+          [
+            "Jak przebiega usuwanie pigmentu?",
+            "Energia impulsu rozbija pigment na drobniejsze cząstki, które organizm stopniowo usuwa. Potrzebna jest seria zabiegów i czas na regenerację pomiędzy wizytami. Liczbę sesji i odstępy ustala się indywidualnie; nie należy obiecywać usunięcia tatuażu podczas jednej wizyty. Mechanizm opisuje <a href=\"https://www.aad.org/public/cosmetic/hair-removal/laser-tattoo-removal\">American Academy of Dermatology</a>."
+          ],
+          [
+            "Bezpieczeństwo: możliwości i ograniczenia",
+            "Zabieg może powodować ból, zmiany koloru skóry, oparzenia, blizny lub infekcję. Całkowite usunięcie tatuażu nie zawsze jest możliwe. Konsultacja z dermatologiem pomaga ocenić ryzyko. Nie ma podstaw, by przedstawiać każdy Nd:YAG jako „najbezpieczniejszy laser” dla wszystkich osób. Więcej o ryzyku: <a href=\"https://www.fda.gov/consumers/consumer-updates/tattoo-removal-options-and-results\">informacje FDA o usuwaniu tatuaży</a>."
+          ],
+          [
+            "Konsultacja i pielęgnacja po zabiegu",
+            "Przed zabiegiem omów stan zdrowia, leki i skłonność do blizn. Po nim przestrzegaj indywidualnych zaleceń dotyczących pielęgnacji oraz ochrony przed słońcem. Plan serii powinien uwzględniać gojenie skóry, a nie termin wakacji. <a href=\"https://www.aad.org/public/cosmetic/hair-removal/laser-tattoo-removal\">Zalecenia AAD</a> podkreślają znaczenie kwalifikacji i opieki po zabiegu."
+          ],
+          [
+            "Jak wybrać urządzenie do gabinetu w Polsce?",
+            "Porównując oferty, zapytaj o przeznaczenie konkretnego modelu, dostępne długości fal, rodzaj impulsu i dokumentację producenta. Sama nazwa Nd:YAG w ogłoszeniu nie mówi, czy dana konfiguracja nadaje się do planowanych zabiegów. Poproś o instrukcję w języku polskim i demonstrację urządzenia.\nPrzed zakupem ustal zakres szkolenia, warunki gwarancji, dostępność części i serwisu w Polsce. Przy sprzęcie używanym poproś o historię przeglądów oraz potwierdzenie stanu głowic. Zdjęcie w artykule jest ilustracyjne i nie stanowi potwierdzenia parametrów ani dostępności konkretnego modelu."
+          ],
+          [
+            "Koszty i planowanie usługi",
+            "Budżet gabinetu powinien obejmować zakup urządzenia, przygotowanie zespołu, wyposażenie stanowiska i rezerwę serwisową. Koszt pojedynczego zabiegu oraz całej serii należy przedstawiać klientowi oddzielnie, bez gwarantowania liczby wizyt lub wyniku.\nPorównaj <a href=\"{prefix}nowe.html\">nowe urządzenia</a> i <a href=\"{prefix}uzywane.html\">sprzęt używany</a>, a jeśli rozważasz finansowanie — informacje o <a href=\"{prefix}leasing.html\">leasingu</a>. <a href=\"{prefix}kontakt.html\">Zapytaj LTS Market</a> o dostępne rozwiązania do planowanej usługi. Dostępność i przeznaczenie modelu wymagają indywidualnego potwierdzenia."
+          ]
+        ],
+        "image": "/assets/img/blog/ndyg-tatoo-article-clean.jpg",
+        "image_width": 1672,
+        "image_height": 941
+      },
+      "en": {
+        "slug": "safe-tattoo-removal-nd-yag-laser",
+        "title": "Safe tattoo removal with an Nd:YAG laser: what should you know?",
+        "seo": "Nd:YAG laser tattoo removal and safety | LTS Market",
+        "description": "How does Nd:YAG tattoo removal work? Learn about its benefits, limitations and choosing equipment for a clinic in Poland.",
+        "category": "Laser tattoo removal",
+        "lead": "Removing a tattoo calls for a considered choice of method and an individual skin assessment. An Nd:YAG laser can effectively lighten certain pigments, but the device type alone cannot guarantee safety or complete clearance. Here is what to consider before treatment or buying equipment for a clinic in Poland.",
+        "cta": "Planning to buy a laser for your clinic?",
+        "contact": "Talk to LTS Market",
+        "image_alt": "Laser device with a screen and handpieces in a treatment room",
+        "sections": [
+          [
+            "What is an Nd:YAG laser?",
+            "Nd:YAG lasers use a neodymium-doped crystal. Tattoo treatments use very short pulses, including Q-switched systems. The 1064 nm wavelength primarily targets dark pigments; appropriately configured systems also offer 532 nm, used for colours including red. Colours do not respond equally. See <a href=\"https://dermnetnz.org/topics/ndyag-laser-treatment\">DermNet’s explanation of Nd:YAG technology</a>."
+          ],
+          [
+            "How is the pigment removed?",
+            "Laser pulses break pigment into smaller particles, which the body gradually clears. Treatment requires multiple sessions and recovery time between appointments. Session numbers and intervals are individual; complete removal in one visit should not be promised. The <a href=\"https://www.aad.org/public/cosmetic/hair-removal/laser-tattoo-removal\">American Academy of Dermatology</a> explains this process."
+          ],
+          [
+            "Safety: benefits and limitations",
+            "Treatment can cause pain, skin colour changes, burns, scarring or infection. Complete tattoo removal is not always achievable. A dermatologist’s consultation helps assess the risks. It is misleading to describe every Nd:YAG device as the “safest laser” for everyone. See the <a href=\"https://www.fda.gov/consumers/consumer-updates/tattoo-removal-options-and-results\">FDA’s tattoo removal information</a> for more on risks."
+          ],
+          [
+            "Consultation and aftercare",
+            "Discuss your health, medicines and tendency to scar before treatment. Afterwards, follow individual aftercare and sun protection instructions. Plan the series around skin recovery rather than a holiday deadline. <a href=\"https://www.aad.org/public/cosmetic/hair-removal/laser-tattoo-removal\">AAD guidance</a> highlights the importance of assessment and aftercare."
+          ],
+          [
+            "Choosing equipment for a clinic in Poland",
+            "When comparing offers, ask about the specific model’s intended use, wavelengths, pulse type and manufacturer documentation. The name Nd:YAG in an advertisement does not establish whether that configuration suits your planned treatments. Request a Polish-language manual and a device demonstration.\nBefore buying, clarify training, warranty terms, parts availability and servicing in Poland. For used equipment, request maintenance records and confirmation of handpiece condition. The article photograph is illustrative; it does not establish a particular model’s specifications or availability."
+          ],
+          [
+            "Costs and service planning",
+            "A clinic budget should include equipment, team preparation, treatment-room essentials and a maintenance reserve. Explain the price per session separately from the estimated cost of the series, without guaranteeing a visit count or result.\nCompare <a href=\"{prefix}nowe.html\">new devices</a> and <a href=\"{prefix}uzywane.html\">used equipment</a>, and explore <a href=\"{prefix}leasing.html\">leasing</a> if you are considering finance. <a href=\"{prefix}kontakt.html\">Ask LTS Market</a> about options for your planned service. Model availability and suitability need individual confirmation."
+          ]
+        ],
+        "image": "/assets/img/blog/ndyg-tatoo-article-clean.jpg",
+        "image_width": 1672,
+        "image_height": 941
+      },
+      "ru": {
+        "slug": "bezopasnoe-udalenie-tatu-lazer-nd-yag",
+        "title": "Безопасное удаление татуировки лазером Nd:YAG: что важно знать?",
+        "seo": "Удаление татуировки лазером Nd:YAG и безопасность | LTS Market",
+        "description": "Как работает удаление тату лазером Nd:YAG? Возможности, ограничения и выбор оборудования для кабинета в Польше.",
+        "category": "Лазерное удаление татуировок",
+        "lead": "Удаление татуировки требует осознанного выбора метода и индивидуальной оценки кожи. Лазер Nd:YAG может эффективно осветлять определённые пигменты, но название технологии не гарантирует безопасность или полное удаление рисунка. Рассказываем, что учитывать перед процедурой и покупкой оборудования для кабинета в Польше.",
+        "cta": "Планируете купить лазер для своего кабинета?",
+        "contact": "Обсудить с LTS Market",
+        "image_alt": "Лазерный аппарат с экраном и манипулами в процедурном кабинете",
+        "sections": [
+          [
+            "Что такое неодимовый лазер Nd:YAG?",
+            "В Nd:YAG используется кристалл с добавлением неодима. Для татуировок применяют очень короткие импульсы, в том числе системы Q-switched. Длина волны 1064 нм используется преимущественно для тёмных пигментов; соответствующая комплектация может также давать 532 нм, в частности для красного цвета. Цвета реагируют по-разному. Подробнее о технологии — в <a href=\"https://dermnetnz.org/topics/ndyag-laser-treatment\">материале DermNet</a>."
+          ],
+          [
+            "Как удаляется пигмент?",
+            "Импульсы дробят пигмент на мелкие частицы, которые организм постепенно выводит. Нужны повторные процедуры и время на восстановление между визитами. Число сеансов и интервалы определяют индивидуально; обещать полное удаление за один визит нельзя. Механизм описывает <a href=\"https://www.aad.org/public/cosmetic/hair-removal/laser-tattoo-removal\">Американская академия дерматологии</a>."
+          ],
+          [
+            "Безопасность: возможности и ограничения",
+            "Возможны боль, изменения цвета кожи, ожоги, рубцы или инфекция. Полностью удалить татуировку удаётся не всегда. Консультация дерматолога помогает оценить риски. Называть любой Nd:YAG «самым безопасным лазером» для всех людей некорректно. О рисках рассказывает <a href=\"https://www.fda.gov/consumers/consumer-updates/tattoo-removal-options-and-results\">FDA в материале об удалении татуировок</a>."
+          ],
+          [
+            "Консультация и уход после процедуры",
+            "До процедуры обсудите состояние здоровья, лекарства и склонность к рубцам. После неё соблюдайте индивидуальные рекомендации по уходу и защите от солнца. Планируйте курс с учётом восстановления кожи, а не даты отпуска. <a href=\"https://www.aad.org/public/cosmetic/hair-removal/laser-tattoo-removal\">Рекомендации AAD</a> подчёркивают значение предварительной оценки и последующего ухода."
+          ],
+          [
+            "Как выбрать аппарат для кабинета в Польше?",
+            "Сравнивая предложения, уточняйте назначение конкретной модели, длины волн, тип импульса и документацию производителя. Название Nd:YAG в объявлении не подтверждает, что комплектация подходит для запланированных процедур. Попросите инструкцию на польском языке и демонстрацию аппарата.\nДо покупки уточните объём обучения, гарантийные условия, наличие запчастей и сервиса в Польше. Для подержанного оборудования запросите историю обслуживания и подтверждение состояния манипул. Фото в статье служит иллюстрацией и не подтверждает характеристики или наличие конкретной модели."
+          ],
+          [
+            "Расходы и планирование услуги",
+            "В бюджет кабинета стоит включить аппарат, подготовку команды, оснащение рабочего места и резерв на обслуживание. Стоимость одного сеанса и предполагаемые расходы на курс объясняйте отдельно, без гарантий числа визитов или результата.\nСравните <a href=\"{prefix}nowe.html\">новые аппараты</a> и <a href=\"{prefix}uzywane.html\">подержанное оборудование</a>, а при необходимости финансирования изучите <a href=\"{prefix}leasing.html\">лизинг</a>. <a href=\"{prefix}kontakt.html\">Обратитесь в LTS Market</a>, чтобы обсудить решения для вашей услуги. Наличие и назначение модели нужно подтвердить индивидуально."
+          ]
+        ],
+        "image": "/assets/img/blog/ndyg-tatoo-article-clean.jpg",
+        "image_width": 1672,
+        "image_height": 941
+      }
+    },
+    {
+      "pl": {
+        "slug": "lumos-nowoczesny-laser-diodowy-dla-salonu",
+        "title": "Lumos — nowoczesny laser diodowy dla salonu epilacji",
+        "seo": "Lumos: laser diodowy dla salonu i serwis | LTS Market",
+        "description": "Poznaj Lumos: cztery długości fal, funkcje cyfrowe i wsparcie Laser Tech Service. Sprawdź jego wartość dla salonu epilacji w Polsce.",
+        "category": "Lasery do epilacji",
+        "lead": "Nowoczesny salon potrzebuje sprzętu, który wspiera codzienną pracę zespołu i rozwój oferty. Lumos z katalogu LTS Market łączy cztery długości fal z funkcjami cyfrowymi i rozbudowanym wyposażeniem. W połączeniu z obsługą Laser Tech Service stanowi propozycję dla gabinetów, które myślą o urządzeniu jako o inwestycji na lata.",
+        "cta": "Dobierz konfigurację Lumos do swojego salonu",
+        "contact": "Zapytaj o Lumos",
+        "image_alt": "Laser diodowy Lumos z oferty LTS Market",
+        "sections": [
+          [
+            "Lumos idzie w parze z potrzebami nowoczesnego salonu",
+            "Współczesność urządzenia warto oceniać przez jego użyteczność: zakres konfiguracji, wygodę obsługi i możliwość zaplanowania opieki technicznej. Lumos łączy funkcje zabiegowe z Androidem, CRM i dermaskopem wymienionymi w naszej ofercie. To interesujący kierunek dla salonu, który chce rozwijać zarówno zaplecze technologiczne, jak i organizację pracy.\nModel pojawia się też w <a href=\"https://alislaser.pl/blog/innowacje-w-sprzecie-kosmetycznym/\">przeglądzie innowacji ALIS Laser</a>, w kontekście urządzeń do epilacji o mocy głowicy co najmniej 2000 W. Parametry zamawianej wersji należy zawsze odnosić do jej dokumentacji."
+          ],
+          [
+            "Cztery długości fal i szeroki zakres ustawień",
+            "W <a href=\"{prefix}nowe.html#lumos\">karcie Lumos w LTS Market</a> podajemy długości fal 755, 808, 940 i 1064 nm, moc głowicy 2000–4000 W, energię 10–240 J, częstotliwość 1–30 Hz i impuls od 5 ms. Zakresy dotyczą oferty konfiguracji, dlatego przed zakupem ustalamy parametry konkretnej wersji.\nDla właściciela salonu oznacza to możliwość świadomego dobrania wyposażenia do planu pracy. Cztery długości fal nie stanowią jednak gwarancji rezultatu dla każdego koloru włosów czy fototypu. Dobór parametrów i kwalifikację do zabiegu należy opierać na instrukcji urządzenia oraz przygotowaniu operatora."
+          ],
+          [
+            "Funkcje, które warto zobaczyć podczas prezentacji",
+            "Katalog wymienia ICE Flow, FAC, NeoDez, dermaskop, CRM i Android. Zamiast oceniać urządzenie wyłącznie po nazwach funkcji, warto sprawdzić je podczas demonstracji: obsługę ekranu, dostępne ustawienia, wygodę pracy głowicą i sposób korzystania z modułów cyfrowych.\nDla salonu to okazja, aby ocenić, czy wyposażenie rzeczywiście odpowiada pracy zespołu. Zakres CRM, aktualizacje oprogramowania oraz funkcje poszczególnych modułów potwierdź dla wybranej konfiguracji. Nie zakładamy automatycznych integracji ani funkcji diagnostycznych, których dokumentacja nie potwierdza."
+          ],
+          [
+            "Laser Tech Service — wsparcie także po zakupie",
+            "Wartość Lumos buduje również zaplecze techniczne. Obsługę urządzenia możesz zaplanować z Laser Tech Service, którego oferta obejmuje serwis laserów diodowych, diagnostykę, głowice, chłodzenie i elektronikę. <a href=\"https://lasertechservice.pl/\">Poznaj Laser Tech Service</a>.\nDla gabinetu liczy się jasna ścieżka kontaktu w razie usterki. Przy wyborze Lumos ustal harmonogram przeglądów, zakres opieki, zasady zgłoszeń oraz warunki gwarancyjne. Planowana konserwacja pomaga organizować pracę salonu, ale nie oznacza obietnicy braku awarii ani określonego czasu naprawy."
+          ],
+          [
+            "Dokumentacja i certyfikacja dla gabinetu w Polsce",
+            "Lumos oferowany przez LTS Market posiada kompletną dokumentację i certyfikację wymaganą do jego wprowadzenia do obrotu i użytkowania zgodnie z przeznaczeniem w Polsce. To istotny element wartości urządzenia dla salonu, który chce rozwijać ofertę w oparciu o udokumentowane pochodzenie i zgodność sprzętu.\nDokumenty nie są publikowane w internecie. Szczegóły dotyczące dokumentacji konkretnej konfiguracji można omówić bezpośrednio z LTS Market podczas przygotowania oferty. Certyfikacja nie zastępuje szkolenia operatora, kwalifikacji do zabiegu ani przestrzegania instrukcji producenta."
+          ],
+          [
+            "Wartość inwestycji: sprzęt, wdrożenie i utrzymanie",
+            "W katalogu LTS Market cena Lumos wynosi 68 000–100 000 zł, zależnie od konfiguracji. Aktualną wycenę i zakres dostawy potwierdź w ofercie. Przy porównaniu uwzględnij wyposażenie, przygotowanie zespołu, warunki serwisu oraz koszty eksploatacji.\nLumos może być optymalnym nowoczesnym wyborem dla salonu, który potrzebuje rozbudowanej platformy i wykorzysta jej możliwości. O dopasowaniu decydują jednak liczba zabiegów, budżet i kompetencje zespołu. Wartość nie sprowadza się do najwyższej deklarowanej mocy, a zwrot inwestycji zależy również od kosztów i obłożenia."
+          ],
+          [
+            "Bezpłatne szkolenie operatorów — przygotowanie zespołu do pracy",
+            "W LTS Market prowadzimy bezpłatne szkolenia operatorów. Zakup Lumos to więc również możliwość przygotowania zespołu do obsługi urządzenia i omówienia pytań przed rozpoczęciem pracy. Szkolenie pomaga lepiej poznać aparat i świadomie korzystać z jego możliwości zgodnie z instrukcją producenta.\nTermin i program szkolenia ustalamy przy zakupie. Dla właściciela salonu oznacza to wsparcie we wdrożeniu sprzętu bez dodatkowej opłaty za szkolenie operatorów."
+          ],
+          [
+            "Kupujesz nowy aparat? Otrzymujesz stronę wizytówkową na rok",
+            "Salonom, które kupują w LTS Market Lumos lub dowolny inny nowy aparat, dajemy w prezencie stronę internetową wizytówkową na 1 rok. Przez pierwsze 3 miesiące zapewniamy bezpłatne wsparcie i promocję strony. Po tym okresie dalsze wsparcie i promocja są dostępne z dużymi rabatami.\nTo uzupełnienie inwestycji w urządzenie: salon zyskuje również własne miejsce w internecie, do którego może kierować osoby zainteresowane zabiegami. Szczegóły realizacji strony oraz warunki dalszej współpracy omawiamy indywidualnie."
+          ],
+          [
+            "Jak strona wizytówkowa pomaga pozyskiwać klientów?",
+            "Strona wizytówkowa pozwala w jednym miejscu przedstawić salon, ofertę zabiegów, wyposażenie i zespół. Można na niej wyjaśnić, na czym polegają usługi, odpowiedzieć na częste pytania oraz pokazać adres, godziny otwarcia i dane kontaktowe. Osoba zainteresowana ofertą łatwiej znajduje informacje potrzebne do kontaktu i zaplanowania wizyty.\nLink do strony można wykorzystać w mediach społecznościowych, wizytówce Google, materiałach drukowanych i kampaniach reklamowych. Daje to salonowi spójny punkt docelowy dla działań promocyjnych oraz podstawę do rozwijania widoczności w lokalnych wynikach wyszukiwania.\nPrzejrzysta prezentacja salonu pomaga budować zaufanie i ułatwia przejście od zainteresowania do zapytania o zabieg. Strona i jej promocja mogą wspierać pozyskiwanie klientów; rezultaty zależą również od lokalnego rynku, atrakcyjności oferty i obsługi zapytań."
+          ],
+          [
+            "Zaplanuj rozwój salonu z Lumos",
+            "<a href=\"{prefix}kontakt.html\">Skontaktuj się z LTS Market</a>, aby omówić konfigurację Lumos, prezentację, dokumentację i obsługę Laser Tech Service. Jeśli rozważasz finansowanie, sprawdź również <a href=\"{prefix}leasing.html\">leasing urządzeń kosmetycznych</a>. W ten sposób porównasz całe rozwiązanie: aparat, wdrożenie i wsparcie w codziennej pracy."
+          ]
+        ],
+        "image": "/assets/img/nowe/lumos.webp",
+        "image_width": 1145,
+        "image_height": 1374
+      },
+      "en": {
+        "slug": "lumos-modern-diode-laser-for-salons",
+        "title": "Lumos: a modern diode laser for hair removal salons",
+        "seo": "Lumos diode laser and service support | LTS Market",
+        "description": "Explore Lumos: four wavelengths, digital features and Laser Tech Service support. Discover its value for hair removal salons in Poland.",
+        "category": "Hair removal lasers",
+        "lead": "A modern salon needs equipment that supports its team and room to develop its services. Lumos in the LTS Market catalogue combines four wavelengths with digital features and extensive equipment options. Together with Laser Tech Service support, it is a proposition for clinics that view their device as a long-term investment.",
+        "cta": "Choose a Lumos configuration for your salon",
+        "contact": "Ask about Lumos",
+        "image_alt": "Lumos diode laser available through LTS Market",
+        "sections": [
+          [
+            "Keeping pace with the modern salon",
+            "A device’s modernity is best judged by practical value: configuration options, ease of use and planned technical support. Lumos brings treatment functions together with Android, CRM and a dermatoscope listed in our offer. That combination makes it worth considering for salons developing both their technology and workflow.\nThe model also appears in <a href=\"https://alislaser.pl/blog/innowacje-w-sprzecie-kosmetycznym/\">ALIS Laser’s innovation overview</a>, discussing hair removal devices with handpiece power of at least 2000 W. Always check the ordered version against its own documentation."
+          ],
+          [
+            "Four wavelengths and a broad setting range",
+            "Our <a href=\"{prefix}nowe.html#lumos\">Lumos catalogue entry</a> lists 755, 808, 940 and 1064 nm, handpiece power of 2000–4000 W, energy of 10–240 J, frequency of 1–30 Hz and pulses from 5 ms. These ranges cover the configurations on offer; confirm the specifications of the version you order.\nThis gives salon owners a basis for choosing equipment to suit their plans. Four wavelengths do not guarantee results for every hair colour or skin type. Treatment selection and settings should follow the device instructions and the operator’s training."
+          ],
+          [
+            "Features to explore during a demonstration",
+            "The catalogue lists ICE Flow, FAC, NeoDez, a dermatoscope, CRM and Android. A demonstration is an opportunity to look beyond feature names: try the screen, available settings, handpiece handling and digital modules.\nAssess whether the equipment fits the team’s actual workflow. Confirm CRM scope, software updates and module functions for the chosen configuration. Automatic integrations or diagnostic capabilities should not be assumed without documentation."
+          ],
+          [
+            "Laser Tech Service: support beyond the purchase",
+            "Technical support contributes to the value of Lumos. You can plan its servicing with Laser Tech Service, whose offer covers diode lasers, diagnostics, handpieces, cooling and electronics. <a href=\"https://lasertechservice.pl/\">Explore Laser Tech Service</a>.\nA clear contact route matters when a salon experiences a fault. Agree maintenance intervals, support scope, reporting arrangements and warranty terms when selecting Lumos. Planned maintenance helps organise salon operations; it does not promise fault-free use or a fixed repair time."
+          ],
+          [
+            "Documentation and certification for use in Poland",
+            "Lumos supplied by LTS Market has the complete documentation and certification required for it to be placed on the market and used for its intended purpose in Poland. This is an important part of its value for salons developing their services with documented equipment provenance and conformity.\nThe documents are not published online. Documentation for the specific configuration can be discussed directly with LTS Market when preparing a quotation. Certification does not replace operator training, treatment suitability assessment or compliance with the manufacturer’s instructions."
+          ],
+          [
+            "Investment value: equipment, introduction and upkeep",
+            "The LTS Market catalogue lists Lumos at PLN 68,000–100,000 depending on configuration. Confirm the current quotation and what is included. Compare equipment options, team preparation, support arrangements and operating costs.\nLumos can be an optimal modern choice for a salon that needs an extensive platform and will use its capabilities. Suitability depends on treatment volume, budget and team skills. Value goes beyond maximum advertised power, while returns also depend on costs and bookings."
+          ],
+          [
+            "Free operator training: preparing your team",
+            "LTS Market provides free operator training. Buying Lumos therefore also gives your team an opportunity to learn how to operate the device and discuss questions before starting work. Training helps operators understand the equipment and use its capabilities in accordance with the manufacturer’s instructions.\nWe agree the training schedule and programme at purchase. For the salon owner, this means support when introducing the equipment, with no additional charge for operator training."
+          ],
+          [
+            "Buy a new device and receive a salon website for one year",
+            "Salons purchasing Lumos or any other new device from LTS Market receive a complimentary brochure website for 1 year. For the first 3 months, we provide free website support and promotion. After that period, continued support and promotion are available at substantial discounts.\nThis complements the equipment investment: the salon also gains its own online destination for people interested in treatments. We discuss website delivery details and the terms of continued cooperation individually."
+          ],
+          [
+            "How can a salon website help attract clients?",
+            "A brochure website brings the salon, its treatments, equipment and team together in one place. It can explain services, answer common questions and present the address, opening hours and contact details. Prospective clients can more easily find the information they need to get in touch and plan a visit.\nThe website link can be used on social media, a Google Business Profile, printed materials and advertising campaigns. This gives the salon a consistent destination for promotional activity and a foundation for developing visibility in local search results.\nA clear presentation helps build trust and makes it easier to move from interest to a treatment enquiry. The website and its promotion can support client acquisition; results also depend on the local market, the appeal of the offer and how enquiries are handled."
+          ],
+          [
+            "Plan your salon’s next step with Lumos",
+            "<a href=\"{prefix}kontakt.html\">Contact LTS Market</a> to discuss the Lumos configuration, demonstration, documentation and Laser Tech Service support. If you are exploring finance, see our <a href=\"{prefix}leasing.html\">equipment leasing information</a>. Evaluate the complete offer: device, introduction and support for daily operations."
+          ]
+        ],
+        "image": "/assets/img/nowe/lumos.webp",
+        "image_width": 1145,
+        "image_height": 1374
+      },
+      "ru": {
+        "slug": "lumos-sovremennyy-diodnyy-lazer-dlya-salona",
+        "title": "Lumos — современный диодный лазер для салона эпиляции",
+        "seo": "Диодный лазер Lumos и сервисная поддержка | LTS Market",
+        "description": "Lumos: четыре длины волн, цифровые функции и поддержка Laser Tech Service. Возможности и ценность для салона эпиляции в Польше.",
+        "category": "Лазеры для эпиляции",
+        "lead": "Современному салону нужен аппарат, который поддерживает работу команды и развитие услуг. Lumos из каталога LTS Market сочетает четыре длины волн с цифровыми функциями и расширенным оснащением. Вместе с обслуживанием Laser Tech Service это предложение для кабинетов, которые рассматривают оборудование как долгосрочную инвестицию.",
+        "cta": "Подберите комплектацию Lumos для своего салона",
+        "contact": "Узнать о Lumos",
+        "image_alt": "Диодный лазер Lumos из каталога LTS Market",
+        "sections": [
+          [
+            "Технология в ритме современного салона",
+            "Современность аппарата стоит оценивать по практической пользе: вариантам комплектации, удобству управления и возможности заранее организовать техническую поддержку. В предложении Lumos перечислены Android, CRM и дерматоскоп наряду с функциями для процедур. Это интересное сочетание для салона, который развивает технологическую базу и организацию работы.\nМодель также упоминается в <a href=\"https://alislaser.pl/blog/innowacje-w-sprzecie-kosmetycznym/\">обзоре инноваций ALIS Laser</a> в контексте аппаратов для эпиляции с мощностью манипулы от 2000 Вт. Характеристики заказываемой версии необходимо сверять с её документацией."
+          ],
+          [
+            "Четыре длины волн и диапазон настроек",
+            "В <a href=\"{prefix}nowe.html#lumos\">карточке Lumos</a> указаны 755, 808, 940 и 1064 нм, мощность манипулы 2000–4000 Вт, энергия 10–240 Дж, частота 1–30 Гц и импульс от 5 мс. Диапазоны относятся к предлагаемым комплектациям: параметры конкретной версии уточняются при заказе.\nДля владельца салона это основа осознанного подбора оборудования под план работы. Четыре длины волн не гарантируют результат для любого цвета волос или фототипа. Подбор параметров и допуск к процедуре должны опираться на инструкцию аппарата и подготовку специалиста."
+          ],
+          [
+            "Функции, которые стоит оценить на демонстрации",
+            "Каталог перечисляет ICE Flow, FAC, NeoDez, дерматоскоп, CRM и Android. На презентации можно оценить не только названия технологий, но и экран, настройки, удобство манипулы и работу цифровых модулей.\nВажно понять, насколько оснащение подходит команде. Возможности CRM, обновления программы и функции модулей уточняйте для выбранной версии. Не стоит предполагать наличие автоматических интеграций или диагностических возможностей без подтверждения в документации."
+          ],
+          [
+            "Laser Tech Service — поддержка после покупки",
+            "Техническое сопровождение дополняет ценность Lumos. Обслуживание аппарата можно запланировать с Laser Tech Service: компания занимается диодными лазерами, диагностикой, манипулами, охлаждением и электроникой. <a href=\"https://lasertechservice.pl/\">Подробнее о Laser Tech Service</a>.\nПри неисправности салону важен понятный порядок обращения. При выборе Lumos согласуйте интервалы обслуживания, объём поддержки, порядок заявок и гарантийные условия. Плановые осмотры помогают организовать работу, но не означают гарантии отсутствия поломок или фиксированного срока ремонта."
+          ],
+          [
+            "Документация и сертификация для работы в Польше",
+            "Lumos, предлагаемый LTS Market, имеет полный комплект документации и сертификацию, необходимые для его вывода на рынок и использования по назначению в Польше. Это важная часть ценности аппарата для салона, который развивает услуги на основе подтверждённого происхождения и соответствия оборудования.\nДокументы не публикуются в интернете. Документацию конкретной комплектации можно обсудить напрямую с LTS Market при подготовке предложения. Сертификация не заменяет обучение оператора, оценку допустимости процедуры и соблюдение инструкции производителя."
+          ],
+          [
+            "Ценность инвестиции: аппарат, запуск и обслуживание",
+            "В каталоге LTS Market цена Lumos составляет 68 000–100 000 злотых в зависимости от комплектации. Актуальную стоимость и состав поставки уточните в предложении. При сравнении учитывайте оснащение, подготовку команды, сервис и эксплуатационные расходы.\nLumos может стать оптимальным современным выбором для салона, которому нужна расширенная платформа и который будет использовать её возможности. Соответствие задачам зависит от загрузки, бюджета и навыков команды. Ценность не сводится к максимальной заявленной мощности, а окупаемость также зависит от расходов и количества записей."
+          ],
+          [
+            "Бесплатное обучение операторов — подготовка команды",
+            "В LTS Market мы бесплатно обучаем операторов. Покупка Lumos — это также возможность подготовить команду к работе с аппаратом и обсудить вопросы до начала его использования. Обучение помогает лучше понять оборудование и применять его возможности в соответствии с инструкцией производителя.\nСроки и программу обучения согласовываем при покупке. Для владельца салона это поддержка при внедрении аппарата без дополнительной платы за обучение операторов."
+          ],
+          [
+            "При покупке нового аппарата — сайт-визитка на год в подарок",
+            "Салонам, которые покупают в LTS Market Lumos или любой другой новый аппарат, мы дарим сайт-визитку на 1 год. Первые 3 месяца поддержка и продвижение сайта бесплатны. После этого дальнейшая поддержка и продвижение доступны с большими скидками.\nЭто дополнение к инвестиции в оборудование: салон получает собственную площадку в интернете, куда можно направлять людей, заинтересованных в процедурах. Детали создания сайта и условия дальнейшего сотрудничества обсуждаем индивидуально."
+          ],
+          [
+            "Как сайт-визитка помогает привлекать клиентов?",
+            "Сайт-визитка позволяет в одном месте представить салон, процедуры, оборудование и команду. На нём можно объяснить особенности услуг, ответить на частые вопросы, указать адрес, часы работы и контакты. Потенциальному клиенту проще найти информацию, необходимую для обращения и планирования визита.\nСсылку на сайт можно использовать в социальных сетях, профиле компании в Google, печатных материалах и рекламных кампаниях. Салон получает единую страницу назначения для продвижения и основу для развития видимости в локальном поиске.\nПонятная презентация помогает укреплять доверие и облегчает переход от интереса к вопросу о процедуре. Сайт и его продвижение могут помогать привлекать клиентов; результат также зависит от местного рынка, привлекательности предложения и обработки обращений."
+          ],
+          [
+            "Запланируйте развитие салона с Lumos",
+            "<a href=\"{prefix}kontakt.html\">Свяжитесь с LTS Market</a>, чтобы обсудить комплектацию Lumos, демонстрацию, документацию и обслуживание Laser Tech Service. Если необходимо финансирование, изучите <a href=\"{prefix}leasing.html\">лизинг оборудования</a>. Так вы сможете оценить всё предложение: аппарат, запуск и поддержку в ежедневной работе."
+          ]
+        ],
+        "image": "/assets/img/nowe/lumos.webp",
+        "image_width": 1145,
+        "image_height": 1374
       }
     }
   ]
