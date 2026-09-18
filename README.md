@@ -53,10 +53,13 @@ canonical URLs use `https://ltsmarket.pl`. Hosting does not require a build step
 
 ## Existing integration boundaries
 
-The contact forms have no configured sending backend. They validate input and
-show a localized unavailable message; no successful delivery is claimed.
-`js/kontakt.js` retains the empty `N8N_WEBHOOK_URL` configuration. The homepage
-form has its separate existing integration placeholder in `js/main.js`.
+All six home/contact forms in PL/EN/RU use the existing production webhook
+through `js/lead-api.js`. Localized handlers retain validation and feedback;
+the shared transport normalizes consent, language and the actual source URL.
+Requests time out after 15 seconds, duplicate submissions are blocked while
+pending, and fields reset only after an HTTP success response.
+No live test leads were sent during this change; backend delivery and CORS
+must be checked separately from mocked client-side tests.
 A product enquiry fills in the selected model and pre-owned enquiry category.
 
 Google Fonts and embedded maps connect to Google when their resources load.

@@ -408,21 +408,37 @@ document.addEventListener("DOMContentLoaded", () => {
      ========================================================== */
 
   if (contactForm && formStatus) {
-    contactForm.addEventListener("submit", (event) => {
+    let isSubmitting = false;
+    contactForm.addEventListener("submit", async (event) => {
       event.preventDefault();
-
+      if (isSubmitting) return;
       setFormStatus();
-
-      const isValid = validateContactForm();
-
-      if (!isValid) {
-        return;
+      if (!validateContactForm()) return;
+      const button = contactForm.querySelector('button[type="submit"]');
+      const leadData = { formType: "home" };
+      for (const key of ["name", "city", "email", "phone", "salon", "message"]) {
+        leadData[key] = getTrimmedValue(contactForm.elements[key]);
       }
-
-      setFormStatus(
-        "Online sending is not available yet. Please email sales@ltsmarket.pl or call +48 575 254 431.",
-        "info",
-      );
+      leadData.privacy = contactForm.elements["privacy"].checked ? "accepted" : "";
+      isSubmitting = true;
+      if (button) {
+        button.disabled = true;
+        button.setAttribute("aria-busy", "true");
+      }
+      setFormStatus("Sending your enquiry...", "info");
+      try {
+        await window.LTSLead.send(leadData);
+        contactForm.reset();
+        setFormStatus("Thank you. Your enquiry has been sent. We will contact you.", "success");
+      } catch (error) {
+        setFormStatus("We could not confirm that your enquiry was sent. Please try again or contact us by phone.", "error");
+      } finally {
+        isSubmitting = false;
+        if (button) {
+          button.disabled = false;
+          button.removeAttribute("aria-busy");
+        }
+      }
     });
 
     contactForm.addEventListener("input", () => {

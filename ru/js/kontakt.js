@@ -10,17 +10,7 @@
    01. CONFIG
    ============================================================ */
 
-/*
- * Тут пізніше вставимо production webhook з n8n.
- *
- * Приклад:
- * const N8N_WEBHOOK_URL =
- *   "https://n8n.example.com/webhook/lts-market-contact";
- *
- * Поки залишаємо порожнім.
- */
-
-const N8N_WEBHOOK_URL = "";
+// Endpoint and request handling are shared in /js/lead-api.js.
 
 /* ============================================================
    02. ELEMENTS
@@ -196,35 +186,10 @@ function buildPayload() {
    ============================================================ */
 
 async function sendToN8n(payload) {
-  if (!N8N_WEBHOOK_URL) {
-    /*
-     * Webhook jeszcze nie jest podłączony.
-     * Nie wykonujemy żadnego requestu.
-     */
-
-    return {
-      configured: false,
-    };
-  }
-
-  const response = await fetch(N8N_WEBHOOK_URL, {
-    method: "POST",
-
-    headers: {
-      "Content-Type": "application/json",
-    },
-
-    body: JSON.stringify(payload),
-  });
-
-  if (!response.ok) {
-    throw new Error(`HTTP error: ${response.status}`);
-  }
-
-  return {
-    configured: true,
-  };
+  return window.LTSLead.send(payload);
 }
+
+let isSubmitting = false;
 
 /* ============================================================
    07. SUBMIT
@@ -232,6 +197,7 @@ async function sendToN8n(payload) {
 
 async function handleSubmit(event) {
   event.preventDefault();
+  if (isSubmitting) return;
 
   hideStatus();
 
@@ -261,28 +227,15 @@ async function handleSubmit(event) {
 
   const originalButtonText = submitButton?.textContent;
 
+  isSubmitting = true;
   if (submitButton) {
+    submitButton.setAttribute("aria-busy", "true");
     submitButton.disabled = true;
     submitButton.textContent = "Отправка...";
   }
 
   try {
-    const result = await sendToN8n(payload);
-
-    /*
-     * Dopóki webhook nie jest podłączony,
-     * NIE pokazujemy użytkownikowi fałszywego
-     * komunikatu "wysłano".
-     */
-
-    if (!result.configured) {
-      showStatus(
-        "Отправка через сайт пока недоступна. Напишите на sales@ltsmarket.pl или позвоните +48 575 254 431.",
-        "",
-      );
-
-      return;
-    }
+    await sendToN8n(payload);
 
     /* SUCCESS */
 
@@ -314,7 +267,9 @@ async function handleSubmit(event) {
       "error",
     );
   } finally {
+    isSubmitting = false;
     if (submitButton) {
+      submitButton.removeAttribute("aria-busy");
       submitButton.disabled = false;
 
       submitButton.textContent = originalButtonText;

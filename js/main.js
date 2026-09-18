@@ -24,13 +24,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const formStatus = document.getElementById("form-status");
 
   /* ==========================================================
-     02. N8N
-     ========================================================== */
-
-  const LEAD_WEBHOOK_URL =
-    "https://n8n.raccoon-studio.com.ua/webhook/lts-market-lead";
-
-  /* ==========================================================
      05. HEADER ON SCROLL
      ========================================================== */
 
@@ -347,26 +340,6 @@ document.addEventListener("DOMContentLoaded", () => {
     return field.value.trim();
   };
 
-  const setFormSubmitting = (isSubmitting) => {
-    if (!contactForm) {
-      return;
-    }
-
-    const submitButton = contactForm.querySelector('button[type="submit"]');
-
-    if (!submitButton) {
-      return;
-    }
-
-    submitButton.disabled = isSubmitting;
-
-    if (isSubmitting) {
-      submitButton.setAttribute("aria-busy", "true");
-    } else {
-      submitButton.removeAttribute("aria-busy");
-    }
-  };
-
   /* ==========================================================
      13. CONTACT FORM VALIDATION
      ========================================================== */
@@ -434,71 +407,36 @@ document.addEventListener("DOMContentLoaded", () => {
      ========================================================== */
 
   if (contactForm && formStatus) {
+    let isSubmitting = false;
     contactForm.addEventListener("submit", async (event) => {
       event.preventDefault();
-
+      if (isSubmitting) return;
       setFormStatus();
-
-      const isValid = validateContactForm();
-
-      if (!isValid) {
-        return;
+      if (!validateContactForm()) return;
+      const button = contactForm.querySelector('button[type="submit"]');
+      const leadData = { formType: "home" };
+      for (const key of ["name", "city", "email", "phone", "salon", "message"]) {
+        leadData[key] = getTrimmedValue(contactForm.elements[key]);
       }
-
-      const name = contactForm.elements["name"];
-      const city = contactForm.elements["city"];
-      const email = contactForm.elements["email"];
-      const phone = contactForm.elements["phone"];
-      const salon = contactForm.elements["salon"];
-      const message = contactForm.elements["message"];
-      const privacy = contactForm.elements["privacy"];
-
-      const leadData = {
-        createdAt: new Date().toISOString(),
-        name: getTrimmedValue(name),
-        city: getTrimmedValue(city),
-        email: getTrimmedValue(email),
-        phone: getTrimmedValue(phone),
-        salon: getTrimmedValue(salon),
-        message: getTrimmedValue(message),
-        source: window.location.hostname || "ltsmarket.pl",
-        page: `${window.location.pathname}${window.location.search}`,
-        language: document.documentElement.lang || "pl",
-        privacy: privacy && privacy.checked ? "accepted" : "",
-      };
-
-      setFormSubmitting(true);
-
+      leadData.privacy = contactForm.elements["privacy"].checked ? "accepted" : "";
+      isSubmitting = true;
+      if (button) {
+        button.disabled = true;
+        button.setAttribute("aria-busy", "true");
+      }
       setFormStatus("Wysyłanie zapytania...", "info");
-
       try {
-        const response = await fetch(LEAD_WEBHOOK_URL, {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify(leadData),
-        });
-
-        if (!response.ok) {
-          throw new Error(`Webhook error: ${response.status}`);
-        }
-
+        await window.LTSLead.send(leadData);
         contactForm.reset();
-
-        setFormStatus(
-          "Dziękujemy. Twoje zapytanie zostało wysłane. Skontaktujemy się z Tobą.",
-          "success",
-        );
+        setFormStatus("Dziękujemy. Twoje zapytanie zostało wysłane. Skontaktujemy się z Tobą.", "success");
       } catch (error) {
-        console.error("LTS Market lead error:", error);
-
-        setFormStatus(
-          "Nie udało się wysłać zapytania. Spróbuj ponownie lub skontaktuj się z nami telefonicznie.",
-          "error",
-        );
+        setFormStatus("Nie udało się potwierdzić wysłania zapytania. Spróbuj ponownie lub skontaktuj się z nami telefonicznie.", "error");
       } finally {
-        setFormSubmitting(false);
+        isSubmitting = false;
+        if (button) {
+          button.disabled = false;
+          button.removeAttribute("aria-busy");
+        }
       }
     });
 
