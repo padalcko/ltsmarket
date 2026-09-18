@@ -23,6 +23,12 @@ document.addEventListener("DOMContentLoaded", () => {
   const contactForm = document.getElementById("contact-form");
   const formStatus = document.getElementById("form-status");
 
+  /* ==========================================================
+     02. N8N
+     ========================================================== */
+
+  const LEAD_WEBHOOK_URL =
+    "https://n8n.raccoon-studio.com.ua/webhook/lts-market-lead";
 
   /* ==========================================================
      05. HEADER ON SCROLL
@@ -341,6 +347,26 @@ document.addEventListener("DOMContentLoaded", () => {
     return field.value.trim();
   };
 
+  const setFormSubmitting = (isSubmitting) => {
+    if (!contactForm) {
+      return;
+    }
+
+    const submitButton = contactForm.querySelector('button[type="submit"]');
+
+    if (!submitButton) {
+      return;
+    }
+
+    submitButton.disabled = isSubmitting;
+
+    if (isSubmitting) {
+      submitButton.setAttribute("aria-busy", "true");
+    } else {
+      submitButton.removeAttribute("aria-busy");
+    }
+  };
+
   /* ==========================================================
      13. CONTACT FORM VALIDATION
      ========================================================== */
@@ -408,7 +434,7 @@ document.addEventListener("DOMContentLoaded", () => {
      ========================================================== */
 
   if (contactForm && formStatus) {
-    contactForm.addEventListener("submit", (event) => {
+    contactForm.addEventListener("submit", async (event) => {
       event.preventDefault();
 
       setFormStatus();
@@ -419,10 +445,61 @@ document.addEventListener("DOMContentLoaded", () => {
         return;
       }
 
-      setFormStatus(
-        "Wysyłka online jest obecnie niedostępna. Napisz na sales@ltsmarket.pl lub zadzwoń: +48 575 254 431.",
-        "info",
-      );
+      const name = contactForm.elements["name"];
+      const city = contactForm.elements["city"];
+      const email = contactForm.elements["email"];
+      const phone = contactForm.elements["phone"];
+      const salon = contactForm.elements["salon"];
+      const message = contactForm.elements["message"];
+      const privacy = contactForm.elements["privacy"];
+
+      const leadData = {
+        createdAt: new Date().toISOString(),
+        name: getTrimmedValue(name),
+        city: getTrimmedValue(city),
+        email: getTrimmedValue(email),
+        phone: getTrimmedValue(phone),
+        salon: getTrimmedValue(salon),
+        message: getTrimmedValue(message),
+        source: window.location.hostname || "ltsmarket.pl",
+        page: `${window.location.pathname}${window.location.search}`,
+        language: document.documentElement.lang || "pl",
+        privacy: privacy && privacy.checked ? "accepted" : "",
+      };
+
+      setFormSubmitting(true);
+
+      setFormStatus("Wysyłanie zapytania...", "info");
+
+      try {
+        const response = await fetch(LEAD_WEBHOOK_URL, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(leadData),
+        });
+
+        if (!response.ok) {
+          throw new Error(`Webhook error: ${response.status}`);
+        }
+
+        contactForm.reset();
+
+        setFormStatus(
+          "Dziękujemy. Twoje zapytanie zostało wysłane. Skontaktujemy się z Tobą.",
+          "success",
+        );
+      } catch (error) {
+        console.error("LTS Market lead error:", error);
+
+        setFormStatus(
+          "Nie udało się wysłać zapytania. Spróbuj ponownie lub skontaktuj się z nami telefonicznie.",
+          "error",
+        );
+      } finally {
+        setFormSubmitting(false);
+      }
     });
 
     contactForm.addEventListener("input", () => {
