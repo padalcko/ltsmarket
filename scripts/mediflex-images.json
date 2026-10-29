@@ -1,0 +1,142 @@
+[
+  {
+    "source": "IMG_7722.heic",
+    "file": "mediflex-us450-laser-diodowy-front.webp",
+    "width": 1080,
+    "height": 1920,
+    "thumbnail": "mediflex-us450-laser-diodowy-front-thumb.webp",
+    "thumb_width": 135,
+    "thumb_height": 240,
+    "alt": {
+      "pl": "MEDIflex US450 — widok całego urządzenia od przodu",
+      "en": "MEDIflex US450 — full front view of the device",
+      "ru": "MEDIflex US450 — общий вид аппарата спереди"
+    }
+  },
+  {
+    "source": "IMG_7728.heic",
+    "file": "mediflex-us450-panel-sterowania.webp",
+    "width": 1080,
+    "height": 1920,
+    "thumbnail": "mediflex-us450-panel-sterowania-thumb.webp",
+    "thumb_width": 135,
+    "thumb_height": 240,
+    "alt": {
+      "pl": "MEDIflex US450 — panel sterowania z ekranem wyboru",
+      "en": "MEDIflex US450 — control panel with selection screen",
+      "ru": "MEDIflex US450 — панель управления с экраном выбора"
+    }
+  },
+  {
+    "source": "IMG_7736.heic",
+    "file": "mediflex-us450-parametry-pracy.webp",
+    "width": 1080,
+    "height": 1920,
+    "thumbnail": "mediflex-us450-parametry-pracy-thumb.webp",
+    "thumb_width": 135,
+    "thumb_height": 240,
+    "alt": {
+      "pl": "MEDIflex US450 — ekran parametrów pracy",
+      "en": "MEDIflex US450 — operating parameters screen",
+      "ru": "MEDIflex US450 — экран рабочих параметров"
+    }
+  },
+  {
+    "source": "IMG_7737.heic",
+    "file": "mediflex-us450-widok-przod.webp",
+    "width": 1080,
+    "height": 1920,
+    "thumbnail": "mediflex-us450-widok-przod-thumb.webp",
+    "thumb_width": 135,
+    "thumb_height": 240,
+    "alt": {
+      "pl": "MEDIflex US450 — widok z przodu z włączonym ekranem",
+      "en": "MEDIflex US450 — front view with the screen on",
+      "ru": "MEDIflex US450 — вид спереди с включённым экраном"
+    }
+  },
+  {
+    "source": "IMG_7738.heic",
+    "file": "mediflex-us450-widok-bok.webp",
+    "width": 1080,
+    "height": 1920,
+    "thumbnail": "mediflex-us450-widok-bok-thumb.webp",
+    "thumb_width": 135,
+    "thumb_height": 240,
+    "alt": {
+      "pl": "MEDIflex US450 — widok urządzenia z boku",
+      "en": "MEDIflex US450 — side view of the device",
+      "ru": "MEDIflex US450 — вид аппарата сбоку"
+    }
+  },
+  {
+    "source": "IMG_7739.heic",
+    "file": "mediflex-us450-widok-tyl.webp",
+    "width": 1080,
+    "height": 1920,
+    "thumbnail": "mediflex-us450-widok-tyl-thumb.webp",
+    "thumb_width": 135,
+    "thumb_height": 240,
+    "alt": {
+      "pl": "MEDIflex US450 — tylna obudowa i przyłącza",
+      "en": "MEDIflex US450 — rear housing and connections",
+      "ru": "MEDIflex US450 — задняя панель и разъёмы"
+    }
+  },
+  {
+    "source": "IMG_7740.heic",
+    "file": "mediflex-us450-tabliczka-znamionowa.webp",
+    "width": 1080,
+    "height": 1920,
+    "thumbnail": "mediflex-us450-tabliczka-znamionowa-thumb.webp",
+    "thumb_width": 135,
+    "thumb_height": 240,
+    "alt": {
+      "pl": "MEDIflex US450 — tabliczka znamionowa modelu US450",
+      "en": "MEDIflex US450 — US450 model identification plate",
+      "ru": "MEDIflex US450 — заводская табличка модели US450"
+    }
+  },
+  {
+    "source": "IMG_7741.heic",
+    "file": "mediflex-us450-glowica-laserowa.webp",
+    "width": 1080,
+    "height": 1920,
+    "thumbnail": "mediflex-us450-glowica-laserowa-thumb.webp",
+    "thumb_width": 135,
+    "thumb_height": 240,
+    "alt": {
+      "pl": "MEDIflex US450 — manipula z boku",
+      "en": "MEDIflex US450 — side view of the handpiece",
+      "ru": "MEDIflex US450 — вид манипулы сбоку"
+    }
+  },
+  {
+    "source": "IMG_7742.heic",
+    "file": "mediflex-us450-okno-glowicy.webp",
+    "width": 1080,
+    "height": 1920,
+    "thumbnail": "mediflex-us450-okno-glowicy-thumb.webp",
+    "thumb_width": 135,
+    "thumb_height": 240,
+    "alt": {
+      "pl": "MEDIflex US450 — zbliżenie okna manipuli",
+      "en": "MEDIflex US450 — close-up of the handpiece window",
+      "ru": "MEDIflex US450 — крупный план окна манипулы"
+    }
+  },
+  {
+    "source": "IMG_7743.heic",
+    "file": "mediflex-us450-druga-glowica.webp",
+    "width": 1080,
+    "height": 1920,
+    "thumbnail": "mediflex-us450-druga-glowica-thumb.webp",
+    "thumb_width": 135,
+    "thumb_height": 240,
+    "alt": {
+      "pl": "MEDIflex US450 — druga manipula widoczna na zdjęciu",
+      "en": "MEDIflex US450 — second handpiece shown in the photo",
+      "ru": "MEDIflex US450 — вторая манипула на фотографии"
+    }
+  }
+]

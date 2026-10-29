@@ -157,6 +157,8 @@ function buildPayload() {
   const formData = new FormData(contactForm);
 
   return {
+    ...selectedProductContext,
+
     name: formData.get("name")?.trim() || "",
 
     phone: formData.get("phone")?.trim() || "",
@@ -307,9 +309,17 @@ if (contactForm) {
   contactForm.addEventListener("change", handleFieldInput);
 }
 
+// Preserve explicit product context even when the buyer edits the message.
+const selectedProductContext = new URLSearchParams(window.location.search).get("product") === "mediflex-us450"
+  ? {
+      productName: "MEDIflex US450",
+      productUrl: "https://ltsmarket.pl/en/uzywane/mediflex-us450.html",
+    }
+  : {};
+
 // Carry the selected product into the enquiry without changing form behavior.
 if (contactForm) {
-  const products = { "3d-contour": "3D CONTOUR", "medilase-pro": "MEDILASE PRO", "ellisys-plus": "Chungwoo ELLISYS PLUS", "daeyang-carbo-3000": "DaeYang CARBO 3000" };
+  const products = { "mediflex-us450": "MEDIflex US450", "3d-contour": "3D CONTOUR", "medilase-pro": "MEDILASE PRO", "ellisys-plus": "Chungwoo ELLISYS PLUS", "daeyang-carbo-3000": "DaeYang CARBO 3000" };
   const product = products[new URLSearchParams(window.location.search).get("product")];
   if (product) {
     const message = contactForm.elements["message"];

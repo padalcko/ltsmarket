@@ -110,3 +110,36 @@ because no browser was available; static checks are not a visual review.
 The cavitation/RF article uses the supplied `assets/img/blog/rf-article.webp`
 (1080 × 1080) without altering it. Each edition links to an FDA overview for
 general technology context; this is not a product-specific approval claim.
+
+## MEDIflex US450 (2026-10-29)
+
+The fifth used device is first on the PL/EN/RU homepages and used catalogues.
+Its detail route is `uzywane/mediflex-us450.html` under each locale prefix.
+Edit HTML directly as for the existing products. `scripts/mediflex-images.json`
+records the ten original HEIC files, optimized WebP variants and localized ALT text.
+The nameplate and owner confirmation establish **5000 W maximum electrical
+consumption**, distinct from the **2000 W declared laser diode power**.
+
+After editing product pages, run `python3 scripts/build-ai-catalog.py` to refresh
+`ai-catalog.json` and `llms.txt` from all fifteen localized used-product pages.
+No robots.txt change is needed; the existing policy allows these resources.
+The sitemap remains checked-in XML (the blog generator preserves non-blog entries).
+
+Validation:
+
+```sh
+python3 scripts/audit-site.py
+python3 scripts/check-seo.py
+python3 scripts/build-ai-catalog.py --check
+python3 scripts/check-mediflex.py  # requires Pillow
+python3 -m http.server 8790
+# In another terminal, with Playwright installed:
+node scripts/check-mediflex-browser.cjs
+```
+
+`PLAYWRIGHT_MODULE` and `CHROME_PATH` may point to existing local installations.
+The browser test intercepts webhook POSTs and does not send production leads.
+The contact handlers retain buyer-edited messages and separately send
+`productName` and `productUrl` for MEDIflex; the shared transport supplies language
+and source. The endpoint and analytics configuration remain unchanged.
+See `reports/mediflex-us450.md` for files, photos, reciprocal links and QA limits.

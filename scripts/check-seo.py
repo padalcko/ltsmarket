@@ -13,7 +13,8 @@ class Page(HTMLParser):
     def handle_starttag(self, tag, attrs):
         self.tags.append((tag, dict(attrs)))
 
-pages = list(Path('.').rglob('*.html'))
+# Search Console ownership tokens are not content pages.
+pages = [p for p in Path('.').rglob('*.html') if p.read_text().strip() != 'google-site-verification: ' + p.name]
 products = catalogs = 0
 for path in pages:
     source = path.read_text()
@@ -34,7 +35,7 @@ for path in pages:
     for data in schemas:
         items = [data] if data['@type'] == 'Product' else [x['item'] for x in data.get('itemListElement', []) if 'item' in x]
         for item in items:
-            if item.get('@type') != 'Product':
+            if not isinstance(item, dict) or item.get('@type') != 'Product':
                 continue
             products += 1
             for field in ('@id', 'name', 'description', 'image', 'url', 'offers', 'itemCondition'):
@@ -44,9 +45,9 @@ for path in pages:
         if path.name == 'uzywane.html' and data['@type'] == 'ItemList':
             catalogs += 1
             entries = data['itemListElement']
-            assert data['numberOfItems'] == len(entries) == 4, path
+            assert data['numberOfItems'] == len(entries) == 5, path
             cards = re.findall(r'<a class="product-card" href="([^"]+)"', source)
             assert [x['url'] for x in entries] == ['https://ltsmarket.pl' + x for x in cards], path
-            assert [x['position'] for x in entries] == [1, 2, 3, 4], path
-assert catalogs == 3 and products == 24, (catalogs, products)
-print(f'PASS: {len(pages)} HTML pages, GA4 coverage, 3 used ItemLists, 24 Products, image paths/dimensions')
+            assert [x['position'] for x in entries] == [1, 2, 3, 4, 5], path
+assert catalogs == 3 and products == 27, (catalogs, products)
+print(f'PASS: {len(pages)} HTML pages, GA4 coverage, 3 used ItemLists, 27 Products, image paths/dimensions')

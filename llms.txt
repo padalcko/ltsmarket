@@ -1,0 +1,34 @@
+# LTS Market
+
+> New and used aesthetic equipment. Prices are in PLN.
+
+## Used equipment
+
+Product pages are the source of truth for condition, price and service scope.
+Warranty on MEDIflex US450 covers completed Laser Tech Service work only, not the entire device.
+
+### PL
+- [MEDIflex US450](https://ltsmarket.pl/uzywane/mediflex-us450.html): Używany MEDIflex US450, 755/808/1064 nm, deklarowana moc diody 2000 W. Rok 2022, 40 000 zł. Serwis Laser Tech Service: 15.10.2026.
+- [3D CONTOUR](https://ltsmarket.pl/uzywane/3d-contour.html): Wielofunkcyjne urządzenie kosmetologiczne 3D CONTOUR do modelowania sylwetki. Kriolipoliza, lipolaser i masaż podciśnieniowy. Rok 2022. Urządzenie sprawne, po serwisie Laser Tech Service i gotowe do pracy.
+- [MEDILASE PRO](https://ltsmarket.pl/uzywane/medilase-pro.html): Profesjonalny laser diodowy MEDILASE PRO z 2021 roku. Urządzenie sprawne, po serwisie Laser Tech Service i gotowe do pracy.
+- [Chungwoo ELLISYS PLUS](https://ltsmarket.pl/uzywane/ellisys-plus.html): Profesjonalne urządzenie RF mikroigłowe Chungwoo ELLISYS PLUS z 2024 roku. Urządzenie sprawne, po serwisie Laser Tech Service i gotowe do pracy.
+- [DaeYang CARBO 3000](https://ltsmarket.pl/uzywane/daeyang-carbo-3000.html): Używany insuflator CO₂ DaeYang CARBO 3000. Urządzenie sprawne, po serwisie Laser Tech Service i gotowe do pracy.
+
+### EN
+- [MEDIflex US450](https://ltsmarket.pl/en/uzywane/mediflex-us450.html): Used MEDIflex US450, 755/808/1064 nm, declared diode power 2000 W. Made in 2022, PLN 40,000. Serviced by Laser Tech Service on 15 October 2026.
+- [3D CONTOUR](https://ltsmarket.pl/en/uzywane/3d-contour.html): Multifunctional 3D CONTOUR body-contouring system with cryolipolysis, lipolaser and vacuum massage. Manufactured in 2022. Fully operational, serviced by Laser Tech Service and ready for use.
+- [MEDILASE PRO](https://ltsmarket.pl/en/uzywane/medilase-pro.html): Professional MEDILASE PRO diode laser from 2021. Fully operational, serviced by Laser Tech Service and ready for use.
+- [Chungwoo ELLISYS PLUS](https://ltsmarket.pl/en/uzywane/ellisys-plus.html): Professional Chungwoo ELLISYS PLUS microneedling RF system from 2024. Fully operational, serviced by Laser Tech Service and ready for use.
+- [DaeYang CARBO 3000](https://ltsmarket.pl/en/uzywane/daeyang-carbo-3000.html): Pre-owned DaeYang CARBO 3000 CO₂ insufflator. Fully operational, serviced by Laser Tech Service and ready for use.
+
+### RU
+- [MEDIflex US450](https://ltsmarket.pl/ru/uzywane/mediflex-us450.html): MEDIflex US450 б/у: 755/808/1064 нм, заявленная мощность диода 2000 Вт. 2022 год, 40 000 zł. Сервис Laser Tech Service: 15.10.2026.
+- [3D CONTOUR](https://ltsmarket.pl/ru/uzywane/3d-contour.html): Многофункциональный аппарат 3D CONTOUR для коррекции фигуры с криолиполизом, липолазером и вакуумным массажем. Год выпуска 2022. Исправен, обслужен Laser Tech Service и готов к работе.
+- [MEDILASE PRO](https://ltsmarket.pl/ru/uzywane/medilase-pro.html): Профессиональный диодный лазер MEDILASE PRO 2021 года. Исправен, обслужен Laser Tech Service и готов к работе.
+- [Chungwoo ELLISYS PLUS](https://ltsmarket.pl/ru/uzywane/ellisys-plus.html): Профессиональный аппарат микроигольчатого RF Chungwoo ELLISYS PLUS 2024 года. Исправен, обслужен Laser Tech Service и готов к работе.
+- [DaeYang CARBO 3000](https://ltsmarket.pl/ru/uzywane/daeyang-carbo-3000.html): Б/у инсуффлятор CO₂ DaeYang CARBO 3000. Аппарат исправен, обслужен Laser Tech Service и готов к работе.
+
+## Machine-readable catalogue
+
+- [AI catalogue](https://ltsmarket.pl/ai-catalog.json)
+- [Sitemap](https://ltsmarket.pl/sitemap.xml)

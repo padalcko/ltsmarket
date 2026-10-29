@@ -14,7 +14,8 @@ class Page(HTMLParser):
   if not self.stack or self.stack[-1]!=t: self.errors.append(('nesting',self.getpos(),t,self.stack[-4:]))
   if t in self.stack:
    while self.stack.pop()!=t: pass
-pages={p:Page(p.read_text()) for p in Path('.').rglob('*.html')}
+# Search Console ownership tokens are not content pages.
+pages={p:Page(p.read_text()) for p in Path('.').rglob('*.html') if p.read_text().strip() != 'google-site-verification: ' + p.name}
 errors=[]
 def check(ok,*msg):
  if not ok: errors.append(msg)

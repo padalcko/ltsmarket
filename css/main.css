@@ -2521,3 +2521,19 @@ a {
 
 
 }
+
+/* Fit the longer Russian hero words to their actual content column. */
+html[lang="ru"] .hero__content {
+    container-type: inline-size;
+}
+
+html[lang="ru"] .hero__title {
+    font-size: min(5.25rem, 9cqi);
+    overflow-wrap: normal;
+    word-break: normal;
+    hyphens: none;
+}
+
+html[lang="ru"] .hero__title-accent {
+    white-space: normal;
+}
