@@ -1099,3 +1099,50 @@
         transition: none;
     }
 }
+/* Alpha Mini detail: existing catalogue components; rules scoped to this page. */
+.alpha-page .nowe-hero__title { font-size: clamp(2rem, 6vw, 4rem); overflow-wrap: anywhere; }
+.alpha-page .nowe-hero__actions { flex-wrap: wrap; }
+.alpha-page .used-breadcrumbs { margin-bottom: 24px; color: rgba(255,255,255,.72); }
+.alpha-page .alpha-price { margin: 0 0 24px; font-size: 1.6rem; font-weight: 700; }
+.alpha-page .alpha-notice { padding: 20px; margin: 24px 0; border-left: 2px solid var(--color-blue); background: var(--color-blue-soft); font-size: 1rem; line-height: 1.6; font-weight: 600; }
+.alpha-page .nowe-hero .alpha-notice { background: rgba(22,140,255,.1); }
+.alpha-page .alpha-copy { max-width: 860px; color: var(--color-text-soft); font-size: .95rem; line-height: 1.8; }
+.alpha-page .alpha-copy p { margin: 0 0 20px; }
+.alpha-page .nowe-support .alpha-copy { color: rgba(255,255,255,.72); margin-block: 24px; }
+.alpha-page .nowe-support__card p { color: rgba(255,255,255,.72); }
+.alpha-page .alpha-figure { margin: 0; max-width: 620px; }
+.alpha-page .alpha-figure img { display: block; width: 100%; height: auto; }
+.alpha-page figcaption { font-size: .8rem; line-height: 1.6; color: var(--color-text-soft); margin-top: 14px; }
+.alpha-page .alpha-spec { width: 100%; border-collapse: collapse; table-layout: fixed; font-size: .85rem; line-height: 1.6; }
+.alpha-page .alpha-spec caption { text-align: left; margin-bottom: 16px; font-weight: 600; }
+.alpha-page .alpha-spec th, .alpha-page .alpha-spec td { padding: 16px 10px; border-bottom: 1px solid var(--color-border); text-align: left; vertical-align: top; overflow-wrap: anywhere; }
+.alpha-page .alpha-spec th:first-child { width: 35%; }
+.alpha-page .alpha-spec thead { background: var(--color-light); }
+.alpha-page .alpha-source { font-size: .8rem; margin-top: 20px; text-decoration: underline; }
+.alpha-page .alpha-steps { padding-left: 24px; max-width: 860px; line-height: 1.8; }
+.alpha-page .alpha-steps li { padding: 10px 0; }
+.alpha-page .alpha-faq details { border-bottom: 1px solid var(--color-border); padding: 20px 0; }
+.alpha-page .alpha-faq summary { cursor: pointer; font-weight: 600; line-height: 1.6; }
+.alpha-page .alpha-faq p { max-width: 860px; color: var(--color-text-soft); line-height: 1.8; }
+.alpha-page [id] { scroll-margin-top: calc(var(--header-height) + 24px); }
+.alpha-page .nowe-features a { text-decoration: underline; }
+.alpha-page .nowe-hero__visual { aspect-ratio: 1145 / 1374; }
+@media (max-width: 639px) {
+    .alpha-page .button { white-space: normal; text-align: center; }
+    .alpha-page .alpha-spec th, .alpha-page .alpha-spec td { padding: 12px 6px; }
+}
+.alpha-page .nowe-section-title, .alpha-page .contact-section-title { overflow-wrap: anywhere; }
+@media (max-width: 639px) {
+    html[lang="ru"] .alpha-page .nowe-hero__title { font-size: clamp(1.6rem, 7.5vw, 2rem); }
+    html[lang="ru"] .alpha-page .nowe-section-title { font-size: clamp(1.85rem, 8vw, 2.2rem); }
+}
+
+/* Paired Alpha Mini sections share one top edge for the copy and visual. */
+.alpha-page .alpha-split { display: grid; grid-template-columns: minmax(0, 1fr); gap: 32px; align-items: start; }
+.alpha-page .alpha-split__text { min-width: 0; }
+.alpha-page .alpha-split .nowe-section-title { margin-bottom: 28px; font-size: clamp(2rem, 5vw, 3.4rem); }
+.alpha-page .alpha-split .alpha-figure { width: 100%; max-width: none; }
+.alpha-page .alpha-cooling-diagram svg { display: block; width: 100%; height: auto; }
+@media (min-width: 768px) {
+    .alpha-page .alpha-split { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(32px, 5vw, 80px); }
+}

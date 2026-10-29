@@ -2537,3 +2537,8 @@ html[lang="ru"] .hero__title {
 html[lang="ru"] .hero__title-accent {
     white-space: normal;
 }
+
+/* Service names remain typographically integrated while exposing their destination. */
+a.service-name-link { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .18em; }
+a.service-name-link:hover { color: var(--color-blue); }
+a.service-name-link:focus-visible { outline: 2px solid var(--color-blue); outline-offset: 3px; }

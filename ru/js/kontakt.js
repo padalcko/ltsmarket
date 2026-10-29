@@ -310,7 +310,9 @@ if (contactForm) {
 }
 
 // Preserve explicit product context even when the buyer edits the message.
-const selectedProductContext = new URLSearchParams(window.location.search).get("product") === "mediflex-us450"
+const selectedProductContext = contactForm?.dataset?.productName
+  ? { productName: contactForm.dataset.productName, productUrl: contactForm.dataset.productUrl }
+  : new URLSearchParams(window.location.search).get("product") === "mediflex-us450"
   ? {
       productName: "MEDIflex US450",
       productUrl: "https://ltsmarket.pl/ru/uzywane/mediflex-us450.html",

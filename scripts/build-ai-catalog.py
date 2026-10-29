@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Derive used-equipment AI resources from the published HTML. No invented offers."""
+"""Derive equipment AI resources from the published HTML. No invented offers."""
 import argparse
 import json
 import re
@@ -47,9 +47,17 @@ def generate():
             products.append(record)
             lines.append(f'- [{product["name"]}]({entry["url"]}): {product["description"]}')
         lines.append('')
+    lines += ['## New equipment', '', 'Alpha Mini starts at PLN 40,000. Configuration, availability and service terms are agreed individually.', '']
+    for lang, route in [('pl', '/nowe/alpha-mini/'), ('en', '/en/new/alpha-mini/'), ('ru', '/ru/novye/alpha-mini/')]:
+        source = (ROOT / route.lstrip('/') / 'index.html').read_text()
+        product = next(json.loads(x) for x in re.findall(r'<script type="application/ld\+json">(.*?)</script>', source, re.S) if json.loads(x).get('@type') == 'Product')
+        main = re.search(r'<main\b.*?</main>', source, re.S)[0]
+        products.append({'language': lang, 'product': product, 'pageText': '\n'.join(Text(main).parts)})
+        lines.append(f'- [{lang.upper()} Alpha Mini]({BASE}{route}): {product["description"]}')
+    lines.append('')
     lines += ['## Machine-readable catalogue', '', '- [AI catalogue](https://ltsmarket.pl/ai-catalog.json)',
               '- [Sitemap](https://ltsmarket.pl/sitemap.xml)', '']
-    return {'ai-catalog.json': json.dumps({'site': BASE, 'scope': 'Used equipment', 'products': products}, ensure_ascii=False, indent=2)+'\n', 'llms.txt': '\n'.join(lines)}
+    return {'ai-catalog.json': json.dumps({'site': BASE, 'scope': 'New and used equipment', 'products': products}, ensure_ascii=False, indent=2)+'\n', 'llms.txt': '\n'.join(lines)}
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(); parser.add_argument('--check', action='store_true'); args = parser.parse_args()

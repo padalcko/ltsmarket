@@ -49,5 +49,5 @@ for path in pages:
             cards = re.findall(r'<a class="product-card" href="([^"]+)"', source)
             assert [x['url'] for x in entries] == ['https://ltsmarket.pl' + x for x in cards], path
             assert [x['position'] for x in entries] == [1, 2, 3, 4, 5], path
-assert catalogs == 3 and products == 27, (catalogs, products)
-print(f'PASS: {len(pages)} HTML pages, GA4 coverage, 3 used ItemLists, 27 Products, image paths/dimensions')
+assert catalogs == 3 and products == 30, (catalogs, products)
+print(f'PASS: {len(pages)} HTML pages, GA4 coverage, 3 used ItemLists, 30 Products, image paths/dimensions')

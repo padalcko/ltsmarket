@@ -28,6 +28,14 @@ Warranty on MEDIflex US450 covers completed Laser Tech Service work only, not th
 - [Chungwoo ELLISYS PLUS](https://ltsmarket.pl/ru/uzywane/ellisys-plus.html): Профессиональный аппарат микроигольчатого RF Chungwoo ELLISYS PLUS 2024 года. Исправен, обслужен Laser Tech Service и готов к работе.
 - [DaeYang CARBO 3000](https://ltsmarket.pl/ru/uzywane/daeyang-carbo-3000.html): Б/у инсуффлятор CO₂ DaeYang CARBO 3000. Аппарат исправен, обслужен Laser Tech Service и готов к работе.
 
+## New equipment
+
+Alpha Mini starts at PLN 40,000. Configuration, availability and service terms are agreed individually.
+
+- [PL Alpha Mini](https://ltsmarket.pl/nowe/alpha-mini/): Alpha Mini – profesjonalny laser diodowy do depilacji. Cena od 40 000 zł. Kup w LTS Market i zyskaj wsparcie serwisowe Laser Tech Service.
+- [EN Alpha Mini](https://ltsmarket.pl/en/new/alpha-mini/): Alpha Mini professional hair removal diode laser from PLN 40,000. Buy from LTS Market with access to Laser Tech Service technical support.
+- [RU Alpha Mini](https://ltsmarket.pl/ru/novye/alpha-mini/): Профессиональный диодный лазер Alpha Mini для эпиляции от 40 000 zł. Покупка в LTS Market с сервисной поддержкой Laser Tech Service.
+
 ## Machine-readable catalogue
 
 - [AI catalogue](https://ltsmarket.pl/ai-catalog.json)

@@ -1,5 +1,6 @@
 """Build the three static blog editions from blog-posts.json and existing site chrome."""
 from pathlib import Path
+from site_content import link_service_names
 from html import escape
 import json
 import re
@@ -113,7 +114,7 @@ def build(lang, article, page=1):
     output=head+'  <body>'+before+'<main id="main-content" class="blog-main'+(' blog-main--listing' if not article else '')+'"><div class="container">'+breadcrumb+main+'</div></main>'+after
     dest=ROOT / (route(lang,article) if article else listing_route(lang,page)).lstrip('/') / 'index.html'
     dest.parent.mkdir(parents=True,exist_ok=True)
-    dest.write_text(output)
+    dest.write_text(link_service_names(output))
 
 # Route Market's generic blog links locally; retain the explicitly named service blog.
 for path in ROOT.rglob('*.html'):
