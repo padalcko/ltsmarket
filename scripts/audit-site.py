@@ -22,7 +22,9 @@ def check(ok,*msg):
 for p,page in pages.items():
  tags=page.tags; check(not page.errors,p,page.errors); check(not page.stack,p,'unclosed',page.stack)
  ids=[a['id'] for t,a in tags if 'id' in a];check(len(ids)==len(set(ids)),p,'duplicate IDs')
- for t in ['h1','title','main']: check(sum(tag==t for tag,a in tags)==1,p,'count',t)
+ for t in ['h1','main']: check(sum(tag==t for tag,a in tags)==1,p,'count',t)
+ # SVG accessibility titles are not document titles.
+ check(len(re.findall(r'<title>.*?</title>', p.read_text().split('</head>')[0], re.S))==1,p,'count','head title')
  for attr,value in [('name','description'),('name','viewport'),('rel','canonical')]: check(sum(a.get(attr)==value for t,a in tags)==1,p,value)
  canon=next(a['href'] for t,a in tags if a.get('rel')=='canonical')
  expected='https://ltsmarket.pl/'+str(p).removesuffix('index.html');check(canon==expected,p,'canonical',canon)

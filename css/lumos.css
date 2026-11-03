@@ -1,0 +1,39 @@
+/* Lumos technology panels only; existing site colours and typography. */
+.lumos-page .lumos-feature { align-items: stretch; }
+.lumos-page .lumos-feature__copy { display: flex; flex-direction: column; justify-content: center; }
+.lumos-page .lumos-feature__copy .alpha-copy p:last-child { margin-bottom: 0; }
+.lumos-page .lumos-feature__copy h3 { margin: 24px 0 12px; }
+.lumos-page .lumos-feature__copy h3:first-child { margin-top: 0; }
+.lumos-page .lumos-diagram { margin: 0; min-width: 0; display: flex; flex-direction: column; padding: clamp(20px, 3vw, 36px); background: var(--color-light); border: 1px solid var(--color-border); }
+.lumos-page .lumos-diagram__heading { display: flex; flex-direction: column; gap: 14px; }
+.lumos-page .lumos-diagram__heading span { font-size: .7rem; letter-spacing: .16em; color: var(--color-blue); font-weight: 600; }
+.lumos-page .lumos-diagram__heading strong { font-size: clamp(1.3rem, 2.5vw, 2rem); line-height: 1.2; }
+.lumos-page .lumos-diagram svg { display: block; width: 100%; flex: 1; min-height: 0; max-height: 520px; margin: auto 0; overflow: visible; }
+.lumos-page .lumos-diagram .panel { fill: #fff; stroke: var(--color-text-soft); stroke-width: 2; }
+.lumos-page .lumos-diagram .grid { fill: none; stroke: var(--color-border); stroke-width: 1.5; }
+.lumos-page .lumos-diagram .beam { fill: none; stroke: var(--color-blue); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+.lumos-page .lumos-diagram .line { fill: none; stroke: var(--color-text-soft); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.lumos-page .lumos-diagram .dot { fill: var(--color-blue); }
+.lumos-page .lumos-diagram .knob { fill: #fff; stroke: var(--color-blue); stroke-width: 3; }
+.lumos-page .lumos-diagram .halo { fill: var(--color-blue-soft); stroke: var(--color-border); stroke-width: 1.5; }
+.lumos-page .lumos-diagram .ring { fill: none; stroke: var(--color-blue); stroke-width: 2; }
+.lumos-page .lumos-diagram .lens { fill: #dceeff; fill-opacity: .8; stroke: var(--color-blue); stroke-width: 2; }
+.lumos-page .lumos-diagram__metrics { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); border-top: 1px solid var(--color-border); padding-top: 20px; gap: 12px; }
+.lumos-page .lumos-diagram__metrics strong { display: block; font-size: clamp(.75rem, 1.15vw, 1rem); line-height: 1.4; overflow-wrap: anywhere; }
+.lumos-page .lumos-diagram__metrics span { display: block; margin-top: 6px; font-size: .7rem; line-height: 1.5; color: var(--color-text-soft); }
+.lumos-page .lumos-diagram figcaption { margin-top: 20px; font-size: .7rem; color: var(--color-text-soft); }
+@media (min-width: 1024px) {
+    .lumos-page .lumos-feature--reverse .lumos-feature__copy { order: 2; }
+    .lumos-page .lumos-feature--reverse .lumos-diagram { order: 1; }
+    .lumos-page .lumos-feature { min-height: 480px; }
+    .lumos-page .lumos-diagram svg { height: 0; max-height: none; flex: 1 1 0px; contain: size; }
+}
+@media (max-width: 1023px) {
+    .lumos-page .lumos-feature { grid-template-columns: minmax(0,1fr); }
+    .lumos-page .lumos-diagram svg { flex: none; aspect-ratio: 600 / 460; }
+}
+
+.lumos-page #wavelengths .lumos-diagram__metrics { grid-template-columns: minmax(0, 1fr); }
+@media (max-width: 1023px) {
+    .lumos-page #wavelengths .lumos-diagram svg { aspect-ratio: 600 / 660; max-height: none; }
+}

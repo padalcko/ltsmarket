@@ -357,4 +357,25 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/" />
   </url>
+  <url>
+    <loc>https://ltsmarket.pl/nowe/lumos/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/lumos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/lumos/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/lumos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/lumos/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/en/new/lumos/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/lumos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/lumos/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/lumos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/lumos/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/ru/novye/lumos/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/lumos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/lumos/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/lumos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/lumos/" />
+  </url>
 </urlset>
