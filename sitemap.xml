@@ -378,4 +378,46 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/lumos/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/lumos/" />
   </url>
+  <url>
+    <loc>https://ltsmarket.pl/nowe/alpha/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/alpha/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/alpha/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/alpha/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/alpha/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/en/new/alpha/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/alpha/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/alpha/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/alpha/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/alpha/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/ru/novye/alpha/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/alpha/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/alpha/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/alpha/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/alpha/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/nowe/ray/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/ray/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/ray/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/ray/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/ray/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/en/new/ray/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/ray/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/ray/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/ray/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/ray/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/ru/novye/ray/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/ray/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/ray/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/ray/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/ray/" />
+  </url>
 </urlset>

@@ -143,3 +143,52 @@ The contact handlers retain buyer-edited messages and separately send
 `productName` and `productUrl` for MEDIflex; the shared transport supplies language
 and source. The endpoint and analytics configuration remain unchanged.
 See `reports/mediflex-us450.md` for files, photos, reciprocal links and QA limits.
+
+
+## AI-readable resources (2026-11-03)
+
+The AI layer follows the local Laser Tech Service implementation: canonical HTML
+is the source of truth, sitemap.xml discovers routes, and generated Markdown
+preserves the original PL/EN/RU content. This section supersedes the older
+AI-catalog-only instructions above.
+
+After editing HTML, or running a product/blog generator, run:
+
+```sh
+python3 scripts/build-site.py
+python3 scripts/build-ai-search.py --check
+python3 scripts/build-ai-catalog.py --check
+# Optional: with the repository served locally
+python3 scripts/check-ai-search.py --http http://127.0.0.1:8000
+```
+
+`build-site.py` refreshes derived AI resources and runs validation. It does not
+regenerate visible product/blog content or publish anything. Run the appropriate
+content generator first when editing its JSON source.
+
+Generated resources:
+
+- A sibling Markdown file for each sitemap-listed page: `/nowe/alpha/index.md`
+  for `/nowe/alpha/`, `/leasing.md` for `/leasing.html`, `/index.md` for `/`.
+- `llms.txt`: categorized discovery index for all three languages.
+- `llms-full.txt`: complete source-derived content with canonical HTML references.
+- `ai-catalog.json`: all pages, language equivalents, source hashes, original
+  structured data, and equipment records. Existing MEDIflex verified facts remain.
+- HTML head links: Markdown alternate and `/llms.txt` describedby.
+- `_headers`: exact Markdown MIME types, nosniff and HTTP canonical links to HTML;
+  plain-text/JSON types for the other resources. These are Netlify-compatible
+  deployment rules, not proof of production response headers.
+
+Do not edit generated Markdown or LLM resources manually. Add a new public page
+with correct canonical/hreflang to sitemap.xml and run the build; no separate AI
+route list is needed. Removed routes with old generated Markdown are flagged for
+review, never automatically deleted. README, reports, ownership verification
+files and unsitemapped pages are not published into the AI index.
+
+The validator checks freshness, source content, tables/FAQ, language links,
+local resource links and existing robots access. Markdown remains outside the
+HTML sitemap. The workflow preserves body markup, CSS, JavaScript, forms,
+analytics and robots policy. AI resource publication does not guarantee search
+indexing, AI citations or inclusion in model training.
+
+See `reports/ai-preparation.md` for the implementation scope and validation.

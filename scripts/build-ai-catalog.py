@@ -1,63 +1,58 @@
 #!/usr/bin/env python3
-"""Derive equipment AI resources from the published HTML. No invented offers."""
+"""Derive the AI catalogue from sitemap-listed HTML, never from invented offers."""
 import argparse
+import hashlib
 import json
-import re
-from html.parser import HTMLParser
-from pathlib import Path
-
-ROOT = Path(__file__).resolve().parents[1]
-BASE = 'https://ltsmarket.pl'
-
-class Text(HTMLParser):
-    def __init__(self, source):
-        super().__init__(); self.parts = []; self.feed(source)
-    def handle_data(self, data):
-        if data.strip(): self.parts.append(data.strip())
+from ai_resources import ROOT, BASE, discover, llms, markdown, render, clean
 
 
 def generate():
+    pages = discover()
     products = []
-    lines = ['# LTS Market', '', '> New and used aesthetic equipment. Prices are in PLN.', '',
-             '## Used equipment', '', 'Product pages are the source of truth for condition, price and service scope.',
-             'Warranty on MEDIflex US450 covers completed Laser Tech Service work only, not the entire device.', '']
-    for lang, prefix in [('pl', ''), ('en', '/en'), ('ru', '/ru')]:
-        catalog = (ROOT / (prefix.lstrip('/') + '/' if prefix else '') / 'uzywane.html').read_text()
-        listing = next(json.loads(x) for x in re.findall(r'<script type="application/ld\+json">(.*?)</script>', catalog, re.S) if json.loads(x).get('@type') == 'ItemList')
-        lines.append(f'### {lang.upper()}')
-        for entry in listing['itemListElement']:
-            path = ROOT / entry['url'].removeprefix(BASE + '/')
-            source = path.read_text()
-            product = next(json.loads(x) for x in re.findall(r'<script type="application/ld\+json">(.*?)</script>', source, re.S) if json.loads(x).get('@type') == 'Product')
-            main = re.search(r'<main\b.*?</main>', source, re.S)[0]
-            record = {'language': lang, 'position': entry['position'], 'product': product,
-                      'pageText': '\n'.join(Text(main).parts)}
-            if path.stem == 'mediflex-us450':
-                record['verifiedFacts'] = {
-                    'commercialName': 'MEDIflex US450', 'model': 'US450', 'equipmentType': 'Diode Laser Machine',
-                    'wavelengthsNm': [755, 808, 1064], 'declaredLaserDiodePowerW': 2000,
-                    'maximumElectricalPowerConsumptionW': 5000, 'powerSupply': 'AC 220 V, 50/60 Hz',
-                    'yearOfManufacture': 2022, 'fullyOperational': True, 'technicalCondition': 'good',
-                    'lastMaintenanceDate': '2026-10-15', 'serviceCompany': 'Laser Tech Service',
-                    'serviceWorkWarrantyMonths': 6, 'warrantyScope': 'Completed service work only; not the entire device',
-                    'documentationBookletIncluded': True,
-                    'serviceWork': ['All cooling system filters replaced', 'Cooling fluid fully replaced',
-                        'Internal dust and dirt cleaned', 'Working handpiece inspected',
-                        'Cooling component replaced', 'Operation checked after maintenance']}
-            products.append(record)
-            lines.append(f'- [{product["name"]}]({entry["url"]}): {product["description"]}')
-        lines.append('')
-    lines += ['## New equipment', '', 'Alpha Mini starts at PLN 40,000. Configuration, availability and service terms are agreed individually.', '']
-    for lang, route in [('pl', '/nowe/alpha-mini/'), ('en', '/en/new/alpha-mini/'), ('ru', '/ru/novye/alpha-mini/'), ('pl', '/nowe/lumos/'), ('en', '/en/new/lumos/'), ('ru', '/ru/novye/lumos/')]:
-        source = (ROOT / route.lstrip('/') / 'index.html').read_text()
-        product = next(json.loads(x) for x in re.findall(r'<script type="application/ld\+json">(.*?)</script>', source, re.S) if json.loads(x).get('@type') == 'Product')
-        main = re.search(r'<main\b.*?</main>', source, re.S)[0]
-        products.append({'language': lang, 'product': product, 'pageText': '\n'.join(Text(main).parts)})
-        lines.append(f'- [{lang.upper()} {product["name"]}]({BASE}{route}): {product["description"]}')
-    lines.append('')
-    lines += ['## Machine-readable catalogue', '', '- [AI catalogue](https://ltsmarket.pl/ai-catalog.json)',
-              '- [Sitemap](https://ltsmarket.pl/sitemap.xml)', '']
-    return {'ai-catalog.json': json.dumps({'site': BASE, 'scope': 'New and used equipment', 'products': products}, ensure_ascii=False, indent=2)+'\n', 'llms.txt': '\n'.join(lines)}
+    records = []
+    positions = {}
+    for page in pages:
+        if page['path'].name == 'uzywane.html':
+            for schema in page['schemas']:
+                if schema.get('@type') == 'ItemList':
+                    for entry in schema['itemListElement']:
+                        positions[entry['url']] = entry['position']
+    for page in pages:
+        source_text = clean(render(page['main'], page))
+        records.append({
+            'url': page['canonical'], 'markdownUrl': page['md'],
+            'language': page['lang'], 'type': page['kind'], 'title': page['title'],
+            'description': page['meta'].get('description', ''),
+            'languageAlternates': page['alternates'],
+            'contentSha256': hashlib.sha256(markdown(page).encode()).hexdigest(),
+            'structuredData': page['schemas']})
+        if not page['product']:
+            continue
+        record = {'language': page['lang'], 'product': page['product'],
+                  'sourceUrl': page['canonical'], 'markdownUrl': page['md'],
+                  'pageText': source_text}
+        if page['canonical'] in positions:
+            record['position'] = positions[page['canonical']]
+        # Preserve the pre-existing nameplate/owner-confirmed MEDIflex facts.
+        if page['path'].stem == 'mediflex-us450':
+            record['verifiedFacts'] = {
+                'commercialName': 'MEDIflex US450', 'model': 'US450', 'equipmentType': 'Diode Laser Machine',
+                'wavelengthsNm': [755, 808, 1064], 'declaredLaserDiodePowerW': 2000,
+                'maximumElectricalPowerConsumptionW': 5000, 'powerSupply': 'AC 220 V, 50/60 Hz',
+                'yearOfManufacture': 2022, 'fullyOperational': True, 'technicalCondition': 'good',
+                'lastMaintenanceDate': '2026-10-15', 'serviceCompany': 'Laser Tech Service',
+                'serviceWorkWarrantyMonths': 6, 'warrantyScope': 'Completed service work only; not the entire device',
+                'documentationBookletIncluded': True,
+                'serviceWork': ['All cooling system filters replaced', 'Cooling fluid fully replaced',
+                    'Internal dust and dirt cleaned', 'Working handpiece inspected',
+                    'Cooling component replaced', 'Operation checked after maintenance']}
+        products.append(record)
+    data = {'site': BASE, 'scope': 'Canonical multilingual site pages and equipment',
+            'sourceOfTruth': 'Canonical HTML listed in sitemap.xml',
+            'languages': ['pl', 'en', 'ru'], 'pages': records, 'products': products}
+    return {'ai-catalog.json': json.dumps(data, ensure_ascii=False, indent=2)+'\n',
+            'llms.txt': llms(pages)}
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(); parser.add_argument('--check', action='store_true'); args = parser.parse_args()
