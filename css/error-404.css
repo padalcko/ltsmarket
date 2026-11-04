@@ -1,0 +1,24 @@
+/* Scoped to the standalone error document. */
+.error-page { background: radial-gradient(ellipse at 75% 35%, #102d49 0, #050d14 60%); color: var(--color-light); }
+.error-page a:focus-visible, .error-page button:focus-visible { outline: 3px solid #70baff; outline-offset: 5px; }
+.error-hero { display: grid; grid-template-columns: .85fr 1.15fr; gap: 48px; align-items: center; padding: 70px 0 65px; }
+.error-code { font-size: clamp(90px, 11vw, 170px); font-weight: 800; line-height: .9; letter-spacing: -.06em; color: var(--color-blue); margin: 0 0 26px; }
+.error-copy h1 { font-size: clamp(30px, 3.5vw, 52px); line-height: 1.1; letter-spacing: -.035em; margin: 0 0 22px; }
+.error-message { font-size: 18px; line-height: 1.7; color: #bbc8d4; max-width: 520px; margin: 0 0 30px; }
+.error-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+.error-button { display: inline-flex; justify-content: center; align-items: center; padding: 16px 20px; min-height: 52px; background: var(--color-blue); color: white; border: 1px solid var(--color-blue); border-radius: 4px; font-weight: 600; text-decoration: none; }
+.error-button--secondary { background: transparent; border-color: #516476; }
+.error-button:hover { background: #1773cb; }
+.error-visual { min-width: 0; margin: 0; }
+.error-visual img { display: block; width: 100%; height: auto; border-radius: 22px; border: 1px solid #24445f; box-shadow: 0 25px 80px #0005; }
+.error-visual figcaption { color: #9da9b5; font-size: 12px; line-height: 1.5; padding: 12px 4px 0; }
+.error-links { padding-bottom: 60px; }
+.error-links h2 { font-size: 24px; margin: 0 0 22px; }
+.error-links-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.error-links-grid a { display: flex; justify-content: space-between; align-items: center; gap: 16px; min-height: 100px; padding: 24px; color: white; border: 1px solid #283c4d; background: #0b1721; border-radius: 8px; text-decoration: none; font-weight: 600; }
+.error-links-grid a:hover { border-color: var(--color-blue); }
+.error-links-grid a > span:last-child { color: #4aa5ff; }
+@media (max-width: 1000px) { .error-hero { grid-template-columns: 1fr; gap: 36px; padding-top: 40px; } .error-copy { max-width: 700px; } .error-visual { max-width: 800px; } }
+@media (max-width: 600px) { .error-hero { padding-top: 28px; padding-bottom: 40px; } .error-message { font-size: 16px; } .error-actions { flex-direction: column; } .error-links-grid { grid-template-columns: 1fr; gap: 10px; } .error-links-grid a { min-height: 74px; padding: 20px; } .error-visual img { border-radius: 12px; } }
+
+.error-page #main-content { padding-top: var(--header-height); }

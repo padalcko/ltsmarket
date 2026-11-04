@@ -1,0 +1,9 @@
+# LTS Market 404
+
+One root `404.html`, noindex, with PL/EN/RU selected from the failed URL. Language switching preserves that URL. Standard header and footer markup comes from the respective localized contact pages; navigation active states are cleared. Scoped JavaScript handles their menus and localized fragments. Shared CSS remains unchanged.
+
+Generated illustration: built-in image_gen. Master: `assets/img/404/raccoon-lumos-alpha.png`; displayed JPEG: `assets/img/404/raccoon-lumos-alpha.jpg`. References: existing Lumos and Alpha images and the Laser Tech Service raccoon illustration.
+
+Prompt: Create a polished cinematic 3D illustration for LTS Market's 404 website, landscape 3:2. References: first white Lumos device, second black Alpha device, third raccoon character style only. A friendly realistic furry raccoon stands upright in a smart navy business suit, white shirt and blue tie, between the two intact aesthetic laser devices in a premium dark navy showroom with subtle blue lighting. Show the complete recognizable white Lumos with blue vertical accents and black Alpha with turquoise circular accent, matching references. Raccoon faces viewer with a slightly apologetic friendly expression, one paw presenting the devices, ready to dispatch to a customer. No repair, tools, workshop, dismantled parts or sparks. No speech bubble, no text, no watermark; dialogue will be HTML. Keep all three subjects fully in frame with comfortable margins. Illustration, not documentary product photography.
+
+Static audit and SEO checks pass (61 HTML pages); AI resources remain fresh (60 indexable pages). The error page is excluded from sitemap and AI resources. Local HTTP testing uses a server that serves this document with status 404; production hosting behavior remains unverified. No commit, push or deployment.

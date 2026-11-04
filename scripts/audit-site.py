@@ -25,10 +25,12 @@ for p,page in pages.items():
  for t in ['h1','main']: check(sum(tag==t for tag,a in tags)==1,p,'count',t)
  # SVG accessibility titles are not document titles.
  check(len(re.findall(r'<title>.*?</title>', p.read_text().split('</head>')[0], re.S))==1,p,'count','head title')
- for attr,value in [('name','description'),('name','viewport'),('rel','canonical')]: check(sum(a.get(attr)==value for t,a in tags)==1,p,value)
- canon=next(a['href'] for t,a in tags if a.get('rel')=='canonical')
- expected='https://ltsmarket.pl/'+str(p).removesuffix('index.html');check(canon==expected,p,'canonical',canon)
- alts={a.get('hreflang'):a['href'] for t,a in tags if a.get('rel')=='alternate' and 'hreflang' in a};check(set(alts)=={'pl','en','ru','x-default'},p,'hreflang')
+ is_error = p == Path('404.html')
+ for attr,value in [('name','description'),('name','viewport')] + ([] if is_error else [('rel','canonical')]): check(sum(a.get(attr)==value for t,a in tags)==1,p,value)
+ canon=next((a['href'] for t,a in tags if a.get('rel')=='canonical'), None)
+ expected='https://ltsmarket.pl/'+str(p).removesuffix('index.html');check(canon is None if is_error else canon==expected,p,'canonical',canon)
+ alts={a.get('hreflang'):a['href'] for t,a in tags if a.get('rel')=='alternate' and 'hreflang' in a};check(not alts if is_error else set(alts)=={'pl','en','ru','x-default'},p,'hreflang')
+ if is_error: check(any(a.get('name')=='robots' and 'noindex' in a.get('content','') for _,a in tags),p,'404 noindex')
  for t,a in tags:
   if t=='img': check('alt' in a,p,'image alt')
   if t=='iframe': check(bool(a.get('title')),p,'iframe title')
@@ -46,7 +48,7 @@ for p,page in pages.items():
   check(target in pages,p,'alternate missing',url)
   if target in pages: check(any(a.get('rel')=='alternate' and a.get('href')==canon for _,a in pages[target].tags),p,'alternate return',url)
 site=ET.parse('sitemap.xml'); urls={el.text for el in site.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')}
-check(urls=={'https://ltsmarket.pl/'+str(p).removesuffix('index.html') for p in pages},'sitemap mismatch')
+check(urls=={'https://ltsmarket.pl/'+str(p).removesuffix('index.html') for p in pages if p != Path('404.html')},'sitemap mismatch')
 for p in Path('.').rglob('*.webmanifest'): json.loads(p.read_text())
 for p in Path('css').glob('*.css'):
  s=re.sub(r'/\*.*?\*/','',p.read_text(),flags=re.S);check(s.count('{')==s.count('}'),p,'CSS braces')
