@@ -44,3 +44,17 @@
 @media (max-width: 700px) { .blog-grid { grid-template-columns: 1fr; gap: 20px; } .blog-heading--listing { margin-bottom: 36px; } }
 @media (max-width: 600px) { .blog-main { padding-top: 24px; } .blog-breadcrumb { margin-bottom: 28px; } .blog-prose { font-size: 17px; } }
 .blog-article__image { display: block; width: 100%; max-width: 640px; height: auto; margin: 0 auto 40px; }
+
+/* Lumos article conversion block; other blog CTAs keep their layout. */
+.blog-cta--lumos { padding:clamp(22px,4vw,32px); border:1px solid #20496b; border-top:3px solid var(--color-blue); border-radius:12px; background:linear-gradient(115deg,#08131e,#102e48); }
+.blog-cta--lumos .blog-cta__eyebrow { color:#70baff; font-size:11px; font-weight:700; letter-spacing:.14em; margin:0 0 10px; }
+.blog-cta--lumos h2 { font-size:clamp(23px,3vw,30px); margin:0 0 10px; }
+.blog-cta--lumos .blog-cta__description { color:#c7d7e5; font-size:16px; line-height:1.6; margin:0; }
+.blog-cta--lumos .blog-cta__actions { display:flex; flex-wrap:wrap; gap:12px; margin-top:22px; }
+.blog-cta--lumos .button { min-height:48px; gap:14px; flex:1 1 190px; }
+.blog-cta--lumos .button--primary { background:#0875d1; border-color:#0875d1; color:#fff; }
+.blog-cta--lumos .button--primary:hover { background:#0965b1; }
+.blog-cta--lumos .button--outline { border-color:#70baff; color:#fff; background:rgb(28 143 255 / .08); }
+.blog-cta--lumos .button--outline:hover { background:rgb(28 143 255 / .2); }
+.blog-cta--lumos a:focus-visible { outline:3px solid #98d4ff; outline-offset:4px; }
+@media(min-width:600px) { .blog-cta--lumos .button { flex:0 1 auto; } }

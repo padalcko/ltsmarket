@@ -75,6 +75,8 @@ def build(lang, article, page=1):
     schema = {'@context':'https://schema.org','@type':'BlogPosting' if article else 'Blog','@id':DOMAIN+route(lang,article)+'#'+('article' if article else 'blog'),'url':DOMAIN+route(lang,article),'name':d['title'] if article else d['blog'],'description':desc,'inLanguage':lang,'publisher':{'@type':'Organization','name':'LTS Market','url':DOMAIN+'/'}}
     if article:
         schema.update(headline=d['title'],mainEntityOfPage=DOMAIN+route(lang,article),image=DOMAIN+d.get('image', '/assets/img/hero-lts-market.jpg'))
+        if d.get('modified'): schema['dateModified']=d['modified']
+        if d.get('date'): schema['datePublished']=d['date']
     else:
         schema['blogPost']=[{'@type':'BlogPosting','headline':post[lang]['title'],'url':DOMAIN+route(lang,i)} for i,post in page_posts(page)]
         schema.update({'@id': DOMAIN+listing_route(lang,page)+'#blog', 'url': DOMAIN+listing_route(lang,page)})
@@ -96,7 +98,11 @@ def build(lang, article, page=1):
     if article:
         toc='<nav class="blog-toc" aria-label="'+d['toc']+'"><h2>'+d['toc']+'</h2><ol>'+''.join(f'<li><a href="#section-{i}">{escape(h)}</a></li>' for i,(h,p) in enumerate(d['sections'],1))+'</ol></nav>'
         sections=''.join(f'<section aria-labelledby="section-{i}"><h2 id="section-{i}">{escape(h)}</h2>'+''.join('<p>'+p.format(prefix=prefix(lang))+'</p>' for p in text.split('\n'))+'</section>' for i,(h,text) in enumerate(d['sections'],1))
-        main=f'<article class="blog-article"><header class="blog-heading"><p class="section-label">{d["blog"]}</p><h1>{escape(d["title"])}</h1><p class="blog-lead">{d["lead"]}</p></header>{image_tag(d)}{toc}<div class="blog-prose">{sections}</div><aside class="blog-cta"><h2>{d["cta"]}</h2><a class="button button--primary" href="{prefix(lang)}kontakt.html">{d["contact"]}</a></aside><a class="blog-back" href="{route(lang)}">← {d["back"]}</a></article>'
+        cta=f'<aside class="blog-cta"><h2>{d["cta"]}</h2><a class="button button--primary" href="{prefix(lang)}kontakt.html">{d["contact"]}</a></aside>'
+        if d.get('action_cta'):
+            action=d['action_cta']
+            cta=f'<aside class="blog-cta blog-cta--lumos" aria-labelledby="lumos-cta-title"><div><p class="blog-cta__eyebrow">LTS MARKET · LUMOS</p><h2 id="lumos-cta-title">{escape(action["title"])}</h2><p class="blog-cta__description">{escape(action["description"])}</p></div><div class="blog-cta__actions"><a class="button button--primary" href="{escape(action["form_url"],quote=True)}">{escape(action["form_label"])} <span aria-hidden="true">→</span></a><a class="button button--outline" href="tel:+48575254431">{escape(action["call_label"])}</a></div></aside>'
+        main=f'<article class="blog-article"><header class="blog-heading"><p class="section-label">{d["blog"]}</p><h1>{escape(d["title"])}</h1><p class="blog-lead">{d["lead"]}</p></header>{image_tag(d)}{toc}<div class="blog-prose">{sections}</div>{cta}<a class="blog-back" href="{route(lang)}">← {d["back"]}</a></article>'
     else:
         cards = []
         for i, post in page_posts(page):
@@ -112,6 +118,7 @@ def build(lang, article, page=1):
             pagination = f'<nav class="blog-pagination" aria-label="{LABELS[lang]["pages"]}">{links}</nav>'
         main=f'<header class="blog-heading blog-heading--listing"><p class="section-label">LTS Market</p><h1>{d["blog"]}</h1><p class="blog-lead">{d["intro"]}</p></header><div class="blog-grid">'+''.join(cards)+'</div>'+pagination
     output=head+'  <body>'+before+'<main id="main-content" class="blog-main'+(' blog-main--listing' if not article else '')+'"><div class="container">'+breadcrumb+main+'</div></main>'+after
+    output=output.replace('<p class="blog-lead"></p>', '')
     dest=ROOT / (route(lang,article) if article else listing_route(lang,page)).lstrip('/') / 'index.html'
     dest.parent.mkdir(parents=True,exist_ok=True)
     dest.write_text(link_service_names(output))

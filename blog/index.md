@@ -14,9 +14,9 @@ Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organiza
 
 Lasery do epilacji
 
-## [Lumos — nowoczesny laser diodowy dla salonu epilacji](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/)
+## [Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/)
 
-Poznaj Lumos: cztery długości fal, funkcje cyfrowe i wsparcie [Laser Tech Service](https://lasertechservice.pl/). Sprawdź jego wartość dla salonu epilacji w Polsce.
+Lumos: laser diodowy 4 fale, moc do 4000 W, CRM, Android i ICE Flow. Poznaj zalety, 24 miesiące gwarancji i wsparcie [Laser Tech Service](https://lasertechservice.pl/).
 
 Laserowe usuwanie tatuażu
 

@@ -19,6 +19,7 @@ const routes={pl:'/nowe/lumos/',en:'/en/new/lumos/',ru:'/ru/novye/lumos/'};
    const response=await page.goto(base+route);assert.equal(response.status(),200);
    await page.evaluate(()=>document.fonts.ready);
    await page.locator('.nowe-hero__visual img').evaluate(i=>i.decode());
+   await page.waitForTimeout(300);
    console.log('LOCAL VITALS',lang,width,await page.evaluate(()=>window.qaVitals));
    const overflow=await page.evaluate(()=>[...document.querySelectorAll("body *")].filter(e=>e.scrollWidth>e.clientWidth+1).map(e=>({tag:e.tagName,class:e.className,width:e.getBoundingClientRect().width,scroll:e.scrollWidth,text:e.textContent.slice(0,80)})));
    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${lang} overflow ${width}: ${JSON.stringify(overflow)}`);
@@ -34,6 +35,10 @@ const routes={pl:'/nowe/lumos/',en:'/en/new/lumos/',ru:'/ru/novye/lumos/'};
     if(lang==='ru' && [375,1440].includes(width))await page.locator(`#${id}`).screenshot({path:`/tmp/lumos-qa/${lang}-${width}-${id}.png`});
    }
    assert.equal(await page.locator('#reading').count(),0);
+   assert.equal(await page.locator('#offer-benefits .nowe-support__card').count(),4);
+   assert.equal(await page.locator('#offer-benefits a[href="https://raccoon-studio.com.ua/pl/"]').count(),1);
+   assert.deepEqual(await page.locator('.lumos-gallery a').evaluateAll(xs=>xs.map(x=>Number(x.dataset.lumosImage))),[0,10,11,12,13,9,4,8,5,6,7,1,2,3,14,15]);
+   if(lang==='ru' && [375,1440].includes(width))for(const id of ['crm','updates','dermatoscope','offer-benefits']){await page.locator('#'+id).scrollIntoViewIfNeeded();for(const img of await page.locator('#'+id+' img').all())await img.evaluate(i=>i.decode());await page.locator('#'+id).screenshot({path:`/tmp/lumos-qa/refined-${id}-${width}.png`});}
    assert.equal(await page.locator('h1').count(),1);assert.equal(await page.locator('#faq details').count(),13);
    assert.equal(await page.locator('link[rel=canonical]').getAttribute('href'),'https://ltsmarket.pl'+route);
    await page.locator('a[href="#specification"]').click();assert(await page.locator('#specification').isVisible());
@@ -43,9 +48,9 @@ const routes={pl:'/nowe/lumos/',en:'/en/new/lumos/',ru:'/ru/novye/lumos/'};
     assert.equal(await page.locator(`.language-switcher__menu a[lang=${l}]`).getAttribute('href'),routes[l]);
     assert.equal(await page.locator(`.mobile-menu__languages-list a[lang=${l}]`).getAttribute('href'),routes[l]);
    }
-   const images=await page.locator('main img').evaluateAll(imgs=>imgs.map(i=>({src:i.src,alt:i.alt,w:i.width,h:i.height})));
+   const images=await page.locator('main img:not(dialog img)').evaluateAll(imgs=>imgs.map(i=>({src:i.src,alt:i.alt,w:i.width,h:i.height})));
    assert(images.every(i=>i.alt&&i.w>0&&i.h>0));
-   for(const img of await page.locator('main img').all()){await img.scrollIntoViewIfNeeded();await img.evaluate(i=>i.decode());}
+   for(const img of await page.locator('main img:not(dialog img)').all()){await img.scrollIntoViewIfNeeded();await img.evaluate(i=>i.decode());}
    if(width===375||width===1440){await page.screenshot({path:`/tmp/lumos-qa/${lang}-${width}.png`,fullPage:true});}
    if(width===375||width===1440){
     await page.evaluate(()=>window.scrollTo({top:0,behavior:'instant'}));await page.screenshot({path:`/tmp/lumos-qa/${lang}-${width}-hero.png`});
@@ -55,7 +60,8 @@ const routes={pl:'/nowe/lumos/',en:'/en/new/lumos/',ru:'/ru/novye/lumos/'};
   }
   await page.goto(base+route);await page.locator('#language-button').click();assert(await page.locator('#language-menu').isVisible());await page.locator(`#language-menu a[lang=${lang==='pl'?'en':'pl'}]`).click();assert.equal(new URL(page.url()).pathname,routes[lang==='pl'?'en':'pl']);
   await page.goto(base+route);
-  await page.locator('#gallery a').click();assert(new URL(page.url()).pathname.endsWith('lumos.webp'));await page.goBack();
+  await page.locator('#gallery a').first().click();assert(await page.locator('dialog').isVisible());await page.keyboard.press('ArrowRight');assert.equal(await page.locator('[data-count]').innerText(),'2 / 16');await page.keyboard.press('Escape');assert(!await page.locator('dialog').isVisible());
+  await page.locator('#gallery a').first().click();await page.locator('dialog img').evaluate(el=>{for(const [type,x] of [['touchstart',200],['touchend',80]])el.dispatchEvent(new TouchEvent(type,{changedTouches:[new Touch({identifier:1,target:el,clientX:x})]}));});assert.equal(await page.locator('[data-count]').innerText(),'2 / 16');await page.keyboard.press('Escape');
   const before=posts;await page.locator('#contact-form button[type=submit]').click();assert.equal(posts,before);assert(await page.locator('#contact-form-status').evaluate(e=>e.classList.contains('is-error')));
   await page.locator('[name=name]').fill('Local QA');await page.locator('[name=phone]').fill('+48123456789');await page.locator('[name=email]').fill('qa@example.com');await page.locator('[name=message]').fill('Edited Lumos enquiry');await page.locator('[name=consent]').check();
   mode='failure';await page.locator('#contact-form button[type=submit]').click();await page.waitForFunction(()=>document.querySelector('#contact-form-status').classList.contains('is-error'));assert.equal(await page.locator('[name=message]').inputValue(),'Edited Lumos enquiry');
@@ -64,6 +70,9 @@ const routes={pl:'/nowe/lumos/',en:'/en/new/lumos/',ru:'/ru/novye/lumos/'};
   assert.equal(await page.locator('[name=message]').inputValue(),'Lumos');
   console.log('PASS',lang,'6 widths, navigation, gallery, FAQ, form validation + mocked error/success payload');
  }
+ const blog=JSON.parse(fs.readFileSync('scripts/blog-posts.json')).posts.find(p=>p.pl.slug.startsWith('lumos-'));
+ for(const lang of Object.keys(routes))for(const width of [320,375,430,768,1024,1440]){await page.setViewportSize({width,height:900});await page.goto(base+(lang==='pl'?'':'/'+lang)+'/blog/'+blog[lang].slug+'/');assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));assert.equal(await page.locator('h1').count(),1);assert.equal(await page.locator('.blog-prose section').count(),16);}
+ console.log('PASS articles PL/EN/RU at six widths');
  assert.deepEqual(errors,[]);assert.deepEqual(failures,[]);
  // Shared handler change must retain existing MEDIflex enquiry context.
  for(const lang of Object.keys(routes)){

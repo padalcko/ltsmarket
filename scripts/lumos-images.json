@@ -1,0 +1,578 @@
+[
+  {
+    "source": "/Users/macbookpro/Downloads/840B548F-C4D5-4762-A389-C2FC0F40F3ED.PNG",
+    "sha256": "7d8ee1030b3095355f7b6a24057556032f94e17ae5ffb5fa7ffec131dd07d8cc",
+    "name": "front",
+    "alt": {
+      "pl": "Lumos — Widok z przodu",
+      "en": "Lumos — Front view",
+      "ru": "Lumos — Вид спереди"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-front-240.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 5526
+      },
+      {
+        "src": "/assets/img/lumos/lumos-front-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 15622
+      },
+      {
+        "src": "/assets/img/lumos/lumos-front-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 34082
+      },
+      {
+        "src": "/assets/img/lumos/lumos-front-1254.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 63354
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/938D2855-0243-4115-8ABD-F915E3832398.PNG",
+    "sha256": "7d354916fc50259492358a0505685757fbbc9df0b3d449cb932910d0e9f11ef3",
+    "name": "display-hr",
+    "alt": {
+      "pl": "Lumos — Ekran trybu HR",
+      "en": "Lumos — HR mode display",
+      "ru": "Lumos — Экран режима HR"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-display-hr-240.webp",
+        "width": 240,
+        "height": 135,
+        "bytes": 5016
+      },
+      {
+        "src": "/assets/img/lumos/lumos-display-hr-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 12304
+      },
+      {
+        "src": "/assets/img/lumos/lumos-display-hr-800.webp",
+        "width": 800,
+        "height": 450,
+        "bytes": 24586
+      },
+      {
+        "src": "/assets/img/lumos/lumos-display-hr-1600.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 60440
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/AE4AB8EC-0481-471B-8E36-BB8E8E0157EE.PNG",
+    "sha256": "86ee7c58156db8ab3641cb34301826216b83dfbb3867a9605f860fed4ed13c85",
+    "name": "software-hr",
+    "alt": {
+      "pl": "Lumos — Interfejs HR",
+      "en": "Lumos — HR interface",
+      "ru": "Lumos — Интерфейс HR"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-software-hr-240.webp",
+        "width": 240,
+        "height": 135,
+        "bytes": 5194
+      },
+      {
+        "src": "/assets/img/lumos/lumos-software-hr-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 13510
+      },
+      {
+        "src": "/assets/img/lumos/lumos-software-hr-800.webp",
+        "width": 800,
+        "height": 450,
+        "bytes": 27664
+      },
+      {
+        "src": "/assets/img/lumos/lumos-software-hr-1600.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 71276
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/260015B2-663D-4FE1-ABAC-925083673FFD.PNG",
+    "sha256": "a3f92200c612f5ef143c8746a1b7e3ed206beca0835c83b1c9ef8d2261ce6a67",
+    "name": "crm",
+    "alt": {
+      "pl": "Lumos — Karty klientów CRM",
+      "en": "Lumos — CRM client cards",
+      "ru": "Lumos — Карточки клиентов CRM"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-crm-240.webp",
+        "width": 240,
+        "height": 135,
+        "bytes": 2898
+      },
+      {
+        "src": "/assets/img/lumos/lumos-crm-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 7426
+      },
+      {
+        "src": "/assets/img/lumos/lumos-crm-800.webp",
+        "width": 800,
+        "height": 451,
+        "bytes": 15724
+      },
+      {
+        "src": "/assets/img/lumos/lumos-crm-1600.webp",
+        "width": 1600,
+        "height": 901,
+        "bytes": 40662
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/D49AE2C2-3A44-4260-B5E2-EBA9D340AFCC.PNG",
+    "sha256": "c03935513183c0c23f8ce297197115df31e126232b5f1b0ed75c3d9480c0920c",
+    "name": "handpiece-side",
+    "alt": {
+      "pl": "Lumos — Głowica z boku",
+      "en": "Lumos — Handpiece side view",
+      "ru": "Lumos — Манипула сбоку"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-side-240.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 1644
+      },
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-side-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 3844
+      },
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-side-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 7632
+      },
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-side-1254.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 13636
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/A16C6F23-A95B-4288-96F4-9D2A1F89FAAB.PNG",
+    "sha256": "93fcc68e3a61c7b8282cf3f220f2519c64acbe04acc6748f592eb8b6712ad361",
+    "name": "handpiece-window",
+    "alt": {
+      "pl": "Lumos — Okno głowicy",
+      "en": "Lumos — Handpiece window",
+      "ru": "Lumos — Рабочее окно манипулы"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-window-240.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 1522
+      },
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-window-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 3928
+      },
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-window-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 7778
+      },
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-window-1254.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 14306
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/389D341B-5A7C-403B-8F9B-D23E08B7BA44.PNG",
+    "sha256": "2c26ec013d1e0ef899edf91d00223db56fd98b7af8071af754f6b72261fece10",
+    "name": "dermatoscope-front",
+    "alt": {
+      "pl": "Lumos — Dermatoskop z przodu",
+      "en": "Lumos — Dermatoscope front view",
+      "ru": "Lumos — Дерматоскоп спереди"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-dermatoscope-front-240.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 1942
+      },
+      {
+        "src": "/assets/img/lumos/lumos-dermatoscope-front-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 5036
+      },
+      {
+        "src": "/assets/img/lumos/lumos-dermatoscope-front-800.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 10882
+      },
+      {
+        "src": "/assets/img/lumos/lumos-dermatoscope-front-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 15084
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/63044787-E433-4F0A-AC79-341A97B4BF08.PNG",
+    "sha256": "4c59ac3600ce331a1228594047dac06f613aea2d943c89bcf347548c6df1b947",
+    "name": "dermatoscope-side",
+    "alt": {
+      "pl": "Lumos — Dermatoskop z boku",
+      "en": "Lumos — Dermatoscope side view",
+      "ru": "Lumos — Дерматоскоп сбоку"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-dermatoscope-side-240.webp",
+        "width": 240,
+        "height": 360,
+        "bytes": 2216
+      },
+      {
+        "src": "/assets/img/lumos/lumos-dermatoscope-side-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 5496
+      },
+      {
+        "src": "/assets/img/lumos/lumos-dermatoscope-side-800.webp",
+        "width": 800,
+        "height": 1200,
+        "bytes": 10846
+      },
+      {
+        "src": "/assets/img/lumos/lumos-dermatoscope-side-1024.webp",
+        "width": 1024,
+        "height": 1536,
+        "bytes": 15058
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/18C6D40B-FE36-4B66-BBC2-ECF78CE4F5AA.PNG",
+    "sha256": "a8c22e8a80783143309c1eccd6c58344fcfb59e4a46347dd77bc2da7e4ce233f",
+    "name": "handpiece-grip",
+    "alt": {
+      "pl": "Lumos — Głowica w dłoni",
+      "en": "Lumos — Handpiece held in hand",
+      "ru": "Lumos — Манипула в руке"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-grip-240.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 4550
+      },
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-grip-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 13662
+      },
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-grip-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 32440
+      },
+      {
+        "src": "/assets/img/lumos/lumos-handpiece-grip-1254.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 69068
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/2199F998-E3C0-435F-9BAD-FB439B306413.PNG",
+    "sha256": "61d6e3ce83385cad2fbfbc15f3ad1e84bac8eff3956a99fc33bc3fcfdf7c11f0",
+    "name": "holders",
+    "alt": {
+      "pl": "Lumos — Uchwyty i moduły",
+      "en": "Lumos — Holders and modules",
+      "ru": "Lumos — Держатели и модули"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-holders-240.webp",
+        "width": 240,
+        "height": 160,
+        "bytes": 6288
+      },
+      {
+        "src": "/assets/img/lumos/lumos-holders-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 15990
+      },
+      {
+        "src": "/assets/img/lumos/lumos-holders-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 31670
+      },
+      {
+        "src": "/assets/img/lumos/lumos-holders-1536.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 78340
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/8E817291-8C81-4CC7-8032-409A49604F50.PNG",
+    "sha256": "7e20ac02e118dddd3b5ccc1249409258aa491260ee4e1ec913ab88ac45dca6d7",
+    "name": "front-alternate",
+    "alt": {
+      "pl": "Lumos — Drugi widok z przodu",
+      "en": "Lumos — Alternate front view",
+      "ru": "Lumos — Другой вид спереди"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-front-alternate-240.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 5306
+      },
+      {
+        "src": "/assets/img/lumos/lumos-front-alternate-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 15438
+      },
+      {
+        "src": "/assets/img/lumos/lumos-front-alternate-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 32748
+      },
+      {
+        "src": "/assets/img/lumos/lumos-front-alternate-1254.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 60180
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/8E68DD96-CFEC-419E-89A7-3EA3153A3527.PNG",
+    "sha256": "a477d58569f8cd5cdf971310e5ba1e0d063bc6943266c1c1644a90da8433ca21",
+    "name": "right-side",
+    "alt": {
+      "pl": "Lumos — Prawy bok urządzenia",
+      "en": "Lumos — Right side of device",
+      "ru": "Lumos — Правая сторона аппарата"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-right-side-240.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 5764
+      },
+      {
+        "src": "/assets/img/lumos/lumos-right-side-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 17536
+      },
+      {
+        "src": "/assets/img/lumos/lumos-right-side-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 38522
+      },
+      {
+        "src": "/assets/img/lumos/lumos-right-side-1254.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 70924
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/31EBC20C-A95B-4D08-88A0-9DDB46E9C053.PNG",
+    "sha256": "1a283e528d348172cbb8f24af722abb5a9ca45d7b6d03960e6be48d42afc3807",
+    "name": "left-side",
+    "alt": {
+      "pl": "Lumos — Lewy bok urządzenia",
+      "en": "Lumos — Left side of device",
+      "ru": "Lumos — Левая сторона аппарата"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-left-side-240.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 4660
+      },
+      {
+        "src": "/assets/img/lumos/lumos-left-side-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 15096
+      },
+      {
+        "src": "/assets/img/lumos/lumos-left-side-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 34560
+      },
+      {
+        "src": "/assets/img/lumos/lumos-left-side-1254.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 65826
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/1C5A2F08-AE08-4449-AFD3-0C69C5330520.PNG",
+    "sha256": "95160b0a50a86a6fded725fe8404e14a8e2e11aeddf65a6e0792e670d1be9111",
+    "name": "startup",
+    "alt": {
+      "pl": "Lumos — Ekran startowy",
+      "en": "Lumos — Startup screen",
+      "ru": "Lumos — Стартовый экран"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-startup-240.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 5220
+      },
+      {
+        "src": "/assets/img/lumos/lumos-startup-480.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 14946
+      },
+      {
+        "src": "/assets/img/lumos/lumos-startup-800.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 32248
+      },
+      {
+        "src": "/assets/img/lumos/lumos-startup-1254.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 60050
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/E345B13E-1FF0-41FD-94C8-4BEBEEF5D99C.PNG",
+    "sha256": "57a605195e4189b50758145ff2f2214f969825770b23a0821307ff04bb9d192e",
+    "name": "settings",
+    "alt": {
+      "pl": "Lumos — Ustawienia oprogramowania",
+      "en": "Lumos — Software settings",
+      "ru": "Lumos — Настройки программы"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-settings-240.webp",
+        "width": 240,
+        "height": 135,
+        "bytes": 4044
+      },
+      {
+        "src": "/assets/img/lumos/lumos-settings-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 9768
+      },
+      {
+        "src": "/assets/img/lumos/lumos-settings-800.webp",
+        "width": 800,
+        "height": 450,
+        "bytes": 18692
+      },
+      {
+        "src": "/assets/img/lumos/lumos-settings-1600.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 49198
+      }
+    ]
+  },
+  {
+    "source": "/Users/macbookpro/Downloads/F5A7E384-6C4C-41D3-94B8-33962EA02CAA.PNG",
+    "sha256": "839a722ea6c9afa990c87a49302762476ab55869083107b806c4e4a9270f8963",
+    "name": "software-sr",
+    "alt": {
+      "pl": "Lumos — Interfejs trybu SR",
+      "en": "Lumos — SR mode interface",
+      "ru": "Lumos — Интерфейс режима SR"
+    },
+    "variants": [
+      {
+        "src": "/assets/img/lumos/lumos-software-sr-240.webp",
+        "width": 240,
+        "height": 135,
+        "bytes": 4540
+      },
+      {
+        "src": "/assets/img/lumos/lumos-software-sr-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 11720
+      },
+      {
+        "src": "/assets/img/lumos/lumos-software-sr-800.webp",
+        "width": 800,
+        "height": 451,
+        "bytes": 24946
+      },
+      {
+        "src": "/assets/img/lumos/lumos-software-sr-1600.webp",
+        "width": 1600,
+        "height": 901,
+        "bytes": 72546
+      }
+    ]
+  }
+]

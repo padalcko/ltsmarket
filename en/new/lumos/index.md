@@ -1,6 +1,6 @@
-# Lumos — Professional Four-Wavelength Diode Laser
+# Lumos — an intelligent diode laser for modern beauty clinics
 
-HTML source: [Lumos — Professional Four-Wavelength Diode Laser](https://ltsmarket.pl/en/new/lumos/)
+HTML source: [Lumos — an intelligent diode laser for modern beauty clinics](https://ltsmarket.pl/en/new/lumos/)
 
 Language: English
 
@@ -18,7 +18,7 @@ Price depends on the selected configuration.
 
 **When you purchase Lumos from LTS Market, you receive professional service support from [Laser Tech Service](https://lasertechservice.pl/).**
 
-![Lumos diode laser with control panel and handpiece](https://ltsmarket.pl/assets/img/nowe/lumos.webp)
+![Lumos — Front view](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ## Lumos — More Than Power. Technology for Professional Work.
 
@@ -162,7 +162,65 @@ Configuration and feature availability must be confirmed in the individual quota
 
 ## Lumos Gallery
 
-Lumos diode laser with control panel and handpiece
+![Lumos — Alternate front view](https://ltsmarket.pl/assets/img/lumos/lumos-front-alternate-800.webp)
+
+![Lumos — Right side of device](https://ltsmarket.pl/assets/img/lumos/lumos-right-side-800.webp)
+
+![Lumos — Left side of device](https://ltsmarket.pl/assets/img/lumos/lumos-left-side-800.webp)
+
+![Lumos — Startup screen](https://ltsmarket.pl/assets/img/lumos/lumos-startup-800.webp)
+
+![Lumos — Holders and modules](https://ltsmarket.pl/assets/img/lumos/lumos-holders-800.webp)
+
+![Lumos — Handpiece side view](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-side-800.webp)
+
+![Lumos — Handpiece held in hand](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-grip-800.webp)
+
+![Lumos — Handpiece window](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-window-800.webp)
+
+![Lumos — Dermatoscope front view](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-front-800.webp)
+
+![Lumos — Dermatoscope side view](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-side-800.webp)
+
+![Lumos — HR mode display](https://ltsmarket.pl/assets/img/lumos/lumos-display-hr-800.webp)
+
+![Lumos — HR interface](https://ltsmarket.pl/assets/img/lumos/lumos-software-hr-800.webp)
+
+![Lumos — CRM client cards](https://ltsmarket.pl/assets/img/lumos/lumos-crm-800.webp)
+
+![Lumos — Software settings](https://ltsmarket.pl/assets/img/lumos/lumos-settings-800.webp)
+
+![Lumos — SR mode interface](https://ltsmarket.pl/assets/img/lumos/lumos-software-sr-800.webp)
+
+## Lumos keeps your client history organised
+
+Depending on the software version, the system may support client profiles, treatment history and stored settings.
+
+Where automatic restoration of previous settings is supported, preparing for a returning client may become even more convenient.
+
+The operator must still review and approve all treatment parameters.
+
+The practical benefit is straightforward: fewer paper notes, more organised information and easier access to client history.
+
+Before purchasing, salon owners should request a CRM demonstration and confirm the available data protection features.
+
+## Modern software designed to evolve with your clinic
+
+Lumos uses an Android-based control interface.
+
+The availability and installation method of updates, including any automatic update functionality, depend on the installed software version and manufacturer support.
+
+Before purchasing, it is worth confirming how updates are delivered and what support period applies.
+
+## Dermatoscope — an additional tool for beauty professionals
+
+A dermatoscope is listed among the available Lumos equipment options.
+
+It provides additional capabilities for visual skin observation within the limits defined by the manufacturer.
+
+Depending on the installed software and equipment, it may support consultation workflows and the documentation of observations.
+
+It does not replace medical dermatological examinations or diagnosis.
 
 ## Buy Lumos. Receive Professional Laser Tech Service Support.
 
@@ -259,6 +317,26 @@ Financing options can be discussed, subject to the financing provider's approval
 ### How do I order Lumos?
 
 Contact LTS Market through the website form, by phone or by email to request an individual quotation.
+
+## Buy Lumos. Get more than a laser.
+
+### 24-month warranty and delivery
+
+Warranty under the contract terms and door-to-door delivery across Poland.
+
+### Servicing and technical support
+
+[Laser Tech Service](https://lasertechservice.pl/): diagnostics, maintenance and repairs. Support including weekends, under the agreed arrangements.
+
+### Complimentary business website
+
+[Raccoon Studio](https://raccoon-studio.com.ua/pl/) — from concept to delivery. Website for the first year; free support and promotion for the first 3 months. Subsequent support and promotion at discounts on agreed terms.
+
+### [Leasing and financing](https://ltsmarket.pl/en/leasing.html)
+
+Discuss financing for your chosen Lumos configuration. Availability and terms are agreed individually.
+
+[Lumos — the intelligent diode laser designed for modern beauty businesses](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
 
 **When you purchase Lumos from LTS Market, you receive professional service support from [Laser Tech Service](https://lasertechservice.pl/).**
 

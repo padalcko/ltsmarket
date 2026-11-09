@@ -192,9 +192,9 @@ Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organiza
 
 Lasery do epilacji
 
-### [Lumos — nowoczesny laser diodowy dla salonu epilacji](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/)
+### [Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/)
 
-Poznaj Lumos: cztery długości fal, funkcje cyfrowe i wsparcie [Laser Tech Service](https://lasertechservice.pl/). Sprawdź jego wartość dla salonu epilacji w Polsce.
+Lumos: laser diodowy 4 fale, moc do 4000 W, CRM, Android i ICE Flow. Poznaj zalety, 24 miesiące gwarancji i wsparcie [Laser Tech Service](https://lasertechservice.pl/).
 
 Laserowe usuwanie tatuażu
 
@@ -346,81 +346,213 @@ Spisz planowany zakres usług, budżet na wyposażenie oraz miesięczne koszty. 
 
 ---
 
-## Lumos — nowoczesny laser diodowy dla salonu epilacji
+## Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu
 
-Źródło HTML: [Lumos — nowoczesny laser diodowy dla salonu epilacji](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/)
+Źródło HTML: [Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/)
 
 Język: Polski
 
 Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/), [Русский](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)
 
-> Poznaj Lumos: cztery długości fal, funkcje cyfrowe i wsparcie Laser Tech Service. Sprawdź jego wartość dla salonu epilacji w Polsce.
+> Lumos: laser diodowy 4 fale, moc do 4000 W, CRM, Android i ICE Flow. Poznaj zalety, 24 miesiące gwarancji i wsparcie Laser Tech Service.
 
 Blog LTS Market
 
-Nowoczesny salon potrzebuje sprzętu, który wspiera codzienną pracę zespołu i rozwój oferty. Lumos z katalogu LTS Market łączy cztery długości fal z funkcjami cyfrowymi i rozbudowanym wyposażeniem. W połączeniu z obsługą [Laser Tech Service](https://lasertechservice.pl/) stanowi propozycję dla gabinetów, które myślą o urządzeniu jako o inwestycji na lata.
+![Lumos — Widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
-![Laser diodowy Lumos z oferty LTS Market](https://ltsmarket.pl/assets/img/nowe/lumos.webp)
+### Dlaczego Lumos zasługuje na uwagę?
 
-### Lumos idzie w parze z potrzebami nowoczesnego salonu
+Zakup profesjonalnego lasera do epilacji to inwestycja, która wpływa na codzienną pracę salonu przez wiele lat. Właściciel gabinetu oczekuje dziś czegoś więcej niż wysokiej mocy i atrakcyjnego wyglądu urządzenia.
 
-Współczesność urządzenia warto oceniać przez jego użyteczność: zakres konfiguracji, wygodę obsługi i możliwość zaplanowania opieki technicznej. Lumos łączy funkcje zabiegowe z Androidem, CRM i dermaskopem wymienionymi w naszej ofercie. To interesujący kierunek dla salonu, który chce rozwijać zarówno zaplecze technologiczne, jak i organizację pracy.
+Liczy się skuteczna technologia, wygoda obsługi, możliwość zarządzania informacjami o klientach, dostęp do serwisu i przewidywalne koszty eksploatacji.
 
-### Cztery długości fal i szeroki zakres ustawień
+Lumos łączy cztery długości fal, mocne konfiguracje głowicy, system chłodzenia ICE Flow, optykę FAC, funkcje Android i CRM oraz dodatkowe wyposażenie, takie jak dermatoskop.
 
-W [karcie Lumos w LTS Market](https://ltsmarket.pl/nowe.html#lumos) podajemy długości fal 755, 808, 940 i 1064 nm, moc głowicy 2000–4000 W, energię 10–240 J, częstotliwość 1–30 Hz i impuls od 5 ms. Zakresy dotyczą oferty konfiguracji, dlatego przed zakupem ustalamy parametry konkretnej wersji.
+To właśnie połączenie parametrów technicznych, funkcji cyfrowych i wsparcia po zakupie sprawia, że w naszej ocenie Lumos jest jedną z najbardziej interesujących propozycji pod względem stosunku ceny do możliwości w swojej kategorii.
 
-Dla właściciela salonu oznacza to możliwość świadomego dobrania wyposażenia do planu pracy. Cztery długości fal nie stanowią jednak gwarancji rezultatu dla każdego koloru włosów czy fototypu. Dobór parametrów i kwalifikację do zabiegu należy opierać na instrukcji urządzenia oraz przygotowaniu operatora.
+### Cztery długości fal — elastyczność podczas zabiegów
 
-### Funkcje, które warto zobaczyć podczas prezentacji
+Lumos wykorzystuje cztery długości fal: 755, 808, 940 i 1064 nm.
 
-Katalog wymienia ICE Flow, FAC, NeoDez, dermaskop, CRM i Android. Zamiast oceniać urządzenie wyłącznie po nazwach funkcji, warto sprawdzić je podczas demonstracji: obsługę ekranu, dostępne ustawienia, wygodę pracy głowicą i sposób korzystania z modułów cyfrowych.
+**755 nm** charakteryzuje się wysoką absorpcją przez melaninę. Może być przydatna podczas odpowiednio dobranych zabiegów, z uwzględnieniem fototypu skóry i charakterystyki włosów.
 
-Dla salonu to okazja, aby ocenić, czy wyposażenie rzeczywiście odpowiada pracy zespołu. Zakres CRM, aktualizacje oprogramowania oraz funkcje poszczególnych modułów potwierdź dla wybranej konfiguracji. Nie zakładamy automatycznych integracji ani funkcji diagnostycznych, których dokumentacja nie potwierdza.
+**808 nm** to jeden z najbardziej rozpowszechnionych zakresów wykorzystywanych w profesjonalnej epilacji diodowej. Stanowi podstawę wielu sprawdzonych technologicznie systemów.
 
-### Laser Tech Service — wsparcie także po zakupie
+**940 nm** rozszerza możliwości konfiguracji urządzenia. Jej zastosowanie powinno odpowiadać protokołom producenta i przeznaczeniu konkretnej wersji lasera.
 
-Wartość Lumos buduje również zaplecze techniczne. Obsługę urządzenia możesz zaplanować z [Laser Tech Service](https://lasertechservice.pl/), którego oferta obejmuje serwis laserów diodowych, diagnostykę, głowice, chłodzenie i elektronikę. [Poznaj Laser Tech Service](https://lasertechservice.pl/).
+**1064 nm** wyróżnia się niższą absorpcją przez melaninę niż krótsze fale. W odpowiednio dobranych procedurach może być stosowana również przy ciemniejszych fototypach skóry.
 
-Dla gabinetu liczy się jasna ścieżka kontaktu w razie usterki. Przy wyborze Lumos ustal harmonogram przeglądów, zakres opieki, zasady zgłoszeń oraz warunki gwarancyjne. Planowana konserwacja pomaga organizować pracę salonu, ale nie oznacza obietnicy braku awarii ani określonego czasu naprawy.
+Obecność czterech długości fal daje operatorowi większą elastyczność. Nie zastępuje jednak prawidłowej kwalifikacji klienta, doboru parametrów ani doświadczenia kosmetologa.
 
-### Dokumentacja i certyfikacja dla gabinetu w Polsce
+### Moc 2000–4000 W i szeroki zakres ustawień
 
-Lumos oferowany przez LTS Market posiada kompletną dokumentację i certyfikację wymaganą do jego wprowadzenia do obrotu i użytkowania zgodnie z przeznaczeniem w Polsce. To istotny element wartości urządzenia dla salonu, który chce rozwijać ofertę w oparciu o udokumentowane pochodzenie i zgodność sprzętu.
+Lumos jest oferowany w konfiguracjach z mocą głowicy od 2000 do 4000 W.
 
-Dokumenty nie są publikowane w internecie. Szczegóły dotyczące dokumentacji konkretnej konfiguracji można omówić bezpośrednio z LTS Market podczas przygotowania oferty. Certyfikacja nie zastępuje szkolenia operatora, kwalifikacji do zabiegu ani przestrzegania instrukcji producenta.
+Deklarowany zakres energii wynosi 10–240 J, częstotliwość 1–30 Hz, a czas impulsu rozpoczyna się od 5 ms.
 
-### Wartość inwestycji: sprzęt, wdrożenie i utrzymanie
+Takie możliwości pozwalają dopasować konfigurację urządzenia do potrzeb salonu.
 
-W katalogu LTS Market cena Lumos wynosi 68 000–100 000 zł, zależnie od konfiguracji. Aktualną wycenę i zakres dostawy potwierdź w ofercie. Przy porównaniu uwzględnij wyposażenie, przygotowanie zespołu, warunki serwisu oraz koszty eksploatacji.
+Warto jednak pamiętać, że najwyższa moc nie oznacza automatycznie najlepszych rezultatów. Znaczenie mają również optyka, chłodzenie, stabilność parametrów i prawidłowa technika pracy.
 
-Lumos może być optymalnym nowoczesnym wyborem dla salonu, który potrzebuje rozbudowanej platformy i wykorzysta jej możliwości. O dopasowaniu decydują jednak liczba zabiegów, budżet i kompetencje zespołu. Wartość nie sprowadza się do najwyższej deklarowanej mocy, a zwrot inwestycji zależy również od kosztów i obłożenia.
+Dlatego przy zakupie Lumos warto porównywać całe wyposażenie, a nie tylko pojedynczą wartość w specyfikacji.
 
-### Bezpłatne szkolenie operatorów — przygotowanie zespołu do pracy
+### ICE Flow — kontrola temperatury
 
-W LTS Market prowadzimy bezpłatne szkolenia operatorów. Zakup Lumos to więc również możliwość przygotowania zespołu do obsługi urządzenia i omówienia pytań przed rozpoczęciem pracy. Szkolenie pomaga lepiej poznać aparat i świadomie korzystać z jego możliwości zgodnie z instrukcją producenta.
+Podczas pracy lasera diodowego kontrola temperatury ma istotne znaczenie.
 
-Termin i program szkolenia ustalamy przy zakupie. Dla właściciela salonu oznacza to wsparcie we wdrożeniu sprzętu bez dodatkowej opłaty za szkolenie operatorów.
+Lumos wykorzystuje system ICE Flow, który wspiera chłodzenie podczas zabiegów.
 
-### Kupujesz nowy aparat? Otrzymujesz stronę wizytówkową na rok
+Odpowiednie warunki termiczne pomagają utrzymać komfort pracy i prawidłową eksploatację urządzenia.
 
-Salonom, które kupują w LTS Market Lumos lub dowolny inny nowy aparat, dajemy w prezencie stronę internetową wizytówkową na 1 rok. Przez pierwsze 3 miesiące zapewniamy bezpłatne wsparcie i promocję strony. Po tym okresie dalsze wsparcie i promocja są dostępne z dużymi rabatami.
+Dla salonu ważne jest również regularne serwisowanie układu chłodzenia. Kontrola przepływu cieczy, czystości układu i stanu podzespołów pomaga ograniczać ryzyko problemów technicznych.
 
-To uzupełnienie inwestycji w urządzenie: salon zyskuje również własne miejsce w internecie, do którego może kierować osoby zainteresowane zabiegami. Szczegóły realizacji strony oraz warunki dalszej współpracy omawiamy indywidualnie.
+Właśnie dlatego dostęp do specjalistycznego serwisu powinien być jednym z kryteriów wyboru lasera.
 
-### Jak strona wizytówkowa pomaga pozyskiwać klientów?
+### FAC — technologia optyczna wewnątrz głowicy
 
-Strona wizytówkowa pozwala w jednym miejscu przedstawić salon, ofertę zabiegów, wyposażenie i zespół. Można na niej wyjaśnić, na czym polegają usługi, odpowiedzieć na częste pytania oraz pokazać adres, godziny otwarcia i dane kontaktowe. Osoba zainteresowana ofertą łatwiej znajduje informacje potrzebne do kontaktu i zaplanowania wizyty.
+FAC, czyli Fast Axis Collimation, jest rozwiązaniem optycznym stosowanym w laserach diodowych.
 
-Link do strony można wykorzystać w mediach społecznościowych, wizytówce Google, materiałach drukowanych i kampaniach reklamowych. Daje to salonowi spójny punkt docelowy dla działań promocyjnych oraz podstawę do rozwijania widoczności w lokalnych wynikach wyszukiwania.
+Technologia ta ogranicza rozbieżność promieniowania w jednej z osi i stanowi ważny element konstrukcji układu optycznego.
 
-Przejrzysta prezentacja salonu pomaga budować zaufanie i ułatwia przejście od zainteresowania do zapytania o zabieg. Strona i jej promocja mogą wspierać pozyskiwanie klientów; rezultaty zależą również od lokalnego rynku, atrakcyjności oferty i obsługi zapytań.
+Dobrze zaprojektowana optyka, odpowiednie diody i chłodzenie tworzą podstawę profesjonalnego systemu laserowego.
 
-### Zaplanuj rozwój salonu z Lumos
+Lumos wykorzystuje te rozwiązania jako część swojej konstrukcji.
 
-[Skontaktuj się z LTS Market](https://ltsmarket.pl/kontakt.html), aby omówić konfigurację Lumos, prezentację, dokumentację i obsługę [Laser Tech Service](https://lasertechservice.pl/). Jeśli rozważasz finansowanie, sprawdź również [leasing urządzeń kosmetycznych](https://ltsmarket.pl/leasing.html). W ten sposób porównasz całe rozwiązanie: aparat, wdrożenie i wsparcie w codziennej pracy.
+### NeoDez — dodatkowe wsparcie higieny
 
-### Dobierz konfigurację Lumos do swojego salonu
+W profesjonalnym salonie higiena wyposażenia ma ogromne znaczenie.
+
+Lumos oferuje technologię NeoDez, związaną z dodatkowymi funkcjami higienicznymi głowicy.
+
+Jej dokładny zakres zależy od konfiguracji i dokumentacji urządzenia.
+
+NeoDez może stanowić uzupełnienie codziennej organizacji pracy, ale nie zastępuje standardowego czyszczenia i dezynfekcji zgodnie z instrukcją producenta.
+
+### CRM — historia klienta bez papierowych notatek
+
+Wyobraź sobie klientkę, która wraca na kolejny zabieg po kilku tygodniach.
+
+Kosmetolog powinien wiedzieć, jakie procedury wykonywano wcześniej, jakie ustawienia zastosowano i jakie informacje zapisano podczas poprzednich wizyt.
+
+W tradycyjnym salonie takie dane bywają rozproszone pomiędzy papierowymi kartami, zeszytami i plikami komputerowymi.
+
+Lumos oferuje funkcje CRM, które pomagają uporządkować pracę z informacjami o klientach.
+
+Zależnie od wersji oprogramowania system może umożliwiać prowadzenie kart klientów, zapisywanie historii zabiegów i przechowywanie ustawień.
+
+Jeżeli dana wersja obsługuje automatyczne przywracanie poprzednich parametrów, przygotowanie kolejnej wizyty może być jeszcze wygodniejsze.
+
+Operator nadal odpowiada za sprawdzenie ustawień i bezpieczeństwo zabiegu.
+
+Najważniejsza korzyść organizacyjna jest prosta: mniej papierowych notatek, łatwiejszy dostęp do historii klienta i bardziej uporządkowana praca zespołu.
+
+Przed zakupem warto sprawdzić demonstrację CRM oraz możliwości ochrony danych osobowych.
+
+### Android i aktualizacje oprogramowania
+
+Lumos wykorzystuje interfejs oparty na systemie Android.
+
+Cyfrowe sterowanie ułatwia dostęp do funkcji urządzenia i pozwala pracować w nowoczesnym środowisku użytkownika.
+
+Istotnym elementem jest również możliwość aktualizowania oprogramowania.
+
+Aktualizacje mogą poprawiać stabilność systemu, usuwać błędy i rozwijać dostępne funkcje.
+
+Sposób ich instalacji, w tym ewentualne aktualizacje automatyczne, zależy od wersji oprogramowania i wsparcia producenta.
+
+Przed zakupem warto potwierdzić zasady aktualizacji i okres dostępności wsparcia programowego.
+
+### Dermatoskop — dodatkowe możliwości obserwacji skóry
+
+Lumos może być wyposażony w dermatoskop, który stanowi dodatkowe narzędzie pracy kosmetologa.
+
+Moduł umożliwia wizualną obserwację skóry w zakresie przewidzianym przez producenta.
+
+Może wspierać organizację konsultacji i dokumentowanie obserwacji, jeśli odpowiednie funkcje są dostępne w danej konfiguracji.
+
+Nie zastępuje jednak diagnostyki dermatologicznej ani konsultacji lekarskiej.
+
+To kolejny przykład łączenia funkcji profesjonalnego wyposażenia w jednym urządzeniu.
+
+### Dlaczego Lumos oferuje atrakcyjny stosunek ceny do możliwości?
+
+Cena Lumos w LTS Market wynosi obecnie od 68 000 do 100 000 zł, zależnie od konfiguracji.
+
+W tej cenie klient może wybrać urządzenie łączące cztery długości fal, mocne warianty głowicy, technologie ICE Flow i FAC, funkcje cyfrowe oraz dodatkowe wyposażenie.
+
+Dla właściciela salonu ważna jest nie tylko cena zakupu, ale również jakość wsparcia technicznego, dostępność serwisu i możliwość rozwoju oferty.
+
+W naszej ocenie Lumos należy do szczególnie atrakcyjnych rozwiązań w swojej kategorii pod względem połączenia ceny, wyposażenia i wsparcia po zakupie.
+
+Rzeczywista opłacalność inwestycji zależy od liczby klientów, kosztów eksploatacji, cen zabiegów i organizacji pracy salonu.
+
+### 24 miesiące gwarancji i profesjonalny serwis
+
+Kupując Lumos w LTS Market, otrzymujesz 24 miesiące gwarancji zgodnie z warunkami umowy.
+
+Za wsparcie techniczne odpowiada [Laser Tech Service](https://lasertechservice.pl/) — firma specjalizująca się w diagnostyce, konserwacji i naprawie profesjonalnego sprzętu laserowego oraz kosmetologicznego.
+
+To zaplecze ma znaczenie zarówno podczas codziennej eksploatacji, jak i wtedy, gdy urządzenie wymaga diagnostyki lub naprawy.
+
+Dostępne jest również odpłatne wsparcie pogwarancyjne na uzgodnionych warunkach.
+
+### Dostawa pod drzwi w całej Polsce
+
+LTS Market organizuje dostawę Lumos bezpośrednio pod wskazany adres na terenie całej Polski.
+
+Nie musisz samodzielnie organizować transportu urządzenia.
+
+Pomagamy także ustalić kwestie związane z przygotowaniem gabinetu do pracy z nowym sprzętem.
+
+Dla właściciela salonu oznacza to wygodniejszy proces zakupu i wdrożenia.
+
+### Wsparcie techniczne również w weekendy
+
+Wiemy, że salony kosmetologiczne pracują także w soboty, a problemy techniczne nie zawsze pojawiają się w dni robocze.
+
+Dlatego oferujemy możliwość kontaktu w sprawach technicznych również w weekendy, zgodnie z ustalonymi zasadami wsparcia.
+
+Nie pozostawiamy klientów samych z pytaniami dotyczącymi urządzenia.
+
+### Bezpłatne szkolenie operatorów
+
+Zakup Lumos w LTS Market obejmuje możliwość bezpłatnego szkolenia operatorów.
+
+Podczas szkolenia zespół może zapoznać się z obsługą urządzenia, jego funkcjami oraz zasadami bezpiecznej eksploatacji.
+
+Program i termin ustalamy przy zakupie.
+
+### Strona internetowa od Raccoon Studio w prezencie
+
+Nowoczesny laser to inwestycja w możliwości salonu. Ale równie ważne jest dotarcie do klientów.
+
+Dlatego salony kupujące Lumos w LTS Market otrzymują w prezencie profesjonalną stronę internetową typu wizytówka od [Raccoon Studio](https://raccoon-studio.com.ua/).
+
+Od pomysłu, przez projekt, aż po gotową realizację.
+
+Strona pozwala przedstawić ofertę zabiegów, lokalizację, informacje o salonie i dane kontaktowe.
+
+W ramach aktualnej oferty strona jest udostępniana na pierwszy rok, a przez pierwsze trzy miesiące zapewniamy bezpłatne wsparcie i promocję. Szczegółowe warunki ustalamy indywidualnie.
+
+To dodatkowe narzędzie wspierające rozwój salonu i jego obecność w internecie.
+
+### Lumos — więcej niż zakup lasera
+
+Lumos łączy profesjonalną technologię laserową z rozwiązaniami, które mogą ułatwiać codzienną pracę gabinetu.
+
+Cztery długości fal, moc do 4000 W, ICE Flow, FAC, CRM, Android i dermatoskop tworzą rozbudowaną platformę dla profesjonalnych salonów.
+
+W LTS Market uzupełniamy ją o 24-miesięczną gwarancję, serwis [Laser Tech Service](https://lasertechservice.pl/), dostawę w całej Polsce, wsparcie również w weekendy, bezpłatne szkolenie i stronę internetową od [Raccoon Studio](https://raccoon-studio.com.ua/).
+
+[Lumos](https://ltsmarket.pl/nowe/lumos/) · [Leasing](https://ltsmarket.pl/leasing.html)
+
+[Depilacja laserowa jako biznes: dlaczego jesień to dobry moment na otwarcie gabinetu?](https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/)
+
+LTS MARKET · LUMOS
+
+### Lumos dla Twojego salonu
+
+Poznaj cenę, dobierz konfigurację i zapytaj o leasing.
 
 [← Wszystkie artykuły](https://ltsmarket.pl/blog/)
 
@@ -680,9 +812,9 @@ Practical guides to beauty equipment, financing and running a salon in Poland.
 
 Hair removal lasers
 
-### [Lumos: a modern diode laser for hair removal salons](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
+### [Lumos — the intelligent diode laser designed for modern beauty businesses](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
 
-Explore Lumos: four wavelengths, digital features and [Laser Tech Service](https://lasertechservice.pl/) support. Discover its value for hair removal salons in Poland.
+Explore Lumos: four wavelengths, up to 4000 W, CRM, Android and ICE Flow. Includes a 24-month warranty, Polish technical support and a free website.
 
 Laser tattoo removal
 
@@ -850,81 +982,225 @@ Write down your intended services, equipment budget and monthly expenses. Compar
 
 ---
 
-## Lumos: a modern diode laser for hair removal salons
+## Lumos — the intelligent diode laser designed for modern beauty businesses
 
-HTML source: [Lumos: a modern diode laser for hair removal salons](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
+HTML source: [Lumos — the intelligent diode laser designed for modern beauty businesses](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
 
 Language: English
 
 Other languages: [Polski](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/), [Русский](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)
 
-> Explore Lumos: four wavelengths, digital features and Laser Tech Service support. Discover its value for hair removal salons in Poland.
+> Explore Lumos: four wavelengths, up to 4000 W, CRM, Android and ICE Flow. Includes a 24-month warranty, Polish technical support and a free website.
 
 LTS Market Blog
 
-A modern salon needs equipment that supports its team and room to develop its services. Lumos in the LTS Market catalogue combines four wavelengths with digital features and extensive equipment options. Together with [Laser Tech Service](https://lasertechservice.pl/) support, it is a proposition for clinics that view their device as a long-term investment.
+![Lumos — Front view](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
-![Lumos diode laser available through LTS Market](https://ltsmarket.pl/assets/img/nowe/lumos.webp)
+### Why Lumos deserves your attention
 
-### Keeping pace with the modern salon
+Choosing a professional laser hair removal system is a major investment for any beauty salon or aesthetic clinic.
 
-A device’s modernity is best judged by practical value: configuration options, ease of use and planned technical support. Lumos brings treatment functions together with Android, CRM and a dermatoscope listed in our offer. That combination makes it worth considering for salons developing both their technology and workflow.
+Today's business owners need more than impressive power specifications. They need flexible treatment settings, reliable cooling, intuitive controls, organised client information and dependable technical support.
 
-### Four wavelengths and a broad setting range
+Lumos brings these features together in one professional platform.
 
-Our [Lumos catalogue entry](https://ltsmarket.pl/en/nowe.html#lumos) lists 755, 808, 940 and 1064 nm, handpiece power of 2000–4000 W, energy of 10–240 J, frequency of 1–30 Hz and pulses from 5 ms. These ranges cover the configurations on offer; confirm the specifications of the version you order.
+The system combines four wavelengths, handpiece configurations rated from 2000 to 4000 W, ICE Flow cooling, FAC optics, Android-based controls and CRM functionality.
 
-This gives salon owners a basis for choosing equipment to suit their plans. Four wavelengths do not guarantee results for every hair colour or skin type. Treatment selection and settings should follow the device instructions and the operator’s training.
+A dermatoscope is also listed among its available equipment options.
 
-### Features to explore during a demonstration
+In our assessment, this combination makes Lumos one of the more attractive options in its category when comparing equipment, functionality, price and after-sales support.
 
-The catalogue lists ICE Flow, FAC, NeoDez, a dermatoscope, CRM and Android. A demonstration is an opportunity to look beyond feature names: try the screen, available settings, handpiece handling and digital modules.
+### Four wavelengths for greater flexibility
 
-Assess whether the equipment fits the team’s actual workflow. Confirm CRM scope, software updates and module functions for the chosen configuration. Automatic integrations or diagnostic capabilities should not be assumed without documentation.
+Lumos combines four wavelengths: 755, 808, 940 and 1064 nm.
 
-### Laser Tech Service: support beyond the purchase
+**755 nm** offers relatively high melanin absorption. It can be useful in appropriately selected treatments, depending on skin phototype and hair characteristics.
 
-Technical support contributes to the value of Lumos. You can plan its servicing with [Laser Tech Service](https://lasertechservice.pl/), whose offer covers diode lasers, diagnostics, handpieces, cooling and electronics. [Explore Laser Tech Service](https://lasertechservice.pl/).
+**808 nm** is one of the most widely used wavelengths in professional diode laser hair removal systems. It is a well-established part of diode laser technology.
 
-A clear contact route matters when a salon experiences a fault. Agree maintenance intervals, support scope, reporting arrangements and warranty terms when selecting Lumos. Planned maintenance helps organise salon operations; it does not promise fault-free use or a fixed repair time.
+**940 nm** adds another wavelength to the system, expanding its available configuration options. Its application should follow the manufacturer's protocols.
 
-### Documentation and certification for use in Poland
+**1064 nm** has lower melanin absorption than shorter wavelengths. Under appropriate treatment conditions, it may also be useful for darker skin phototypes.
 
-Lumos supplied by LTS Market has the complete documentation and certification required for it to be placed on the market and used for its intended purpose in Poland. This is an important part of its value for salons developing their services with documented equipment provenance and conformity.
+The presence of four wavelengths provides flexibility, but it does not guarantee identical results for every client.
 
-The documents are not published online. Documentation for the specific configuration can be discussed directly with LTS Market when preparing a quotation. Certification does not replace operator training, treatment suitability assessment or compliance with the manufacturer’s instructions.
+Professional assessment, appropriate settings and trained operators remain essential.
 
-### Investment value: equipment, introduction and upkeep
+### Power from 2000 to 4000 W
 
-The LTS Market catalogue lists Lumos at PLN 68,000–100,000 depending on configuration. Confirm the current quotation and what is included. Compare equipment options, team preparation, support arrangements and operating costs.
+Lumos is available with handpiece power configurations ranging from 2000 to 4000 W.
 
-Lumos can be an optimal modern choice for a salon that needs an extensive platform and will use its capabilities. Suitability depends on treatment volume, budget and team skills. Value goes beyond maximum advertised power, while returns also depend on costs and bookings.
+The advertised energy range is 10–240 J, pulse frequency is 1–30 Hz, and pulse duration starts from 5 ms.
 
-### Free operator training: preparing your team
+These specifications provide a broad range of configuration possibilities.
 
-LTS Market provides free operator training. Buying Lumos therefore also gives your team an opportunity to learn how to operate the device and discuss questions before starting work. Training helps operators understand the equipment and use its capabilities in accordance with the manufacturer’s instructions.
+However, maximum power alone does not determine treatment performance.
 
-We agree the training schedule and programme at purchase. For the salon owner, this means support when introducing the equipment, with no additional charge for operator training.
+Optical design, energy delivery, cooling, equipment condition and operator technique are equally important.
 
-### Buy a new device and receive a salon website for one year
+LTS Market helps clients select a configuration that matches their business requirements rather than focusing only on the highest available power rating.
 
-Salons purchasing Lumos or any other new device from LTS Market receive a complimentary brochure website for 1 year. For the first 3 months, we provide free website support and promotion. After that period, continued support and promotion are available at substantial discounts.
+### ICE Flow cooling technology
 
-This complements the equipment investment: the salon also gains its own online destination for people interested in treatments. We discuss website delivery details and the terms of continued cooperation individually.
+Temperature management is an essential part of professional diode laser operation.
 
-### How can a salon website help attract clients?
+Lumos uses ICE Flow technology to support cooling during treatments.
 
-A brochure website brings the salon, its treatments, equipment and team together in one place. It can explain services, answer common questions and present the address, opening hours and contact details. Prospective clients can more easily find the information they need to get in touch and plan a visit.
+Appropriate cooling conditions are important for client comfort and the correct operation of the handpiece.
 
-The website link can be used on social media, a Google Business Profile, printed materials and advertising campaigns. This gives the salon a consistent destination for promotional activity and a foundation for developing visibility in local search results.
+The cooling system also requires regular maintenance.
 
-A clear presentation helps build trust and makes it easier to move from interest to a treatment enquiry. The website and its promotion can support client acquisition; results also depend on the local market, the appeal of the offer and how enquiries are handled.
+Coolant condition, circulation and component cleanliness should be checked according to the manufacturer's instructions.
 
-### Plan your salon’s next step with Lumos
+This is one reason why professional technical support matters when choosing laser equipment.
 
-[Contact LTS Market](https://ltsmarket.pl/en/kontakt.html) to discuss the Lumos configuration, demonstration, documentation and [Laser Tech Service](https://lasertechservice.pl/) support. If you are exploring finance, see our [equipment leasing information](https://ltsmarket.pl/en/leasing.html). Evaluate the complete offer: device, introduction and support for daily operations.
+### FAC optical technology
 
-### Choose a Lumos configuration for your salon
+FAC stands for Fast Axis Collimation.
+
+It is an optical technology used in diode laser systems to reduce beam divergence along one axis.
+
+Optical quality is an important element of laser design, alongside diode performance, cooling and control electronics.
+
+Lumos incorporates FAC as part of its optical technology.
+
+### NeoDez and equipment hygiene
+
+Maintaining proper hygiene is essential in every professional beauty clinic.
+
+Lumos offers NeoDez, a technology associated with additional hygiene-related functions of the handpiece.
+
+The exact capabilities depend on the device configuration and manufacturer documentation.
+
+NeoDez should be regarded as a supplementary feature, not a replacement for standard cleaning and disinfection procedures.
+
+### Integrated CRM — less paperwork, better organisation
+
+Imagine a returning client arriving several weeks after their previous appointment.
+
+The operator needs to review previous procedures, recorded settings and relevant treatment history.
+
+In many salons, this information is scattered across paper forms, notebooks or separate computer files.
+
+Lumos offers CRM functionality designed to help organise client information.
+
+Depending on the software version, the system may support client profiles, treatment history and stored settings.
+
+Where automatic restoration of previous settings is supported, preparing for a returning client may become even more convenient.
+
+The operator must still review and approve all treatment parameters.
+
+The practical benefit is straightforward: fewer paper notes, more organised information and easier access to client history.
+
+Before purchasing, salon owners should request a CRM demonstration and confirm the available data protection features.
+
+### Android interface and software updates
+
+Lumos uses an Android-based control interface.
+
+This provides a modern environment for accessing equipment settings and digital functions.
+
+Software maintenance is another important consideration.
+
+Updates may improve stability, correct software issues and introduce refinements to existing features.
+
+The availability and installation method of updates, including any automatic update functionality, depend on the installed software version and manufacturer support.
+
+Before purchasing, it is worth confirming how updates are delivered and what support period applies.
+
+### Dermatoscope — an additional professional tool
+
+A dermatoscope is listed among the available Lumos equipment options.
+
+It provides additional capabilities for visual skin observation within the limits defined by the manufacturer.
+
+Depending on the installed software and equipment, it may support consultation workflows and the documentation of observations.
+
+It does not replace medical dermatological examinations or diagnosis.
+
+For a professional beauty business, it represents another example of integrating multiple useful functions into one platform.
+
+### Value for money — why Lumos stands out
+
+Lumos is currently listed by LTS Market at PLN 68,000–100,000, depending on configuration.
+
+When comparing professional laser systems, purchase price is only one part of the decision.
+
+Lumos brings together four wavelengths, powerful handpiece options, cooling, optical technology, digital functions and additional equipment.
+
+In our assessment, the combination of these features and access to professional servicing makes Lumos a particularly attractive value proposition in its category.
+
+Actual return on investment will depend on treatment demand, operating costs, pricing and business performance.
+
+### 24-month warranty and Laser Tech Service
+
+Lumos purchased through LTS Market comes with a 24-month warranty under the agreed contractual conditions.
+
+Technical support is provided by [Laser Tech Service](https://lasertechservice.pl/), a company specialising in the maintenance, diagnostics and repair of professional laser and aesthetic equipment.
+
+Its expertise includes diode laser systems, cooling circuits, electronics and handpieces.
+
+Professional servicing is an important advantage for businesses that rely on their equipment every day.
+
+Post-warranty maintenance and repair services are also available under separately agreed terms.
+
+### Door-to-door delivery throughout Poland
+
+LTS Market arranges delivery of Lumos directly to the customer's address anywhere in Poland.
+
+This simplifies the purchasing process and removes the need for the salon to organise equipment transport independently.
+
+We can also help clarify the preparations needed before the device enters service.
+
+### Technical support, including weekends
+
+Beauty salons often operate on Saturdays, and technical questions do not always arise during standard business hours.
+
+That is why LTS Market offers access to technical support during weekends under the agreed support arrangements.
+
+Our aim is to provide customers with a reliable point of contact throughout their ownership experience.
+
+### Complimentary operator training
+
+Purchasing Lumos through LTS Market also includes complimentary operator training.
+
+The training introduces the team to the device, its functions and the principles of safe operation.
+
+The schedule and programme are agreed as part of the purchase process.
+
+### A complimentary website from Raccoon Studio
+
+Buying a professional laser is an investment in your salon's services.
+
+Attracting new clients is the next step.
+
+That is why salons purchasing Lumos from LTS Market receive a complimentary business website created by [Raccoon Studio](https://raccoon-studio.com.ua/).
+
+From the initial idea and design to implementation.
+
+The website can showcase your services, contact information, salon location and essential business details.
+
+Under the current offer, the website is provided for the first year, including three months of complimentary support and promotion. Detailed conditions are agreed individually.
+
+It is an additional digital tool designed to support your salon's growth.
+
+### Lumos — more than a laser purchase
+
+Lumos combines professional laser technology with digital tools that can make everyday salon operations more organised.
+
+Four wavelengths, handpiece power up to 4000 W, ICE Flow, FAC, CRM, Android and the available dermatoscope create a versatile professional platform.
+
+LTS Market complements this equipment with a 24-month warranty, [Laser Tech Service](https://lasertechservice.pl/) support, nationwide Polish delivery, weekend assistance, complimentary training and a business website from [Raccoon Studio](https://raccoon-studio.com.ua/).
+
+[Lumos](https://ltsmarket.pl/en/new/lumos/) · [Leasing](https://ltsmarket.pl/en/leasing.html)
+
+[Laser hair removal as a business: why plan your salon opening for autumn?](https://ltsmarket.pl/en/blog/laser-hair-removal-business/)
+
+LTS MARKET · LUMOS
+
+### Lumos for your clinic
+
+Explore pricing, choose your configuration and ask about leasing.
 
 [← All articles](https://ltsmarket.pl/en/blog/)
 
@@ -1452,9 +1728,9 @@ Describe your clinic’s needs. We will discuss the configuration, price, availa
 
 ---
 
-## Lumos — Professional Four-Wavelength Diode Laser
+## Lumos — an intelligent diode laser for modern beauty clinics
 
-HTML source: [Lumos — Professional Four-Wavelength Diode Laser](https://ltsmarket.pl/en/new/lumos/)
+HTML source: [Lumos — an intelligent diode laser for modern beauty clinics](https://ltsmarket.pl/en/new/lumos/)
 
 Language: English
 
@@ -1472,7 +1748,7 @@ Price depends on the selected configuration.
 
 **When you purchase Lumos from LTS Market, you receive professional service support from [Laser Tech Service](https://lasertechservice.pl/).**
 
-![Lumos diode laser with control panel and handpiece](https://ltsmarket.pl/assets/img/nowe/lumos.webp)
+![Lumos — Front view](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ### Lumos — More Than Power. Technology for Professional Work.
 
@@ -1616,7 +1892,65 @@ Configuration and feature availability must be confirmed in the individual quota
 
 ### Lumos Gallery
 
-Lumos diode laser with control panel and handpiece
+![Lumos — Alternate front view](https://ltsmarket.pl/assets/img/lumos/lumos-front-alternate-800.webp)
+
+![Lumos — Right side of device](https://ltsmarket.pl/assets/img/lumos/lumos-right-side-800.webp)
+
+![Lumos — Left side of device](https://ltsmarket.pl/assets/img/lumos/lumos-left-side-800.webp)
+
+![Lumos — Startup screen](https://ltsmarket.pl/assets/img/lumos/lumos-startup-800.webp)
+
+![Lumos — Holders and modules](https://ltsmarket.pl/assets/img/lumos/lumos-holders-800.webp)
+
+![Lumos — Handpiece side view](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-side-800.webp)
+
+![Lumos — Handpiece held in hand](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-grip-800.webp)
+
+![Lumos — Handpiece window](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-window-800.webp)
+
+![Lumos — Dermatoscope front view](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-front-800.webp)
+
+![Lumos — Dermatoscope side view](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-side-800.webp)
+
+![Lumos — HR mode display](https://ltsmarket.pl/assets/img/lumos/lumos-display-hr-800.webp)
+
+![Lumos — HR interface](https://ltsmarket.pl/assets/img/lumos/lumos-software-hr-800.webp)
+
+![Lumos — CRM client cards](https://ltsmarket.pl/assets/img/lumos/lumos-crm-800.webp)
+
+![Lumos — Software settings](https://ltsmarket.pl/assets/img/lumos/lumos-settings-800.webp)
+
+![Lumos — SR mode interface](https://ltsmarket.pl/assets/img/lumos/lumos-software-sr-800.webp)
+
+### Lumos keeps your client history organised
+
+Depending on the software version, the system may support client profiles, treatment history and stored settings.
+
+Where automatic restoration of previous settings is supported, preparing for a returning client may become even more convenient.
+
+The operator must still review and approve all treatment parameters.
+
+The practical benefit is straightforward: fewer paper notes, more organised information and easier access to client history.
+
+Before purchasing, salon owners should request a CRM demonstration and confirm the available data protection features.
+
+### Modern software designed to evolve with your clinic
+
+Lumos uses an Android-based control interface.
+
+The availability and installation method of updates, including any automatic update functionality, depend on the installed software version and manufacturer support.
+
+Before purchasing, it is worth confirming how updates are delivered and what support period applies.
+
+### Dermatoscope — an additional tool for beauty professionals
+
+A dermatoscope is listed among the available Lumos equipment options.
+
+It provides additional capabilities for visual skin observation within the limits defined by the manufacturer.
+
+Depending on the installed software and equipment, it may support consultation workflows and the documentation of observations.
+
+It does not replace medical dermatological examinations or diagnosis.
 
 ### Buy Lumos. Receive Professional Laser Tech Service Support.
 
@@ -1713,6 +2047,26 @@ Financing options can be discussed, subject to the financing provider's approval
 #### How do I order Lumos?
 
 Contact LTS Market through the website form, by phone or by email to request an individual quotation.
+
+### Buy Lumos. Get more than a laser.
+
+#### 24-month warranty and delivery
+
+Warranty under the contract terms and door-to-door delivery across Poland.
+
+#### Servicing and technical support
+
+[Laser Tech Service](https://lasertechservice.pl/): diagnostics, maintenance and repairs. Support including weekends, under the agreed arrangements.
+
+#### Complimentary business website
+
+[Raccoon Studio](https://raccoon-studio.com.ua/pl/) — from concept to delivery. Website for the first year; free support and promotion for the first 3 months. Subsequent support and promotion at discounts on agreed terms.
+
+#### [Leasing and financing](https://ltsmarket.pl/en/leasing.html)
+
+Discuss financing for your chosen Lumos configuration. Availability and terms are agreed individually.
+
+[Lumos — the intelligent diode laser designed for modern beauty businesses](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
 
 **When you purchase Lumos from LTS Market, you receive professional service support from [Laser Tech Service](https://lasertechservice.pl/).**
 
@@ -3090,9 +3444,9 @@ Opisz potrzeby swojego gabinetu. Uzgodnimy konfigurację, cenę, dostępność i
 
 ---
 
-## Lumos — profesjonalny laser diodowy z 4 długościami fal
+## Lumos — inteligentny laser diodowy dla nowoczesnego salonu
 
-Źródło HTML: [Lumos — profesjonalny laser diodowy z 4 długościami fal](https://ltsmarket.pl/nowe/lumos/)
+Źródło HTML: [Lumos — inteligentny laser diodowy dla nowoczesnego salonu](https://ltsmarket.pl/nowe/lumos/)
 
 Język: Polski
 
@@ -3110,7 +3464,7 @@ Cena zależy od wybranej konfiguracji urządzenia.
 
 **Kupując Lumos w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**
 
-![Lumos — laser diodowy z panelem sterowania i głowicą](https://ltsmarket.pl/assets/img/nowe/lumos.webp)
+![Lumos — Widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ### Lumos — więcej niż moc. Technologia zaprojektowana do profesjonalnej pracy.
 
@@ -3252,7 +3606,65 @@ Konfiguracja i zakres funkcji wymagają potwierdzenia w indywidualnej ofercie or
 
 ### Galeria Lumos
 
-Lumos — laser diodowy z panelem sterowania i głowicą
+![Lumos — Drugi widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-alternate-800.webp)
+
+![Lumos — Prawy bok urządzenia](https://ltsmarket.pl/assets/img/lumos/lumos-right-side-800.webp)
+
+![Lumos — Lewy bok urządzenia](https://ltsmarket.pl/assets/img/lumos/lumos-left-side-800.webp)
+
+![Lumos — Ekran startowy](https://ltsmarket.pl/assets/img/lumos/lumos-startup-800.webp)
+
+![Lumos — Uchwyty i moduły](https://ltsmarket.pl/assets/img/lumos/lumos-holders-800.webp)
+
+![Lumos — Głowica z boku](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-side-800.webp)
+
+![Lumos — Głowica w dłoni](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-grip-800.webp)
+
+![Lumos — Okno głowicy](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-window-800.webp)
+
+![Lumos — Dermatoskop z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-front-800.webp)
+
+![Lumos — Dermatoskop z boku](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-side-800.webp)
+
+![Lumos — Ekran trybu HR](https://ltsmarket.pl/assets/img/lumos/lumos-display-hr-800.webp)
+
+![Lumos — Interfejs HR](https://ltsmarket.pl/assets/img/lumos/lumos-software-hr-800.webp)
+
+![Lumos — Karty klientów CRM](https://ltsmarket.pl/assets/img/lumos/lumos-crm-800.webp)
+
+![Lumos — Ustawienia oprogramowania](https://ltsmarket.pl/assets/img/lumos/lumos-settings-800.webp)
+
+![Lumos — Interfejs trybu SR](https://ltsmarket.pl/assets/img/lumos/lumos-software-sr-800.webp)
+
+### Lumos pamięta historię Twoich klientów
+
+Zależnie od wersji oprogramowania system może umożliwiać prowadzenie kart klientów, zapisywanie historii zabiegów i przechowywanie ustawień.
+
+Jeżeli dana wersja obsługuje automatyczne przywracanie poprzednich parametrów, przygotowanie kolejnej wizyty może być jeszcze wygodniejsze.
+
+Operator nadal odpowiada za sprawdzenie ustawień i bezpieczeństwo zabiegu.
+
+Najważniejsza korzyść organizacyjna jest prosta: mniej papierowych notatek, łatwiejszy dostęp do historii klienta i bardziej uporządkowana praca zespołu.
+
+Przed zakupem warto sprawdzić demonstrację CRM oraz możliwości ochrony danych osobowych.
+
+### Nowoczesne oprogramowanie, które rozwija się razem z salonem
+
+Lumos wykorzystuje interfejs oparty na systemie Android.
+
+Sposób ich instalacji, w tym ewentualne aktualizacje automatyczne, zależy od wersji oprogramowania i wsparcia producenta.
+
+Przed zakupem warto potwierdzić zasady aktualizacji i okres dostępności wsparcia programowego.
+
+### Dermatoskop — dodatkowe narzędzie pracy kosmetologa
+
+Lumos może być wyposażony w dermatoskop, który stanowi dodatkowe narzędzie pracy kosmetologa.
+
+Moduł umożliwia wizualną obserwację skóry w zakresie przewidzianym przez producenta.
+
+Może wspierać organizację konsultacji i dokumentowanie obserwacji, jeśli odpowiednie funkcje są dostępne w danej konfiguracji.
+
+Nie zastępuje jednak diagnostyki dermatologicznej ani konsultacji lekarskiej.
 
 ### Kupujesz Lumos. Otrzymujesz profesjonalne wsparcie Laser Tech Service.
 
@@ -3349,6 +3761,26 @@ Można omówić możliwość finansowania zakupu. Warunki zależą od instytucji
 #### Jak zamówić Lumos?
 
 Skontaktuj się z LTS Market za pomocą formularza, telefonu lub poczty elektronicznej. Przygotujemy informacje o konfiguracjach i indywidualną ofertę.
+
+### Kupujesz Lumos. Otrzymujesz więcej niż laser.
+
+#### 24 miesiące gwarancji i dostawa
+
+Gwarancja na warunkach umowy i dostawa pod drzwi w całej Polsce.
+
+#### Serwis i wsparcie techniczne
+
+[Laser Tech Service](https://lasertechservice.pl/): diagnostyka, konserwacja i naprawy. Wsparcie również w weekendy, zgodnie z uzgodnionymi zasadami.
+
+#### Strona wizytówkowa w prezencie
+
+[Raccoon Studio](https://raccoon-studio.com.ua/pl/) — od pomysłu do realizacji. Strona na pierwszy rok; pierwsze 3 miesiące wsparcia i promocji bezpłatnie. Dalsze wsparcie i promocja ze zniżkami na uzgodnionych warunkach.
+
+#### [Leasing i finansowanie](https://ltsmarket.pl/leasing.html)
+
+Porozmawiaj o finansowaniu wybranej konfiguracji Lumos. Dostępność i warunki wymagają indywidualnego uzgodnienia.
+
+[Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/)
 
 **Kupując Lumos w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**
 
@@ -3794,9 +4226,9 @@ LTS Market
 
 Лазеры для эпиляции
 
-### [Lumos — современный диодный лазер для салона эпиляции](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)
+### [Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)
 
-Lumos: четыре длины волн, цифровые функции и поддержка [Laser Tech Service](https://lasertechservice.pl/). Возможности и ценность для салона эпиляции в Польше.
+Lumos: 4 длины волны, мощность до 4000 Вт, CRM, Android и ICE Flow. Гарантия 24 месяца, сервис [Laser Tech Service](https://lasertechservice.pl/) и сайт в подарок.
 
 Лазерное удаление татуировок
 
@@ -3948,81 +4380,229 @@ Lumos: четыре длины волн, цифровые функции и по
 
 ---
 
-## Lumos — современный диодный лазер для салона эпиляции
+## Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса
 
-Источник HTML: [Lumos — современный диодный лазер для салона эпиляции](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)
+Источник HTML: [Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)
 
 Язык: Русский
 
 Другие языковые версии: [Polski](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/), [English](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
 
-> Lumos: четыре длины волн, цифровые функции и поддержка Laser Tech Service. Возможности и ценность для салона эпиляции в Польше.
+> Lumos: 4 длины волны, мощность до 4000 Вт, CRM, Android и ICE Flow. Гарантия 24 месяца, сервис Laser Tech Service и сайт в подарок.
 
 Блог LTS Market
 
-Современному салону нужен аппарат, который поддерживает работу команды и развитие услуг. Lumos из каталога LTS Market сочетает четыре длины волн с цифровыми функциями и расширенным оснащением. Вместе с обслуживанием [Laser Tech Service](https://lasertechservice.pl/) это предложение для кабинетов, которые рассматривают оборудование как долгосрочную инвестицию.
+![Lumos — Вид спереди](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
-![Диодный лазер Lumos из каталога LTS Market](https://ltsmarket.pl/assets/img/nowe/lumos.webp)
+### Почему Lumos заслуживает внимания
 
-### Технология в ритме современного салона
+Покупка профессионального лазера для эпиляции — серьёзная инвестиция для любого косметологического салона.
 
-Современность аппарата стоит оценивать по практической пользе: вариантам комплектации, удобству управления и возможности заранее организовать техническую поддержку. В предложении Lumos перечислены Android, CRM и дерматоскоп наряду с функциями для процедур. Это интересное сочетание для салона, который развивает технологическую базу и организацию работы.
+Сегодня владельцу бизнеса недостаточно просто приобрести аппарат с высокой мощностью.
 
-### Четыре длины волн и диапазон настроек
+Важно, чтобы оборудование было удобным в работе, предлагало широкий диапазон настроек, имело надёжное охлаждение и позволяло организовать информацию о клиентах.
 
-В [карточке Lumos](https://ltsmarket.pl/ru/nowe.html#lumos) указаны 755, 808, 940 и 1064 нм, мощность манипулы 2000–4000 Вт, энергия 10–240 Дж, частота 1–30 Гц и импульс от 5 мс. Диапазоны относятся к предлагаемым комплектациям: параметры конкретной версии уточняются при заказе.
+Не менее важны техническое обслуживание, гарантия и поддержка после покупки.
 
-Для владельца салона это основа осознанного подбора оборудования под план работы. Четыре длины волн не гарантируют результат для любого цвета волос или фототипа. Подбор параметров и допуск к процедуре должны опираться на инструкцию аппарата и подготовку специалиста.
+Lumos объединяет четыре длины волны, мощность манипулы от 2000 до 4000 Вт, систему охлаждения ICE Flow, оптическую технологию FAC, интерфейс Android и функции CRM.
 
-### Функции, которые стоит оценить на демонстрации
+Среди доступного оснащения также заявлен дерматоскоп.
 
-Каталог перечисляет ICE Flow, FAC, NeoDez, дерматоскоп, CRM и Android. На презентации можно оценить не только названия технологий, но и экран, настройки, удобство манипулы и работу цифровых модулей.
+На наш взгляд, сочетание этих возможностей делает Lumos одним из наиболее интересных предложений в своей категории по соотношению цены, функциональности и сервисной поддержки.
 
-Важно понять, насколько оснащение подходит команде. Возможности CRM, обновления программы и функции модулей уточняйте для выбранной версии. Не стоит предполагать наличие автоматических интеграций или диагностических возможностей без подтверждения в документации.
+### Четыре длины волны — больше возможностей для специалиста
 
-### Laser Tech Service — поддержка после покупки
+Lumos использует четыре длины волны: 755, 808, 940 и 1064 нм.
 
-Техническое сопровождение дополняет ценность Lumos. Обслуживание аппарата можно запланировать с [Laser Tech Service](https://lasertechservice.pl/): компания занимается диодными лазерами, диагностикой, манипулами, охлаждением и электроникой. [Подробнее о Laser Tech Service](https://lasertechservice.pl/).
+**755 нм** отличается относительно высоким поглощением меланином. Может использоваться в правильно подобранных процедурах с учётом фототипа кожи и характеристик волос.
 
-При неисправности салону важен понятный порядок обращения. При выборе Lumos согласуйте интервалы обслуживания, объём поддержки, порядок заявок и гарантийные условия. Плановые осмотры помогают организовать работу, но не означают гарантии отсутствия поломок или фиксированного срока ремонта.
+**808 нм** — одна из наиболее распространённых длин волн в профессиональной диодной эпиляции. Она применяется во многих современных лазерных системах.
 
-### Документация и сертификация для работы в Польше
+**940 нм** расширяет возможности конфигурации многоволнового аппарата. Её применение должно соответствовать протоколам производителя.
 
-Lumos, предлагаемый LTS Market, имеет полный комплект документации и сертификацию, необходимые для его вывода на рынок и использования по назначению в Польше. Это важная часть ценности аппарата для салона, который развивает услуги на основе подтверждённого происхождения и соответствия оборудования.
+**1064 нм** характеризуется меньшим поглощением меланином по сравнению с более короткими волнами. При правильном подборе процедуры может применяться в том числе для более тёмных фототипов кожи.
 
-Документы не публикуются в интернете. Документацию конкретной комплектации можно обсудить напрямую с LTS Market при подготовке предложения. Сертификация не заменяет обучение оператора, оценку допустимости процедуры и соблюдение инструкции производителя.
+Наличие четырёх длин волн обеспечивает дополнительную гибкость, но не означает одинаковую эффективность для всех клиентов.
 
-### Ценность инвестиции: аппарат, запуск и обслуживание
+Подбор параметров, оценка противопоказаний и профессиональная подготовка оператора остаются обязательными.
 
-В каталоге LTS Market цена Lumos составляет 68 000–100 000 злотых в зависимости от комплектации. Актуальную стоимость и состав поставки уточните в предложении. При сравнении учитывайте оснащение, подготовку команды, сервис и эксплуатационные расходы.
+### Мощность от 2000 до 4000 Вт
 
-Lumos может стать оптимальным современным выбором для салона, которому нужна расширенная платформа и который будет использовать её возможности. Соответствие задачам зависит от загрузки, бюджета и навыков команды. Ценность не сводится к максимальной заявленной мощности, а окупаемость также зависит от расходов и количества записей.
+Lumos предлагается в конфигурациях с мощностью манипулы от 2000 до 4000 Вт.
 
-### Бесплатное обучение операторов — подготовка команды
+Заявленный диапазон энергии составляет 10–240 Дж, частота импульсов — 1–30 Гц, а длительность импульса начинается от 5 мс.
 
-В LTS Market мы бесплатно обучаем операторов. Покупка Lumos — это также возможность подготовить команду к работе с аппаратом и обсудить вопросы до начала его использования. Обучение помогает лучше понять оборудование и применять его возможности в соответствии с инструкцией производителя.
+Такой диапазон позволяет подобрать конфигурацию под потребности конкретного салона.
 
-Сроки и программу обучения согласовываем при покупке. Для владельца салона это поддержка при внедрении аппарата без дополнительной платы за обучение операторов.
+При этом максимальная мощность не является единственным показателем качества.
 
-### При покупке нового аппарата — сайт-визитка на год в подарок
+Большое значение имеют оптическая система, охлаждение, стабильность работы, состояние оборудования и правильные настройки.
 
-Салонам, которые покупают в LTS Market Lumos или любой другой новый аппарат, мы дарим сайт-визитку на 1 год. Первые 3 месяца поддержка и продвижение сайта бесплатны. После этого дальнейшая поддержка и продвижение доступны с большими скидками.
+Поэтому при покупке Lumos мы рекомендуем оценивать весь комплекс характеристик.
 
-Это дополнение к инвестиции в оборудование: салон получает собственную площадку в интернете, куда можно направлять людей, заинтересованных в процедурах. Детали создания сайта и условия дальнейшего сотрудничества обсуждаем индивидуально.
+### ICE Flow — система охлаждения
 
-### Как сайт-визитка помогает привлекать клиентов?
+Контроль температуры играет важную роль в работе профессионального диодного лазера.
 
-Сайт-визитка позволяет в одном месте представить салон, процедуры, оборудование и команду. На нём можно объяснить особенности услуг, ответить на частые вопросы, указать адрес, часы работы и контакты. Потенциальному клиенту проще найти информацию, необходимую для обращения и планирования визита.
+Lumos использует технологию ICE Flow для поддержания необходимых условий охлаждения.
 
-Ссылку на сайт можно использовать в социальных сетях, профиле компании в Google, печатных материалах и рекламных кампаниях. Салон получает единую страницу назначения для продвижения и основу для развития видимости в локальном поиске.
+Это важно для комфорта клиента и корректной эксплуатации манипулы.
 
-Понятная презентация помогает укреплять доверие и облегчает переход от интереса к вопросу о процедуре. Сайт и его продвижение могут помогать привлекать клиентов; результат также зависит от местного рынка, привлекательности предложения и обработки обращений.
+Система охлаждения требует регулярного обслуживания.
 
-### Запланируйте развитие салона с Lumos
+Необходимо контролировать состояние охлаждающей жидкости, циркуляцию и чистоту компонентов.
 
-[Свяжитесь с LTS Market](https://ltsmarket.pl/ru/kontakt.html), чтобы обсудить комплектацию Lumos, демонстрацию, документацию и обслуживание [Laser Tech Service](https://lasertechservice.pl/). Если необходимо финансирование, изучите [лизинг оборудования](https://ltsmarket.pl/ru/leasing.html). Так вы сможете оценить всё предложение: аппарат, запуск и поддержку в ежедневной работе.
+Именно поэтому наличие профессионального сервиса является важным преимуществом при покупке такого оборудования.
 
-### Подберите комплектацию Lumos для своего салона
+### FAC — оптическая технология
+
+FAC расшифровывается как Fast Axis Collimation.
+
+Эта технология используется для уменьшения расходимости лазерного излучения по одной из осей.
+
+Оптическая система — важная часть конструкции профессионального диодного лазера.
+
+Качество оптики необходимо рассматривать вместе с характеристиками диодов, охлаждением и управляющей электроникой.
+
+Lumos использует FAC как часть своей технологической платформы.
+
+### NeoDez — дополнительные возможности гигиены
+
+В профессиональном косметологическом кабинете гигиена оборудования имеет первостепенное значение.
+
+Lumos предлагает технологию NeoDez, связанную с дополнительными гигиеническими функциями манипулы.
+
+Точные возможности этой технологии зависят от комплектации и документации производителя.
+
+NeoDez дополняет, но не заменяет стандартную очистку и дезинфекцию оборудования.
+
+### CRM — история клиента без бумажных карточек
+
+Представьте ситуацию: клиент возвращается на очередную процедуру через несколько недель.
+
+Косметологу необходимо узнать, какие процедуры выполнялись ранее, какие параметры использовались и какие особенности были отмечены.
+
+Во многих салонах подобная информация до сих пор хранится в бумажных карточках, блокнотах или отдельных файлах.
+
+Lumos предлагает функции CRM, которые помогают организовать информацию о клиентах.
+
+В зависимости от версии программного обеспечения система может поддерживать карточки клиентов, историю процедур и сохранение индивидуальных настроек.
+
+Если конкретная версия CRM поддерживает автоматическое восстановление предыдущих параметров, подготовка к повторной процедуре становится ещё удобнее.
+
+При этом оператор обязан самостоятельно проверить и подтвердить настройки перед началом работы.
+
+Основная организационная выгода очевидна: меньше бумажных записей, удобнее доступ к истории клиента и более системная работа персонала.
+
+Перед покупкой рекомендуем ознакомиться с демонстрацией CRM и проверить возможности защиты персональных данных.
+
+### Android и обновления программного обеспечения
+
+Lumos использует интерфейс управления на базе Android.
+
+Современная программная среда позволяет удобно работать с настройками и цифровыми функциями аппарата.
+
+Ещё одно важное направление — обновления программного обеспечения.
+
+Они могут улучшать стабильность системы, устранять ошибки и совершенствовать доступные функции.
+
+Способ установки обновлений, включая возможность автоматической загрузки, зависит от версии программного обеспечения и поддержки производителя.
+
+Перед покупкой стоит уточнить порядок обновлений и срок программной поддержки.
+
+### Дерматоскоп — дополнительный инструмент косметолога
+
+Среди доступного оснащения Lumos заявлен дерматоскоп.
+
+Он предназначен для визуального наблюдения за состоянием кожи в пределах возможностей, предусмотренных производителем.
+
+В зависимости от комплектации и программного обеспечения модуль может помогать организовать консультации и документировать наблюдения.
+
+При этом дерматоскоп не заменяет медицинскую диагностику и консультацию врача-дерматолога.
+
+Для салона это дополнительный инструмент, расширяющий возможности работы с оборудованием.
+
+### Соотношение цены и возможностей
+
+Стоимость Lumos в LTS Market составляет от 68 000 до 100 000 злотых в зависимости от комплектации.
+
+При выборе оборудования важно учитывать не только цену покупки, но и технические возможности, удобство эксплуатации и доступность обслуживания.
+
+Lumos объединяет четыре длины волны, мощные конфигурации манипулы, ICE Flow, FAC, цифровые функции и дополнительное оснащение.
+
+На наш взгляд, именно сочетание этих возможностей с профессиональной сервисной поддержкой делает Lumos особенно привлекательным решением по соотношению цены и оснащения.
+
+Фактическая окупаемость зависит от количества клиентов, стоимости процедур, расходов на эксплуатацию и организации бизнеса.
+
+### Гарантия 24 месяца и Laser Tech Service
+
+Приобретая Lumos в LTS Market, вы получаете гарантию сроком 24 месяца на условиях договора.
+
+Техническую поддержку обеспечивает [Laser Tech Service](https://lasertechservice.pl/) — компания, специализирующаяся на диагностике, обслуживании и ремонте профессионального лазерного и косметологического оборудования.
+
+Специалисты работают с диодными лазерами, электроникой, системами охлаждения и манипулами.
+
+Это особенно важно для салонов, которые ежедневно используют оборудование в работе.
+
+После окончания гарантии также доступны услуги диагностики, обслуживания и ремонта на согласованных условиях.
+
+### Доставка до дверей по всей Польше
+
+LTS Market организует доставку Lumos непосредственно по адресу клиента на территории всей Польши.
+
+Владельцу салона не нужно самостоятельно искать перевозчика для профессионального оборудования.
+
+Мы также помогаем согласовать вопросы подготовки кабинета к началу эксплуатации аппарата.
+
+### Техническая поддержка даже в выходные
+
+Мы понимаем, что косметологические салоны работают не только с понедельника по пятницу.
+
+Поэтому наши клиенты могут обращаться за технической поддержкой и в выходные дни в соответствии с согласованными условиями обслуживания.
+
+Для владельца бизнеса возможность получить консультацию специалиста — важная часть спокойной эксплуатации оборудования.
+
+### Бесплатное обучение операторов
+
+Покупка Lumos в LTS Market также предусматривает бесплатное обучение операторов.
+
+Во время обучения специалисты знакомятся с устройством, его функциями и правилами безопасной эксплуатации.
+
+Программа и дата обучения согласовываются при покупке.
+
+### Сайт-визитка от Raccoon Studio в подарок
+
+Покупка нового лазера позволяет расширить возможности салона.
+
+Но для развития бизнеса важно не только качественное оборудование, но и присутствие в интернете.
+
+Поэтому салоны, которые приобретают Lumos в LTS Market, получают профессиональный сайт-визитку от [Raccoon Studio](https://raccoon-studio.com.ua/) в подарок.
+
+От идеи и проектирования до готовой реализации.
+
+На сайте можно представить услуги, информацию о салоне, местоположение и контактные данные.
+
+По условиям действующего предложения сайт предоставляется на первый год. Первые три месяца включают бесплатную поддержку и продвижение. Детали реализации согласовываются индивидуально.
+
+Это дополнительный инструмент для развития бизнеса и привлечения внимания потенциальных клиентов.
+
+### Lumos — больше, чем просто лазер
+
+Lumos объединяет профессиональные лазерные технологии и цифровые инструменты, которые могут сделать работу салона удобнее.
+
+Четыре длины волны, мощность до 4000 Вт, ICE Flow, FAC, CRM, Android и доступный дерматоскоп формируют многофункциональную платформу для профессионального использования.
+
+LTS Market дополняет это предложение гарантией на два года, обслуживанием [Laser Tech Service](https://lasertechservice.pl/), доставкой по всей Польше, поддержкой в выходные, бесплатным обучением и сайтом от [Raccoon Studio](https://raccoon-studio.com.ua/).
+
+[Lumos](https://ltsmarket.pl/ru/novye/lumos/) · [Лизинг](https://ltsmarket.pl/ru/leasing.html)
+
+[Лазерная эпиляция как бизнес: почему стоит запланировать открытие кабинета на осень?](https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/)
+
+LTS MARKET · LUMOS
+
+### Lumos для вашего салона
+
+Узнайте стоимость, подберите комплектацию и обсудите лизинг.
 
 [← Все статьи](https://ltsmarket.pl/ru/blog/)
 
@@ -4570,9 +5150,9 @@ Alpha предлагает функцию помощи при выборе на�
 
 ---
 
-## Lumos — профессиональный диодный лазер с четырьмя длинами волн
+## Lumos — интеллектуальный диодный лазер для современного салона
 
-Источник HTML: [Lumos — профессиональный диодный лазер с четырьмя длинами волн](https://ltsmarket.pl/ru/novye/lumos/)
+Источник HTML: [Lumos — интеллектуальный диодный лазер для современного салона](https://ltsmarket.pl/ru/novye/lumos/)
 
 Язык: Русский
 
@@ -4590,7 +5170,7 @@ Alpha предлагает функцию помощи при выборе на�
 
 **Покупая Lumos в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**
 
-![Диодный лазер Lumos с панелью управления и манипулой](https://ltsmarket.pl/assets/img/nowe/lumos.webp)
+![Lumos — Вид спереди](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ### Lumos — не только мощность. Технологии для профессиональной работы.
 
@@ -4734,7 +5314,65 @@ Lumos может заинтересовать салоны, которые пл�
 
 ### Галерея Lumos
 
-Диодный лазер Lumos с панелью управления и манипулой
+![Lumos — Другой вид спереди](https://ltsmarket.pl/assets/img/lumos/lumos-front-alternate-800.webp)
+
+![Lumos — Правая сторона аппарата](https://ltsmarket.pl/assets/img/lumos/lumos-right-side-800.webp)
+
+![Lumos — Левая сторона аппарата](https://ltsmarket.pl/assets/img/lumos/lumos-left-side-800.webp)
+
+![Lumos — Стартовый экран](https://ltsmarket.pl/assets/img/lumos/lumos-startup-800.webp)
+
+![Lumos — Держатели и модули](https://ltsmarket.pl/assets/img/lumos/lumos-holders-800.webp)
+
+![Lumos — Манипула сбоку](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-side-800.webp)
+
+![Lumos — Манипула в руке](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-grip-800.webp)
+
+![Lumos — Рабочее окно манипулы](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-window-800.webp)
+
+![Lumos — Дерматоскоп спереди](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-front-800.webp)
+
+![Lumos — Дерматоскоп сбоку](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-side-800.webp)
+
+![Lumos — Экран режима HR](https://ltsmarket.pl/assets/img/lumos/lumos-display-hr-800.webp)
+
+![Lumos — Интерфейс HR](https://ltsmarket.pl/assets/img/lumos/lumos-software-hr-800.webp)
+
+![Lumos — Карточки клиентов CRM](https://ltsmarket.pl/assets/img/lumos/lumos-crm-800.webp)
+
+![Lumos — Настройки программы](https://ltsmarket.pl/assets/img/lumos/lumos-settings-800.webp)
+
+![Lumos — Интерфейс режима SR](https://ltsmarket.pl/assets/img/lumos/lumos-software-sr-800.webp)
+
+### Lumos помогает сохранять историю каждого клиента
+
+В зависимости от версии программного обеспечения система может поддерживать карточки клиентов, историю процедур и сохранение индивидуальных настроек.
+
+Если конкретная версия CRM поддерживает автоматическое восстановление предыдущих параметров, подготовка к повторной процедуре становится ещё удобнее.
+
+При этом оператор обязан самостоятельно проверить и подтвердить настройки перед началом работы.
+
+Основная организационная выгода очевидна: меньше бумажных записей, удобнее доступ к истории клиента и более системная работа персонала.
+
+Перед покупкой рекомендуем ознакомиться с демонстрацией CRM и проверить возможности защиты персональных данных.
+
+### Современное программное обеспечение, которое развивается вместе с салоном
+
+Lumos использует интерфейс управления на базе Android.
+
+Способ установки обновлений, включая возможность автоматической загрузки, зависит от версии программного обеспечения и поддержки производителя.
+
+Перед покупкой стоит уточнить порядок обновлений и срок программной поддержки.
+
+### Дерматоскоп — дополнительный инструмент косметолога
+
+Среди доступного оснащения Lumos заявлен дерматоскоп.
+
+Он предназначен для визуального наблюдения за состоянием кожи в пределах возможностей, предусмотренных производителем.
+
+В зависимости от комплектации и программного обеспечения модуль может помогать организовать консультации и документировать наблюдения.
+
+При этом дерматоскоп не заменяет медицинскую диагностику и консультацию врача-дерматолога.
 
 ### Покупаете Lumos. Получаете профессиональную поддержку Laser Tech Service.
 
@@ -4831,6 +5469,26 @@ Android и CRM указаны среди функций Lumos. Точный пе
 #### Как заказать Lumos?
 
 Свяжитесь с LTS Market через форму на сайте, по телефону или электронной почте, чтобы получить индивидуальное предложение.
+
+### Покупая Lumos, вы получаете больше, чем лазер.
+
+#### Гарантия 24 месяца и доставка
+
+Гарантия на условиях договора и доставка до дверей по всей Польше.
+
+#### Сервис и техническая поддержка
+
+[Laser Tech Service](https://lasertechservice.pl/): диагностика, обслуживание и ремонт. Поддержка также в выходные по согласованным правилам.
+
+#### Сайт-визитка в подарок
+
+[Raccoon Studio](https://raccoon-studio.com.ua/pl/) — от идеи до реализации. Сайт на первый год; первые 3 месяца поддержка и продвижение бесплатно. Дальнейшая поддержка и продвижение со скидками на согласованных условиях.
+
+#### [Лизинг и финансирование](https://ltsmarket.pl/ru/leasing.html)
+
+Обсудите финансирование выбранной комплектации Lumos. Доступность и условия согласовываются индивидуально.
+
+[Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)
 
 **Покупая Lumos в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**
 

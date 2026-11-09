@@ -1,6 +1,6 @@
-# Lumos — profesjonalny laser diodowy z 4 długościami fal
+# Lumos — inteligentny laser diodowy dla nowoczesnego salonu
 
-Źródło HTML: [Lumos — profesjonalny laser diodowy z 4 długościami fal](https://ltsmarket.pl/nowe/lumos/)
+Źródło HTML: [Lumos — inteligentny laser diodowy dla nowoczesnego salonu](https://ltsmarket.pl/nowe/lumos/)
 
 Język: Polski
 
@@ -18,7 +18,7 @@ Cena zależy od wybranej konfiguracji urządzenia.
 
 **Kupując Lumos w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**
 
-![Lumos — laser diodowy z panelem sterowania i głowicą](https://ltsmarket.pl/assets/img/nowe/lumos.webp)
+![Lumos — Widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ## Lumos — więcej niż moc. Technologia zaprojektowana do profesjonalnej pracy.
 
@@ -160,7 +160,65 @@ Konfiguracja i zakres funkcji wymagają potwierdzenia w indywidualnej ofercie or
 
 ## Galeria Lumos
 
-Lumos — laser diodowy z panelem sterowania i głowicą
+![Lumos — Drugi widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-alternate-800.webp)
+
+![Lumos — Prawy bok urządzenia](https://ltsmarket.pl/assets/img/lumos/lumos-right-side-800.webp)
+
+![Lumos — Lewy bok urządzenia](https://ltsmarket.pl/assets/img/lumos/lumos-left-side-800.webp)
+
+![Lumos — Ekran startowy](https://ltsmarket.pl/assets/img/lumos/lumos-startup-800.webp)
+
+![Lumos — Uchwyty i moduły](https://ltsmarket.pl/assets/img/lumos/lumos-holders-800.webp)
+
+![Lumos — Głowica z boku](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-side-800.webp)
+
+![Lumos — Głowica w dłoni](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-grip-800.webp)
+
+![Lumos — Okno głowicy](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-window-800.webp)
+
+![Lumos — Dermatoskop z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-front-800.webp)
+
+![Lumos — Dermatoskop z boku](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-side-800.webp)
+
+![Lumos — Ekran trybu HR](https://ltsmarket.pl/assets/img/lumos/lumos-display-hr-800.webp)
+
+![Lumos — Interfejs HR](https://ltsmarket.pl/assets/img/lumos/lumos-software-hr-800.webp)
+
+![Lumos — Karty klientów CRM](https://ltsmarket.pl/assets/img/lumos/lumos-crm-800.webp)
+
+![Lumos — Ustawienia oprogramowania](https://ltsmarket.pl/assets/img/lumos/lumos-settings-800.webp)
+
+![Lumos — Interfejs trybu SR](https://ltsmarket.pl/assets/img/lumos/lumos-software-sr-800.webp)
+
+## Lumos pamięta historię Twoich klientów
+
+Zależnie od wersji oprogramowania system może umożliwiać prowadzenie kart klientów, zapisywanie historii zabiegów i przechowywanie ustawień.
+
+Jeżeli dana wersja obsługuje automatyczne przywracanie poprzednich parametrów, przygotowanie kolejnej wizyty może być jeszcze wygodniejsze.
+
+Operator nadal odpowiada za sprawdzenie ustawień i bezpieczeństwo zabiegu.
+
+Najważniejsza korzyść organizacyjna jest prosta: mniej papierowych notatek, łatwiejszy dostęp do historii klienta i bardziej uporządkowana praca zespołu.
+
+Przed zakupem warto sprawdzić demonstrację CRM oraz możliwości ochrony danych osobowych.
+
+## Nowoczesne oprogramowanie, które rozwija się razem z salonem
+
+Lumos wykorzystuje interfejs oparty na systemie Android.
+
+Sposób ich instalacji, w tym ewentualne aktualizacje automatyczne, zależy od wersji oprogramowania i wsparcia producenta.
+
+Przed zakupem warto potwierdzić zasady aktualizacji i okres dostępności wsparcia programowego.
+
+## Dermatoskop — dodatkowe narzędzie pracy kosmetologa
+
+Lumos może być wyposażony w dermatoskop, który stanowi dodatkowe narzędzie pracy kosmetologa.
+
+Moduł umożliwia wizualną obserwację skóry w zakresie przewidzianym przez producenta.
+
+Może wspierać organizację konsultacji i dokumentowanie obserwacji, jeśli odpowiednie funkcje są dostępne w danej konfiguracji.
+
+Nie zastępuje jednak diagnostyki dermatologicznej ani konsultacji lekarskiej.
 
 ## Kupujesz Lumos. Otrzymujesz profesjonalne wsparcie Laser Tech Service.
 
@@ -257,6 +315,26 @@ Można omówić możliwość finansowania zakupu. Warunki zależą od instytucji
 ### Jak zamówić Lumos?
 
 Skontaktuj się z LTS Market za pomocą formularza, telefonu lub poczty elektronicznej. Przygotujemy informacje o konfiguracjach i indywidualną ofertę.
+
+## Kupujesz Lumos. Otrzymujesz więcej niż laser.
+
+### 24 miesiące gwarancji i dostawa
+
+Gwarancja na warunkach umowy i dostawa pod drzwi w całej Polsce.
+
+### Serwis i wsparcie techniczne
+
+[Laser Tech Service](https://lasertechservice.pl/): diagnostyka, konserwacja i naprawy. Wsparcie również w weekendy, zgodnie z uzgodnionymi zasadami.
+
+### Strona wizytówkowa w prezencie
+
+[Raccoon Studio](https://raccoon-studio.com.ua/pl/) — od pomysłu do realizacji. Strona na pierwszy rok; pierwsze 3 miesiące wsparcia i promocji bezpłatnie. Dalsze wsparcie i promocja ze zniżkami na uzgodnionych warunkach.
+
+### [Leasing i finansowanie](https://ltsmarket.pl/leasing.html)
+
+Porozmawiaj o finansowaniu wybranej konfiguracji Lumos. Dostępność i warunki wymagają indywidualnego uzgodnienia.
+
+[Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/)
 
 **Kupując Lumos w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**
 

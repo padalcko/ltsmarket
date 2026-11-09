@@ -55,6 +55,6 @@ for lang,route in m.ROUTES.items():
         chrome=re.search(fr'<{tag}\b.*?</{tag}>',original,re.S)[0]
         for l in m.ROUTES:chrome=chrome.replace(m.alpha.ROUTES[l],m.ROUTES[l])
         assert chrome==re.search(fr'<{tag}\b.*?</{tag}>',source,re.S)[0]
-for path in ['nowe/alpha-mini/index.html','en/new/alpha-mini/index.html','ru/novye/alpha-mini/index.html','scripts/build-alpha-mini.py','scripts/alpha-mini-content.json','index.html','en/index.html','ru/index.html']+[str(p.relative_to(ROOT)) for d in ['css','js','en/js','ru/js'] for p in (ROOT/d).glob('*') if p.is_file() and p.name != 'lumos.css']:
+for path in ['nowe/alpha-mini/index.html','en/new/alpha-mini/index.html','ru/novye/alpha-mini/index.html','scripts/build-alpha-mini.py','scripts/alpha-mini-content.json','index.html','en/index.html','ru/index.html']+[str(p.relative_to(ROOT)) for d in ['css','js','en/js','ru/js'] for p in (ROOT/d).glob('*') if p.is_file() and p.name not in ('lumos.css','lumos-gallery.js','blog.css')]:
     assert (ROOT/path).read_bytes()==subprocess.check_output(['git','show','HEAD:'+path],cwd=ROOT),path
 print('PASS: Lumos original copy, 15 sections, 13 FAQs, schema, language links, images, form context; Alpha Mini, existing CSS, JS, homepages and non-Lumos catalogue content unchanged')

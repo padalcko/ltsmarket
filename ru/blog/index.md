@@ -14,9 +14,9 @@ LTS Market
 
 Лазеры для эпиляции
 
-## [Lumos — современный диодный лазер для салона эпиляции](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)
+## [Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)
 
-Lumos: четыре длины волн, цифровые функции и поддержка [Laser Tech Service](https://lasertechservice.pl/). Возможности и ценность для салона эпиляции в Польше.
+Lumos: 4 длины волны, мощность до 4000 Вт, CRM, Android и ICE Flow. Гарантия 24 месяца, сервис [Laser Tech Service](https://lasertechservice.pl/) и сайт в подарок.
 
 Лазерное удаление татуировок
 

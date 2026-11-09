@@ -14,9 +14,9 @@ Practical guides to beauty equipment, financing and running a salon in Poland.
 
 Hair removal lasers
 
-## [Lumos: a modern diode laser for hair removal salons](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
+## [Lumos — the intelligent diode laser designed for modern beauty businesses](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
 
-Explore Lumos: four wavelengths, digital features and [Laser Tech Service](https://lasertechservice.pl/) support. Discover its value for hair removal salons in Poland.
+Explore Lumos: four wavelengths, up to 4000 W, CRM, Android and ICE Flow. Includes a 24-month warranty, Polish technical support and a free website.
 
 Laser tattoo removal
 
