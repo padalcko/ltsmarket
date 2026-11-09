@@ -9,5 +9,5 @@ import subprocess
 import sys
 
 ROOT=Path(__file__).resolve().parents[1]
-for script in ['build-ai-search.py','build-ai-catalog.py','check-ai-search.py','audit-site.py','check-seo.py']:
+for script in ['build-gtm.py','build-ai-search.py','build-ai-catalog.py','check-ai-search.py','audit-site.py','check-seo.py']:
     subprocess.run([sys.executable,str(ROOT/'scripts'/script)],cwd=ROOT,check=True)

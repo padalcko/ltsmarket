@@ -192,3 +192,27 @@ analytics and robots policy. AI resource publication does not guarantee search
 indexing, AI citations or inclusion in model training.
 
 See `reports/ai-preparation.md` for the implementation scope and validation.
+
+## Google Tag Manager (2026-11-09)
+
+`GTM-T9T228H6` is maintained centrally in `scripts/build-gtm.py`.
+`python3 scripts/build-site.py` applies its standard head script and body noscript
+before the other build checks. All 60 localized pages and the shared 404 are
+covered; the Search Console verification token is excluded. Existing product/blog
+generators inherit these snippets from their source HTML. Always run build-site
+following content generation or creation of a page; deploy the resulting HTML.
+
+```sh
+python3 scripts/build-gtm.py --check
+# With a local server on port 8798 and Playwright available:
+node scripts/check-gtm-browser.cjs
+```
+
+The checker is idempotent and rejects extra copies of this container. The iframe
+has an accessibility title. No runtime dependency or custom phone event is added.
+GA4 `G-1Z98BZS3WW` remains owned by `js/analytics.js`; do not add another automatic
+GA4 configuration/page_view in GTM. The existing contact `generate_lead` remains.
+There is no analytics consent UI/Consent Mode in the current site; form privacy
+checkboxes are unrelated. Integration preserves this behavior and adds no consent
+overrides. No CSP is declared in the repository; hosting headers need a live check.
+See `reports/gtm-integration.md` for validation and the later GTM/GA4 setup steps.
