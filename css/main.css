@@ -2542,3 +2542,38 @@ html[lang="ru"] .hero__title-accent {
 a.service-name-link { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .18em; }
 a.service-name-link:hover { color: var(--color-blue); }
 a.service-name-link:focus-visible { outline: 2px solid var(--color-blue); outline-offset: 3px; }
+
+/* Shared dark-card surface, matching the Lumos offer benefits. */
+:root {
+    --dark-card-border: 1px solid rgb(28 143 255 / .3);
+    --dark-card-background: linear-gradient(135deg, rgb(28 143 255 / .12), rgb(28 143 255 / .025));
+}
+.product-card--dark {
+    border: var(--dark-card-border);
+    border-top: 3px solid var(--color-blue);
+    background: var(--dark-card-background), var(--color-bg);
+}
+/* Allow grid children and long localized labels to fit narrow screens. */
+main .container > *, .hero__content { min-width: 0; }
+main :is(h1, h2, h3, p, .button) { overflow-wrap: anywhere; }
+.button { white-space: normal; text-align: center; max-width: 100%; }
+.mobile-menu { overscroll-behavior: contain; }
+@media (max-width: 767px) {
+    .hero__title { font-size: clamp(2rem, 8.5vw, 3.5rem); }
+}
+
+.advantages__grid { gap: 16px; border: 0; background: none; }
+.advantage-group {
+    padding: 26px;
+    border: var(--dark-card-border);
+    border-top: 3px solid var(--color-blue);
+    background: var(--dark-card-background);
+}
+.hero__title-accent { white-space: normal; }
+.hero-benefits { gap: 16px; border: 0; }
+.hero-benefits .hero-benefit {
+    padding: 26px;
+    border: var(--dark-card-border);
+    border-top: 3px solid var(--color-blue);
+    background: var(--dark-card-background);
+}

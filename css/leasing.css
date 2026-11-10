@@ -736,3 +736,11 @@
         transition: none;
     }
 }
+.leasing-steps__grid { gap: 16px; border: 0; }
+.leasing-step {
+    min-width: 0;
+    padding: 26px;
+    border: var(--dark-card-border);
+    border-top: 3px solid var(--color-blue);
+    background: var(--dark-card-background);
+}

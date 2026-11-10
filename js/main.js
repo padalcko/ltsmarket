@@ -17,6 +17,9 @@ document.addEventListener("DOMContentLoaded", () => {
   const menuToggle = document.getElementById("menu-toggle");
   const mobileMenu = document.getElementById("mobile-menu");
 
+  // Keep the fixed menu outside the blurred header containing block.
+  if (mobileMenu) body.append(mobileMenu);
+
   const languageButton = document.getElementById("language-button");
   const languageMenu = document.getElementById("language-menu");
 
