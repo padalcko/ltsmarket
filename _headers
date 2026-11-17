@@ -121,6 +121,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/en/polityka-prywatnosci.html>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
+/en/returns-and-warranty/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/en/returns-and-warranty/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
 /en/uzywane.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -301,6 +306,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/ru/uzywane/medilase-pro.html>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
+/ru/vozvrat-i-garantiya/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/ru/vozvrat-i-garantiya/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
 /uzywane.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -330,6 +340,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/uzywane/medilase-pro.html>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/zwroty-i-reklamacje/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/zwroty-i-reklamacje/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
 /llms.txt
   Content-Type: text/plain; charset=utf-8

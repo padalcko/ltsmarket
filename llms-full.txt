@@ -2878,6 +2878,81 @@ Google Analytics starts automatically when you open the site and measures visits
 
 ---
 
+## Returns, Complaints and Warranty
+
+HTML source: [Returns, Complaints and Warranty](https://ltsmarket.pl/en/returns-and-warranty/)
+
+Language: English
+
+Other languages: [Polski](https://ltsmarket.pl/zwroty-i-reklamacje/), [Русский](https://ltsmarket.pl/ru/vozvrat-i-garantiya/)
+
+> Returns, complaints, repairs and warranty terms for new and used LTS Market equipment. Contact details and how to submit a complaint.
+
+LTS Market supplies new and used aesthetic and cosmetology equipment and provides technical support and warranty service. Below you can find our terms for withdrawal from a contract, complaints, repairs and equipment replacement.
+
+### Equipment Warranty
+
+New equipment sold by LTS Market comes with a 24-month commercial warranty. Used equipment comes with a 6-month commercial warranty.
+
+Every used device undergoes technical diagnostics before sale and is delivered in working condition, as described in its product listing.
+
+The commercial warranty is an additional commitment by the guarantor and does not limit or exclude the consumer's statutory rights relating to goods that do not conform to the contract.
+
+### Withdrawal from a Contract and Returns
+
+Consumers who conclude a distance contract generally have the right to withdraw within 14 days of receiving the goods, without giving a reason, subject to applicable statutory exceptions.
+
+To exercise this right, send an unequivocal withdrawal statement to [sales@ltsmarket.pl](mailto:sales@ltsmarket.pl) before the deadline. Following withdrawal, the goods must be returned or handed over within 14 days of submitting the statement.
+
+Consumers may inspect equipment to the extent necessary to establish its nature, characteristics and functioning. Use beyond what is necessary for this inspection may result in liability for any reduction in the value of the goods under applicable law.
+
+Refunds are processed within statutory deadlines and in accordance with the rules governing original delivery costs and the seller's right to withhold reimbursement until the goods or evidence of their return have been received.
+
+Consumers bear the direct cost of ordinary return shipping where they were properly informed before purchase and the law permits this. For equipment that cannot normally be returned by post due to its nature, information about return costs must be provided before the contract is concluded.
+
+For B2B transactions, LTS Market does not offer voluntary returns of functioning equipment without an individual agreement. This does not affect mandatory statutory rights, including those of sole traders who qualify for consumer-like protection under Polish law.
+
+### Complaints and Warranty Repairs
+
+If equipment develops a fault, please contact LTS Market with purchase details, the device model and a description of the issue.
+
+Under the commercial warranty, the device will undergo technical assessment. If the fault is covered, we will arrange a repair. If repair is not possible, equipment replacement will be considered in accordance with the warranty terms.
+
+Independently of the commercial warranty, consumers retain their statutory rights where goods do not conform to the contract, including remedies involving repair, replacement, price reduction or withdrawal where provided by law.
+
+### Equipment Replacement
+
+Replacement may be provided for a confirmed warranty-covered fault that cannot be effectively repaired, in accordance with the warranty terms.
+
+These provisions do not restrict any statutory right to replacement available under applicable law.
+
+### Damage Not Covered by the Commercial Warranty
+
+The commercial warranty does not cover damage caused by misuse, impact, dropping the device, a broken display, liquid ingress, improper power supply, voltage surges or unauthorised modifications where those circumstances caused the reported fault.
+
+Each case is assessed individually based on the established cause of the failure. Signs of use or external damage do not automatically remove all of the buyer's statutory rights.
+
+### Transport and Delivery of Equipment
+
+Equipment may be sent by courier, delivered in person by prior arrangement, or collected by LTS Market following an agreed collection arrangement.
+
+Equipment receiving address:
+LTS Market
+ul. Rybacka 7, lok. 203
+Wrocław, Poland
+
+Transport arrangements and costs depend on the type of claim and applicable law. For a valid consumer claim concerning goods that do not conform to the contract, the seller bears the legally required costs of bringing the goods into conformity.
+
+### How to Submit a Complaint
+
+Email [sales@ltsmarket.pl](mailto:sales@ltsmarket.pl) with your order number or other proof of purchase, device name and model, a description of the fault and, if available, photographs or video showing the issue.
+
+Phone: [+48 575 254 431](tel:+48575254431).
+
+No specific form is required to submit a complaint. Complaints are handled under applicable law, including statutory deadlines for responding to consumer complaints.
+
+---
+
 ## Pre-owned equipment ready to use
 
 HTML source: [Pre-owned equipment ready to use](https://ltsmarket.pl/en/uzywane.html)
@@ -6720,6 +6795,81 @@ RF
 
 ---
 
+## Возврат, рекламации и гарантия
+
+Источник HTML: [Возврат, рекламации и гарантия](https://ltsmarket.pl/ru/vozvrat-i-garantiya/)
+
+Язык: Русский
+
+Другие языковые версии: [Polski](https://ltsmarket.pl/zwroty-i-reklamacje/), [English](https://ltsmarket.pl/en/returns-and-warranty/)
+
+> Условия возврата, рекламаций, ремонта и гарантии на новое и бывшее в использовании оборудование LTS Market. Контакты для обращения.
+
+LTS Market продаёт новое и бывшее в использовании косметологическое оборудование и обеспечивает техническую поддержку и гарантийное обслуживание. Ниже представлены условия отказа от договора, рекламаций, ремонта и замены оборудования.
+
+### Гарантия на оборудование
+
+На новое оборудование LTS Market предоставляет коммерческую гарантию сроком 24 месяца. На оборудование, бывшее в использовании, предоставляется коммерческая гарантия сроком 6 месяцев.
+
+Каждый бывший в использовании аппарат перед продажей проходит техническую диагностику и передаётся покупателю в исправном состоянии в соответствии с описанием товара.
+
+Коммерческая гарантия является дополнительным обязательством гаранта и не ограничивает законные права потребителя в случае несоответствия товара договору.
+
+### Отказ от договора и возврат товара
+
+Потребитель, заключивший договор дистанционно, по общему правилу вправе отказаться от него в течение 14 дней после получения товара без объяснения причин, с учётом предусмотренных законом исключений.
+
+Для отказа от договора необходимо направить однозначное заявление на [sales@ltsmarket.pl](mailto:sales@ltsmarket.pl) до истечения установленного срока. После отказа от договора товар следует отправить или передать в течение 14 дней с даты подачи заявления.
+
+Потребитель вправе проверить оборудование в объёме, необходимом для определения его характера, характеристик и работоспособности. Если использование выходило за пределы такой проверки, потребитель может нести ответственность за уменьшение стоимости товара в соответствии с законодательством.
+
+Возврат денежных средств производится в установленные законом сроки с учётом правил возмещения первоначальной доставки и права продавца приостановить возврат до получения товара или подтверждения его отправки.
+
+Прямые расходы на обычный возврат товара несёт потребитель, если он был надлежащим образом уведомлён об этом до покупки и законом не установлено иное. Для крупногабаритного оборудования, которое по своему характеру обычно нельзя отправить почтой, информация о расходах на возврат должна предоставляться до заключения договора.
+
+При продаже B2B LTS Market не предусматривает добровольный возврат исправного оборудования без индивидуального согласования. Это не ограничивает обязательные законные права покупателей, включая предпринимателей, которым в предусмотренных законом случаях предоставляется защита потребителя.
+
+### Рекламации и гарантийный ремонт
+
+При обнаружении неисправности просим связаться с LTS Market, указать сведения о покупке, модель аппарата и описание проблемы.
+
+В рамках коммерческой гарантии проводится техническая проверка. Если неисправность покрывается гарантией, мы обеспечиваем ремонт. Если ремонт невозможен, рассматривается замена оборудования в соответствии с условиями гарантии.
+
+Независимо от коммерческой гарантии потребитель сохраняет предусмотренные законом права при несоответствии товара договору, включая требования о ремонте, замене, снижении цены или отказе от договора в случаях, установленных законодательством.
+
+### Замена оборудования
+
+Замена возможна при подтверждённой неисправности, покрываемой гарантией, если её невозможно эффективно устранить, согласно условиям гарантии.
+
+Эти положения не ограничивают законные права покупателя требовать замены товара в предусмотренных законом случаях.
+
+### Случаи, не покрываемые коммерческой гарантией
+
+Коммерческая гарантия не покрывает повреждения, вызванные неправильной эксплуатацией, ударами, падениями, разбитым дисплеем, попаданием жидкости, неправильным электропитанием, скачками напряжения или несанкционированными изменениями конструкции, если именно эти обстоятельства стали причиной заявленной неисправности.
+
+Каждый случай рассматривается индивидуально после определения причины поломки. Наличие следов эксплуатации или внешнего повреждения само по себе не означает автоматической утраты всех прав покупателя.
+
+### Доставка и передача оборудования
+
+Оборудование можно отправить курьерской службой, привезти лично по предварительному согласованию или передать через организованный LTS Market забор оборудования.
+
+Адрес приёма оборудования:
+LTS Market
+ul. Rybacka 7, lok. 203
+Wrocław, Polska
+
+Способ и стоимость транспортировки зависят от вида обращения и действующего законодательства. При обоснованной потребительской рекламации из-за несоответствия товара договору расходы на приведение товара в соответствие договору несёт продавец согласно закону.
+
+### Как подать рекламацию?
+
+Отправьте письмо на [sales@ltsmarket.pl](mailto:sales@ltsmarket.pl), указав номер заказа или другое подтверждение покупки, название и модель оборудования, описание неисправности и, по возможности, фотографии или видео проблемы.
+
+Телефон: [+48 575 254 431](tel:+48575254431).
+
+Для подачи рекламации не требуется использовать специальный формуляр. Обращения рассматриваются согласно действующему законодательству, включая установленные сроки ответа на потребительские рекламации.
+
+---
+
 ## Urządzenia używane gotowe do pracy
 
 Źródło HTML: [Urządzenia używane gotowe do pracy](https://ltsmarket.pl/uzywane.html)
@@ -6963,3 +7113,78 @@ Profesjonalny laser diodowy MEDILASE PRO z 2021 roku. Urządzenie sprawne, po se
 - Serwis: Po serwisie Laser Tech Service
 
 Cena i dostępność do potwierdzenia przy kontakcie.
+
+---
+
+## Zwroty, reklamacje i gwarancja
+
+Źródło HTML: [Zwroty, reklamacje i gwarancja](https://ltsmarket.pl/zwroty-i-reklamacje/)
+
+Język: Polski
+
+Inne wersje językowe: [English](https://ltsmarket.pl/en/returns-and-warranty/), [Русский](https://ltsmarket.pl/ru/vozvrat-i-garantiya/)
+
+> Zasady zwrotów, reklamacji, napraw i gwarancji na nowe i używane urządzenia LTS Market. Kontakt i sposób zgłoszenia reklamacji.
+
+W LTS Market oferujemy nowe i używane urządzenia kosmetologiczne oraz zapewniamy wsparcie techniczne i obsługę gwarancyjną. Poniżej przedstawiamy zasady odstąpienia od umowy, reklamacji, napraw i wymiany urządzeń.
+
+### Gwarancja na urządzenia
+
+Nowe urządzenia sprzedawane przez LTS Market objęte są 24-miesięczną gwarancją handlową. Urządzenia używane objęte są 6-miesięczną gwarancją handlową.
+
+Każde używane urządzenie przed sprzedażą przechodzi diagnostykę techniczną i jest przekazywane kupującemu w stanie sprawnym, zgodnie z opisem produktu.
+
+Gwarancja handlowa jest dodatkowym zobowiązaniem gwaranta. Nie ogranicza ani nie wyłącza ustawowych praw konsumenta wynikających z niezgodności towaru z umową.
+
+### Odstąpienie od umowy i zwrot towaru
+
+Konsument, który zawarł umowę na odległość, ma co do zasady prawo odstąpić od niej w terminie 14 dni od otrzymania towaru, bez podawania przyczyny, z uwzględnieniem wyjątków przewidzianych prawem.
+
+Aby skorzystać z tego prawa, należy przesłać jednoznaczne oświadczenie na adres [sales@ltsmarket.pl](mailto:sales@ltsmarket.pl) przed upływem ustawowego terminu. Po odstąpieniu od umowy towar należy odesłać lub przekazać w terminie 14 dni od złożenia oświadczenia.
+
+Konsument może sprawdzić urządzenie w zakresie niezbędnym do ustalenia jego charakteru, cech i funkcjonowania. Jeżeli korzystał z niego w zakresie wykraczającym poza taką weryfikację, może ponosić odpowiedzialność za zmniejszenie wartości towaru zgodnie z obowiązującymi przepisami.
+
+Zwrot płatności następuje zgodnie z ustawowymi terminami i zasadami, w tym dotyczącymi kosztów pierwotnej dostawy oraz możliwości wstrzymania zwrotu do czasu otrzymania towaru lub dowodu jego odesłania.
+
+Bezpośrednie koszty odesłania towaru przy zwykłym odstąpieniu od umowy ponosi konsument, jeżeli został o tym prawidłowo poinformowany przed zakupem i przepisy nie stanowią inaczej. W przypadku urządzeń, których ze względu na charakter nie można zwykle odesłać pocztą, informacje o kosztach zwrotu muszą zostać przekazane przed zawarciem umowy.
+
+W przypadku sprzedaży B2B LTS Market nie oferuje dobrowolnego zwrotu sprawnych urządzeń bez indywidualnego uzgodnienia. Nie narusza to bezwzględnie obowiązujących praw kupującego, w tym praw przedsiębiorców korzystających w określonych sytuacjach z ochrony konsumenckiej.
+
+### Reklamacje i naprawy
+
+W przypadku stwierdzenia nieprawidłowości w działaniu urządzenia prosimy o kontakt z LTS Market, podanie danych zakupu, modelu urządzenia oraz opisu usterki.
+
+W ramach gwarancji handlowej urządzenie podlega weryfikacji technicznej. Jeżeli stwierdzona usterka jest objęta gwarancją, zapewniamy naprawę. Jeżeli naprawa nie jest możliwa, rozpatrujemy wymianę urządzenia zgodnie z warunkami gwarancji.
+
+Niezależnie od gwarancji konsument może dochodzić roszczeń wynikających z niezgodności towaru z umową. Uprawnienia te, w tym możliwość żądania naprawy, wymiany, obniżenia ceny lub odstąpienia od umowy, przysługują na zasadach określonych w przepisach prawa.
+
+### Wymiana urządzenia
+
+Wymiana urządzenia może nastąpić w przypadku potwierdzonej usterki objętej gwarancją, której nie można skutecznie usunąć, zgodnie z warunkami gwarancji.
+
+Powyższe zasady nie ograniczają ustawowych uprawnień kupującego do wymiany towaru w przypadkach przewidzianych prawem.
+
+### Uszkodzenia nieobjęte gwarancją handlową
+
+Gwarancja handlowa nie obejmuje uszkodzeń spowodowanych nieprawidłowym użytkowaniem, uderzeniem, upadkiem, rozbiciem wyświetlacza, zalaniem, niewłaściwym zasilaniem, przepięciami lub nieautoryzowanymi modyfikacjami, jeżeli okoliczności te spowodowały zgłaszaną usterkę.
+
+Każdy przypadek rozpatrywany jest indywidualnie na podstawie ustalonej przyczyny awarii. Samo stwierdzenie śladów użytkowania lub uszkodzenia zewnętrznego nie oznacza automatycznie utraty wszystkich praw kupującego.
+
+### Transport i przekazanie urządzenia
+
+Urządzenie można przekazać do LTS Market przesyłką kurierską, osobiście w uzgodnionym terminie lub poprzez odbiór zorganizowany przez LTS Market po wcześniejszym uzgodnieniu.
+
+Adres przyjmowania urządzeń:
+LTS Market
+ul. Rybacka 7, lok. 203
+Wrocław, Polska
+
+Koszty i sposób transportu zależą od rodzaju zgłoszenia oraz obowiązujących przepisów. W przypadku zasadnej reklamacji konsumenckiej z tytułu niezgodności towaru z umową koszty doprowadzenia towaru do zgodności z umową ponosi sprzedawca, zgodnie z prawem.
+
+### Jak zgłosić reklamację?
+
+Prosimy o przesłanie wiadomości na [sales@ltsmarket.pl](mailto:sales@ltsmarket.pl) z numerem zamówienia lub innym potwierdzeniem zakupu, nazwą i modelem urządzenia, opisem usterki oraz, jeśli to możliwe, zdjęciami lub nagraniem przedstawiającym problem.
+
+Telefon kontaktowy: [+48 575 254 431](tel:+48575254431).
+
+Zgłoszenie reklamacyjne można złożyć bez korzystania z określonego formularza. Rozpatrujemy zgłoszenia zgodnie z obowiązującymi przepisami, w tym ustawowymi terminami odpowiedzi na reklamacje konsumenckie.

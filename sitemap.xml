@@ -462,4 +462,25 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/blog/page/2/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/blog/page/2/" />
   </url>
+  <url>
+    <loc>https://ltsmarket.pl/zwroty-i-reklamacje/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/zwroty-i-reklamacje/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/returns-and-warranty/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/vozvrat-i-garantiya/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/zwroty-i-reklamacje/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/ru/vozvrat-i-garantiya/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/zwroty-i-reklamacje/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/returns-and-warranty/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/vozvrat-i-garantiya/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/zwroty-i-reklamacje/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/en/returns-and-warranty/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/zwroty-i-reklamacje/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/returns-and-warranty/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/vozvrat-i-garantiya/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/zwroty-i-reklamacje/" />
+  </url>
 </urlset>

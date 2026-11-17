@@ -1472,6 +1472,50 @@
       "structuredData": []
     },
     {
+      "url": "https://ltsmarket.pl/en/returns-and-warranty/",
+      "markdownUrl": "https://ltsmarket.pl/en/returns-and-warranty/index.md",
+      "language": "en",
+      "type": "main-pages",
+      "title": "Returns, Complaints and Warranty",
+      "description": "Returns, complaints, repairs and warranty terms for new and used LTS Market equipment. Contact details and how to submit a complaint.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/zwroty-i-reklamacje/",
+        "en": "https://ltsmarket.pl/en/returns-and-warranty/",
+        "ru": "https://ltsmarket.pl/ru/vozvrat-i-garantiya/",
+        "x-default": "https://ltsmarket.pl/zwroty-i-reklamacje/"
+      },
+      "contentSha256": "20adc017ac7b012c8674951cd5871c9587b3a00d85a153ad2ae2b62ffa92bce9",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://ltsmarket.pl/en/returns-and-warranty/#webpage",
+          "url": "https://ltsmarket.pl/en/returns-and-warranty/",
+          "name": "Returns, Complaints and Warranty",
+          "description": "Returns, complaints, repairs and warranty terms for new and used LTS Market equipment. Contact details and how to submit a complaint.",
+          "inLanguage": "en"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "LTS Market",
+              "item": "https://ltsmarket.pl/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Returns, Complaints and Warranty",
+              "item": "https://ltsmarket.pl/en/returns-and-warranty/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/en/uzywane.html",
       "markdownUrl": "https://ltsmarket.pl/en/uzywane.md",
       "language": "en",
@@ -3596,6 +3640,50 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/ru/vozvrat-i-garantiya/",
+      "markdownUrl": "https://ltsmarket.pl/ru/vozvrat-i-garantiya/index.md",
+      "language": "ru",
+      "type": "main-pages",
+      "title": "Возврат, рекламации и гарантия",
+      "description": "Условия возврата, рекламаций, ремонта и гарантии на новое и бывшее в использовании оборудование LTS Market. Контакты для обращения.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/zwroty-i-reklamacje/",
+        "en": "https://ltsmarket.pl/en/returns-and-warranty/",
+        "ru": "https://ltsmarket.pl/ru/vozvrat-i-garantiya/",
+        "x-default": "https://ltsmarket.pl/zwroty-i-reklamacje/"
+      },
+      "contentSha256": "5fbc5c7a813be6d40123992d419bf96cf8a52b93aa7394d2a9b5bfb1d8727ea3",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://ltsmarket.pl/ru/vozvrat-i-garantiya/#webpage",
+          "url": "https://ltsmarket.pl/ru/vozvrat-i-garantiya/",
+          "name": "Возврат, рекламации и гарантия",
+          "description": "Условия возврата, рекламаций, ремонта и гарантии на новое и бывшее в использовании оборудование LTS Market. Контакты для обращения.",
+          "inLanguage": "ru"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "LTS Market",
+              "item": "https://ltsmarket.pl/ru/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Возврат, рекламации и гарантия",
+              "item": "https://ltsmarket.pl/ru/vozvrat-i-garantiya/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/uzywane.html",
       "markdownUrl": "https://ltsmarket.pl/uzywane.md",
       "language": "pl",
@@ -3938,6 +4026,50 @@
           "model": "MEDILASE PRO",
           "@id": "https://ltsmarket.pl/uzywane/medilase-pro.html#product",
           "mainEntityOfPage": "https://ltsmarket.pl/uzywane/medilase-pro.html"
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/zwroty-i-reklamacje/",
+      "markdownUrl": "https://ltsmarket.pl/zwroty-i-reklamacje/index.md",
+      "language": "pl",
+      "type": "main-pages",
+      "title": "Zwroty, reklamacje i gwarancja",
+      "description": "Zasady zwrotów, reklamacji, napraw i gwarancji na nowe i używane urządzenia LTS Market. Kontakt i sposób zgłoszenia reklamacji.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/zwroty-i-reklamacje/",
+        "en": "https://ltsmarket.pl/en/returns-and-warranty/",
+        "ru": "https://ltsmarket.pl/ru/vozvrat-i-garantiya/",
+        "x-default": "https://ltsmarket.pl/zwroty-i-reklamacje/"
+      },
+      "contentSha256": "ea59a633562136057b46f13fb883b74a0b4f748d7f03f09d4dd6c807d2ea3088",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://ltsmarket.pl/zwroty-i-reklamacje/#webpage",
+          "url": "https://ltsmarket.pl/zwroty-i-reklamacje/",
+          "name": "Zwroty, reklamacje i gwarancja",
+          "description": "Zasady zwrotów, reklamacji, napraw i gwarancji na nowe i używane urządzenia LTS Market. Kontakt i sposób zgłoszenia reklamacji.",
+          "inLanguage": "pl"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "LTS Market",
+              "item": "https://ltsmarket.pl/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Zwroty, reklamacje i gwarancja",
+              "item": "https://ltsmarket.pl/zwroty-i-reklamacje/"
+            }
+          ]
         }
       ]
     }
