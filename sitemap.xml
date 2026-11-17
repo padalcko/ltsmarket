@@ -253,6 +253,69 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/alpha-mini/" />
   </url>
   <url>
+    <loc>https://ltsmarket.pl/nowe/lumos/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/lumos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/lumos/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/lumos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/lumos/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/en/new/lumos/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/lumos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/lumos/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/lumos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/lumos/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/ru/novye/lumos/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/lumos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/lumos/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/lumos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/lumos/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/nowe/alpha/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/alpha/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/alpha/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/alpha/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/alpha/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/en/new/alpha/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/alpha/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/alpha/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/alpha/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/alpha/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/ru/novye/alpha/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/alpha/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/alpha/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/alpha/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/alpha/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/nowe/ray/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/ray/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/ray/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/ray/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/ray/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/en/new/ray/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/ray/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/ray/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/ray/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/ray/" />
+  </url>
+  <url>
+    <loc>https://ltsmarket.pl/ru/novye/ray/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/ray/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/ray/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/ray/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/ray/" />
+  </url>
+  <url>
     <loc>https://ltsmarket.pl/blog/</loc>
     <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/blog/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/blog/" />
@@ -358,66 +421,45 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/" />
   </url>
   <url>
-    <loc>https://ltsmarket.pl/nowe/lumos/</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/lumos/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/lumos/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/lumos/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/lumos/" />
+    <loc>https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/</loc>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/" />
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/" />
   </url>
   <url>
-    <loc>https://ltsmarket.pl/en/new/lumos/</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/lumos/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/lumos/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/lumos/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/lumos/" />
+    <loc>https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/</loc>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/" />
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/" />
   </url>
   <url>
-    <loc>https://ltsmarket.pl/ru/novye/lumos/</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/lumos/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/lumos/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/lumos/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/lumos/" />
+    <loc>https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/</loc>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/" />
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/" />
   </url>
   <url>
-    <loc>https://ltsmarket.pl/nowe/alpha/</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/alpha/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/alpha/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/alpha/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/alpha/" />
+    <loc>https://ltsmarket.pl/blog/page/2/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/blog/page/2/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/blog/page/2/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/blog/page/2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/blog/page/2/" />
   </url>
   <url>
-    <loc>https://ltsmarket.pl/en/new/alpha/</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/alpha/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/alpha/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/alpha/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/alpha/" />
+    <loc>https://ltsmarket.pl/en/blog/page/2/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/blog/page/2/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/blog/page/2/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/blog/page/2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/blog/page/2/" />
   </url>
   <url>
-    <loc>https://ltsmarket.pl/ru/novye/alpha/</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/alpha/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/alpha/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/alpha/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/alpha/" />
-  </url>
-  <url>
-    <loc>https://ltsmarket.pl/nowe/ray/</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/ray/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/ray/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/ray/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/ray/" />
-  </url>
-  <url>
-    <loc>https://ltsmarket.pl/en/new/ray/</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/ray/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/ray/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/ray/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/ray/" />
-  </url>
-  <url>
-    <loc>https://ltsmarket.pl/ru/novye/ray/</loc>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/nowe/ray/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/new/ray/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/novye/ray/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/nowe/ray/" />
+    <loc>https://ltsmarket.pl/ru/blog/page/2/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://ltsmarket.pl/blog/page/2/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ltsmarket.pl/en/blog/page/2/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ltsmarket.pl/ru/blog/page/2/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ltsmarket.pl/blog/page/2/" />
   </url>
 </urlset>

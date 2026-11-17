@@ -111,6 +111,7 @@ def discover():
         article = next((x for x in schemas if x.get('@type') in ['Article','BlogPosting']),None)
         kind = 'used-equipment' if product and product.get('itemCondition','').endswith('UsedCondition') else 'new-equipment' if product else 'articles' if article else 'main-pages'
         alternates = {n.attrs['hreflang']:n.attrs['href'] for n in tags if n.tag=='link' and n.attrs.get('hreflang')}
+        alternates = {{'pl-PL':'pl','ru-RU':'ru'}.get(lang,lang):url for lang,url in alternates.items()}
         assert set(alternates)=={'pl','en','ru','x-default'},path
         pages.append(dict(path=path,source=source,tree=tree,tags=tags,meta=meta,canonical=url,lang=lang,
                           title=h1[0].text(),main=main[0],schemas=schemas,product=product,kind=kind,

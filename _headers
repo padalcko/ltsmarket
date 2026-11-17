@@ -31,6 +31,16 @@
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
+/blog/page/2/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/blog/page/2/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/blog/zakup-uzywanego-lasera-diagnostyka/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
 /en/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -56,10 +66,20 @@
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
+/en/blog/page/2/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/en/blog/page/2/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
 /en/blog/safe-tattoo-removal-nd-yag-laser/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/en/blog/used-aesthetic-laser-inspection/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
 /en/kontakt.md
   Content-Type: text/markdown; charset=utf-8
@@ -200,6 +220,16 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/ru/blog/page/2/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/ru/blog/page/2/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/ru/blog/pokupka-bu-lazera-diagnostika/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
 /ru/kontakt.md
   Content-Type: text/markdown; charset=utf-8

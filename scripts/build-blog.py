@@ -61,6 +61,8 @@ def build(lang, article, page=1):
         for other in DATA:
             head = head.replace(DOMAIN+route(other), DOMAIN+listing_route(other,page))
     head = head.replace('/css/leasing.css','/css/blog.css')
+    if d.get('regional_hreflang'):
+        head = head.replace('hreflang="pl"', 'hreflang="pl-PL"').replace('hreflang="ru"', 'hreflang="ru-RU"')
     if article:
         head = head.replace('property="og:type" content="website"','property="og:type" content="article"')
     if article and d.get('image'):
@@ -77,6 +79,7 @@ def build(lang, article, page=1):
         schema.update(headline=d['title'],mainEntityOfPage=DOMAIN+route(lang,article),image=DOMAIN+d.get('image', '/assets/img/hero-lts-market.jpg'))
         if d.get('modified'): schema['dateModified']=d['modified']
         if d.get('date'): schema['datePublished']=d['date']
+        if d.get('author'): schema['author']={'@type':'Organization','name':d['author']}
     else:
         schema['blogPost']=[{'@type':'BlogPosting','headline':post[lang]['title'],'url':DOMAIN+route(lang,i)} for i,post in page_posts(page)]
         schema.update({'@id': DOMAIN+listing_route(lang,page)+'#blog', 'url': DOMAIN+listing_route(lang,page)})
@@ -98,16 +101,21 @@ def build(lang, article, page=1):
     if article:
         toc='<nav class="blog-toc" aria-label="'+d['toc']+'"><h2>'+d['toc']+'</h2><ol>'+''.join(f'<li><a href="#section-{i}">{escape(h)}</a></li>' for i,(h,p) in enumerate(d['sections'],1))+'</ol></nav>'
         sections=''.join(f'<section aria-labelledby="section-{i}"><h2 id="section-{i}">{escape(h)}</h2>'+''.join('<p>'+p.format(prefix=prefix(lang))+'</p>' for p in text.split('\n'))+'</section>' for i,(h,text) in enumerate(d['sections'],1))
-        cta=f'<aside class="blog-cta"><h2>{d["cta"]}</h2><a class="button button--primary" href="{prefix(lang)}kontakt.html">{d["contact"]}</a></aside>'
+        if d.get('sections_html'):
+            sections=''.join(f'<section aria-labelledby="section-{i}"><h2 id="section-{i}">{escape(h)}</h2>{text}</section>' for i,(h,text) in enumerate(d['sections'],1))
+        cta='' if d.get("hide_cta") else f'<aside class="blog-cta"><h2>{d["cta"]}</h2><a class="button button--primary" href="{prefix(lang)}kontakt.html">{d["contact"]}</a></aside>'
         if d.get('action_cta'):
             action=d['action_cta']
             cta=f'<aside class="blog-cta blog-cta--lumos" aria-labelledby="lumos-cta-title"><div><p class="blog-cta__eyebrow">LTS MARKET · LUMOS</p><h2 id="lumos-cta-title">{escape(action["title"])}</h2><p class="blog-cta__description">{escape(action["description"])}</p></div><div class="blog-cta__actions"><a class="button button--primary" href="{escape(action["form_url"],quote=True)}">{escape(action["form_label"])} <span aria-hidden="true">→</span></a><a class="button button--outline" href="tel:+48575254431">{escape(action["call_label"])}</a></div></aside>'
-        main=f'<article class="blog-article"><header class="blog-heading"><p class="section-label">{d["blog"]}</p><h1>{escape(d["title"])}</h1><p class="blog-lead">{d["lead"]}</p></header>{image_tag(d)}{toc}<div class="blog-prose">{sections}</div>{cta}<a class="blog-back" href="{route(lang)}">← {d["back"]}</a></article>'
+        if d.get('hide_cta'): cta=''
+        byline = f'<p class="blog-card__date"><time datetime="{escape(d["date"], quote=True)}">{".".join(reversed(d["date"].split("-")))}</time> · {escape(d["author"])}</p>' if d.get('author') else ''
+        intro = f'<div class="blog-prose">{d["intro_html"]}</div>' if d.get('intro_html') else ''
+        main=f'<article class="blog-article"><header class="blog-heading"><p class="section-label">{d["blog"]}</p><h1>{escape(d["title"])}</h1>{byline}<p class="blog-lead">{d["lead"]}</p>{intro}</header>{image_tag(d)}{toc}<div class="blog-prose">{sections}</div>{cta}<a class="blog-back" href="{route(lang)}">← {d["back"]}</a></article>'
     else:
         cards = []
         for i, post in page_posts(page):
             entry = post[lang]
-            words = len(re.sub(r'<[^>]+>', '', entry['lead'] + ' ' + ' '.join(h+' '+text for h,text in entry['sections'])).split())
+            words = len(re.sub(r'<[^>]+>', ' ', entry['lead'] + ' ' + entry.get('intro_html', '') + ' ' + ' '.join(h+' '+text for h,text in entry['sections'])).split())
             reading = LABELS[lang]['minutes'].format(n=max(1, math.ceil(words / 200)))
             category = entry.get('category', d['blog'])
             date = f'<time class="blog-card__date" datetime="{escape(entry["date"], quote=True)}">{escape(entry["date"])}</time>' if entry.get('date') else ''
@@ -153,7 +161,8 @@ for article in range(len(POSTS) + 1):
         node=ET.SubElement(base,'{'+ns+'}url')
         ET.SubElement(node,'{'+ns+'}loc').text=DOMAIN+route(lang,article)
         for alt in (*DATA,'x-default'):
-            ET.SubElement(node,'{'+xhtml+'}link',{'rel':'alternate','hreflang':alt,'href':DOMAIN+route('pl' if alt=='x-default' else alt,article)})
+            hreflang = {'pl':'pl-PL','ru':'ru-RU'}.get(alt,alt) if article and POSTS[article-1][lang].get('regional_hreflang') else alt
+            ET.SubElement(node,'{'+xhtml+'}link',{'rel':'alternate','hreflang':hreflang,'href':DOMAIN+route('pl' if alt=='x-default' else alt,article)})
 for page in range(2, PAGE_COUNT + 1):
     for lang in DATA:
         node=ET.SubElement(base,'{'+ns+'}url')

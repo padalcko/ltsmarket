@@ -29,7 +29,7 @@ for p,page in pages.items():
  for attr,value in [('name','description'),('name','viewport')] + ([] if is_error else [('rel','canonical')]): check(sum(a.get(attr)==value for t,a in tags)==1,p,value)
  canon=next((a['href'] for t,a in tags if a.get('rel')=='canonical'), None)
  expected='https://ltsmarket.pl/'+str(p).removesuffix('index.html');check(canon is None if is_error else canon==expected,p,'canonical',canon)
- alts={a.get('hreflang'):a['href'] for t,a in tags if a.get('rel')=='alternate' and 'hreflang' in a};check(not alts if is_error else set(alts)=={'pl','en','ru','x-default'},p,'hreflang')
+ alts={a.get('hreflang'):a['href'] for t,a in tags if a.get('rel')=='alternate' and 'hreflang' in a};check(not alts if is_error else set(alts) in ({'pl','en','ru','x-default'},{'pl-PL','en','ru-RU','x-default'}),p,'hreflang')
  if is_error: check(any(a.get('name')=='robots' and 'noindex' in a.get('content','') for _,a in tags),p,'404 noindex')
  for t,a in tags:
   if t=='img': check('alt' in a,p,'image alt')

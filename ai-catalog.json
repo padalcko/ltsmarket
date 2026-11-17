@@ -58,7 +58,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "3a751e22484f36ac59940b00cfceb65c210f1a4917586e3b86141db355a3165e",
+      "contentSha256": "336a91caed91a41720d1b8b36146519046a5888c69b77ad9fab408657e3277f0",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -76,6 +76,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Zakup używanego lasera kosmetycznego. Dlaczego warto zaufać specjalistom Laser Tech Service?",
+              "url": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu",
               "url": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/"
             },
@@ -88,11 +93,6 @@
               "@type": "BlogPosting",
               "headline": "Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF",
               "url": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Depilacja laserowa jako biznes: dlaczego jesień to dobry moment na otwarcie gabinetu?",
-              "url": "https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/"
             }
           ]
         },
@@ -378,6 +378,135 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/blog/page/2/",
+      "markdownUrl": "https://ltsmarket.pl/blog/page/2/index.md",
+      "language": "pl",
+      "type": "main-pages",
+      "title": "Blog LTS Market",
+      "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/page/2/",
+        "en": "https://ltsmarket.pl/en/blog/page/2/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/2/",
+        "x-default": "https://ltsmarket.pl/blog/page/2/"
+      },
+      "contentSha256": "0072256c0461c1759c7f9e13061f7ae4ae8c660551996e729fbecd7465b2af9d",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Blog",
+          "@id": "https://ltsmarket.pl/blog/page/2/#blog",
+          "url": "https://ltsmarket.pl/blog/page/2/",
+          "name": "Blog LTS Market",
+          "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "Depilacja laserowa jako biznes: dlaczego jesień to dobry moment na otwarcie gabinetu?",
+              "url": "https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/",
+      "markdownUrl": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/index.md",
+      "language": "pl",
+      "type": "articles",
+      "title": "Zakup używanego lasera kosmetycznego. Dlaczego warto zaufać specjalistom Laser Tech Service?",
+      "description": "Kupujesz używany laser kosmetyczny? Laser Tech Service oferuje profesjonalny dobór urządzenia za 2500 zł. Poznaj korzyści diagnostyki.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/",
+        "en": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/",
+        "ru": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/",
+        "x-default": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
+      },
+      "contentSha256": "47fcf1028cbf93dedc23fd65d7e25e4d976578d72d12f9b77d39cf35166e0ed2",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/#article",
+          "url": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/",
+          "name": "Zakup używanego lasera kosmetycznego. Dlaczego warto zaufać specjalistom Laser Tech Service?",
+          "description": "Kupujesz używany laser kosmetyczny? Laser Tech Service oferuje profesjonalny dobór urządzenia za 2500 zł. Poznaj korzyści diagnostyki.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Zakup używanego lasera kosmetycznego. Dlaczego warto zaufać specjalistom Laser Tech Service?",
+          "mainEntityOfPage": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "datePublished": "2026-11-17",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market we współpracy z Laser Tech Service"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Zakup używanego lasera kosmetycznego. Dlaczego warto zaufać specjalistom Laser Tech Service?",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/en/",
       "markdownUrl": "https://ltsmarket.pl/en/index.md",
       "language": "en",
@@ -427,7 +556,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "6468a38a54cf271576b1a78409753a9db90f25e0a9e4addd9550309045e23740",
+      "contentSha256": "8fbbf9671a15cc9e9eeb70e494c797d8a4b876e5414288fcb289bd9703f2f0e9",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -445,6 +574,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters",
+              "url": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Lumos — the intelligent diode laser designed for modern beauty businesses",
               "url": "https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/"
             },
@@ -457,11 +591,6 @@
               "@type": "BlogPosting",
               "headline": "Modern body contouring: combining cavitation and RF skin tightening",
               "url": "https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Laser hair removal as a business: why plan your salon opening for autumn?",
-              "url": "https://ltsmarket.pl/en/blog/laser-hair-removal-business/"
             }
           ]
         },
@@ -683,6 +812,66 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/en/blog/page/2/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/page/2/index.md",
+      "language": "en",
+      "type": "main-pages",
+      "title": "LTS Market Blog",
+      "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/page/2/",
+        "en": "https://ltsmarket.pl/en/blog/page/2/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/2/",
+        "x-default": "https://ltsmarket.pl/blog/page/2/"
+      },
+      "contentSha256": "1865b468895fc683587f009c6ce90ae0bd957f53839281396275db7cbe5888b0",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Blog",
+          "@id": "https://ltsmarket.pl/en/blog/page/2/#blog",
+          "url": "https://ltsmarket.pl/en/blog/page/2/",
+          "name": "LTS Market Blog",
+          "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "Laser hair removal as a business: why plan your salon opening for autumn?",
+              "url": "https://ltsmarket.pl/en/blog/laser-hair-removal-business/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/",
       "markdownUrl": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/index.md",
       "language": "en",
@@ -740,6 +929,75 @@
               "name": "Safe tattoo removal with an Nd:YAG laser: what should you know?",
               "item": {
                 "@id": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/index.md",
+      "language": "en",
+      "type": "articles",
+      "title": "Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters",
+      "description": "Buying a used aesthetic laser? Laser Tech Service offers professional equipment selection and technical assessment for PLN 2,500.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/",
+        "en": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/",
+        "ru": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/",
+        "x-default": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
+      },
+      "contentSha256": "ce23aff45be3235067e66acf2c17a1af6ce04e98d74828b66b1b525dd7230d16",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/#article",
+          "url": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/",
+          "name": "Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters",
+          "description": "Buying a used aesthetic laser? Laser Tech Service offers professional equipment selection and technical assessment for PLN 2,500.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters",
+          "mainEntityOfPage": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "datePublished": "2026-11-17",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market in cooperation with Laser Tech Service"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/"
               }
             }
           ]
@@ -2076,7 +2334,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "4e2985c292bfa1aaa6bfa3a00caf63687b1ea8d54ef65c368580c89d83706bc5",
+      "contentSha256": "be49ce1ae435134e1a33623ccb0365a61ba9625042813969da297ccf81ea0122",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2094,6 +2352,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?",
+              "url": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса",
               "url": "https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/"
             },
@@ -2106,11 +2369,6 @@
               "@type": "BlogPosting",
               "headline": "Современное моделирование фигуры: сочетание кавитации и RF-лифтинга",
               "url": "https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Лазерная эпиляция как бизнес: почему стоит запланировать открытие кабинета на осень?",
-              "url": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/"
             }
           ]
         },
@@ -2389,6 +2647,135 @@
               "name": "Современное моделирование фигуры: сочетание кавитации и RF-лифтинга",
               "item": {
                 "@id": "https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/ru/blog/page/2/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/page/2/index.md",
+      "language": "ru",
+      "type": "main-pages",
+      "title": "Блог LTS Market",
+      "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/page/2/",
+        "en": "https://ltsmarket.pl/en/blog/page/2/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/2/",
+        "x-default": "https://ltsmarket.pl/blog/page/2/"
+      },
+      "contentSha256": "09f082ea1a6cdba15596a22a86f43463ea1b0883a82a130c63b73a3ad1f680be",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Blog",
+          "@id": "https://ltsmarket.pl/ru/blog/page/2/#blog",
+          "url": "https://ltsmarket.pl/ru/blog/page/2/",
+          "name": "Блог LTS Market",
+          "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "Лазерная эпиляция как бизнес: почему стоит запланировать открытие кабинета на осень?",
+              "url": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/index.md",
+      "language": "ru",
+      "type": "articles",
+      "title": "Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?",
+      "description": "Покупаете подержанный косметологический лазер? Laser Tech Service предлагает профессиональный подбор и диагностику оборудования за 2500 zł.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/",
+        "en": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/",
+        "ru": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/",
+        "x-default": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
+      },
+      "contentSha256": "9bc5a2da98178c6220116f7b3bb28a0c9f19b7e3654e8c8872f599b9ae34fccc",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/#article",
+          "url": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/",
+          "name": "Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?",
+          "description": "Покупаете подержанный косметологический лазер? Laser Tech Service предлагает профессиональный подбор и диагностику оборудования за 2500 zł.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?",
+          "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "datePublished": "2026-11-17",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market в сотрудничестве с Laser Tech Service"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/"
               }
             }
           ]
