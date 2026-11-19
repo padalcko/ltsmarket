@@ -58,7 +58,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "336a91caed91a41720d1b8b36146519046a5888c69b77ad9fab408657e3277f0",
+      "contentSha256": "fe5e37e6170db91f1d0e2bf414d30ade458df061f896c8e29993360b025fc03d",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -76,6 +76,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC",
+              "url": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Zakup używanego lasera kosmetycznego. Dlaczego warto zaufać specjalistom Laser Tech Service?",
               "url": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
             },
@@ -88,11 +93,6 @@
               "@type": "BlogPosting",
               "headline": "Bezpieczne usuwanie tatuażu laserem Nd:YAG — co warto wiedzieć?",
               "url": "https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF",
-              "url": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/"
             }
           ]
         },
@@ -314,6 +314,75 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/",
+      "markdownUrl": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/index.md",
+      "language": "pl",
+      "type": "articles",
+      "title": "Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC",
+      "description": "Dlaczego moc 2000–4000 W nie mówi wszystkiego o laserze diodowym? Wyjaśniamy chłodzenie ICE Flow, parametry impulsów i optykę FAC.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/",
+        "en": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/",
+        "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/",
+        "x-default": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
+      },
+      "contentSha256": "c0707c69888eaa07a97fe3492eb899007433f9fd1ab02bbf238bf1cb4d268709",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/#article",
+          "url": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/",
+          "name": "Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC",
+          "description": "Dlaczego moc 2000–4000 W nie mówi wszystkiego o laserze diodowym? Wyjaśniamy chłodzenie ICE Flow, parametry impulsów i optykę FAC.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC",
+          "mainEntityOfPage": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "datePublished": "2026-11-19",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/",
       "markdownUrl": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/index.md",
       "language": "pl",
@@ -390,7 +459,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "0072256c0461c1759c7f9e13061f7ae4ae8c660551996e729fbecd7465b2af9d",
+      "contentSha256": "5a9dd98924c8972df13bab82ca1aaf34cdf878d2696044111e0a4d95bdc897a7",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -406,6 +475,11 @@
             "url": "https://ltsmarket.pl/"
           },
           "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF",
+              "url": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/"
+            },
             {
               "@type": "BlogPosting",
               "headline": "Depilacja laserowa jako biznes: dlaczego jesień to dobry moment na otwarcie gabinetu?",
@@ -556,7 +630,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "8fbbf9671a15cc9e9eeb70e494c797d8a4b876e5414288fcb289bd9703f2f0e9",
+      "contentSha256": "e6ae7b6af197896f206adc101e68ce632c66578b5f543d0fd102ca8cbfa23639",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -574,6 +648,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained",
+              "url": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters",
               "url": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/"
             },
@@ -586,11 +665,6 @@
               "@type": "BlogPosting",
               "headline": "Safe tattoo removal with an Nd:YAG laser: what should you know?",
               "url": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Modern body contouring: combining cavitation and RF skin tightening",
-              "url": "https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/"
             }
           ]
         },
@@ -676,6 +750,75 @@
               "name": "Modern body contouring: combining cavitation and RF skin tightening",
               "item": {
                 "@id": "https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/index.md",
+      "language": "en",
+      "type": "articles",
+      "title": "What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained",
+      "description": "Discover why 2000–4000 W is only part of the story. A practical explanation of ICE Flow cooling, pulse settings and FAC laser optics.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/",
+        "en": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/",
+        "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/",
+        "x-default": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
+      },
+      "contentSha256": "0c2186d26c001e96391abf0fe60a1f47689c47ed2ad6001f62fa18cb0a97aaa2",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/#article",
+          "url": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/",
+          "name": "What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained",
+          "description": "Discover why 2000–4000 W is only part of the story. A practical explanation of ICE Flow cooling, pulse settings and FAC laser optics.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained",
+          "mainEntityOfPage": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "datePublished": "2026-11-19",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/"
               }
             }
           ]
@@ -824,7 +967,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "1865b468895fc683587f009c6ce90ae0bd957f53839281396275db7cbe5888b0",
+      "contentSha256": "433b51f6b5195fd20b707813eed4f5ec2a5451b5eec63cb01ab7c6255cabbebb",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -840,6 +983,11 @@
             "url": "https://ltsmarket.pl/"
           },
           "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "Modern body contouring: combining cavitation and RF skin tightening",
+              "url": "https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/"
+            },
             {
               "@type": "BlogPosting",
               "headline": "Laser hair removal as a business: why plan your salon opening for autumn?",
@@ -2378,7 +2526,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "be49ce1ae435134e1a33623ccb0365a61ba9625042813969da297ccf81ea0122",
+      "contentSha256": "f3dbb999de7269b0f5f3ee3e36d20fdf60b510324b4d122d2991ad925e8cbaf1",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2396,6 +2544,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC",
+              "url": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?",
               "url": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/"
             },
@@ -2408,11 +2561,6 @@
               "@type": "BlogPosting",
               "headline": "Безопасное удаление татуировки лазером Nd:YAG: что важно знать?",
               "url": "https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Современное моделирование фигуры: сочетание кавитации и RF-лифтинга",
-              "url": "https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/"
             }
           ]
         },
@@ -2698,6 +2846,75 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/index.md",
+      "language": "ru",
+      "type": "articles",
+      "title": "Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC",
+      "description": "Почему 2000–4000 Вт не гарантируют лучшую эпиляцию? Разбираем охлаждение ICE Flow, параметры импульсов и оптическую технологию FAC.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/",
+        "en": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/",
+        "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/",
+        "x-default": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
+      },
+      "contentSha256": "4717e096bdfaec83e7a2fb5dea907e807f547313a49336df5dc09a858d4875ea",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/#article",
+          "url": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/",
+          "name": "Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC",
+          "description": "Почему 2000–4000 Вт не гарантируют лучшую эпиляцию? Разбираем охлаждение ICE Flow, параметры импульсов и оптическую технологию FAC.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC",
+          "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "datePublished": "2026-11-19",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/ru/blog/page/2/",
       "markdownUrl": "https://ltsmarket.pl/ru/blog/page/2/index.md",
       "language": "ru",
@@ -2710,7 +2927,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "09f082ea1a6cdba15596a22a86f43463ea1b0883a82a130c63b73a3ad1f680be",
+      "contentSha256": "d35943ca9cb3f84bdce5f802e5ad0e0a7e041825111f6e18d5ddba9d5885e99e",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2726,6 +2943,11 @@
             "url": "https://ltsmarket.pl/"
           },
           "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "Современное моделирование фигуры: сочетание кавитации и RF-лифтинга",
+              "url": "https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/"
+            },
             {
               "@type": "BlogPosting",
               "headline": "Лазерная эпиляция как бизнес: почему стоит запланировать открытие кабинета на осень?",

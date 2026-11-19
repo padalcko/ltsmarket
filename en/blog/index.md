@@ -12,6 +12,12 @@ LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
 
+LTS Market Blog2026-11-19
+
+## [What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained](https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/)
+
+Discover why 2000–4000 W is only part of the story. A practical explanation of ICE Flow cooling, pulse settings and FAC laser optics.
+
 LTS Market Blog2026-11-17
 
 ## [Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters](https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/)
@@ -29,9 +35,3 @@ Laser tattoo removal
 ## [Safe tattoo removal with an Nd:YAG laser: what should you know?](https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/)
 
 How does Nd:YAG tattoo removal work? Learn about its benefits, limitations and choosing equipment for a clinic in Poland.
-
-Beauty technologies
-
-## [Modern body contouring: combining cavitation and RF skin tightening](https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/)
-
-Explore cavitation and RF skin tightening for your salon in Poland: technology differences, equipment selection, financing and technical support.

@@ -12,6 +12,12 @@ LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
 
+Beauty technologies
+
+## [Modern body contouring: combining cavitation and RF skin tightening](https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/)
+
+Explore cavitation and RF skin tightening for your salon in Poland: technology differences, equipment selection, financing and technical support.
+
 Business and laser hair removal
 
 ## [Laser hair removal as a business: why plan your salon opening for autumn?](https://ltsmarket.pl/en/blog/laser-hair-removal-business/)
