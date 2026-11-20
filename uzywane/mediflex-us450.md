@@ -16,6 +16,10 @@ Laser diodowy · używany
 
 Na sprzedaż profesjonalny laser diodowy MEDIflex US450 z 2022 roku, przeznaczony do zabiegów depilacji laserowej w salonach kosmetycznych i gabinetach medycyny estetycznej.
 
+Urządzenia używane: 3–7 dni roboczych.
+Darmowa dostawa od 35 000 zł.
+Dostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.
+
 ## Dane techniczne według tabliczki znamionowej
 
 - Model: US450

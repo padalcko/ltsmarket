@@ -16,6 +16,10 @@ RF
 
 Professional Chungwoo ELLISYS PLUS microneedling RF system from 2024. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.
 
+Used equipment: 3–7 business days.
+Free delivery for orders of PLN 35,000 or more.
+Delivery within Poland: PLN 700 for orders below PLN 35,000.
+
 - Year of manufacture: 2024
 
 - Condition: Operational

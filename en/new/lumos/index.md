@@ -18,6 +18,10 @@ Price depends on the selected configuration.
 
 **When you purchase Lumos from LTS Market, you receive professional service support from [Laser Tech Service](https://lasertechservice.pl/).**
 
+New equipment: 14–30 business days.
+Free delivery for orders of PLN 35,000 or more.
+Delivery within Poland: PLN 700 for orders below PLN 35,000.
+
 ![Lumos — Front view](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ## Lumos — More Than Power. Technology for Professional Work.

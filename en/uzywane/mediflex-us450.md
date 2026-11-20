@@ -16,6 +16,10 @@ PLN 40,000
 
 Professional MEDIflex US450 diode laser manufactured in 2022, available for sale for use in beauty salons and aesthetic clinics.
 
+Used equipment: 3–7 business days.
+Free delivery for orders of PLN 35,000 or more.
+Delivery within Poland: PLN 700 for orders below PLN 35,000.
+
 ## Technical data from the identification plate
 
 - Model: US450

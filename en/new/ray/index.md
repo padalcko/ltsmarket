@@ -16,6 +16,10 @@ Professional diode laser with a 1200 W handpiece, four interchangeable treatment
 
 **Buy Ray from LTS Market and receive professional [Laser Tech Service](https://lasertechservice.pl/) support.**
 
+New equipment: 14–30 business days.
+Free delivery for orders of PLN 35,000 or more.
+Delivery within Poland: PLN 700 for orders below PLN 35,000.
+
 ![Ray diode laser with control panel and handpiece](https://ltsmarket.pl/assets/img/nowe/ray.webp)
 
 ## Ray — Flexible Operation Across Different Treatment Areas

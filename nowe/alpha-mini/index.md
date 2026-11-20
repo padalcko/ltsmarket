@@ -22,6 +22,10 @@ Od 40 000 zł
 
 Kupując Alpha Mini w LTS Market, otrzymujesz wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).
 
+Urządzenia nowe: 14–30 dni roboczych.
+Darmowa dostawa od 35 000 zł.
+Dostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.
+
 ![Alpha Mini — urządzenie z głowicą i ekranem dotykowym, materiał katalogowy LTS Market](https://ltsmarket.pl/assets/img/nowe/alpha-mini.webp)
 
 ## Dlaczego warto wybrać Alpha Mini?

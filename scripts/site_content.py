@@ -2,6 +2,7 @@
 import re
 from pathlib import Path
 from ai_resources import integration
+from product_schema import normalize_html
 
 SERVICE='Laser Tech Service'
 LINK='<a class="service-name-link" href="https://lasertechservice.pl/">Laser Tech Service</a>'
@@ -20,7 +21,7 @@ def link_service_names(source):
     # Preserve headings, existing links, metadata and raw text elements.
     pattern=r'(<!--.*?-->|<h[1-6]\b[^>]*>.*?</h[1-6]\s*>|<(?:script|style|title|textarea|option)\b[^>]*>.*?</(?:script|style|title|textarea|option)\s*>|<a\b[^>]*>.*?</a\s*>|<[^>]+>)'
     parts=re.split(pattern,source,flags=re.S|re.I)
-    return integration(''.join(part if i%2 else part.replace(SERVICE,LINK) for i,part in enumerate(parts)))
+    return normalize_html(integration(''.join(part if i%2 else part.replace(SERVICE,LINK) for i,part in enumerate(parts))))
 
 if __name__=='__main__':
     root=Path(__file__).resolve().parents[1]

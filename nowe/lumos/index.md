@@ -18,6 +18,10 @@ Cena zależy od wybranej konfiguracji urządzenia.
 
 **Kupując Lumos w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**
 
+Urządzenia nowe: 14–30 dni roboczych.
+Darmowa dostawa od 35 000 zł.
+Dostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.
+
 ![Lumos — Widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ## Lumos — więcej niż moc. Technologia zaprojektowana do profesjonalnej pracy.

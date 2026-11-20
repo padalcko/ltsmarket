@@ -16,6 +16,10 @@ Profesjonalny laser diodowy o mocy głowicy 1200 W, wyposażony w cztery wymienn
 
 **Kupując Ray w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**
 
+Urządzenia nowe: 14–30 dni roboczych.
+Darmowa dostawa od 35 000 zł.
+Dostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.
+
 ![Ray — laser diodowy z panelem sterowania i głowicą](https://ltsmarket.pl/assets/img/nowe/ray.webp)
 
 ## Ray — wygodna praca na różnych obszarach ciała

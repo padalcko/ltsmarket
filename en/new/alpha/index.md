@@ -16,6 +16,10 @@ A professional diode laser with 1600–2000 W handpiece options, a 12×20 mm tre
 
 **Buy Alpha from LTS Market and receive professional [Laser Tech Service](https://lasertechservice.pl/) support.**
 
+New equipment: 14–30 business days.
+Free delivery for orders of PLN 35,000 or more.
+Delivery within Poland: PLN 700 for orders below PLN 35,000.
+
 ![Alpha diode laser with control panel and handpiece](https://ltsmarket.pl/assets/img/nowe/alpha.webp)
 
 ## Alpha — Professional Equipment for Growing Clinics

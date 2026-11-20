@@ -16,6 +16,10 @@ LASER DIODOWY
 
 Profesjonalny laser diodowy MEDILASE PRO z 2021 roku. Urządzenie sprawne, po serwisie [Laser Tech Service](https://lasertechservice.pl/) i gotowe do pracy.
 
+Urządzenia używane: 3–7 dni roboczych.
+Darmowa dostawa od 35 000 zł.
+Dostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.
+
 - Rok produkcji: 2021
 
 - Stan: Sprawny

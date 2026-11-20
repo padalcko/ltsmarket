@@ -16,6 +16,10 @@ Wydajny laser diodowy dla salonów kosmetycznych i gabinetów kosmetologicznych.
 
 **Kupując Alpha w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**
 
+Urządzenia nowe: 14–30 dni roboczych.
+Darmowa dostawa od 35 000 zł.
+Dostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.
+
 ![Alpha — laser diodowy z panelem sterowania i głowicą](https://ltsmarket.pl/assets/img/nowe/alpha.webp)
 
 ## Alpha — profesjonalne rozwiązanie dla rozwijającego się gabinetu

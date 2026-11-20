@@ -16,6 +16,10 @@ INNE
 
 Używany insuflator CO₂ DaeYang CARBO 3000. Urządzenie sprawne, po serwisie [Laser Tech Service](https://lasertechservice.pl/) i gotowe do pracy.
 
+Urządzenia używane: 3–7 dni roboczych.
+Darmowa dostawa od 35 000 zł.
+Dostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.
+
 - Rok produkcji: Nie podano
 
 - Stan: Sprawny

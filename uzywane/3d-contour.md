@@ -16,6 +16,10 @@ MODELOWANIE SYLWETKI
 
 Wielofunkcyjne urządzenie kosmetologiczne 3D CONTOUR do modelowania sylwetki. Kriolipoliza, lipolaser i masaż podciśnieniowy. Rok 2022. Urządzenie sprawne, po serwisie [Laser Tech Service](https://lasertechservice.pl/) i gotowe do pracy.
 
+Urządzenia używane: 3–7 dni roboczych.
+Darmowa dostawa od 35 000 zł.
+Dostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.
+
 - Rok produkcji: 2022
 
 - Stan: Sprawny

@@ -22,6 +22,10 @@ From 40 000 zł
 
 Buy Alpha Mini from LTS Market and receive service support from [Laser Tech Service](https://lasertechservice.pl/).
 
+New equipment: 14–30 business days.
+Free delivery for orders of PLN 35,000 or more.
+Delivery within Poland: PLN 700 for orders below PLN 35,000.
+
 ![Alpha Mini device with handpiece and touchscreen — LTS Market catalogue image](https://ltsmarket.pl/assets/img/nowe/alpha-mini.webp)
 
 ## Why choose Alpha Mini?

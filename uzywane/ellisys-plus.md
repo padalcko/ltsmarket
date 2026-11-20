@@ -16,6 +16,10 @@ RF
 
 Profesjonalne urządzenie RF mikroigłowe Chungwoo ELLISYS PLUS z 2024 roku. Urządzenie sprawne, po serwisie [Laser Tech Service](https://lasertechservice.pl/) i gotowe do pracy.
 
+Urządzenia używane: 3–7 dni roboczych.
+Darmowa dostawa od 35 000 zł.
+Dostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.
+
 - Rok produkcji: 2024
 
 - Stan: Sprawny
