@@ -58,7 +58,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "fe5e37e6170db91f1d0e2bf414d30ade458df061f896c8e29993360b025fc03d",
+      "contentSha256": "6d4145a8b14997aee163edd09c6061d14777dde52650f8e3bb4fa5e612031a74",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -76,6 +76,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Dermatoskop — dodatkowe narzędzie kosmetologa. Dlaczego warto mieć go w laserze do epilacji?",
+              "url": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC",
               "url": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
             },
@@ -88,11 +93,6 @@
               "@type": "BlogPosting",
               "headline": "Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu",
               "url": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Bezpieczne usuwanie tatuażu laserem Nd:YAG — co warto wiedzieć?",
-              "url": "https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/"
             }
           ]
         },
@@ -242,6 +242,75 @@
               "name": "Depilacja laserowa jako biznes: dlaczego jesień to dobry moment na otwarcie gabinetu?",
               "item": {
                 "@id": "https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/",
+      "markdownUrl": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/index.md",
+      "language": "pl",
+      "type": "articles",
+      "title": "Dermatoskop — dodatkowe narzędzie kosmetologa. Dlaczego warto mieć go w laserze do epilacji?",
+      "description": "Jak dermatoskop pomaga kosmetologowi oceniać włosy, obserwować skórę i dokumentować efekty epilacji laserowej? Poznaj jego praktyczne zastosowania.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/",
+        "en": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/",
+        "ru": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/",
+        "x-default": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
+      },
+      "contentSha256": "40ec74b13de34949ffed210655cb910a7d6eb7da48277e916c33994f481264c5",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/#article",
+          "url": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/",
+          "name": "Dermatoskop — dodatkowe narzędzie kosmetologa. Dlaczego warto mieć go w laserze do epilacji?",
+          "description": "Jak dermatoskop pomaga kosmetologowi oceniać włosy, obserwować skórę i dokumentować efekty epilacji laserowej? Poznaj jego praktyczne zastosowania.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Dermatoskop — dodatkowe narzędzie kosmetologa. Dlaczego warto mieć go w laserze do epilacji?",
+          "mainEntityOfPage": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "datePublished": "2026-11-20",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Dermatoskop — dodatkowe narzędzie kosmetologa. Dlaczego warto mieć go w laserze do epilacji?",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
               }
             }
           ]
@@ -459,7 +528,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "5a9dd98924c8972df13bab82ca1aaf34cdf878d2696044111e0a4d95bdc897a7",
+      "contentSha256": "dc42a79f4d24b0a433dec1f9a525143c7e0d50b06c61bda1c4dd0984e226d27f",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -475,6 +544,11 @@
             "url": "https://ltsmarket.pl/"
           },
           "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "Bezpieczne usuwanie tatuażu laserem Nd:YAG — co warto wiedzieć?",
+              "url": "https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/"
+            },
             {
               "@type": "BlogPosting",
               "headline": "Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF",
@@ -630,7 +704,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "e6ae7b6af197896f206adc101e68ce632c66578b5f543d0fd102ca8cbfa23639",
+      "contentSha256": "817bbb14ea94155441333fe3f464ef4c67a1aa4689eea82e3949350dd848bdf3",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -648,6 +722,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Dermoscopy: An Additional Tool for Laser Hair Removal Professionals",
+              "url": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained",
               "url": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/"
             },
@@ -660,11 +739,6 @@
               "@type": "BlogPosting",
               "headline": "Lumos — the intelligent diode laser designed for modern beauty businesses",
               "url": "https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Safe tattoo removal with an Nd:YAG laser: what should you know?",
-              "url": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/"
             }
           ]
         },
@@ -750,6 +824,75 @@
               "name": "Modern body contouring: combining cavitation and RF skin tightening",
               "item": {
                 "@id": "https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/index.md",
+      "language": "en",
+      "type": "articles",
+      "title": "Dermoscopy: An Additional Tool for Laser Hair Removal Professionals",
+      "description": "Discover how dermoscopy supports hair and skin assessment, treatment documentation and professional consultations in laser hair removal.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/",
+        "en": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/",
+        "ru": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/",
+        "x-default": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
+      },
+      "contentSha256": "14791917f1f92939b13ddc9a9ce557834454fed00ccb1d4a0d66d3e896c6dfed",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/#article",
+          "url": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/",
+          "name": "Dermoscopy: An Additional Tool for Laser Hair Removal Professionals",
+          "description": "Discover how dermoscopy supports hair and skin assessment, treatment documentation and professional consultations in laser hair removal.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Dermoscopy: An Additional Tool for Laser Hair Removal Professionals",
+          "mainEntityOfPage": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "datePublished": "2026-11-20",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Dermoscopy: An Additional Tool for Laser Hair Removal Professionals",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/"
               }
             }
           ]
@@ -967,7 +1110,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "433b51f6b5195fd20b707813eed4f5ec2a5451b5eec63cb01ab7c6255cabbebb",
+      "contentSha256": "a17c1ffb65a38585be0076a51c9ed66ca37b895bccce90641d548d0d84bc59bf",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -983,6 +1126,11 @@
             "url": "https://ltsmarket.pl/"
           },
           "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "Safe tattoo removal with an Nd:YAG laser: what should you know?",
+              "url": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/"
+            },
             {
               "@type": "BlogPosting",
               "headline": "Modern body contouring: combining cavitation and RF skin tightening",
@@ -3029,7 +3177,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "f3dbb999de7269b0f5f3ee3e36d20fdf60b510324b4d122d2991ad925e8cbaf1",
+      "contentSha256": "089666deb6857bb9e7f5b972d6db357c9947e9e8e8516a4b779ab4f4efb971cf",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -3047,6 +3195,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Дерматоскоп — дополнительный инструмент косметолога. Почему он полезен при лазерной эпиляции?",
+              "url": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC",
               "url": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/"
             },
@@ -3059,11 +3212,6 @@
               "@type": "BlogPosting",
               "headline": "Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса",
               "url": "https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Безопасное удаление татуировки лазером Nd:YAG: что важно знать?",
-              "url": "https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/"
             }
           ]
         },
@@ -3149,6 +3297,75 @@
               "name": "Безопасное удаление татуировки лазером Nd:YAG: что важно знать?",
               "item": {
                 "@id": "https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/index.md",
+      "language": "ru",
+      "type": "articles",
+      "title": "Дерматоскоп — дополнительный инструмент косметолога. Почему он полезен при лазерной эпиляции?",
+      "description": "Зачем специалисту по лазерной эпиляции дерматоскоп? Оценка волос и кожи, наблюдение за результатами и профессиональная консультация.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/",
+        "en": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/",
+        "ru": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/",
+        "x-default": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
+      },
+      "contentSha256": "c1691889feb290fe87394b7c2d527f6ac8e4d6458546bb16999557cc810e3625",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/#article",
+          "url": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/",
+          "name": "Дерматоскоп — дополнительный инструмент косметолога. Почему он полезен при лазерной эпиляции?",
+          "description": "Зачем специалисту по лазерной эпиляции дерматоскоп? Оценка волос и кожи, наблюдение за результатами и профессиональная консультация.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Дерматоскоп — дополнительный инструмент косметолога. Почему он полезен при лазерной эпиляции?",
+          "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "datePublished": "2026-11-20",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Дерматоскоп — дополнительный инструмент косметолога. Почему он полезен при лазерной эпиляции?",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/"
               }
             }
           ]
@@ -3430,7 +3647,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "d35943ca9cb3f84bdce5f802e5ad0e0a7e041825111f6e18d5ddba9d5885e99e",
+      "contentSha256": "4f3f4e5910a7c943fa2ad5a5ef32ced962ed8f46cb7c69f1c6a2442207a5c1dd",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -3446,6 +3663,11 @@
             "url": "https://ltsmarket.pl/"
           },
           "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "Безопасное удаление татуировки лазером Nd:YAG: что важно знать?",
+              "url": "https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/"
+            },
             {
               "@type": "BlogPosting",
               "headline": "Современное моделирование фигуры: сочетание кавитации и RF-лифтинга",

@@ -5,12 +5,18 @@ from html import escape
 import json
 import re
 import math
+import argparse
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = json.loads((ROOT / 'scripts/blog-posts.json').read_text())
 DATA = CONTENT['site']
 POSTS = CONTENT['posts']
+parser = argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--slug', help='Regenerate only this Polish article slug plus all blog listings')
+args = parser.parse_args()
+if args.slug and not any(post['pl']['slug'] == args.slug for post in POSTS):
+    parser.error('Unknown Polish article slug')
 DOMAIN = 'https://ltsmarket.pl'
 PAGE_SIZE = 4
 PAGE_COUNT = max(1, math.ceil(len(POSTS) / PAGE_SIZE))
@@ -119,7 +125,7 @@ def build(lang, article, page=1):
             reading = LABELS[lang]['minutes'].format(n=max(1, math.ceil(words / 200)))
             category = entry.get('category', d['blog'])
             date = f'<time class="blog-card__date" datetime="{escape(entry["date"], quote=True)}">{escape(entry["date"])}</time>' if entry.get('date') else ''
-            cards.append(f'<article class="blog-card"><div class="blog-card__meta"><span class="blog-card__category">{escape(category)}</span>{date}</div><h2><a href="{route(lang,i)}">{escape(entry["title"])}</a></h2><p class="blog-card__description">{escape(entry["description"])}</p><footer class="blog-card__footer"><span class="blog-card__reading">{reading}</span><a class="blog-card__link" href="{route(lang,i)}" aria-label="{escape(d["read"]+": "+entry["title"], quote=True)}">{d["read"]} <span aria-hidden="true">→</span></a></footer></article>')
+            cards.append(f'<article class="blog-card"><div class="blog-card__meta"><span class="blog-card__category">{escape(category)}</span>{date}</div><h2><a href="{route(lang,i)}">{escape(entry.get("card_title", entry["title"]))}</a></h2><p class="blog-card__description">{escape(entry.get("card_description", entry["description"]))}</p><footer class="blog-card__footer"><span class="blog-card__reading">{reading}</span><a class="blog-card__link" href="{route(lang,i)}" aria-label="{escape(d["read"]+": "+entry.get("card_title", entry["title"]), quote=True)}">{d["read"]} <span aria-hidden="true">→</span></a></footer></article>')
         pagination = ''
         if PAGE_COUNT > 1:
             links = ''.join(f'<a href="{listing_route(lang,n)}" aria-label="{LABELS[lang]["page"]} {n}"'+(' aria-current="page"' if n == page else '')+f'>{n}</a>' for n in range(1, PAGE_COUNT + 1))
@@ -141,7 +147,8 @@ for path in ROOT.rglob('*.html'):
         path.write_text(source)
 for lang in DATA:
     for article in range(len(POSTS) + 1):
-        build(lang,article)
+        if not args.slug or not article or POSTS[article - 1]['pl']['slug'] == args.slug:
+            build(lang,article)
     for page in range(2, PAGE_COUNT + 1):
         build(lang,0,page)
 
