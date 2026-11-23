@@ -12,6 +12,12 @@ LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
 
+Hair removal lasers
+
+## [Lumos — the intelligent diode laser designed for modern beauty businesses](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
+
+Explore Lumos: four wavelengths, up to 4000 W, CRM, Android and ICE Flow. Includes a 24-month warranty, Polish technical support and a free website.
+
 Laser tattoo removal
 
 ## [Safe tattoo removal with an Nd:YAG laser: what should you know?](https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/)

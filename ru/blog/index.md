@@ -12,6 +12,12 @@ LTS Market
 
 Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.
 
+Блог LTS Market2026-11-23
+
+## [Alpha или Alpha Mini? Сравниваем два диодных лазера для профессиональной эпиляции](https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/)
+
+Сравниваем диодные лазеры Alpha и Alpha Mini для профессиональной эпиляции. Характеристики, цены от 40 000 zł и возможность лизинга в Польше.
+
 Блог LTS Market2026-11-20
 
 ## [Дерматоскоп при лазерной эпиляции — зачем он нужен?](https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/)
@@ -29,9 +35,3 @@ LTS Market
 ## [Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?](https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/)
 
 Покупаете подержанный косметологический лазер? [Laser Tech Service](https://lasertechservice.pl/) предлагает профессиональный подбор и диагностику оборудования за 2500 zł.
-
-Лазеры для эпиляции
-
-## [Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)
-
-Lumos: 4 длины волны, мощность до 4000 Вт, CRM, Android и ICE Flow. Гарантия 24 месяца, сервис [Laser Tech Service](https://lasertechservice.pl/) и сайт в подарок.

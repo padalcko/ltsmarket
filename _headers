@@ -11,6 +11,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/blog/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
+/blog/alpha-vs-alpha-mini-laser-diodowy/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
 /blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -60,6 +65,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/en/blog/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/en/blog/alpha-vs-alpha-mini-diode-laser/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
 /en/blog/body-contouring-cavitation-rf/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -225,6 +235,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/ru/blog/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
 /ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/index.md
   Content-Type: text/markdown; charset=utf-8

@@ -12,6 +12,12 @@ LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
 
+Lasery do epilacji
+
+## [Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/)
+
+Lumos: laser diodowy 4 fale, moc do 4000 W, CRM, Android i ICE Flow. Poznaj zalety, 24 miesiące gwarancji i wsparcie [Laser Tech Service](https://lasertechservice.pl/).
+
 Laserowe usuwanie tatuażu
 
 ## [Bezpieczne usuwanie tatuażu laserem Nd:YAG — co warto wiedzieć?](https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/)

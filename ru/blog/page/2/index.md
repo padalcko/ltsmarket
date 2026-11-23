@@ -12,6 +12,12 @@ LTS Market
 
 Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.
 
+Лазеры для эпиляции
+
+## [Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)
+
+Lumos: 4 длины волны, мощность до 4000 Вт, CRM, Android и ICE Flow. Гарантия 24 месяца, сервис [Laser Tech Service](https://lasertechservice.pl/) и сайт в подарок.
+
 Лазерное удаление татуировок
 
 ## [Безопасное удаление татуировки лазером Nd:YAG: что важно знать?](https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/)

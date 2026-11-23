@@ -12,6 +12,12 @@ LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
 
+Blog LTS Market2026-11-23
+
+## [Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu](https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/)
+
+Porównujemy Alpha i Alpha Mini — profesjonalne lasery diodowe do depilacji. Sprawdź różnice, ceny od 40 000 zł i leasing w LTS Market.
+
 Blog LTS Market2026-11-20
 
 ## [Dermatoskop w epilacji laserowej — dlaczego warto?](https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/)
@@ -29,9 +35,3 @@ Blog LTS Market2026-11-17
 ## [Zakup używanego lasera kosmetycznego. Dlaczego warto zaufać specjalistom Laser Tech Service?](https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/)
 
 Kupujesz używany laser kosmetyczny? [Laser Tech Service](https://lasertechservice.pl/) oferuje profesjonalny dobór urządzenia za 2500 zł. Poznaj korzyści diagnostyki.
-
-Lasery do epilacji
-
-## [Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/)
-
-Lumos: laser diodowy 4 fale, moc do 4000 W, CRM, Android i ICE Flow. Poznaj zalety, 24 miesiące gwarancji i wsparcie [Laser Tech Service](https://lasertechservice.pl/).
