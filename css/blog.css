@@ -63,3 +63,9 @@
 .blog-cta--lumos .button--outline:hover { background:rgb(28 143 255 / .2); }
 .blog-cta--lumos a:focus-visible { outline:3px solid #98d4ff; outline-offset:4px; }
 @media(min-width:600px) { .blog-cta--lumos .button { flex:0 1 auto; } }
+
+/* LTS Market palette for the wavelength explainer in the TOP 4 article. */
+.wavelength-figure { margin: 24px 0; padding: clamp(12px, 2.5vw, 24px); border: 1px solid var(--color-border); border-radius: 14px; background: var(--color-white); }
+.wavelength-figure svg { display: block; width: 100%; height: auto; }
+.wavelength-figure figcaption { margin-top: 14px; color: var(--color-text-soft); font-size: 14px; line-height: 1.6; text-align: center; }
+@media (max-width: 600px) { .wavelength-figure { overflow-x: auto; } .wavelength-figure svg { min-width: 620px; } }

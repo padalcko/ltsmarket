@@ -51,6 +51,16 @@
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/blog/page/2/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
+/blog/page/3/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/blog/page/3/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/blog/top-4-lasery-do-epilacji-2026/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
 /blog/zakup-uzywanego-lasera-diagnostyka/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -101,10 +111,20 @@
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/en/blog/page/2/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
+/en/blog/page/3/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/en/blog/page/3/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
 /en/blog/safe-tattoo-removal-nd-yag-laser/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/en/blog/top-4-laser-hair-removal-machines-2026/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
 /en/blog/used-aesthetic-laser-inspection/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -276,10 +296,20 @@
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/ru/blog/page/2/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
+/ru/blog/page/3/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/ru/blog/page/3/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
 /ru/blog/pokupka-bu-lazera-diagnostika/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/ru/blog/top-4-lazera-dlya-epilyatsii-2026/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
 /ru/kontakt.md
   Content-Type: text/markdown; charset=utf-8

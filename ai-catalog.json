@@ -58,7 +58,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "6d4145a8b14997aee163edd09c6061d14777dde52650f8e3bb4fa5e612031a74",
+      "contentSha256": "0dd92647cd718969124eee535ea86621e20b9cc63c5268c067467d6a8cfd8d93",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -76,6 +76,16 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "TOP 4 profesjonalne lasery do epilacji w 2026 roku",
+              "url": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu",
+              "url": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Dermatoskop — dodatkowe narzędzie kosmetologa. Dlaczego warto mieć go w laserze do epilacji?",
               "url": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
             },
@@ -83,16 +93,6 @@
               "@type": "BlogPosting",
               "headline": "Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC",
               "url": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Zakup używanego lasera kosmetycznego. Dlaczego warto zaufać specjalistom Laser Tech Service?",
-              "url": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu",
-              "url": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/"
             }
           ]
         },
@@ -114,6 +114,76 @@
               "name": "Blog LTS Market",
               "item": {
                 "@id": "https://ltsmarket.pl/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/",
+      "markdownUrl": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/index.md",
+      "language": "pl",
+      "type": "articles",
+      "title": "Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu",
+      "description": "Porównujemy Alpha i Alpha Mini — profesjonalne lasery diodowe do depilacji. Sprawdź różnice, ceny od 40 000 zł i leasing w LTS Market.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/",
+        "en": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/",
+        "ru": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
+        "x-default": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
+      },
+      "contentSha256": "77085c57f9570db16a4ff1e37f25112c3c739a583f0c00c2e720f7fab947ed6a",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/#article",
+          "url": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/",
+          "name": "Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu",
+          "description": "Porównujemy Alpha i Alpha Mini — profesjonalne lasery diodowe do depilacji. Sprawdź różnice, ceny od 40 000 zł i leasing w LTS Market.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu",
+          "mainEntityOfPage": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/",
+          "image": "https://ltsmarket.pl/assets/img/nowe/alpha.webp",
+          "dateModified": "2026-11-23",
+          "datePublished": "2026-11-23",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
               }
             }
           ]
@@ -528,7 +598,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "dc42a79f4d24b0a433dec1f9a525143c7e0d50b06c61bda1c4dd0984e226d27f",
+      "contentSha256": "4b4d694590fa2de02e7ac2b8b5f94fb74e9d573b4518f487434da1171f1cb9cf",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -546,6 +616,16 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Zakup używanego lasera kosmetycznego. Dlaczego warto zaufać specjalistom Laser Tech Service?",
+              "url": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu",
+              "url": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Bezpieczne usuwanie tatuażu laserem Nd:YAG — co warto wiedzieć?",
               "url": "https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/"
             },
@@ -553,7 +633,62 @@
               "@type": "BlogPosting",
               "headline": "Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF",
               "url": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
             },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/blog/page/3/",
+      "markdownUrl": "https://ltsmarket.pl/blog/page/3/index.md",
+      "language": "pl",
+      "type": "main-pages",
+      "title": "Blog LTS Market",
+      "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/page/3/",
+        "en": "https://ltsmarket.pl/en/blog/page/3/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
+        "x-default": "https://ltsmarket.pl/blog/page/3/"
+      },
+      "contentSha256": "3a7afb4b03a42aa81bb871e338405fe0656738b0710b89d0b2519f94e7fa9a52",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Blog",
+          "@id": "https://ltsmarket.pl/blog/page/3/#blog",
+          "url": "https://ltsmarket.pl/blog/page/3/",
+          "name": "Blog LTS Market",
+          "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "blogPost": [
             {
               "@type": "BlogPosting",
               "headline": "Depilacja laserowa jako biznes: dlaczego jesień to dobry moment na otwarcie gabinetu?",
@@ -579,6 +714,76 @@
               "name": "Blog LTS Market",
               "item": {
                 "@id": "https://ltsmarket.pl/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/",
+      "markdownUrl": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/index.md",
+      "language": "pl",
+      "type": "articles",
+      "title": "TOP 4 profesjonalne lasery do epilacji w 2026 roku",
+      "description": "Poznaj cztery profesjonalne lasery do epilacji: Candela GentleLase PRO, LightSheer Duet, Lumos i DEKA Motus AX. Porównaj technologie i możliwości.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/",
+        "en": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/",
+        "ru": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
+        "x-default": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
+      },
+      "contentSha256": "d53f4ed928bf08e1b1dd364be8c636d32bea1651fafcff7bba1cb08a91c62cf2",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/#article",
+          "url": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/",
+          "name": "TOP 4 profesjonalne lasery do epilacji w 2026 roku",
+          "description": "Poznaj cztery profesjonalne lasery do epilacji: Candela GentleLase PRO, LightSheer Duet, Lumos i DEKA Motus AX. Porównaj technologie i możliwości.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "TOP 4 profesjonalne lasery do epilacji w 2026 roku",
+          "mainEntityOfPage": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/",
+          "image": "https://ltsmarket.pl/assets/img/blog/top-4-laser-hair-removal-2026/top-4-laser-hair-removal-2026.webp",
+          "dateModified": "2026-11-24",
+          "datePublished": "2026-11-24",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "TOP 4 profesjonalne lasery do epilacji w 2026 roku",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
               }
             }
           ]
@@ -704,7 +909,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "817bbb14ea94155441333fe3f464ef4c67a1aa4689eea82e3949350dd848bdf3",
+      "contentSha256": "741ed972bb62df7c27561063db06db26c6981594f23e01bd8422d2708a1283dc",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -722,6 +927,16 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Top 4 Professional Laser Hair Removal Machines in 2026",
+              "url": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Alpha vs Alpha Mini: Which Diode Laser Is Right for Your Beauty Salon?",
+              "url": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Dermoscopy: An Additional Tool for Laser Hair Removal Professionals",
               "url": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/"
             },
@@ -729,16 +944,6 @@
               "@type": "BlogPosting",
               "headline": "What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained",
               "url": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters",
-              "url": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Lumos — the intelligent diode laser designed for modern beauty businesses",
-              "url": "https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/"
             }
           ]
         },
@@ -760,6 +965,76 @@
               "name": "LTS Market Blog",
               "item": {
                 "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/index.md",
+      "language": "en",
+      "type": "articles",
+      "title": "Alpha vs Alpha Mini: Which Diode Laser Is Right for Your Beauty Salon?",
+      "description": "Compare Alpha Diode Laser and Alpha Mini for professional hair removal. Explore specifications, prices from PLN 40,000 and leasing options in Poland.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/",
+        "en": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/",
+        "ru": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
+        "x-default": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
+      },
+      "contentSha256": "cf8d8ea219f75425c6852c8126711e7faadf15ac7bf185f0fb180b855f4890d0",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/#article",
+          "url": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/",
+          "name": "Alpha vs Alpha Mini: Which Diode Laser Is Right for Your Beauty Salon?",
+          "description": "Compare Alpha Diode Laser and Alpha Mini for professional hair removal. Explore specifications, prices from PLN 40,000 and leasing options in Poland.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Alpha vs Alpha Mini: Which Diode Laser Is Right for Your Beauty Salon?",
+          "mainEntityOfPage": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/",
+          "image": "https://ltsmarket.pl/assets/img/nowe/alpha.webp",
+          "dateModified": "2026-11-23",
+          "datePublished": "2026-11-23",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Alpha vs Alpha Mini: Which Diode Laser Is Right for Your Beauty Salon?",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/"
               }
             }
           ]
@@ -1110,7 +1385,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "a17c1ffb65a38585be0076a51c9ed66ca37b895bccce90641d548d0d84bc59bf",
+      "contentSha256": "3a888e76befc6320433093b1e457a6119cb41f5b76c06a21fd00de83740fea73",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1128,6 +1403,16 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters",
+              "url": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Lumos — the intelligent diode laser designed for modern beauty businesses",
+              "url": "https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Safe tattoo removal with an Nd:YAG laser: what should you know?",
               "url": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/"
             },
@@ -1135,7 +1420,62 @@
               "@type": "BlogPosting",
               "headline": "Modern body contouring: combining cavitation and RF skin tightening",
               "url": "https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
             },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/en/blog/page/3/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/page/3/index.md",
+      "language": "en",
+      "type": "main-pages",
+      "title": "LTS Market Blog",
+      "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/page/3/",
+        "en": "https://ltsmarket.pl/en/blog/page/3/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
+        "x-default": "https://ltsmarket.pl/blog/page/3/"
+      },
+      "contentSha256": "62fb64cc8d5f4555fc170c91b721031aa259e6305a313d1a746c70f44e72f742",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Blog",
+          "@id": "https://ltsmarket.pl/en/blog/page/3/#blog",
+          "url": "https://ltsmarket.pl/en/blog/page/3/",
+          "name": "LTS Market Blog",
+          "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "blogPost": [
             {
               "@type": "BlogPosting",
               "headline": "Laser hair removal as a business: why plan your salon opening for autumn?",
@@ -1225,6 +1565,76 @@
               "name": "Safe tattoo removal with an Nd:YAG laser: what should you know?",
               "item": {
                 "@id": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/index.md",
+      "language": "en",
+      "type": "articles",
+      "title": "Top 4 Professional Laser Hair Removal Machines in 2026",
+      "description": "Explore Candela GentleLase PRO, LightSheer Duet, Lumos and DEKA Motus AX. Compare professional laser hair removal technologies and features.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/",
+        "en": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/",
+        "ru": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
+        "x-default": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
+      },
+      "contentSha256": "c0b515145a9d94a161701b8f5c7158ba91d3460cea541cbb4dbe664bfd773ff9",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/#article",
+          "url": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/",
+          "name": "Top 4 Professional Laser Hair Removal Machines in 2026",
+          "description": "Explore Candela GentleLase PRO, LightSheer Duet, Lumos and DEKA Motus AX. Compare professional laser hair removal technologies and features.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Top 4 Professional Laser Hair Removal Machines in 2026",
+          "mainEntityOfPage": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/",
+          "image": "https://ltsmarket.pl/assets/img/blog/top-4-laser-hair-removal-2026/top-4-laser-hair-removal-2026.webp",
+          "dateModified": "2026-11-24",
+          "datePublished": "2026-11-24",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Top 4 Professional Laser Hair Removal Machines in 2026",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/"
               }
             }
           ]
@@ -3177,7 +3587,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "089666deb6857bb9e7f5b972d6db357c9947e9e8e8516a4b779ab4f4efb971cf",
+      "contentSha256": "f6fa2a01d5aff3bb9ac190cb9d94cf1005420f96caefd107f64725d6a69ee8e5",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -3195,6 +3605,16 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "ТОП-4 профессиональных лазеров для эпиляции в 2026 году",
+              "url": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Alpha или Alpha Mini? Сравниваем два диодных лазера для профессиональной эпиляции",
+              "url": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Дерматоскоп — дополнительный инструмент косметолога. Почему он полезен при лазерной эпиляции?",
               "url": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/"
             },
@@ -3202,16 +3622,6 @@
               "@type": "BlogPosting",
               "headline": "Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC",
               "url": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?",
-              "url": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса",
-              "url": "https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/"
             }
           ]
         },
@@ -3233,6 +3643,76 @@
               "name": "Блог LTS Market",
               "item": {
                 "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/index.md",
+      "language": "ru",
+      "type": "articles",
+      "title": "Alpha или Alpha Mini? Сравниваем два диодных лазера для профессиональной эпиляции",
+      "description": "Сравниваем диодные лазеры Alpha и Alpha Mini для профессиональной эпиляции. Характеристики, цены от 40 000 zł и возможность лизинга в Польше.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/",
+        "en": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/",
+        "ru": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
+        "x-default": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
+      },
+      "contentSha256": "9f3674665232264a9c79da8d555c3c6e958da43fe6bdd65b5a6ea39a0f2c74b6",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/#article",
+          "url": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
+          "name": "Alpha или Alpha Mini? Сравниваем два диодных лазера для профессиональной эпиляции",
+          "description": "Сравниваем диодные лазеры Alpha и Alpha Mini для профессиональной эпиляции. Характеристики, цены от 40 000 zł и возможность лизинга в Польше.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Alpha или Alpha Mini? Сравниваем два диодных лазера для профессиональной эпиляции",
+          "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
+          "image": "https://ltsmarket.pl/assets/img/nowe/alpha.webp",
+          "dateModified": "2026-11-23",
+          "datePublished": "2026-11-23",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Alpha или Alpha Mini? Сравниваем два диодных лазера для профессиональной эпиляции",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/"
               }
             }
           ]
@@ -3647,7 +4127,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "4f3f4e5910a7c943fa2ad5a5ef32ced962ed8f46cb7c69f1c6a2442207a5c1dd",
+      "contentSha256": "1a128eefffa8b8d4f0fac35ed1096ad741857b77e690e45547ead1b5c8b2fd45",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -3665,6 +4145,16 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?",
+              "url": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса",
+              "url": "https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Безопасное удаление татуировки лазером Nd:YAG: что важно знать?",
               "url": "https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/"
             },
@@ -3672,7 +4162,62 @@
               "@type": "BlogPosting",
               "headline": "Современное моделирование фигуры: сочетание кавитации и RF-лифтинга",
               "url": "https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
             },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/ru/blog/page/3/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/page/3/index.md",
+      "language": "ru",
+      "type": "main-pages",
+      "title": "Блог LTS Market",
+      "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/page/3/",
+        "en": "https://ltsmarket.pl/en/blog/page/3/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
+        "x-default": "https://ltsmarket.pl/blog/page/3/"
+      },
+      "contentSha256": "a5ed01d5403bd85ae5a45ec6d40f870979a3a302ad87c1d00bf7d28939f3b248",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Blog",
+          "@id": "https://ltsmarket.pl/ru/blog/page/3/#blog",
+          "url": "https://ltsmarket.pl/ru/blog/page/3/",
+          "name": "Блог LTS Market",
+          "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "blogPost": [
             {
               "@type": "BlogPosting",
               "headline": "Лазерная эпиляция как бизнес: почему стоит запланировать открытие кабинета на осень?",
@@ -3767,6 +4312,76 @@
               "name": "Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?",
               "item": {
                 "@id": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/index.md",
+      "language": "ru",
+      "type": "articles",
+      "title": "ТОП-4 профессиональных лазеров для эпиляции в 2026 году",
+      "description": "Обзор Candela GentleLase PRO, LightSheer Duet, Lumos и DEKA Motus AX. Сравнение технологий профессиональных лазеров для эпиляции.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/",
+        "en": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/",
+        "ru": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
+        "x-default": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
+      },
+      "contentSha256": "1c5ca63d9906c27ac48f49f6c000800b9263ceea0536d18ceee9635af2d26f7a",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/#article",
+          "url": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
+          "name": "ТОП-4 профессиональных лазеров для эпиляции в 2026 году",
+          "description": "Обзор Candela GentleLase PRO, LightSheer Duet, Lumos и DEKA Motus AX. Сравнение технологий профессиональных лазеров для эпиляции.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "ТОП-4 профессиональных лазеров для эпиляции в 2026 году",
+          "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
+          "image": "https://ltsmarket.pl/assets/img/blog/top-4-laser-hair-removal-2026/top-4-laser-hair-removal-2026.webp",
+          "dateModified": "2026-11-24",
+          "datePublished": "2026-11-24",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "ТОП-4 профессиональных лазеров для эпиляции в 2026 году",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/"
               }
             }
           ]

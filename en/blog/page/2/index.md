@@ -12,6 +12,12 @@ LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
 
+LTS Market Blog2026-11-17
+
+## [Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters](https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/)
+
+Buying a used aesthetic laser? [Laser Tech Service](https://lasertechservice.pl/) offers professional equipment selection and technical assessment for PLN 2,500.
+
 Hair removal lasers
 
 ## [Lumos — the intelligent diode laser designed for modern beauty businesses](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
@@ -29,9 +35,3 @@ Beauty technologies
 ## [Modern body contouring: combining cavitation and RF skin tightening](https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/)
 
 Explore cavitation and RF skin tightening for your salon in Poland: technology differences, equipment selection, financing and technical support.
-
-Business and laser hair removal
-
-## [Laser hair removal as a business: why plan your salon opening for autumn?](https://ltsmarket.pl/en/blog/laser-hair-removal-business/)
-
-Planning a laser hair removal salon in Poland? Prepare an autumn launch, compare new and pre-owned equipment, and explore leasing and technical support.
