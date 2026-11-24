@@ -31,6 +31,11 @@
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
+/blog/lasery-wielofalowe-do-epilacji/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
 /blog/lumos-nowoczesny-laser-diodowy-dla-salonu/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -105,6 +110,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/en/blog/multi-wavelength-laser-hair-removal/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
 /en/blog/page/2/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -280,6 +290,11 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
+
+/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/index.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Link: <https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
 /ru/blog/modelirovanie-figury-kavitaciya-rf/index.md
   Content-Type: text/markdown; charset=utf-8

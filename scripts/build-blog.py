@@ -71,10 +71,11 @@ def build(lang, article, page=1):
         head = head.replace('hreflang="pl"', 'hreflang="pl-PL"').replace('hreflang="ru"', 'hreflang="ru-RU"')
     if article:
         head = head.replace('property="og:type" content="website"','property="og:type" content="article"')
-    if article and d.get('image'):
-        replacements = {'og:image': DOMAIN+d['image'], 'twitter:image': DOMAIN+d['image'],
-                        'og:image:alt': d['image_alt'], 'twitter:image:alt': d['image_alt'],
-                        'og:image:width': str(d['image_width']), 'og:image:height': str(d['image_height'])}
+    social_image = d.get('image') or d.get('social_image') if article else None
+    if social_image:
+        replacements = {'og:image': DOMAIN+social_image, 'twitter:image': DOMAIN+social_image,
+                        'og:image:alt': d.get('image_alt', d['title']), 'twitter:image:alt': d.get('image_alt', d['title']),
+                        'og:image:width': str(d.get('image_width', 1200)), 'og:image:height': str(d.get('image_height', 720))}
         for key, value in replacements.items():
             head = re.sub(r'((?:name|property)="'+re.escape(key)+r'" content=")[^"]*', lambda m: m[1]+escape(value, quote=True), head)
     crumbs = [{'@type':'ListItem','position':1,'name':d['home'],'item':{'@id':DOMAIN+prefix(lang)}}, {'@type':'ListItem','position':2,'name':d['blog'],'item':{'@id':DOMAIN+route(lang)}}]
@@ -82,7 +83,7 @@ def build(lang, article, page=1):
         crumbs.append({'@type':'ListItem','position':3,'name':d['title'],'item':{'@id':DOMAIN+route(lang,article)}})
     schema = {'@context':'https://schema.org','@type':'BlogPosting' if article else 'Blog','@id':DOMAIN+route(lang,article)+'#'+('article' if article else 'blog'),'url':DOMAIN+route(lang,article),'name':d['title'] if article else d['blog'],'description':desc,'inLanguage':lang,'publisher':{'@type':'Organization','name':'LTS Market','url':DOMAIN+'/'}}
     if article:
-        schema.update(headline=d['title'],mainEntityOfPage=DOMAIN+route(lang,article),image=DOMAIN+d.get('image', '/assets/img/hero-lts-market.jpg'))
+        schema.update(headline=d['title'],mainEntityOfPage=DOMAIN+route(lang,article),image=DOMAIN+(social_image or '/assets/img/hero-lts-market.jpg'))
         if d.get('modified'): schema['dateModified']=d['modified']
         if d.get('date'): schema['datePublished']=d['date']
         if d.get('author'): schema['author']={'@type':'Organization','name':d['author']}

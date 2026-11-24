@@ -50,6 +50,18 @@
 @media (max-width: 600px) { .blog-main { padding-top: 24px; } .blog-breadcrumb { margin-bottom: 28px; } .blog-prose { font-size: 17px; } }
 .blog-article__image { display: block; width: 100%; max-width: 640px; height: auto; margin: 0 auto 40px; }
 
+/* Article diagrams and references stay within the existing editorial column. */
+.blog-science-figure { margin: 28px 0 34px; max-width: 100%; overflow-x: auto; }
+.blog-science-figure img { display: block; width: 100%; height: auto; min-width: 600px; }
+.blog-science-figure figcaption { color: var(--color-text-soft); font-size: 14px; line-height: 1.5; margin-top: 8px; }
+.blog-prose h3 { font-size: clamp(20px, 2.5vw, 25px); line-height: 1.35; margin: 28px 0 12px; }
+.blog-prose ul, .blog-prose ol { padding-left: 26px; margin: 18px 0; }
+.blog-prose li + li { margin-top: 7px; }
+.blog-prose .blog-source-link { font-size: .85em; white-space: nowrap; }
+.blog-table-wrap { max-width: 100%; overflow-x: auto; }
+.blog-table-wrap table { min-width: 520px; }
+.blog-prose a { overflow-wrap: anywhere; }
+
 /* Lumos article conversion block; other blog CTAs keep their layout. */
 .blog-cta--lumos { padding:clamp(22px,4vw,32px); border:1px solid #20496b; border-top:3px solid var(--color-blue); border-radius:12px; background:linear-gradient(115deg,#08131e,#102e48); }
 .blog-cta--lumos .blog-cta__eyebrow { color:#70baff; font-size:11px; font-weight:700; letter-spacing:.14em; margin:0 0 10px; }
