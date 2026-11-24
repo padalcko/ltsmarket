@@ -12,6 +12,12 @@ LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
 
+LTS Market Blog2026-11-20
+
+## [Why Dermoscopy Matters in Laser Hair Removal](https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/)
+
+Explore how magnified hair and skin observation can support treatment documentation, consultations and professional laser hair removal workflows.
+
 LTS Market Blog2026-11-19
 
 ## [What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained](https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/)
@@ -29,9 +35,3 @@ Hair removal lasers
 ## [Lumos — the intelligent diode laser designed for modern beauty businesses](https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/)
 
 Explore Lumos: four wavelengths, up to 4000 W, CRM, Android and ICE Flow. Includes a 24-month warranty, Polish technical support and a free website.
-
-Laser tattoo removal
-
-## [Safe tattoo removal with an Nd:YAG laser: what should you know?](https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/)
-
-How does Nd:YAG tattoo removal work? Learn about its benefits, limitations and choosing equipment for a clinic in Poland.

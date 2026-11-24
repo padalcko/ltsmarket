@@ -12,6 +12,12 @@ LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
 
+Laserowe usuwanie tatuażu
+
+## [Bezpieczne usuwanie tatuażu laserem Nd:YAG — co warto wiedzieć?](https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/)
+
+Jak działa laser Nd:YAG do usuwania tatuażu? Poznaj możliwości, ograniczenia i zasady wyboru urządzenia dla gabinetu w Polsce.
+
 Technologie kosmetologiczne
 
 ## [Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF](https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/)

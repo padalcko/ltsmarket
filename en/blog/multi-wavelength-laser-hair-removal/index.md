@@ -312,7 +312,7 @@ The answers to these questions offer substantially greater practical value than 
 
 Further developments in laser hair removal will probably involve not only additional wavelengths but also more precise control over their application.
 
-Independent spectral control, optical skin analysis, digital dermoscopy and temperature monitoring may support the development of more personalised treatments.
+Independent spectral control, [optical skin analysis](https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/), digital dermoscopy and temperature monitoring may support the development of more personalised treatments.
 
 Such technologies require appropriate clinical validation. Automation does not replace professional client assessment or operator knowledge.
 

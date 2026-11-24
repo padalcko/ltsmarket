@@ -12,6 +12,12 @@ LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
 
+Laser tattoo removal
+
+## [Safe tattoo removal with an Nd:YAG laser: what should you know?](https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/)
+
+How does Nd:YAG tattoo removal work? Learn about its benefits, limitations and choosing equipment for a clinic in Poland.
+
 Beauty technologies
 
 ## [Modern body contouring: combining cavitation and RF skin tightening](https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/)

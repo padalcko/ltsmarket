@@ -14,6 +14,12 @@ Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organiza
 
 Blog LTS Market2026-11-24
 
+## [Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów](https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/)
+
+Czy nowoczesny laser rzeczywiście wykorzystuje sztuczną inteligencję? Wyjaśniamy znaczenie pomiaru melaniny, spektrofotometrii, czujników i automatycznej kontroli parametrów.
+
+Blog LTS Market2026-11-24
+
 ## [Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe](https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/)
 
 Czy trzy długości fal rzeczywiście oznaczają większą skuteczność? Wyjaśniamy fizykę laserów wielofalowych, konstrukcję głowic, znaczenie mocy optycznej oraz wyniki badań klinicznych.
@@ -29,9 +35,3 @@ Blog LTS Market2026-11-23
 ## [Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu](https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/)
 
 Porównujemy Alpha i Alpha Mini — profesjonalne lasery diodowe do depilacji. Sprawdź różnice, ceny od 40 000 zł i leasing w LTS Market.
-
-Blog LTS Market2026-11-20
-
-## [Dermatoskop w epilacji laserowej — dlaczego warto?](https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/)
-
-Dokładniejsza obserwacja włosów i skóry, dokumentowanie efektów oraz bardziej świadoma konsultacja. Sprawdź, jak dermatoskop wspiera pracę kosmetologa.

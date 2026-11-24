@@ -312,7 +312,7 @@ Odpowiedzi na te pytania mają większą wartość praktyczną niż sama liczba 
 
 Dalszy rozwój epilacji laserowej prawdopodobnie będzie związany nie tylko z dodawaniem kolejnych długości fal, ale przede wszystkim z dokładniejszym zarządzaniem ich wykorzystaniem.
 
-Niezależna kontrola komponentów spektralnych, optyczna analiza skóry, cyfrowa dermatoskopia oraz monitorowanie temperatury mogą wspierać rozwój bardziej spersonalizowanych procedur.
+Niezależna kontrola komponentów spektralnych, [optyczna analiza skóry](https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/), cyfrowa dermatoskopia oraz monitorowanie temperatury mogą wspierać rozwój bardziej spersonalizowanych procedur.
 
 Takie rozwiązania wymagają jednak odpowiedniej walidacji klinicznej. Automatyzacja nie zastępuje profesjonalnej kwalifikacji klienta ani wiedzy operatora.
 

@@ -192,6 +192,12 @@ Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organiza
 
 Blog LTS Market2026-11-24
 
+### [Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów](https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/)
+
+Czy nowoczesny laser rzeczywiście wykorzystuje sztuczną inteligencję? Wyjaśniamy znaczenie pomiaru melaniny, spektrofotometrii, czujników i automatycznej kontroli parametrów.
+
+Blog LTS Market2026-11-24
+
 ### [Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe](https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/)
 
 Czy trzy długości fal rzeczywiście oznaczają większą skuteczność? Wyjaśniamy fizykę laserów wielofalowych, konstrukcję głowic, znaczenie mocy optycznej oraz wyniki badań klinicznych.
@@ -207,12 +213,6 @@ Blog LTS Market2026-11-23
 ### [Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu](https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/)
 
 Porównujemy Alpha i Alpha Mini — profesjonalne lasery diodowe do depilacji. Sprawdź różnice, ceny od 40 000 zł i leasing w LTS Market.
-
-Blog LTS Market2026-11-20
-
-### [Dermatoskop w epilacji laserowej — dlaczego warto?](https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/)
-
-Dokładniejsza obserwacja włosów i skóry, dokumentowanie efektów oraz bardziej świadoma konsultacja. Sprawdź, jak dermatoskop wspiera pracę kosmetologa.
 
 ---
 
@@ -914,7 +914,7 @@ Odpowiedzi na te pytania mają większą wartość praktyczną niż sama liczba 
 
 Dalszy rozwój epilacji laserowej prawdopodobnie będzie związany nie tylko z dodawaniem kolejnych długości fal, ale przede wszystkim z dokładniejszym zarządzaniem ich wykorzystaniem.
 
-Niezależna kontrola komponentów spektralnych, optyczna analiza skóry, cyfrowa dermatoskopia oraz monitorowanie temperatury mogą wspierać rozwój bardziej spersonalizowanych procedur.
+Niezależna kontrola komponentów spektralnych, [optyczna analiza skóry](https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/), cyfrowa dermatoskopia oraz monitorowanie temperatury mogą wspierać rozwój bardziej spersonalizowanych procedur.
 
 Takie rozwiązania wymagają jednak odpowiedniej walidacji klinicznej. Automatyzacja nie zastępuje profesjonalnej kwalifikacji klienta ani wiedzy operatora.
 
@@ -1504,6 +1504,12 @@ LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
 
+Blog LTS Market2026-11-20
+
+### [Dermatoskop w epilacji laserowej — dlaczego warto?](https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/)
+
+Dokładniejsza obserwacja włosów i skóry, dokumentowanie efektów oraz bardziej świadoma konsultacja. Sprawdź, jak dermatoskop wspiera pracę kosmetologa.
+
 Blog LTS Market2026-11-19
 
 ### [Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC](https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/)
@@ -1522,12 +1528,6 @@ Lasery do epilacji
 
 Lumos: laser diodowy 4 fale, moc do 4000 W, CRM, Android i ICE Flow. Poznaj zalety, 24 miesiące gwarancji i wsparcie [Laser Tech Service](https://lasertechservice.pl/).
 
-Laserowe usuwanie tatuażu
-
-### [Bezpieczne usuwanie tatuażu laserem Nd:YAG — co warto wiedzieć?](https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/)
-
-Jak działa laser Nd:YAG do usuwania tatuażu? Poznaj możliwości, ograniczenia i zasady wyboru urządzenia dla gabinetu w Polsce.
-
 ---
 
 ## Blog LTS Market
@@ -1544,6 +1544,12 @@ LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
 
+Laserowe usuwanie tatuażu
+
+### [Bezpieczne usuwanie tatuażu laserem Nd:YAG — co warto wiedzieć?](https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/)
+
+Jak działa laser Nd:YAG do usuwania tatuażu? Poznaj możliwości, ograniczenia i zasady wyboru urządzenia dla gabinetu w Polsce.
+
 Technologie kosmetologiczne
 
 ### [Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF](https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/)
@@ -1555,6 +1561,367 @@ Biznes i depilacja laserowa
 ### [Depilacja laserowa jako biznes: dlaczego jesień to dobry moment na otwarcie gabinetu?](https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/)
 
 Planujesz gabinet depilacji laserowej w Polsce? Sprawdź, jak przygotować jesienny start, wybrać laser diodowy oraz porównać sprzęt nowy, używany i leasing.
+
+---
+
+## Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów
+
+Źródło HTML: [Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów](https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/)
+
+Język: Polski
+
+Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/), [Русский](https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/)
+
+> Jak AI, pomiar melaniny, spektrofotometria i czujniki temperatury wspierają bezpieczeństwo oraz personalizację epilacji laserowej?
+
+Blog LTS Market
+
+24.11.2026 · LTS Market
+
+Przyszłość epilacji laserowej: technologie, skuteczność i bezpieczeństwo. Część 2.
+
+Przez wiele lat rozwój urządzeń do epilacji laserowej koncentrował się przede wszystkim na zwiększaniu mocy, poprawie chłodzenia oraz wprowadzaniu kolejnych długości fal.
+
+Obecnie coraz większego znaczenia nabiera inny kierunek rozwoju. Urządzenia nie tylko generują promieniowanie laserowe, ale również mogą zbierać informacje o skórze, monitorować własne parametry pracy i wspierać specjalistę w podejmowaniu decyzji.
+
+Pomiar melaniny, spektrofotometria, cyfrowa dermatoskopia, czujniki temperatury oraz algorytmy analizy obrazu otwierają nowe możliwości personalizacji zabiegów.
+
+W opisach współczesnych urządzeń coraz częściej pojawia się również określenie AI, czyli sztuczna inteligencja.
+
+Nie każda automatyczna funkcja jest jednak sztuczną inteligencją. Aby właściwie ocenić możliwości nowoczesnego lasera, warto zrozumieć różnice pomiędzy pomiarem, automatyzacją i rzeczywistym wykorzystaniem algorytmów uczących się.
+
+### Dlaczego ocena skóry jest tak ważna?
+
+Podstawą epilacji laserowej jest selektywna fototermoliza. Energia świetlna pochłaniana przez melaninę we włosie zostaje przekształcona w ciepło, które oddziałuje na struktury mieszka włosowego.
+
+Melanina znajduje się jednak również w naskórku.
+
+Podczas zabiegu część energii może zostać pochłonięta przez skórę, zanim dotrze do mieszka włosowego. Ilość pochłoniętej energii zależy między innymi od pigmentacji skóry, długości fali oraz parametrów impulsu.
+
+Prawidłowa ocena skóry ma zatem znaczenie zarówno dla skuteczności, jak i bezpieczeństwa epilacji.
+
+Tradycyjnie specjalista wykorzystuje wywiad, obserwację skóry oraz klasyfikację fototypów według Fitzpatricka.
+
+Metody te pozostają potrzebne, ale można je uzupełnić obiektywnymi pomiarami optycznymi.
+
+### Skala Fitzpatricka a rzeczywista ilość melaniny
+
+Klasyfikacja Fitzpatricka obejmuje sześć fototypów skóry. Jej pierwotnym celem było określenie reakcji skóry na promieniowanie słoneczne, w szczególności skłonności do poparzeń oraz opalania.
+
+Fototyp nie jest jednak bezpośrednim pomiarem koncentracji melaniny.
+
+Dwie osoby zaklasyfikowane do tego samego fototypu mogą różnić się rzeczywistą pigmentacją skóry. Różnice mogą występować również pomiędzy poszczególnymi obszarami ciała tej samej osoby.
+
+Znaczenie mają także zmiany sezonowe, niedawna ekspozycja na słońce oraz lokalne przebarwienia.
+
+Oznacza to, że sam fototyp nie zawsze dostarcza wszystkich informacji istotnych dla doboru parametrów zabiegu.
+
+Obiektywny pomiar pigmentacji może stanowić dodatkowe źródło informacji.
+
+![Fototyp i pomiar pigmentacji](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/pl/phototype-vs-melanin.svg)
+
+Fototyp i pomiar pigmentacji
+
+### Czym jest spektrofotometria skóry?
+
+Spektrofotometria jest metodą optyczną pozwalającą analizować sposób, w jaki materiał pochłania lub odbija światło w różnych zakresach widma.
+
+W przypadku skóry pomiary mogą dostarczać informacji związanych z obecnością melaniny, hemoglobiny oraz innymi właściwościami optycznymi tkanek.
+
+Uproszczony proces wygląda następująco:
+
+1. Źródło światła oświetla badaną powierzchnię.
+2. Część światła zostaje pochłonięta i rozproszona w tkankach.
+3. Detektor rejestruje światło powracające ze skóry.
+4. Oprogramowanie analizuje sygnał.
+5. Wynik może zostać przedstawiony jako indeks pigmentacji lub inny parametr optyczny.
+
+Nie każdy czujnik koloru jest spektrofotometrem. Proste urządzenia mogą wykorzystywać kilka wybranych długości fal, podczas gdy bardziej zaawansowane systemy analizują szerszy zakres widma.
+
+Nie należy również utożsamiać indeksu melaniny z bezpośrednim pomiarem procentowej zawartości melaniny w skórze.
+
+Wynik zależy od metody pomiarowej, kalibracji oraz algorytmu zastosowanego w urządzeniu.
+
+![Optyczna analiza skóry](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/pl/skin-optical-analysis.svg)
+
+Optyczna analiza skóry
+
+### Czy pomiar melaniny ma podstawy naukowe?
+
+Badania nad ilościową oceną pigmentacji skóry prowadzone są od wielu lat.
+
+W 2009 roku Verkruysse i współautorzy opublikowali w Journal of Biomedical Optics badanie dotyczące pomiaru światła powracającego ze skóry przy długości fali 390 nm.
+
+Badanie obejmowało 23 ochotników oraz pomiary wykonane w 749 miejscach na skórze.
+
+Autorzy analizowali możliwość wykorzystania pomiarów optycznych do oceny pigmentacji naskórka i szacowania jego tolerancji na oddziaływanie laserowe [[1]](https://pubmed.ncbi.nlm.nih.gov/19256693/).
+
+W 2016 roku opublikowano pracę dotyczącą zastosowania miernika melaniny do wspomagania doboru parametrów zabiegów IPL.
+
+Wykorzystano zależności pomiędzy pigmentacją skóry a tolerancją naskórka, które następnie zastosowano w oprogramowaniu wspierającym dobór parametrów. Autorzy opisali również doświadczenie z wykorzystaniem urządzenia u ponad 300 pacjentów [[2]](https://pubmed.ncbi.nlm.nih.gov/27050697/).
+
+W 2018 roku Lloyd, Graves i Ross przedstawili badanie dotyczące pomiarów melaniny oraz tolerancji naskórka podczas stosowania długoimpulsowych laserów aleksandrytowych 755 nm i Nd:YAG 1064 nm.
+
+Wyniki wskazywały na przydatność ilościowej oceny pigmentacji jako dodatkowego narzędzia wspierającego dobór ustawień [[3]](https://pubmed.ncbi.nlm.nih.gov/30020097/).
+
+Badania te nie oznaczają, że istnieje jeden uniwersalny algorytm pozwalający automatycznie dobrać parametry każdego lasera.
+
+Pokazują jednak, że obiektywna analiza pigmentacji ma uzasadnienie naukowe.
+
+### Analiza reakcji skóry podczas zabiegów
+
+Kolejnym kierunkiem rozwoju jest wykorzystanie metod optycznych do oceny zmian zachodzących w skórze.
+
+W 2019 roku opublikowano badanie dotyczące spektroskopowej analizy rumienia związanego z epilacją laserową.
+
+W badaniu uczestniczyło 19 osób. Porównywano widma światła odbitego od skóry przed zabiegiem i po jego wykonaniu.
+
+Autorzy analizowali zmiany związane z właściwościami optycznymi hemoglobiny oraz wskaźnikiem rumienia [[4]](https://pmc.ncbi.nlm.nih.gov/articles/PMC6499568/).
+
+Takie podejście może stanowić podstawę rozwoju narzędzi wspierających bardziej obiektywną ocenę reakcji skóry.
+
+Nie jest to jednak dowód, że współczesne lasery potrafią automatycznie wykrywać każde uszkodzenie termiczne lub zapobiegać wszystkim powikłaniom.
+
+Istnieje zasadnicza różnica pomiędzy pomiarem pojedynczego parametru a kompleksową oceną bezpieczeństwa zabiegu.
+
+### Czujniki temperatury i inteligentne chłodzenie
+
+Temperatura odgrywa istotną rolę zarówno w procesie epilacji, jak i w pracy samego urządzenia.
+
+Nowoczesny laser może wykorzystywać różne czujniki temperatury:
+
+- Czujniki modułu diodowego.
+
+- Czujniki temperatury cieczy chłodzącej.
+
+- Czujniki powierzchni kontaktowej głowicy.
+
+- Czujniki temperatury powierzchni skóry, jeżeli przewiduje je konstrukcja urządzenia.
+
+Każdy z nich mierzy inny element układu.
+
+Temperatura szafirowego okna głowicy nie jest równoznaczna z temperaturą skóry. Temperatura powierzchni skóry nie pozwala również bezpośrednio określić temperatury wewnątrz mieszka włosowego.
+
+Rozróżnienie tych parametrów jest ważne podczas oceny systemów reklamowanych jako inteligentne chłodzenie.
+
+Automatyczna regulacja może polegać na ciągłym odczycie temperatury, porównaniu wyniku z wartością zadaną i odpowiednim sterowaniu elementami chłodzącymi.
+
+Taki system nazywamy układem ze sprzężeniem zwrotnym.
+
+Nie musi on wykorzystywać sztucznej inteligencji, aby skutecznie realizować swoją funkcję.
+
+![Punkty pomiaru temperatury](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/pl/temperature-monitoring.svg)
+
+Punkty pomiaru temperatury
+
+### Czujniki kontaktu i ruchu
+
+W niektórych systemach laserowych i IPL stosowane są czujniki pozwalające ocenić kontakt głowicy ze skórą.
+
+Ich zadaniem może być ograniczenie możliwości emisji w przypadku nieprawidłowego przyłożenia urządzenia.
+
+Innym rozwiązaniem są czujniki ruchu, które mogą wspierać operatora podczas pracy w trybie dynamicznym.
+
+W zależności od konstrukcji urządzenia system może monitorować ruch głowicy, sygnalizować nieprawidłowości lub wspierać kontrolę obszaru zabiegowego.
+
+Takie rozwiązania nie oznaczają jednak automatycznego wyeliminowania ryzyka nadmiernego nagrzewania skóry.
+
+Czujnik ruchu nie zastępuje wiedzy o rozkładzie energii, nakładaniu się obszarów zabiegowych oraz reakcji tkanek.
+
+Przykłady czujników kontaktu, pigmentacji oraz ruchu występują również w dokumentacji technicznej urządzeń IPL [[5]](https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231215.pdf).
+
+Nie należy automatycznie przypisywać tych funkcji wszystkim profesjonalnym laserom diodowym.
+
+### Dermatoskop i analiza obrazu
+
+Cyfrowa dermatoskopia może dostarczać informacji, których nie zawsze można uzyskać podczas standardowej obserwacji skóry.
+
+Powiększony obraz pozwala dokładniej ocenić widoczne cechy owłosienia, jego rozmieszczenie, zróżnicowanie grubości oraz powierzchnię skóry.
+
+Standaryzowane zdjęcia mogą również wspierać dokumentowanie zmian w trakcie kolejnych wizyt.
+
+W bardziej zaawansowanych rozwiązaniach obraz może zostać przekazany do oprogramowania analizującego określone cechy.
+
+Potencjalne zastosowania obejmują automatyczne liczenie widocznych włosów, ocenę ich grubości, porównywanie zdjęć oraz identyfikowanie obszarów wymagających dodatkowej obserwacji.
+
+Dokładność takich systemów zależy od jakości obrazu, oświetlenia, powiększenia oraz sposobu walidacji algorytmu.
+
+Sam dermatoskop nie oznacza obecności sztucznej inteligencji.
+
+Nie zastępuje również diagnostyki dermatologicznej. Podejrzane zmiany skórne wymagają odpowiedniej oceny medycznej.
+
+Przykładem integracji dodatkowego narzędzia optycznego z platformą do epilacji jest LUMOS, który w wybranych konfiguracjach może być wyposażony w dermatoskop.
+
+### Czy każdy inteligentny laser wykorzystuje AI?
+
+Określenie AI jest obecnie stosowane w opisach wielu urządzeń. Z technicznego punktu widzenia należy jednak rozróżnić kilka poziomów automatyzacji.
+
+#### Poziom 1. Fabryczne programy zabiegowe
+
+Operator wybiera fototyp skóry, obszar ciała oraz typ owłosienia. Urządzenie proponuje wartości zapisane wcześniej w pamięci.
+
+Jest to system presetów. Nie musi wykorzystywać sztucznej inteligencji.
+
+#### Poziom 2. Algorytmy oparte na regułach
+
+Oprogramowanie przetwarza dane zgodnie z ustalonymi przez producenta zależnościami.
+
+Przykładem jest przyporządkowanie określonego wyniku pomiaru pigmentacji do przewidzianego zakresu parametrów.
+
+Takie rozwiązanie może być bardziej zaawansowane niż zwykły preset, ale nadal nie wymaga uczenia maszynowego.
+
+#### Poziom 3. Sterowanie ze sprzężeniem zwrotnym
+
+Urządzenie monitoruje wybrany parametr i na bieżąco reaguje na jego zmiany.
+
+Przykładem jest automatyczne sterowanie chłodzeniem na podstawie odczytu temperatury.
+
+Jest to automatyka regulacyjna, która może działać bez AI.
+
+#### Poziom 4. Uczenie maszynowe
+
+System wykorzystuje model opracowany na podstawie danych treningowych.
+
+Model może analizować obrazy, klasyfikować określone cechy skóry lub włosów i wspierać podejmowanie decyzji.
+
+Wartość takiego rozwiązania zależy od jakości danych, zakresu walidacji i warunków, w jakich system został przebadany.
+
+Model nie musi uczyć się podczas każdego zabiegu. Może wykorzystywać wcześniej wytrenowane parametry.
+
+![Poziomy automatyzacji](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/pl/automation-levels.svg)
+
+Poziomy automatyzacji
+
+### Jak może działać inteligentny system wspomagający operatora?
+
+Zaawansowany system może łączyć informacje pochodzące z różnych źródeł.
+
+Na etapie kwalifikacji możliwe jest zebranie danych o pigmentacji skóry, widocznych cechach owłosienia oraz obszarze zabiegowym.
+
+Oprogramowanie może następnie zestawić wyniki pomiarów z zakresem zastosowania urządzenia i przedstawić operatorowi odpowiednie informacje lub rekomendacje.
+
+Podczas pracy system może monitorować wybrane parametry techniczne, takie jak temperatura głowicy lub jej kontakt ze skórą.
+
+Nieprawidłowości mogą skutkować ostrzeżeniem albo blokadą emisji, jeżeli konstrukcja urządzenia przewiduje taką funkcję.
+
+Po zakończeniu zabiegu zapis danych może ułatwiać dokumentowanie przebiegu procedury.
+
+Istotne jest zachowanie kontroli operatora. Rekomendacje oprogramowania nie powinny zastępować kwalifikacji klienta, znajomości przeciwwskazań oraz instrukcji producenta.
+
+![System wsparcia operatora](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/pl/intelligent-control-loop.svg)
+
+System wsparcia operatora
+
+### Co pokazują najnowsze kierunki rozwoju?
+
+W 2025 roku opublikowano europejskie zgłoszenie patentowe EP4537779A1 opisujące koncepcję systemu doboru parametrów głowicy laserowej na podstawie analizy skóry i włosów.
+
+Dokument przedstawia między innymi zastosowanie kamery hiperspektralnej, dodatkowych czujników oraz sieci neuronowych do klasyfikowania cech skóry i owłosienia oraz generowania rekomendacji ustawień [[6]](https://data.epo.org/publication-server/rest/v1.2/publication-dates/2025-04-16/patents/EP4537779NWA1/document.pdf).
+
+Obrazowanie hiperspektralne pozwala rejestrować informacje obrazowe w wielu zakresach widma, dostarczając więcej danych niż standardowa fotografia RGB.
+
+Zgłoszenie patentowe pokazuje możliwy kierunek rozwoju technologii.
+
+Nie jest jednak dowodem skuteczności klinicznej ani potwierdzeniem, że opisane rozwiązanie jest dostępne w każdym urządzeniu oferowanym obecnie na rynku.
+
+Właśnie dlatego podczas oceny innowacyjnego sprzętu należy odróżniać deklaracje producenta, dokumentację techniczną, prawa własności intelektualnej oraz wyniki badań klinicznych.
+
+### Elektroniczna dokumentacja zabiegów
+
+Innym praktycznym kierunkiem rozwoju urządzeń jest możliwość zapisywania informacji o wykonanych zabiegach.
+
+Historia może obejmować datę wizyty, obszar zabiegowy, wykorzystaną głowicę, ustawienia urządzenia oraz uwagi operatora.
+
+Taka dokumentacja ułatwia analizowanie przebiegu kolejnych wizyt i zachowanie ciągłości pracy w gabinetach zatrudniających kilku specjalistów.
+
+Jeżeli system zapisuje zdjęcia lub dane umożliwiające identyfikację klienta, konieczne jest odpowiednie zabezpieczenie informacji oraz przestrzeganie zasad ochrony danych osobowych.
+
+Samo przechowywanie historii zabiegów nie jest sztuczną inteligencją, ale może stanowić wartościowy element nowoczesnego wyposażenia gabinetu.
+
+### Na co zwrócić uwagę podczas zakupu lasera z AI?
+
+Przed zakupem urządzenia reklamowanego jako inteligentny laser warto zadać producentowi konkretne pytania:
+
+1. Jakie parametry urządzenie rzeczywiście mierzy?
+2. Czy pomiar pigmentacji jest ilościowy, czy opiera się na klasyfikacji koloru?
+3. W którym miejscu znajduje się czujnik temperatury?
+4. Czy urządzenie monitoruje parametry podczas emisji?
+5. Czy oprogramowanie tylko sugeruje ustawienia, czy automatycznie je zmienia?
+6. Jakie zabezpieczenia działają niezależnie od algorytmu AI?
+7. Czy producent przedstawił wyniki walidacji systemu?
+8. Dla jakich fototypów oraz cech owłosienia rozwiązanie zostało ocenione?
+9. Jak przechowywane i chronione są dane klientów?
+10. Czy urządzenie może pracować prawidłowo bez połączenia z internetem?
+11. Czy dostępne są aktualizacje oprogramowania i wsparcie techniczne?
+
+Jeżeli producent nie potrafi wyjaśnić, jakie dane analizuje jego system, określenie AI nie dostarcza wystarczających informacji o rzeczywistych możliwościach urządzenia.
+
+### Czy sztuczna inteligencja zastąpi kosmetologa?
+
+Największy potencjał inteligentnych systemów polega obecnie na wspieraniu specjalisty.
+
+Automatyzacja może ograniczać liczbę powtarzalnych czynności, poprawiać dokumentację oraz dostarczać dodatkowych informacji podczas oceny skóry.
+
+Nie zastępuje jednak wywiadu, profesjonalnej kwalifikacji, znajomości przeciwwskazań ani umiejętności reagowania na nieprawidłową reakcję klienta.
+
+Nawet zaawansowany algorytm wymaga prawidłowych danych wejściowych oraz stosowania urządzenia zgodnie z jego przeznaczeniem.
+
+Rozwój sztucznej inteligencji w kosmetologii nie oznacza rezygnacji z doświadczenia operatora. Może natomiast prowadzić do wyposażenia go w dokładniejsze i bardziej użyteczne narzędzia.
+
+### Podsumowanie
+
+Przyszłość epilacji laserowej będzie prawdopodobnie związana nie tylko ze zwiększaniem możliwości źródeł laserowych, ale również z poprawą jakości informacji wykorzystywanych podczas zabiegów.
+
+Pomiar melaniny, spektrofotometria, dermatoskopia, czujniki oraz automatyczne systemy sterowania mogą stanowić ważne elementy tego rozwoju.
+
+Ich wartość powinna być oceniana na podstawie rzeczywistych funkcji, jakości pomiarów oraz potwierdzonych możliwości, a nie wyłącznie obecności oznaczenia AI.
+
+W LTS Market zwracamy uwagę na technologie, które mają praktyczne znaczenie dla profesjonalnej pracy gabinetu kosmetologicznego.
+
+W kolejnej części serii przyjrzymy się możliwościom łączenia epilacji laserowej z innymi technologiami kosmetologii aparaturowej.
+
+### Najczęstsze pytania
+
+#### Czy laser z AI automatycznie dobiera wszystkie parametry zabiegu?
+
+Nie zawsze. Zakres automatyzacji zależy od konstrukcji urządzenia. Niektóre systemy oferują jedynie presety lub rekomendacje.
+
+#### Czy fototyp skóry odpowiada dokładnej ilości melaniny?
+
+Nie. Fototyp opisuje przede wszystkim reakcję skóry na słońce. Pomiar optyczny może dostarczać dodatkowych informacji o pigmentacji.
+
+#### Czy inteligentne chłodzenie wymaga sztucznej inteligencji?
+
+Nie. Automatyczna regulacja temperatury może wykorzystywać klasyczny układ ze sprzężeniem zwrotnym.
+
+#### Czy dermatoskop oznacza, że laser posiada AI?
+
+Nie. Dermatoskop jest narzędziem optycznym. Analiza obrazu z wykorzystaniem AI wymaga dodatkowego oprogramowania.
+
+#### Czy sztuczna inteligencja eliminuje ryzyko powikłań?
+
+Nie. Inteligentne systemy mogą wspierać operatora, ale nie eliminują wszystkich zagrożeń ani konieczności prawidłowej kwalifikacji klienta.
+
+### Źródła naukowe i dokumentacja techniczna
+
+1. [Verkruysse W, Svaasand LO, Franco W, Nelson JS. Remittance at a single wavelength of 390 nm to quantify epidermal melanin concentration. Journal of Biomedical Optics. 2009;14(1):014005. DOI: 10.1117/1.3065542](https://pubmed.ncbi.nlm.nih.gov/19256693/)
+2. [Ross EV, Blalock TW, Winstanley D, Cohen JL, Childs JJ. Objective Melanin Measurements: Review of Novel Dosimetry Guidance Device for Intense Pulsed Light in Aesthetic Treatments. Journal of Drugs in Dermatology. 2016;15(4):421–432.](https://pubmed.ncbi.nlm.nih.gov/27050697/)
+3. [Lloyd AA, Graves MS, Ross EV. Epidermal Fluence Threshold Determination by Real-Time Melanin Measurements. Dermatologic Surgery. 2018;44(11):1427–1436. DOI: 10.1097/DSS.0000000000001606](https://pubmed.ncbi.nlm.nih.gov/30020097/)
+4. [Quantitative Analysis of Skin Erythema Due to Laser Hair Removal: A Diffusion Optical Spectroscopy Analysis. Journal of Lasers in Medical Sciences. 2019;10(2):97–103. DOI: 10.15171/jlms.2019.16](https://pmc.ncbi.nlm.nih.gov/articles/PMC6499568/)
+5. FDA. IPL hair removal device technical documentation. 510(k) summaries [K231215](https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231215.pdf) and [K253754](https://www.accessdata.fda.gov/cdrh_docs/pdf25/K253754.pdf). (Technical documentation.)
+6. European Patent Office. European patent application [EP4537779A1](https://data.epo.org/publication-server/rest/v1.2/publication-dates/2025-04-16/patents/EP4537779NWA1/document.pdf). Published 16 April 2025. (Patent application; not clinical efficacy evidence.)
+
+### Powiązane materiały
+
+- [Lasery wielofalowe do epilacji](https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/)
+
+- [Dermatoskop w epilacji laserowej](https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/)
+
+- [LUMOS](https://ltsmarket.pl/nowe/lumos/)
+
+- [Nowe urządzenia](https://ltsmarket.pl/nowe.html)
+
+[← Wszystkie artykuły](https://ltsmarket.pl/blog/)
 
 ---
 
@@ -2107,6 +2474,12 @@ Practical guides to beauty equipment, financing and running a salon in Poland.
 
 LTS Market Blog2026-11-24
 
+### [Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety](https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/)
+
+Do modern hair removal lasers really use artificial intelligence? Discover melanin measurements, spectrophotometry, sensors and automatic parameter control.
+
+LTS Market Blog2026-11-24
+
 ### [Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths](https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/)
 
 Do three wavelengths necessarily mean better results? Explore the physics of multi-wavelength lasers, handpiece architecture, optical power and clinical research.
@@ -2122,12 +2495,6 @@ LTS Market Blog2026-11-23
 ### [Alpha vs Alpha Mini: Which Diode Laser Is Right for Your Beauty Salon?](https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/)
 
 Compare Alpha Diode Laser and Alpha Mini for professional hair removal. Explore specifications, prices from PLN 40,000 and leasing options in Poland.
-
-LTS Market Blog2026-11-20
-
-### [Why Dermoscopy Matters in Laser Hair Removal](https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/)
-
-Explore how magnified hair and skin observation can support treatment documentation, consultations and professional laser hair removal workflows.
 
 ---
 
@@ -2243,6 +2610,367 @@ Tell us about your salon, expected treatment volume and budget. We can help you 
 Contact: sales@ltsmarket.pl | +48 575 254 431
 
 ---
+
+[← All articles](https://ltsmarket.pl/en/blog/)
+
+---
+
+## Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety
+
+HTML source: [Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety](https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/)
+
+Language: English
+
+Other languages: [Polski](https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/), [Русский](https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/)
+
+> Discover how AI, melanin measurements, optical skin analysis and temperature sensors can support safer and more personalised laser hair removal.
+
+LTS Market Blog
+
+24.11.2026 · LTS Market
+
+The future of laser hair removal: technology, effectiveness and safety. Part 2.
+
+For many years, developments in laser hair removal equipment primarily focused on increasing power, improving cooling and introducing additional wavelengths.
+
+Today, another direction is becoming increasingly important. Equipment can do more than generate laser radiation. It can collect information about the skin, monitor its operating parameters and support practitioners in making decisions.
+
+Melanin measurements, spectrophotometry, digital dermoscopy, temperature sensors and image analysis algorithms create new opportunities for treatment personalisation.
+
+Artificial intelligence, or AI, is also appearing increasingly frequently in equipment descriptions.
+
+However, not every automatic function constitutes artificial intelligence. Understanding the differences between measurement, automation and machine learning is essential when evaluating modern equipment.
+
+### Why is skin assessment important?
+
+Laser hair removal is based on selective photothermolysis. Light energy absorbed by melanin within the hair is converted into heat, which affects structures within the hair follicle.
+
+However, melanin is also present in the epidermis.
+
+Some laser energy may be absorbed by the skin before reaching the follicle. The amount absorbed depends on factors including pigmentation, wavelength and pulse characteristics.
+
+Accurate skin assessment is therefore important for both treatment effectiveness and safety.
+
+Practitioners traditionally rely on client interviews, visual assessment and the Fitzpatrick skin phototype classification.
+
+These methods remain necessary but can be supplemented with objective optical measurements.
+
+### The Fitzpatrick scale and actual melanin content
+
+The Fitzpatrick classification includes six skin phototypes. It was originally developed to describe skin responses to sunlight, particularly the tendency to burn or tan.
+
+A phototype is not a direct measurement of melanin concentration.
+
+Two individuals with the same phototype may have different levels of pigmentation. Differences may also exist between anatomical areas of the same individual.
+
+Seasonal changes, recent sun exposure and local pigmentation variations are also relevant.
+
+Consequently, phototype alone may not provide all the information required for treatment parameter selection.
+
+Objective pigmentation measurements can provide an additional source of information.
+
+![Phototype and pigmentation measurement](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/en/phototype-vs-melanin.svg)
+
+Phototype and pigmentation measurement
+
+### What is skin spectrophotometry?
+
+Spectrophotometry is an optical technique used to analyse how materials absorb or reflect light across different spectral ranges.
+
+In skin assessment, optical measurements can provide information associated with melanin, haemoglobin and other tissue properties.
+
+A simplified measurement process involves the following steps:
+
+1. A light source illuminates the measurement area.
+2. Some light is absorbed and scattered within the tissue.
+3. A detector records light returning from the skin.
+4. Software analyses the signal.
+5. The result is presented as a pigmentation index or another optical parameter.
+
+Not every colour sensor is a spectrophotometer. Simpler instruments may use a few selected wavelengths, whereas advanced systems analyse broader spectral ranges.
+
+A melanin index should not be interpreted as a direct measurement of the percentage of melanin in the skin.
+
+Results depend on the measurement method, calibration and algorithms used by the instrument.
+
+![Optical skin analysis](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/en/skin-optical-analysis.svg)
+
+Optical skin analysis
+
+### Is there scientific evidence for melanin measurements?
+
+Quantitative assessment of skin pigmentation has been investigated for many years.
+
+In 2009, Verkruysse and colleagues published a study in the Journal of Biomedical Optics investigating optical measurements of light returning from the skin at 390 nm.
+
+The research involved 23 volunteers and measurements at 749 skin sites.
+
+The authors investigated whether optical measurements could support epidermal pigmentation assessment and estimation of tolerance to laser exposure [[1]](https://pubmed.ncbi.nlm.nih.gov/19256693/).
+
+In 2016, a publication examined the use of a melanin meter to support parameter selection for intense pulsed light treatments.
+
+Relationships between pigmentation and epidermal tolerance were incorporated into guidance software. The authors also described experience using the device in more than 300 patients [[2]](https://pubmed.ncbi.nlm.nih.gov/27050697/).
+
+In 2018, Lloyd, Graves and Ross published research on melanin measurements and epidermal tolerance during treatment using long-pulsed 755 nm alexandrite and 1064 nm Nd:YAG lasers.
+
+Their findings supported quantitative pigmentation assessment as an additional tool for informing parameter selection [[3]](https://pubmed.ncbi.nlm.nih.gov/30020097/).
+
+This does not establish a universal algorithm capable of automatically selecting the settings of every laser.
+
+It does, however, demonstrate a scientific rationale for objective pigmentation assessment.
+
+### Analysing skin responses during treatments
+
+Another development involves optical methods for assessing changes in the skin.
+
+In 2019, researchers published a spectroscopic investigation of erythema associated with laser hair removal.
+
+The study involved 19 participants. Skin reflectance spectra were recorded before and after treatment.
+
+The researchers analysed changes associated with the optical characteristics of haemoglobin and the erythema index [[4]](https://pmc.ncbi.nlm.nih.gov/articles/PMC6499568/).
+
+Such methods may support the development of tools for more objective assessment of skin responses.
+
+However, this does not demonstrate that modern lasers can automatically identify every thermal injury or prevent all adverse events.
+
+Measuring an individual parameter and comprehensively assessing treatment safety are different tasks.
+
+### Temperature sensors and intelligent cooling
+
+Temperature is important both to laser hair removal and to equipment operation.
+
+Modern lasers may incorporate several different temperature sensors:
+
+- Diode module temperature sensors.
+
+- Coolant temperature sensors.
+
+- Handpiece contact surface sensors.
+
+- Skin surface temperature sensors, where supported by the device architecture.
+
+Each sensor measures a different part of the system.
+
+The temperature of the sapphire contact window is not equivalent to skin temperature. Skin surface temperature also does not directly establish the temperature inside the hair follicle.
+
+These distinctions matter when evaluating systems marketed as intelligent cooling.
+
+Automatic regulation may involve continuously measuring temperature, comparing it with a target value and controlling cooling components accordingly.
+
+This is known as closed-loop or feedback control.
+
+Artificial intelligence is not necessarily required for such a system to operate effectively.
+
+![Temperature measurement points](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/en/temperature-monitoring.svg)
+
+Temperature measurement points
+
+### Contact and motion sensors
+
+Certain laser and IPL systems incorporate sensors that assess contact between the handpiece and the skin.
+
+Their purpose may include preventing emission when the handpiece is incorrectly positioned.
+
+Motion sensors are another solution that can support practitioners working in dynamic treatment modes.
+
+Depending on the device architecture, a system may monitor movement, identify deviations or assist with treatment coverage.
+
+These features do not automatically eliminate the risk of excessive skin heating.
+
+Motion sensing does not replace an understanding of energy distribution, treatment overlap and tissue responses.
+
+Examples of contact, pigmentation and motion sensors can also be found in technical documentation for IPL devices [[5]](https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231215.pdf).
+
+Such functions should not be automatically attributed to every professional diode laser.
+
+### Dermoscopy and image analysis
+
+Digital dermoscopy can provide additional information that may not be available through conventional visual skin assessment.
+
+Magnified images allow practitioners to examine visible hair characteristics, distribution, variations in thickness and the skin surface.
+
+Standardised images can also support documentation of changes between appointments.
+
+In advanced systems, images may be transferred to software for analysis of selected features.
+
+Potential applications include automated counting of visible hairs, hair thickness estimation, image comparison and identification of areas requiring further observation.
+
+Accuracy depends on image quality, illumination, magnification and algorithm validation.
+
+The presence of a dermoscope does not itself indicate artificial intelligence.
+
+Dermoscopy does not replace medical dermatological assessment either. Suspicious skin lesions require appropriate medical evaluation.
+
+An example of integrating an additional optical instrument into a hair removal platform is LUMOS, which can be equipped with a dermoscope in selected configurations.
+
+### Does every intelligent laser use AI?
+
+From an engineering perspective, several levels of automation should be distinguished.
+
+#### Level 1. Factory treatment programmes
+
+The operator selects a skin phototype, body area and hair type. The device proposes previously stored settings.
+
+This is a preset-based system and does not necessarily involve artificial intelligence.
+
+#### Level 2. Rule-based algorithms
+
+Software processes information according to relationships established by the manufacturer.
+
+For example, a pigmentation measurement may be associated with a predefined parameter range.
+
+This can be more advanced than a basic preset but does not require machine learning.
+
+#### Level 3. Feedback control
+
+The device monitors a selected parameter and responds to changes.
+
+Automatic cooling regulation using temperature measurements is one example.
+
+This is control engineering and can operate without AI.
+
+#### Level 4. Machine learning
+
+The system uses a model developed from training data.
+
+Such a model may analyse images, classify selected skin or hair characteristics and support decision-making.
+
+Its value depends on data quality, validation and the conditions under which the system was evaluated.
+
+The model does not necessarily learn during each treatment. It may use previously trained parameters.
+
+![Levels of automation](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/en/automation-levels.svg)
+
+Levels of automation
+
+### How might an intelligent operator support system work?
+
+An advanced system may combine information from multiple sources.
+
+During assessment, it may collect information about skin pigmentation, visible hair characteristics and the treatment area.
+
+Software can then relate the measurements to the intended operating conditions of the device and present relevant information or recommendations to the practitioner.
+
+During operation, the system may monitor selected technical parameters, including handpiece temperature or skin contact.
+
+Abnormal conditions may trigger a warning or emission interlock if supported by the equipment architecture.
+
+After treatment, stored information can assist with documentation.
+
+Practitioner control remains essential. Software recommendations should not replace client assessment, knowledge of contraindications or compliance with manufacturer instructions.
+
+![Operator support system](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/en/intelligent-control-loop.svg)
+
+Operator support system
+
+### Emerging technology and future developments
+
+In 2025, European patent application EP4537779A1 was published, describing a concept for selecting laser handpiece parameters through analysis of skin and hair characteristics.
+
+The document describes the potential use of a hyperspectral camera, additional sensors and neural networks for classifying skin and hair characteristics and generating recommended settings [[6]](https://data.epo.org/publication-server/rest/v1.2/publication-dates/2025-04-16/patents/EP4537779NWA1/document.pdf).
+
+Hyperspectral imaging captures image information across numerous spectral bands, providing more information than conventional RGB photography.
+
+The patent application illustrates a possible direction for future technology.
+
+However, it does not establish clinical effectiveness or demonstrate that the proposed features are commercially available in every modern device.
+
+When evaluating innovative equipment, it is important to distinguish manufacturer claims, technical documentation, patent applications and clinical research.
+
+### Electronic treatment records
+
+Another practical area of development involves storing treatment information.
+
+Records may include appointment dates, anatomical treatment areas, handpiece selection, device settings and practitioner notes.
+
+Such documentation can support the assessment of subsequent appointments and continuity of care in clinics employing several practitioners.
+
+Where photographs or identifiable client information are stored, appropriate data protection and compliance with applicable privacy requirements are necessary.
+
+Maintaining treatment records is not artificial intelligence, but it can be a valuable feature of modern equipment.
+
+### What should you consider when buying an AI-enabled laser?
+
+Before purchasing equipment marketed as intelligent, practitioners should ask the manufacturer several questions:
+
+1. Which parameters does the device actually measure?
+2. Is pigmentation assessment quantitative or based on colour classification?
+3. Where is the temperature sensor located?
+4. Does the device monitor parameters during emission?
+5. Does the software recommend settings or automatically modify them?
+6. Which protective systems operate independently of the AI model?
+7. Are validation results available?
+8. Which skin phototypes and hair characteristics were evaluated?
+9. How is client information stored and protected?
+10. Can the device operate without an internet connection?
+11. Are software updates and technical support available?
+
+If a manufacturer cannot explain which data the system analyses, the AI label alone provides insufficient information about its capabilities.
+
+### Will artificial intelligence replace practitioners?
+
+The greatest current potential of intelligent systems lies in supporting practitioners.
+
+Automation may reduce repetitive tasks, improve documentation and provide additional information during skin assessment.
+
+It does not replace client interviews, professional assessment, knowledge of contraindications or the ability to respond to adverse reactions.
+
+Even advanced algorithms require accurate input data and appropriate use of equipment.
+
+The development of artificial intelligence does not eliminate the importance of practitioner experience. Instead, it may provide practitioners with more accurate and useful tools.
+
+### Conclusion
+
+The future of laser hair removal will probably involve not only improvements in laser sources but also improvements in the quality of information used during treatments.
+
+Melanin measurements, spectrophotometry, dermoscopy, sensors and automatic control systems may become important elements of this development.
+
+Their value should be assessed through actual functionality, measurement quality and validated capabilities rather than the presence of an AI label.
+
+At LTS Market, we focus on technologies that have practical relevance to professional aesthetic equipment operation.
+
+In the next article in this series, we will examine the possibilities of combining laser hair removal with other aesthetic technologies.
+
+### Frequently asked questions
+
+#### Does an AI-enabled laser automatically select every treatment parameter?
+
+Not necessarily. Automation depends on the device architecture. Some systems provide only presets or recommendations.
+
+#### Does skin phototype represent exact melanin content?
+
+No. Phototype primarily describes skin responses to sunlight. Optical measurements can provide additional pigmentation information.
+
+#### Does intelligent cooling require artificial intelligence?
+
+No. Automatic temperature regulation can use conventional feedback control.
+
+#### Does a dermoscope indicate the presence of AI?
+
+No. A dermoscope is an optical instrument. AI-based image analysis requires additional software.
+
+#### Does artificial intelligence eliminate the risk of complications?
+
+No. Intelligent systems may support practitioners but cannot eliminate every risk or replace appropriate client assessment.
+
+### Scientific references and technical documentation
+
+1. [Verkruysse W, Svaasand LO, Franco W, Nelson JS. Remittance at a single wavelength of 390 nm to quantify epidermal melanin concentration. Journal of Biomedical Optics. 2009;14(1):014005. DOI: 10.1117/1.3065542](https://pubmed.ncbi.nlm.nih.gov/19256693/)
+2. [Ross EV, Blalock TW, Winstanley D, Cohen JL, Childs JJ. Objective Melanin Measurements: Review of Novel Dosimetry Guidance Device for Intense Pulsed Light in Aesthetic Treatments. Journal of Drugs in Dermatology. 2016;15(4):421–432.](https://pubmed.ncbi.nlm.nih.gov/27050697/)
+3. [Lloyd AA, Graves MS, Ross EV. Epidermal Fluence Threshold Determination by Real-Time Melanin Measurements. Dermatologic Surgery. 2018;44(11):1427–1436. DOI: 10.1097/DSS.0000000000001606](https://pubmed.ncbi.nlm.nih.gov/30020097/)
+4. [Quantitative Analysis of Skin Erythema Due to Laser Hair Removal: A Diffusion Optical Spectroscopy Analysis. Journal of Lasers in Medical Sciences. 2019;10(2):97–103. DOI: 10.15171/jlms.2019.16](https://pmc.ncbi.nlm.nih.gov/articles/PMC6499568/)
+5. FDA. IPL hair removal device technical documentation. 510(k) summaries [K231215](https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231215.pdf) and [K253754](https://www.accessdata.fda.gov/cdrh_docs/pdf25/K253754.pdf). (Technical documentation.)
+6. European Patent Office. European patent application [EP4537779A1](https://data.epo.org/publication-server/rest/v1.2/publication-dates/2025-04-16/patents/EP4537779NWA1/document.pdf). Published 16 April 2025. (Patent application; not clinical efficacy evidence.)
+
+### Related reading
+
+- [Multi-wavelength laser hair removal](https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/)
+
+- [Dermatoscope in laser hair removal](https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/)
+
+- [LUMOS](https://ltsmarket.pl/en/new/lumos/)
+
+- [New equipment](https://ltsmarket.pl/en/nowe.html)
 
 [← All articles](https://ltsmarket.pl/en/blog/)
 
@@ -3371,7 +4099,7 @@ The answers to these questions offer substantially greater practical value than 
 
 Further developments in laser hair removal will probably involve not only additional wavelengths but also more precise control over their application.
 
-Independent spectral control, optical skin analysis, digital dermoscopy and temperature monitoring may support the development of more personalised treatments.
+Independent spectral control, [optical skin analysis](https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/), digital dermoscopy and temperature monitoring may support the development of more personalised treatments.
 
 Such technologies require appropriate clinical validation. Automation does not replace professional client assessment or operator knowledge.
 
@@ -3447,6 +4175,12 @@ LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
 
+LTS Market Blog2026-11-20
+
+### [Why Dermoscopy Matters in Laser Hair Removal](https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/)
+
+Explore how magnified hair and skin observation can support treatment documentation, consultations and professional laser hair removal workflows.
+
 LTS Market Blog2026-11-19
 
 ### [What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained](https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/)
@@ -3465,12 +4199,6 @@ Hair removal lasers
 
 Explore Lumos: four wavelengths, up to 4000 W, CRM, Android and ICE Flow. Includes a 24-month warranty, Polish technical support and a free website.
 
-Laser tattoo removal
-
-### [Safe tattoo removal with an Nd:YAG laser: what should you know?](https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/)
-
-How does Nd:YAG tattoo removal work? Learn about its benefits, limitations and choosing equipment for a clinic in Poland.
-
 ---
 
 ## LTS Market Blog
@@ -3486,6 +4214,12 @@ Other languages: [Polski](https://ltsmarket.pl/blog/page/3/), [Русский](h
 LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
+
+Laser tattoo removal
+
+### [Safe tattoo removal with an Nd:YAG laser: what should you know?](https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/)
+
+How does Nd:YAG tattoo removal work? Learn about its benefits, limitations and choosing equipment for a clinic in Poland.
 
 Beauty technologies
 
@@ -7027,6 +7761,12 @@ LTS Market
 
 Блог LTS Market2026-11-24
 
+### [Интеллектуальные лазеры для эпиляции: искусственный интеллект, анализ меланина и безопасность процедур](https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/)
+
+Действительно ли современный лазер использует искусственный интеллект? Разбираем измерение меланина, спектрофотометрию, датчики и автоматическое управление параметрами.
+
+Блог LTS Market2026-11-24
+
 ### [Многоволновые лазеры для эпиляции: физика, эффективность и маркетинговые мифы](https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/)
 
 Означают ли три длины волн более высокую эффективность? Разбираем физику многоволновых лазеров, конструкцию манипул, оптическую мощность и результаты клинических исследований.
@@ -7042,12 +7782,6 @@ LTS Market
 ### [Alpha или Alpha Mini? Сравниваем два диодных лазера для профессиональной эпиляции](https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/)
 
 Сравниваем диодные лазеры Alpha и Alpha Mini для профессиональной эпиляции. Характеристики, цены от 40 000 zł и возможность лизинга в Польше.
-
-Блог LTS Market2026-11-20
-
-### [Дерматоскоп при лазерной эпиляции — зачем он нужен?](https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/)
-
-Более подробная оценка волос и кожи, наблюдение за результатами и наглядные консультации. Разбираемся, чем дерматоскоп полезен косметологу.
 
 ---
 
@@ -7370,6 +8104,367 @@ Alpha стоит рассмотреть владельцам салонов, к�
 2. *Trichoscopic changes in hair during treatment of hirsutism with 1064-nm neodymium:yttrium-aluminum-garnet laser.* 2015. PMID: 26223429.
 3. *The dermatoscope in the hair clinic: Trichoscopy of scarring and nonscarring alopecia.* 2023. PMID: 37591567.
 4. *Role of Dermoscopy in Laser Therapy.* 2023. PMCID: PMC10506824.
+
+[← Все статьи](https://ltsmarket.pl/ru/blog/)
+
+---
+
+## Интеллектуальные лазеры для эпиляции: искусственный интеллект, анализ меланина и безопасность процедур
+
+Источник HTML: [Интеллектуальные лазеры для эпиляции: искусственный интеллект, анализ меланина и безопасность процедур](https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/)
+
+Язык: Русский
+
+Другие языковые версии: [Polski](https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/), [English](https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/)
+
+> Как искусственный интеллект, анализ меланина, спектрофотометрия и температурные датчики помогают повышать безопасность лазерной эпиляции.
+
+Блог LTS Market
+
+24.11.2026 · LTS Market
+
+Будущее лазерной эпиляции: технологии, эффективность и безопасность. Часть 2.
+
+На протяжении многих лет развитие оборудования для лазерной эпиляции было связано прежде всего с увеличением мощности, совершенствованием охлаждения и внедрением дополнительных длин волн.
+
+Сегодня все большее значение приобретает другое направление. Аппараты могут не только генерировать лазерное излучение, но и собирать информацию о коже, контролировать собственные рабочие параметры и помогать специалисту принимать решения.
+
+Измерение меланина, спектрофотометрия, цифровая дерматоскопия, температурные датчики и алгоритмы анализа изображений открывают новые возможности персонализации процедур.
+
+В описаниях современного оборудования все чаще встречается обозначение AI, или искусственный интеллект.
+
+Однако не каждая автоматическая функция является искусственным интеллектом. Для правильной оценки возможностей оборудования необходимо понимать различия между измерением, автоматизацией и применением обучаемых алгоритмов.
+
+### Почему оценка кожи так важна?
+
+В основе лазерной эпиляции лежит принцип селективного фототермолиза. Световая энергия поглощается меланином волоса и преобразуется в тепло, воздействующее на структуры волосяного фолликула.
+
+Однако меланин содержится также в эпидермисе.
+
+Часть лазерной энергии может поглощаться кожей еще до достижения волосяного фолликула. Количество поглощенной энергии зависит от пигментации кожи, длины волны и параметров импульса.
+
+Поэтому правильная оценка кожи имеет значение как для эффективности, так и для безопасности процедуры.
+
+Традиционно специалист использует опрос клиента, визуальную оценку и классификацию фототипов по Фицпатрику.
+
+Эти методы остаются необходимыми, однако могут дополняться объективными оптическими измерениями.
+
+### Шкала Фицпатрика и реальное количество меланина
+
+Классификация Фицпатрика включает шесть фототипов кожи. Первоначально она была разработана для оценки реакции кожи на солнечное излучение, включая склонность к ожогам и загару.
+
+Фототип не является непосредственным измерением концентрации меланина.
+
+Два человека с одинаковым фототипом могут иметь различную фактическую пигментацию кожи. Различия возможны и между отдельными участками тела одного человека.
+
+Значение имеют сезонные изменения, недавнее воздействие солнца и локальные нарушения пигментации.
+
+Следовательно, один только фототип не всегда предоставляет всю информацию, необходимую для выбора параметров процедуры.
+
+Объективное измерение пигментации может стать дополнительным источником информации.
+
+![Фототип и измерение пигментации](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/ru/phototype-vs-melanin.svg)
+
+Фототип и измерение пигментации
+
+### Что такое спектрофотометрия кожи?
+
+Спектрофотометрия представляет собой оптический метод анализа поглощения или отражения света материалом в различных спектральных диапазонах.
+
+При исследовании кожи измерения могут предоставлять информацию, связанную с содержанием меланина, гемоглобина и другими оптическими свойствами тканей.
+
+В упрощенном виде процесс выглядит следующим образом:
+
+1. Источник света освещает исследуемую поверхность.
+2. Часть света поглощается и рассеивается в тканях.
+3. Детектор регистрирует свет, возвращающийся от кожи.
+4. Программное обеспечение анализирует сигнал.
+5. Результат представляется в виде индекса пигментации или другого оптического параметра.
+
+Не каждый датчик цвета является спектрофотометром. Простые устройства могут использовать несколько отдельных длин волн, а более сложные системы анализируют широкий спектральный диапазон.
+
+Индекс меланина также не следует отождествлять с непосредственным измерением процентного содержания меланина в коже.
+
+Результат зависит от метода измерения, калибровки и используемого алгоритма.
+
+![Оптический анализ кожи](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/ru/skin-optical-analysis.svg)
+
+Оптический анализ кожи
+
+### Научное обоснование измерения меланина
+
+Исследования количественной оценки пигментации кожи ведутся уже много лет.
+
+В 2009 году Verkruysse и соавторы опубликовали в Journal of Biomedical Optics исследование оптического измерения света, возвращающегося от кожи, на длине волны 390 нм.
+
+В работе участвовали 23 добровольца, а измерения проводились на 749 участках кожи.
+
+Авторы изучали возможности оптической оценки пигментации эпидермиса и определения его толерантности к лазерному воздействию [[1]](https://pubmed.ncbi.nlm.nih.gov/19256693/).
+
+В 2016 году была опубликована работа об использовании измерителя меланина для поддержки выбора параметров IPL.
+
+В программном обеспечении применялись зависимости между пигментацией кожи и толерантностью эпидермиса. Авторы также описали опыт использования устройства более чем у 300 пациентов [[2]](https://pubmed.ncbi.nlm.nih.gov/27050697/).
+
+В 2018 году Lloyd, Graves и Ross представили исследование измерения меланина и толерантности эпидермиса при воздействии длинноимпульсных александритовых лазеров 755 нм и Nd:YAG-лазеров 1064 нм.
+
+Результаты показали практическую ценность количественной оценки пигментации как дополнительного инструмента выбора параметров [[3]](https://pubmed.ncbi.nlm.nih.gov/30020097/).
+
+Это не означает существования универсального алгоритма, способного автоматически подбирать настройки любого лазера.
+
+Однако объективный анализ пигментации имеет научное обоснование.
+
+### Анализ реакции кожи во время процедур
+
+Еще одним направлением развития является использование оптических методов для оценки изменений кожи.
+
+В 2019 году было опубликовано исследование спектроскопического анализа эритемы, связанной с лазерной эпиляцией.
+
+В исследовании участвовали 19 человек. Сравнивались спектры отраженного от кожи света до и после процедуры.
+
+Авторы анализировали изменения оптических характеристик гемоглобина и индекса эритемы [[4]](https://pmc.ncbi.nlm.nih.gov/articles/PMC6499568/).
+
+Подобные методы могут стать основой разработки инструментов для более объективной оценки реакции кожи.
+
+Однако это не является доказательством того, что современные лазеры способны автоматически обнаруживать любое термическое повреждение или предотвращать все осложнения.
+
+Измерение отдельного параметра и комплексная оценка безопасности являются разными задачами.
+
+### Температурные датчики и интеллектуальное охлаждение
+
+Температура играет важную роль как в процессе эпиляции, так и в работе оборудования.
+
+Современный лазер может использовать различные температурные датчики:
+
+- Датчики температуры диодного модуля.
+
+- Датчики температуры охлаждающей жидкости.
+
+- Датчики контактной поверхности манипулы.
+
+- Датчики температуры поверхности кожи, если они предусмотрены конструкцией.
+
+Каждый датчик контролирует отдельный элемент системы.
+
+Температура сапфирового окна манипулы не равна температуре кожи. Температура поверхности кожи также не позволяет непосредственно определить температуру внутри волосяного фолликула.
+
+Это различие необходимо учитывать при оценке систем интеллектуального охлаждения.
+
+Автоматическая регулировка может включать непрерывное считывание температуры, сравнение с заданным значением и управление охлаждающими элементами.
+
+Такую систему называют системой управления с обратной связью.
+
+Для выполнения этой функции искусственный интеллект не является обязательным.
+
+![Точки измерения температуры](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/ru/temperature-monitoring.svg)
+
+Точки измерения температуры
+
+### Датчики контакта и движения
+
+В отдельных лазерных системах и IPL-устройствах используются датчики контакта манипулы с кожей.
+
+Их задачей может быть ограничение возможности генерации излучения при неправильном положении устройства.
+
+Другим решением являются датчики движения, способные поддерживать оператора при работе в динамическом режиме.
+
+В зависимости от конструкции система может отслеживать движение манипулы, предупреждать об отклонениях или помогать контролировать обрабатываемую область.
+
+Это не означает автоматического устранения риска чрезмерного нагревания кожи.
+
+Датчик движения не заменяет понимания распределения энергии, перекрытия обрабатываемых участков и реакции тканей.
+
+Примеры применения датчиков контакта, пигментации и движения представлены также в технической документации IPL-устройств [[5]](https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231215.pdf).
+
+Нельзя автоматически приписывать подобные функции всем профессиональным диодным лазерам.
+
+### Дерматоскоп и анализ изображений
+
+Цифровая дерматоскопия позволяет получать дополнительную информацию, которая не всегда доступна при обычной визуальной оценке кожи.
+
+Увеличенное изображение помогает рассматривать видимые характеристики волос, их распределение, различия в толщине и поверхность кожи.
+
+Стандартизированные фотографии могут использоваться для документирования изменений между процедурами.
+
+В более сложных системах изображение может передаваться программному обеспечению для анализа отдельных характеристик.
+
+Потенциальные возможности включают автоматический подсчет видимых волос, оценку их толщины, сравнение фотографий и определение участков, требующих дополнительного наблюдения.
+
+Точность таких методов зависит от качества изображения, освещения, увеличения и валидации алгоритмов.
+
+Наличие дерматоскопа само по себе не означает использования искусственного интеллекта.
+
+Дерматоскоп также не заменяет дерматологическую диагностику. Подозрительные изменения кожи требуют соответствующей медицинской оценки.
+
+Примером интеграции дополнительного оптического инструмента в платформу для эпиляции является LUMOS, который в отдельных комплектациях может оснащаться дерматоскопом.
+
+### Каждый ли интеллектуальный лазер использует AI?
+
+С технической точки зрения необходимо различать несколько уровней автоматизации.
+
+#### Уровень 1. Заводские программы
+
+Оператор выбирает фототип кожи, область тела и тип волос. Аппарат предлагает заранее сохраненные настройки.
+
+Это система пресетов, которая не обязательно использует искусственный интеллект.
+
+#### Уровень 2. Алгоритмы на основе правил
+
+Программное обеспечение обрабатывает данные в соответствии с установленными производителем зависимостями.
+
+Например, определенному результату измерения пигментации соответствует предусмотренный диапазон параметров.
+
+Такая функция может быть сложнее обычного пресета, но не требует машинного обучения.
+
+#### Уровень 3. Управление с обратной связью
+
+Устройство контролирует определенный параметр и реагирует на его изменения.
+
+Примером является автоматическое управление охлаждением на основе показаний температурного датчика.
+
+Это регулирующая автоматика, которая может работать без AI.
+
+#### Уровень 4. Машинное обучение
+
+Система использует модель, разработанную на основе обучающих данных.
+
+Она может анализировать изображения, классифицировать характеристики кожи или волос и поддерживать принятие решений.
+
+Ценность такой технологии зависит от качества данных, объема валидации и условий, в которых модель была исследована.
+
+Модель не обязательно обучается во время каждой процедуры. Она может использовать заранее обученные параметры.
+
+![Уровни автоматизации](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/ru/automation-levels.svg)
+
+Уровни автоматизации
+
+### Как может работать интеллектуальная система поддержки оператора?
+
+Современная система может объединять информацию из нескольких источников.
+
+На этапе подготовки возможно получение данных о пигментации кожи, видимых характеристиках волос и обрабатываемой области.
+
+Программное обеспечение может сопоставлять результаты измерений с предусмотренной областью применения аппарата и предоставлять оператору информацию или рекомендации.
+
+Во время работы система может контролировать отдельные технические параметры, например температуру манипулы и ее контакт с кожей.
+
+При обнаружении отклонений возможны предупреждения или блокировка излучения, если это предусмотрено конструкцией.
+
+После процедуры сохранение данных может облегчать документирование ее проведения.
+
+При этом необходимо сохранять контроль оператора. Рекомендации программного обеспечения не должны заменять квалификацию клиента, знание противопоказаний и соблюдение инструкции производителя.
+
+![Система поддержки оператора](https://ltsmarket.pl/assets/img/blog/ai-hair-removal/ru/intelligent-control-loop.svg)
+
+Система поддержки оператора
+
+### Перспективные направления развития
+
+В 2025 году была опубликована европейская патентная заявка EP4537779A1, описывающая концепцию системы выбора параметров лазерной манипулы на основе анализа кожи и волос.
+
+Документ предусматривает использование гиперспектральной камеры, дополнительных датчиков и нейронных сетей для классификации характеристик кожи и волос, а также формирования рекомендаций по настройкам [[6]](https://data.epo.org/publication-server/rest/v1.2/publication-dates/2025-04-16/patents/EP4537779NWA1/document.pdf).
+
+Гиперспектральная визуализация позволяет регистрировать изображения в многочисленных спектральных диапазонах, предоставляя больше информации, чем стандартная RGB-фотография.
+
+Патентная заявка показывает возможное направление развития технологий.
+
+Однако она не является доказательством клинической эффективности и не подтверждает наличие описанных функций во всех современных аппаратах.
+
+При оценке инновационного оборудования необходимо различать заявления производителя, техническую документацию, патентные материалы и результаты клинических исследований.
+
+### Электронная документация процедур
+
+Еще одним практическим направлением развития является возможность сохранять информацию о проведенных процедурах.
+
+История может включать дату посещения, обрабатываемую область, использованную манипулу, настройки оборудования и комментарии оператора.
+
+Такая документация упрощает анализ последующих посещений и помогает обеспечивать последовательность работы в кабинетах с несколькими специалистами.
+
+Если система сохраняет фотографии или данные, позволяющие идентифицировать клиента, необходимо обеспечивать защиту информации и соблюдать требования законодательства о персональных данных.
+
+Хранение истории процедур не является искусственным интеллектом, но может быть полезной функцией современного оборудования.
+
+### На что обратить внимание при покупке лазера с AI?
+
+Перед покупкой оборудования стоит задать производителю следующие вопросы:
+
+1. Какие параметры аппарат измеряет фактически?
+2. Является ли измерение пигментации количественным или основано на классификации цвета?
+3. Где расположен температурный датчик?
+4. Контролируются ли параметры во время генерации излучения?
+5. Программное обеспечение предлагает настройки или автоматически изменяет их?
+6. Какие защитные системы работают независимо от AI?
+7. Имеются ли результаты валидации системы?
+8. Для каких фототипов и характеристик волос она исследована?
+9. Как хранятся и защищаются данные клиентов?
+10. Может ли аппарат работать без подключения к интернету?
+11. Доступны ли обновления программного обеспечения и техническая поддержка?
+
+Если производитель не может объяснить, какие данные анализирует система, обозначение AI не предоставляет достаточной информации о реальных возможностях аппарата.
+
+### Заменит ли искусственный интеллект косметолога?
+
+Главный потенциал интеллектуальных систем заключается в поддержке специалиста.
+
+Автоматизация может уменьшать количество повторяющихся действий, улучшать документацию и предоставлять дополнительные сведения при оценке кожи.
+
+Однако она не заменяет опрос клиента, профессиональную квалификацию, знание противопоказаний и умение реагировать на нежелательные реакции.
+
+Даже сложный алгоритм требует корректных входных данных и использования оборудования по назначению.
+
+Развитие искусственного интеллекта не означает отказа от опыта оператора. Оно может обеспечить специалиста более точными и полезными инструментами.
+
+### Заключение
+
+Будущее лазерной эпиляции, вероятно, связано не только с совершенствованием лазерных источников, но и с повышением качества информации, используемой при проведении процедур.
+
+Измерение меланина, спектрофотометрия, дерматоскопия, датчики и системы автоматического управления могут стать важными составляющими этого развития.
+
+Их ценность необходимо оценивать по реальным функциям, качеству измерений и подтвержденным возможностям, а не только по наличию обозначения AI.
+
+В LTS Market мы уделяем внимание технологиям, имеющим практическое значение для профессиональной работы косметологических кабинетов.
+
+В следующей части серии мы рассмотрим возможности сочетания лазерной эпиляции с другими технологиями аппаратной косметологии.
+
+### Частые вопросы
+
+#### Автоматически ли лазер с AI выбирает все параметры процедуры?
+
+Не всегда. Уровень автоматизации зависит от конструкции аппарата. Некоторые системы предлагают только пресеты или рекомендации.
+
+#### Соответствует ли фототип точному количеству меланина?
+
+Нет. Фототип характеризует прежде всего реакцию кожи на солнце. Оптическое измерение может предоставлять дополнительные сведения о пигментации.
+
+#### Требует ли интеллектуальное охлаждение искусственного интеллекта?
+
+Нет. Автоматическая регулировка температуры может использовать классическую систему с обратной связью.
+
+#### Означает ли наличие дерматоскопа использование AI?
+
+Нет. Дерматоскоп является оптическим инструментом. Анализ изображений с помощью AI требует дополнительного программного обеспечения.
+
+#### Устраняет ли искусственный интеллект риск осложнений?
+
+Нет. Интеллектуальные системы могут поддерживать оператора, но не устраняют все риски и необходимость правильной квалификации клиента.
+
+### Научные источники и техническая документация
+
+1. [Verkruysse W, Svaasand LO, Franco W, Nelson JS. Remittance at a single wavelength of 390 nm to quantify epidermal melanin concentration. Journal of Biomedical Optics. 2009;14(1):014005. DOI: 10.1117/1.3065542](https://pubmed.ncbi.nlm.nih.gov/19256693/)
+2. [Ross EV, Blalock TW, Winstanley D, Cohen JL, Childs JJ. Objective Melanin Measurements: Review of Novel Dosimetry Guidance Device for Intense Pulsed Light in Aesthetic Treatments. Journal of Drugs in Dermatology. 2016;15(4):421–432.](https://pubmed.ncbi.nlm.nih.gov/27050697/)
+3. [Lloyd AA, Graves MS, Ross EV. Epidermal Fluence Threshold Determination by Real-Time Melanin Measurements. Dermatologic Surgery. 2018;44(11):1427–1436. DOI: 10.1097/DSS.0000000000001606](https://pubmed.ncbi.nlm.nih.gov/30020097/)
+4. [Quantitative Analysis of Skin Erythema Due to Laser Hair Removal: A Diffusion Optical Spectroscopy Analysis. Journal of Lasers in Medical Sciences. 2019;10(2):97–103. DOI: 10.15171/jlms.2019.16](https://pmc.ncbi.nlm.nih.gov/articles/PMC6499568/)
+5. FDA. IPL hair removal device technical documentation. 510(k) summaries [K231215](https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231215.pdf) and [K253754](https://www.accessdata.fda.gov/cdrh_docs/pdf25/K253754.pdf). (Technical documentation.)
+6. European Patent Office. European patent application [EP4537779A1](https://data.epo.org/publication-server/rest/v1.2/publication-dates/2025-04-16/patents/EP4537779NWA1/document.pdf). Published 16 April 2025. (Patent application; not clinical efficacy evidence.)
+
+### Материалы по теме
+
+- [Многоволновые лазеры для эпиляции](https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/)
+
+- [Дерматоскоп в лазерной эпиляции](https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/)
+
+- [LUMOS](https://ltsmarket.pl/ru/novye/lumos/)
+
+- [Новые аппараты](https://ltsmarket.pl/ru/nowe.html)
 
 [← Все статьи](https://ltsmarket.pl/ru/blog/)
 
@@ -7997,7 +9092,7 @@ LTS MARKET · LUMOS
 
 Дальнейшее развитие лазерной эпиляции, вероятно, будет связано не только с добавлением новых длин волн, но и с более точным управлением их использованием.
 
-Независимое управление спектральными компонентами, оптический анализ кожи, цифровая дерматоскопия и температурный мониторинг могут способствовать развитию персонализированных процедур.
+Независимое управление спектральными компонентами, [оптический анализ кожи](https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/), цифровая дерматоскопия и температурный мониторинг могут способствовать развитию персонализированных процедур.
 
 Однако подобные решения требуют соответствующей клинической проверки. Автоматизация не заменяет профессиональную оценку состояния клиента и знания оператора.
 
@@ -8407,6 +9502,12 @@ LTS Market
 
 Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.
 
+Блог LTS Market2026-11-20
+
+### [Дерматоскоп при лазерной эпиляции — зачем он нужен?](https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/)
+
+Более подробная оценка волос и кожи, наблюдение за результатами и наглядные консультации. Разбираемся, чем дерматоскоп полезен косметологу.
+
 Блог LTS Market2026-11-19
 
 ### [Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC](https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/)
@@ -8425,12 +9526,6 @@ LTS Market
 
 Lumos: 4 длины волны, мощность до 4000 Вт, CRM, Android и ICE Flow. Гарантия 24 месяца, сервис [Laser Tech Service](https://lasertechservice.pl/) и сайт в подарок.
 
-Лазерное удаление татуировок
-
-### [Безопасное удаление татуировки лазером Nd:YAG: что важно знать?](https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/)
-
-Как работает удаление тату лазером Nd:YAG? Возможности, ограничения и выбор оборудования для кабинета в Польше.
-
 ---
 
 ## Блог LTS Market
@@ -8446,6 +9541,12 @@ Lumos: 4 длины волны, мощность до 4000 Вт, CRM, Android и
 LTS Market
 
 Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.
+
+Лазерное удаление татуировок
+
+### [Безопасное удаление татуировки лазером Nd:YAG: что важно знать?](https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/)
+
+Как работает удаление тату лазером Nd:YAG? Возможности, ограничения и выбор оборудования для кабинета в Польше.
 
 Косметологические технологии
 
