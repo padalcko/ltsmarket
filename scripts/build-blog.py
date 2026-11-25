@@ -6,6 +6,7 @@ import json
 import re
 import math
 import argparse
+import sys
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -14,7 +15,10 @@ DATA = CONTENT['site']
 POSTS = CONTENT['posts']
 parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--slug', help='Regenerate only this Polish article slug plus all blog listings')
+parser.add_argument('--article-only', action='store_true', help='With --slug, regenerate only the three article pages')
 args = parser.parse_args()
+if args.article_only and not args.slug:
+    parser.error('--article-only requires --slug')
 if args.slug and not any(post['pl']['slug'] == args.slug for post in POSTS):
     parser.error('Unknown Polish article slug')
 DOMAIN = 'https://ltsmarket.pl'
@@ -89,7 +93,9 @@ def build(lang, article, page=1):
         if not d.get('no_social_image'): schema['image']=DOMAIN+(social_image or '/assets/img/hero-lts-market.jpg')
         if d.get('modified'): schema['dateModified']=d['modified']
         if d.get('date'): schema['datePublished']=d['date']
-        if d.get('author'): schema['author']={'@type':'Organization','name':d['author']}
+        if d.get('author'):
+            schema['author']={'@type':'Organization','name':d['author']}
+            if d.get('author_url'): schema['author']['url']=d['author_url']
     else:
         schema['blogPost']=[{'@type':'BlogPosting','headline':post[lang]['title'],'url':DOMAIN+route(lang,i)} for i,post in page_posts(page)]
         schema.update({'@id': DOMAIN+listing_route(lang,page)+'#blog', 'url': DOMAIN+listing_route(lang,page)})
@@ -142,7 +148,7 @@ def build(lang, article, page=1):
     dest.write_text(link_service_names(output))
 
 # Route Market's generic blog links locally; retain the explicitly named service blog.
-for path in ROOT.rglob('*.html'):
+for path in ([] if args.article_only else ROOT.rglob('*.html')):
     lang=path.relative_to(ROOT).parts[0]
     lang=lang if lang in ('en','ru') else 'pl'
     source=path.read_text()
@@ -151,10 +157,15 @@ for path in ROOT.rglob('*.html'):
         path.write_text(source)
 for lang in DATA:
     for article in range(len(POSTS) + 1):
-        if not args.slug or not article or POSTS[article - 1]['pl']['slug'] == args.slug:
+        if (not args.article_only or article) and (not args.slug or not article or POSTS[article - 1]['pl']['slug'] == args.slug):
             build(lang,article)
-    for page in range(2, PAGE_COUNT + 1):
-        build(lang,0,page)
+    if not args.article_only:
+        for page in range(2, PAGE_COUNT + 1):
+            build(lang,0,page)
+
+if args.article_only:
+    print('Built three localized article pages.')
+    sys.exit(0)
 
 # Preserve existing sitemap entries and refresh just the blog routes.
 ns='http://www.sitemaps.org/schemas/sitemap/0.9'

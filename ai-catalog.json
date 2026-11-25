@@ -58,7 +58,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "0dd92647cd718969124eee535ea86621e20b9cc63c5268c067467d6a8cfd8d93",
+      "contentSha256": "a832d2b15fdf4dd0da9effffc43ed111f0923b785df16ba9aa79485d0c005862",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -76,23 +76,23 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
-              "headline": "TOP 4 profesjonalne lasery do epilacji w 2026 roku",
-              "url": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
+              "headline": "Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia",
+              "url": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/"
             },
             {
               "@type": "BlogPosting",
-              "headline": "Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu",
-              "url": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
+              "headline": "Technologie łączone w kosmetologii: epilacja laserowa, fotoodmładzanie i indywidualne programy zabiegowe",
+              "url": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/"
             },
             {
               "@type": "BlogPosting",
-              "headline": "Dermatoskop — dodatkowe narzędzie kosmetologa. Dlaczego warto mieć go w laserze do epilacji?",
-              "url": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
+              "headline": "Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów",
+              "url": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/"
             },
             {
               "@type": "BlogPosting",
-              "headline": "Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC",
-              "url": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
+              "headline": "Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe",
+              "url": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/"
             }
           ]
         },
@@ -388,6 +388,147 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/",
+      "markdownUrl": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/index.md",
+      "language": "pl",
+      "type": "articles",
+      "title": "Technologie łączone w kosmetologii: epilacja laserowa, fotoodmładzanie i indywidualne programy zabiegowe",
+      "description": "Poznaj różnice między epilacją laserową, IPL, BBL, laserami frakcyjnymi i RF oraz możliwości ich łączenia w kosmetologii aparaturowej.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/",
+        "en": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/",
+        "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/",
+        "x-default": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/"
+      },
+      "contentSha256": "87d0b56427ce0bf3038c979fd2b064e1ce0c8d882c9d562a046fa473257f5668",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/#article",
+          "url": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/",
+          "name": "Technologie łączone w kosmetologii: epilacja laserowa, fotoodmładzanie i indywidualne programy zabiegowe",
+          "description": "Poznaj różnice między epilacją laserową, IPL, BBL, laserami frakcyjnymi i RF oraz możliwości ich łączenia w kosmetologii aparaturowej.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Technologie łączone w kosmetologii: epilacja laserowa, fotoodmładzanie i indywidualne programy zabiegowe",
+          "mainEntityOfPage": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-25",
+          "datePublished": "2026-11-25",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Technologie łączone w kosmetologii: epilacja laserowa, fotoodmładzanie i indywidualne programy zabiegowe",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/",
+      "markdownUrl": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/index.md",
+      "language": "pl",
+      "type": "articles",
+      "title": "Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe",
+      "description": "Jak działają lasery wielofalowe do epilacji? Poznaj znaczenie długości fal, mocy, optyki oraz wyniki badań naukowych.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/",
+        "en": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/",
+        "ru": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/",
+        "x-default": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/"
+      },
+      "contentSha256": "31533e126809b9077f24e1795c12fc0bdaaefa30ebd54c1ae264cb12aa45b721",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/#article",
+          "url": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/",
+          "name": "Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe",
+          "description": "Jak działają lasery wielofalowe do epilacji? Poznaj znaczenie długości fal, mocy, optyki oraz wyniki badań naukowych.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe",
+          "mainEntityOfPage": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/",
+          "image": "https://ltsmarket.pl/assets/img/blog/multi-wavelength/pl/selective-photothermolysis.svg",
+          "dateModified": "2026-11-24",
+          "datePublished": "2026-11-24",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/",
       "markdownUrl": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/index.md",
       "language": "pl",
@@ -522,6 +663,77 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/",
+      "markdownUrl": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/index.md",
+      "language": "pl",
+      "type": "articles",
+      "title": "Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia",
+      "description": "Co wpływa na szybkość, skuteczność i komfort epilacji laserowej? Moc lasera diodowego, energia impulsu, optyka FAC i systemy chłodzenia.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/",
+        "en": "https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/",
+        "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/",
+        "x-default": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/"
+      },
+      "contentSha256": "a3a3f4de3c2ffc4959b637e46e602aa3b13238db8cba7b117f0ff289d1b09f01",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/#article",
+          "url": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/",
+          "name": "Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia",
+          "description": "Co wpływa na szybkość, skuteczność i komfort epilacji laserowej? Moc lasera diodowego, energia impulsu, optyka FAC i systemy chłodzenia.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia",
+          "mainEntityOfPage": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-25",
+          "datePublished": "2026-11-25",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/",
       "markdownUrl": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/index.md",
       "language": "pl",
@@ -598,13 +810,88 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "4b4d694590fa2de02e7ac2b8b5f94fb74e9d573b4518f487434da1171f1cb9cf",
+      "contentSha256": "aed087f5f141fafbd7c42a4eac86390780e96918db80f3d3b195b1155d9374a3",
       "structuredData": [
         {
           "@context": "https://schema.org",
           "@type": "Blog",
           "@id": "https://ltsmarket.pl/blog/page/2/#blog",
           "url": "https://ltsmarket.pl/blog/page/2/",
+          "name": "Blog LTS Market",
+          "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "TOP 4 profesjonalne lasery do epilacji w 2026 roku",
+              "url": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu",
+              "url": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Dermatoskop — dodatkowe narzędzie kosmetologa. Dlaczego warto mieć go w laserze do epilacji?",
+              "url": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC",
+              "url": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/blog/page/3/",
+      "markdownUrl": "https://ltsmarket.pl/blog/page/3/index.md",
+      "language": "pl",
+      "type": "main-pages",
+      "title": "Blog LTS Market",
+      "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/page/3/",
+        "en": "https://ltsmarket.pl/en/blog/page/3/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
+        "x-default": "https://ltsmarket.pl/blog/page/3/"
+      },
+      "contentSha256": "537750dba5d1b15c9d2278180f051cdf214b8e2310fd3b5eded1f31c1b282b90",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Blog",
+          "@id": "https://ltsmarket.pl/blog/page/3/#blog",
+          "url": "https://ltsmarket.pl/blog/page/3/",
           "name": "Blog LTS Market",
           "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
           "inLanguage": "pl",
@@ -661,25 +948,25 @@
       ]
     },
     {
-      "url": "https://ltsmarket.pl/blog/page/3/",
-      "markdownUrl": "https://ltsmarket.pl/blog/page/3/index.md",
+      "url": "https://ltsmarket.pl/blog/page/4/",
+      "markdownUrl": "https://ltsmarket.pl/blog/page/4/index.md",
       "language": "pl",
       "type": "main-pages",
       "title": "Blog LTS Market",
       "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
       "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/3/",
-        "en": "https://ltsmarket.pl/en/blog/page/3/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
-        "x-default": "https://ltsmarket.pl/blog/page/3/"
+        "pl": "https://ltsmarket.pl/blog/page/4/",
+        "en": "https://ltsmarket.pl/en/blog/page/4/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/4/",
+        "x-default": "https://ltsmarket.pl/blog/page/4/"
       },
-      "contentSha256": "3a7afb4b03a42aa81bb871e338405fe0656738b0710b89d0b2519f94e7fa9a52",
+      "contentSha256": "d3d4e55f8974e40b70e3509af08d7a857499e48359efd5d844e6744612ed5485",
       "structuredData": [
         {
           "@context": "https://schema.org",
           "@type": "Blog",
-          "@id": "https://ltsmarket.pl/blog/page/3/#blog",
-          "url": "https://ltsmarket.pl/blog/page/3/",
+          "@id": "https://ltsmarket.pl/blog/page/4/#blog",
+          "url": "https://ltsmarket.pl/blog/page/4/",
           "name": "Blog LTS Market",
           "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
           "inLanguage": "pl",
@@ -714,6 +1001,76 @@
               "name": "Blog LTS Market",
               "item": {
                 "@id": "https://ltsmarket.pl/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/",
+      "markdownUrl": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/index.md",
+      "language": "pl",
+      "type": "articles",
+      "title": "Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów",
+      "description": "Jak AI, pomiar melaniny, spektrofotometria i czujniki temperatury wspierają bezpieczeństwo oraz personalizację epilacji laserowej?",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/",
+        "en": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/",
+        "ru": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/",
+        "x-default": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/"
+      },
+      "contentSha256": "52d7f107427e22c6d805c226822d1e28ffc2b2929ca97791acdb044d83432426",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/#article",
+          "url": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/",
+          "name": "Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów",
+          "description": "Jak AI, pomiar melaniny, spektrofotometria i czujniki temperatury wspierają bezpieczeństwo oraz personalizację epilacji laserowej?",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów",
+          "mainEntityOfPage": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/",
+          "image": "https://ltsmarket.pl/assets/img/blog/ai-hair-removal/pl/phototype-vs-melanin.svg",
+          "dateModified": "2026-11-24",
+          "datePublished": "2026-11-24",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/"
               }
             }
           ]
@@ -909,7 +1266,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "741ed972bb62df7c27561063db06db26c6981594f23e01bd8422d2708a1283dc",
+      "contentSha256": "a7d17a3d36706162e68c37594fbdc645009f2aff97f5f8bee7a5770a44087830",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -927,23 +1284,23 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
-              "headline": "Top 4 Professional Laser Hair Removal Machines in 2026",
-              "url": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/"
+              "headline": "Fast and comfortable laser hair removal: power, spot size, optics and cooling systems",
+              "url": "https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/"
             },
             {
               "@type": "BlogPosting",
-              "headline": "Alpha vs Alpha Mini: Which Diode Laser Is Right for Your Beauty Salon?",
-              "url": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/"
+              "headline": "Combined aesthetic technologies: laser hair removal, photorejuvenation and personalised treatment programmes",
+              "url": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/"
             },
             {
               "@type": "BlogPosting",
-              "headline": "Dermoscopy: An Additional Tool for Laser Hair Removal Professionals",
-              "url": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/"
+              "headline": "Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety",
+              "url": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/"
             },
             {
               "@type": "BlogPosting",
-              "headline": "What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained",
-              "url": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/"
+              "headline": "Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths",
+              "url": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/"
             }
           ]
         },
@@ -1035,6 +1392,76 @@
               "name": "Alpha vs Alpha Mini: Which Diode Laser Is Right for Your Beauty Salon?",
               "item": {
                 "@id": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/index.md",
+      "language": "en",
+      "type": "articles",
+      "title": "Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety",
+      "description": "Discover how AI, melanin measurements, optical skin analysis and temperature sensors can support safer and more personalised laser hair removal.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/",
+        "en": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/",
+        "ru": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/",
+        "x-default": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/"
+      },
+      "contentSha256": "6c2e91932a9a329a03a86db8ff902ccaa30b40e9e56dc4b83df9ee5c55a936a8",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/#article",
+          "url": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/",
+          "name": "Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety",
+          "description": "Discover how AI, melanin measurements, optical skin analysis and temperature sensors can support safer and more personalised laser hair removal.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety",
+          "mainEntityOfPage": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/",
+          "image": "https://ltsmarket.pl/assets/img/blog/ai-hair-removal/en/phototype-vs-melanin.svg",
+          "dateModified": "2026-11-24",
+          "datePublished": "2026-11-24",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/"
               }
             }
           ]
@@ -1308,6 +1735,148 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/index.md",
+      "language": "en",
+      "type": "articles",
+      "title": "Combined aesthetic technologies: laser hair removal, photorejuvenation and personalised treatment programmes",
+      "description": "Explore the differences between laser hair removal, IPL, BBL, fractional lasers and RF, and their roles in combined aesthetic treatment programmes.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/",
+        "en": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/",
+        "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/",
+        "x-default": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/"
+      },
+      "contentSha256": "dec3924c078e0a04bedad48222805e9b1de42a5c043a5b84c9d6de81297f8865",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/#article",
+          "url": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/",
+          "name": "Combined aesthetic technologies: laser hair removal, photorejuvenation and personalised treatment programmes",
+          "description": "Explore the differences between laser hair removal, IPL, BBL, fractional lasers and RF, and their roles in combined aesthetic treatment programmes.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Combined aesthetic technologies: laser hair removal, photorejuvenation and personalised treatment programmes",
+          "mainEntityOfPage": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-25",
+          "datePublished": "2026-11-25",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Combined aesthetic technologies: laser hair removal, photorejuvenation and personalised treatment programmes",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/index.md",
+      "language": "en",
+      "type": "articles",
+      "title": "Fast and comfortable laser hair removal: power, spot size, optics and cooling systems",
+      "description": "Explore how diode laser power, pulse energy, spot size, FAC optics and cooling influence the efficiency and comfort of laser hair removal.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/",
+        "en": "https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/",
+        "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/",
+        "x-default": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/"
+      },
+      "contentSha256": "582c806fea488c0127447ec341334fb6915a5b1eb2d5f12b6ae049a107c51d53",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/#article",
+          "url": "https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/",
+          "name": "Fast and comfortable laser hair removal: power, spot size, optics and cooling systems",
+          "description": "Explore how diode laser power, pulse energy, spot size, FAC optics and cooling influence the efficiency and comfort of laser hair removal.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Fast and comfortable laser hair removal: power, spot size, optics and cooling systems",
+          "mainEntityOfPage": "https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-25",
+          "datePublished": "2026-11-25",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Fast and comfortable laser hair removal: power, spot size, optics and cooling systems",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/",
       "markdownUrl": "https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/index.md",
       "language": "en",
@@ -1373,6 +1942,76 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/index.md",
+      "language": "en",
+      "type": "articles",
+      "title": "Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths",
+      "description": "Discover how multi-wavelength hair removal lasers work, including wavelength selection, optical power, diode technology and clinical research.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/",
+        "en": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/",
+        "ru": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/",
+        "x-default": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/"
+      },
+      "contentSha256": "e0b2ce61f7d1d38933f4bcbba9a06e23182a1b8b90fd3cc44f9b07786346ba88",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/#article",
+          "url": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/",
+          "name": "Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths",
+          "description": "Discover how multi-wavelength hair removal lasers work, including wavelength selection, optical power, diode technology and clinical research.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths",
+          "mainEntityOfPage": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/",
+          "image": "https://ltsmarket.pl/assets/img/blog/multi-wavelength/en/selective-photothermolysis.svg",
+          "dateModified": "2026-11-24",
+          "datePublished": "2026-11-24",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/en/blog/page/2/",
       "markdownUrl": "https://ltsmarket.pl/en/blog/page/2/index.md",
       "language": "en",
@@ -1385,13 +2024,88 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "3a888e76befc6320433093b1e457a6119cb41f5b76c06a21fd00de83740fea73",
+      "contentSha256": "573a974e1f52a8789f3fedd5edc65820e6803c59dc1e8aae6adb97f0381bd7f9",
       "structuredData": [
         {
           "@context": "https://schema.org",
           "@type": "Blog",
           "@id": "https://ltsmarket.pl/en/blog/page/2/#blog",
           "url": "https://ltsmarket.pl/en/blog/page/2/",
+          "name": "LTS Market Blog",
+          "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "Top 4 Professional Laser Hair Removal Machines in 2026",
+              "url": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Alpha vs Alpha Mini: Which Diode Laser Is Right for Your Beauty Salon?",
+              "url": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Dermoscopy: An Additional Tool for Laser Hair Removal Professionals",
+              "url": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained",
+              "url": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/en/blog/page/3/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/page/3/index.md",
+      "language": "en",
+      "type": "main-pages",
+      "title": "LTS Market Blog",
+      "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/page/3/",
+        "en": "https://ltsmarket.pl/en/blog/page/3/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
+        "x-default": "https://ltsmarket.pl/blog/page/3/"
+      },
+      "contentSha256": "cf0c2f57f23eba6343128916b3e3d43d70656d206f4fe75577966e884bbc4dec",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Blog",
+          "@id": "https://ltsmarket.pl/en/blog/page/3/#blog",
+          "url": "https://ltsmarket.pl/en/blog/page/3/",
           "name": "LTS Market Blog",
           "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
           "inLanguage": "en",
@@ -1448,25 +2162,25 @@
       ]
     },
     {
-      "url": "https://ltsmarket.pl/en/blog/page/3/",
-      "markdownUrl": "https://ltsmarket.pl/en/blog/page/3/index.md",
+      "url": "https://ltsmarket.pl/en/blog/page/4/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/page/4/index.md",
       "language": "en",
       "type": "main-pages",
       "title": "LTS Market Blog",
       "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
       "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/3/",
-        "en": "https://ltsmarket.pl/en/blog/page/3/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
-        "x-default": "https://ltsmarket.pl/blog/page/3/"
+        "pl": "https://ltsmarket.pl/blog/page/4/",
+        "en": "https://ltsmarket.pl/en/blog/page/4/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/4/",
+        "x-default": "https://ltsmarket.pl/blog/page/4/"
       },
-      "contentSha256": "62fb64cc8d5f4555fc170c91b721031aa259e6305a313d1a746c70f44e72f742",
+      "contentSha256": "7b9cb6c2247af60a6e55110f1c111ac98904da5c4e05da8c2c0daebfb1f5e8aa",
       "structuredData": [
         {
           "@context": "https://schema.org",
           "@type": "Blog",
-          "@id": "https://ltsmarket.pl/en/blog/page/3/#blog",
-          "url": "https://ltsmarket.pl/en/blog/page/3/",
+          "@id": "https://ltsmarket.pl/en/blog/page/4/#blog",
+          "url": "https://ltsmarket.pl/en/blog/page/4/",
           "name": "LTS Market Blog",
           "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
           "inLanguage": "en",
@@ -3587,7 +4301,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "f6fa2a01d5aff3bb9ac190cb9d94cf1005420f96caefd107f64725d6a69ee8e5",
+      "contentSha256": "030b5e6190ecf58f184a40f84a0b0680e9f4c3a4ce3f03581d2114dc0680101a",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -3605,23 +4319,23 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
-              "headline": "ТОП-4 профессиональных лазеров для эпиляции в 2026 году",
-              "url": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/"
+              "headline": "Быстрая и комфортная лазерная эпиляция: мощность, размер рабочего пятна, оптика и системы охлаждения",
+              "url": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/"
             },
             {
               "@type": "BlogPosting",
-              "headline": "Alpha или Alpha Mini? Сравниваем два диодных лазера для профессиональной эпиляции",
-              "url": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/"
+              "headline": "Комбинированные технологии в косметологии: лазерная эпиляция, фотоомоложение и индивидуальные программы процедур",
+              "url": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/"
             },
             {
               "@type": "BlogPosting",
-              "headline": "Дерматоскоп — дополнительный инструмент косметолога. Почему он полезен при лазерной эпиляции?",
-              "url": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/"
+              "headline": "Интеллектуальные лазеры для эпиляции: искусственный интеллект, анализ меланина и безопасность процедур",
+              "url": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/"
             },
             {
               "@type": "BlogPosting",
-              "headline": "Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC",
-              "url": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/"
+              "headline": "Многоволновые лазеры для эпиляции: физика, эффективность и маркетинговые мифы",
+              "url": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/"
             }
           ]
         },
@@ -3853,6 +4567,76 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/index.md",
+      "language": "ru",
+      "type": "articles",
+      "title": "Интеллектуальные лазеры для эпиляции: искусственный интеллект, анализ меланина и безопасность процедур",
+      "description": "Как искусственный интеллект, анализ меланина, спектрофотометрия и температурные датчики помогают повышать безопасность лазерной эпиляции.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/",
+        "en": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/",
+        "ru": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/",
+        "x-default": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/"
+      },
+      "contentSha256": "3343ea7cf4a4f066203eb62782980f0a1fa4340cf4258c5c88d4a3ba23ee3203",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/#article",
+          "url": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/",
+          "name": "Интеллектуальные лазеры для эпиляции: искусственный интеллект, анализ меланина и безопасность процедур",
+          "description": "Как искусственный интеллект, анализ меланина, спектрофотометрия и температурные датчики помогают повышать безопасность лазерной эпиляции.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Интеллектуальные лазеры для эпиляции: искусственный интеллект, анализ меланина и безопасность процедур",
+          "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/",
+          "image": "https://ltsmarket.pl/assets/img/blog/ai-hair-removal/ru/phototype-vs-melanin.svg",
+          "dateModified": "2026-11-24",
+          "datePublished": "2026-11-24",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Интеллектуальные лазеры для эпиляции: искусственный интеллект, анализ меланина и безопасность процедур",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/",
       "markdownUrl": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/index.md",
       "language": "ru",
@@ -3910,6 +4694,77 @@
               "name": "Лазерная эпиляция как бизнес: почему стоит запланировать открытие кабинета на осень?",
               "item": {
                 "@id": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/index.md",
+      "language": "ru",
+      "type": "articles",
+      "title": "Комбинированные технологии в косметологии: лазерная эпиляция, фотоомоложение и индивидуальные программы процедур",
+      "description": "Чем отличаются лазерная эпиляция, IPL, BBL, фракционные лазеры и RF. Возможности сочетания технологий в аппаратной косметологии.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/",
+        "en": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/",
+        "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/",
+        "x-default": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/"
+      },
+      "contentSha256": "3bd0e1f8b515d2614851a24934d989bc2a18e9a2e82f9edc843d4a1ddab9bd47",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/#article",
+          "url": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/",
+          "name": "Комбинированные технологии в косметологии: лазерная эпиляция, фотоомоложение и индивидуальные программы процедур",
+          "description": "Чем отличаются лазерная эпиляция, IPL, BBL, фракционные лазеры и RF. Возможности сочетания технологий в аппаратной косметологии.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Комбинированные технологии в косметологии: лазерная эпиляция, фотоомоложение и индивидуальные программы процедур",
+          "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-25",
+          "datePublished": "2026-11-25",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Комбинированные технологии в косметологии: лазерная эпиляция, фотоомоложение и индивидуальные программы процедур",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/"
               }
             }
           ]
@@ -3975,6 +4830,76 @@
               "name": "Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса",
               "item": {
                 "@id": "https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/index.md",
+      "language": "ru",
+      "type": "articles",
+      "title": "Многоволновые лазеры для эпиляции: физика, эффективность и маркетинговые мифы",
+      "description": "Как работают многоволновые лазеры для эпиляции? Длина волны, оптическая мощность, конструкция манипулы и результаты научных исследований.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/",
+        "en": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/",
+        "ru": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/",
+        "x-default": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/"
+      },
+      "contentSha256": "c4a7da3eadb66548deb0c4bb7e10e669443b7400b6e0af4746263a4e95b1b773",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/#article",
+          "url": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/",
+          "name": "Многоволновые лазеры для эпиляции: физика, эффективность и маркетинговые мифы",
+          "description": "Как работают многоволновые лазеры для эпиляции? Длина волны, оптическая мощность, конструкция манипулы и результаты научных исследований.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Многоволновые лазеры для эпиляции: физика, эффективность и маркетинговые мифы",
+          "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/",
+          "image": "https://ltsmarket.pl/assets/img/blog/multi-wavelength/ru/selective-photothermolysis.svg",
+          "dateModified": "2026-11-24",
+          "datePublished": "2026-11-24",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Многоволновые лазеры для эпиляции: физика, эффективность и маркетинговые мифы",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/"
               }
             }
           ]
@@ -4115,6 +5040,77 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/index.md",
+      "language": "ru",
+      "type": "articles",
+      "title": "Быстрая и комфортная лазерная эпиляция: мощность, размер рабочего пятна, оптика и системы охлаждения",
+      "description": "Что определяет скорость, эффективность и комфорт лазерной эпиляции? Мощность диодов, энергия импульса, размер пятна, оптика FAC и охлаждение.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/",
+        "en": "https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/",
+        "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/",
+        "x-default": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/"
+      },
+      "contentSha256": "86cda5797898bfb678ddba4793c2ab72a70ff7580f76a701e39635ce7cb5912a",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/#article",
+          "url": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/",
+          "name": "Быстрая и комфортная лазерная эпиляция: мощность, размер рабочего пятна, оптика и системы охлаждения",
+          "description": "Что определяет скорость, эффективность и комфорт лазерной эпиляции? Мощность диодов, энергия импульса, размер пятна, оптика FAC и охлаждение.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Быстрая и комфортная лазерная эпиляция: мощность, размер рабочего пятна, оптика и системы охлаждения",
+          "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/",
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-25",
+          "datePublished": "2026-11-25",
+          "author": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Быстрая и комфортная лазерная эпиляция: мощность, размер рабочего пятна, оптика и системы охлаждения",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/ru/blog/page/2/",
       "markdownUrl": "https://ltsmarket.pl/ru/blog/page/2/index.md",
       "language": "ru",
@@ -4127,13 +5123,88 @@
         "ru": "https://ltsmarket.pl/ru/blog/page/2/",
         "x-default": "https://ltsmarket.pl/blog/page/2/"
       },
-      "contentSha256": "1a128eefffa8b8d4f0fac35ed1096ad741857b77e690e45547ead1b5c8b2fd45",
+      "contentSha256": "ff8d705f8424f2e5590c2cf5807334e9054745718071cfab787461b5d4a82be6",
       "structuredData": [
         {
           "@context": "https://schema.org",
           "@type": "Blog",
           "@id": "https://ltsmarket.pl/ru/blog/page/2/#blog",
           "url": "https://ltsmarket.pl/ru/blog/page/2/",
+          "name": "Блог LTS Market",
+          "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "blogPost": [
+            {
+              "@type": "BlogPosting",
+              "headline": "ТОП-4 профессиональных лазеров для эпиляции в 2026 году",
+              "url": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Alpha или Alpha Mini? Сравниваем два диодных лазера для профессиональной эпиляции",
+              "url": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Дерматоскоп — дополнительный инструмент косметолога. Почему он полезен при лазерной эпиляции?",
+              "url": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/"
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC",
+              "url": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://ltsmarket.pl/ru/blog/page/3/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/page/3/index.md",
+      "language": "ru",
+      "type": "main-pages",
+      "title": "Блог LTS Market",
+      "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/page/3/",
+        "en": "https://ltsmarket.pl/en/blog/page/3/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
+        "x-default": "https://ltsmarket.pl/blog/page/3/"
+      },
+      "contentSha256": "32cce42803714907e1f1364c1f0d6185f93fd9e332f576248dba9d50b09db819",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Blog",
+          "@id": "https://ltsmarket.pl/ru/blog/page/3/#blog",
+          "url": "https://ltsmarket.pl/ru/blog/page/3/",
           "name": "Блог LTS Market",
           "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
           "inLanguage": "ru",
@@ -4190,25 +5261,25 @@
       ]
     },
     {
-      "url": "https://ltsmarket.pl/ru/blog/page/3/",
-      "markdownUrl": "https://ltsmarket.pl/ru/blog/page/3/index.md",
+      "url": "https://ltsmarket.pl/ru/blog/page/4/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/page/4/index.md",
       "language": "ru",
       "type": "main-pages",
       "title": "Блог LTS Market",
       "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
       "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/3/",
-        "en": "https://ltsmarket.pl/en/blog/page/3/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
-        "x-default": "https://ltsmarket.pl/blog/page/3/"
+        "pl": "https://ltsmarket.pl/blog/page/4/",
+        "en": "https://ltsmarket.pl/en/blog/page/4/",
+        "ru": "https://ltsmarket.pl/ru/blog/page/4/",
+        "x-default": "https://ltsmarket.pl/blog/page/4/"
       },
-      "contentSha256": "a5ed01d5403bd85ae5a45ec6d40f870979a3a302ad87c1d00bf7d28939f3b248",
+      "contentSha256": "d5d59054abc0ced0808a363d0f555d98bcb0c586b955b65bffbaab20e656f704",
       "structuredData": [
         {
           "@context": "https://schema.org",
           "@type": "Blog",
-          "@id": "https://ltsmarket.pl/ru/blog/page/3/#blog",
-          "url": "https://ltsmarket.pl/ru/blog/page/3/",
+          "@id": "https://ltsmarket.pl/ru/blog/page/4/#blog",
+          "url": "https://ltsmarket.pl/ru/blog/page/4/",
           "name": "Блог LTS Market",
           "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
           "inLanguage": "ru",

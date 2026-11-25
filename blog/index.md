@@ -12,6 +12,18 @@ LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
 
+Blog LTS Market
+
+## [Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia](https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/)
+
+Czy mocniejszy laser zawsze oznacza szybszą i skuteczniejszą epilację? Wyjaśniamy znaczenie mocy, wielkości plamki zabiegowej, optyki FAC i chłodzenia.
+
+Blog LTS Market
+
+## [Technologie łączone w kosmetologii: epilacja laserowa, fotoodmładzanie i indywidualne programy zabiegowe](https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/)
+
+Jak połączyć różne technologie kosmetologiczne w jednej ofercie gabinetu? Wyjaśniamy różnice między laserami, IPL, BBL, metodami frakcyjnymi i RF.
+
 Blog LTS Market2026-11-24
 
 ## [Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów](https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/)
@@ -23,15 +35,3 @@ Blog LTS Market2026-11-24
 ## [Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe](https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/)
 
 Czy trzy długości fal rzeczywiście oznaczają większą skuteczność? Wyjaśniamy fizykę laserów wielofalowych, konstrukcję głowic, znaczenie mocy optycznej oraz wyniki badań klinicznych.
-
-Blog LTS Market2026-11-24
-
-## [TOP 4 profesjonalne lasery do epilacji w 2026 roku](https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/)
-
-Laser aleksandrytowy czy diodowy? Porównujemy cztery profesjonalne urządzenia, ich technologie, systemy chłodzenia oraz możliwości zastosowania w gabinetach kosmetologicznych.
-
-Blog LTS Market2026-11-23
-
-## [Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu](https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/)
-
-Porównujemy Alpha i Alpha Mini — profesjonalne lasery diodowe do depilacji. Sprawdź różnice, ceny od 40 000 zł i leasing w LTS Market.
