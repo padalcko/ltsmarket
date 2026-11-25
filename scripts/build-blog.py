@@ -72,6 +72,8 @@ def build(lang, article, page=1):
     if article:
         head = head.replace('property="og:type" content="website"','property="og:type" content="article"')
     social_image = d.get('image') or d.get('social_image') if article else None
+    if article and d.get('no_social_image'):
+        head = re.sub(r'^\s*<meta\s+[^>]*(?:property|name)="(?:og:image(?::[^\"]*)?|twitter:image(?::[^\"]*)?)"[^>]*>\s*', '\n', head, flags=re.M)
     if social_image:
         replacements = {'og:image': DOMAIN+social_image, 'twitter:image': DOMAIN+social_image,
                         'og:image:alt': d.get('image_alt', d['title']), 'twitter:image:alt': d.get('image_alt', d['title']),
@@ -83,7 +85,8 @@ def build(lang, article, page=1):
         crumbs.append({'@type':'ListItem','position':3,'name':d['title'],'item':{'@id':DOMAIN+route(lang,article)}})
     schema = {'@context':'https://schema.org','@type':'BlogPosting' if article else 'Blog','@id':DOMAIN+route(lang,article)+'#'+('article' if article else 'blog'),'url':DOMAIN+route(lang,article),'name':d['title'] if article else d['blog'],'description':desc,'inLanguage':lang,'publisher':{'@type':'Organization','name':'LTS Market','url':DOMAIN+'/'}}
     if article:
-        schema.update(headline=d['title'],mainEntityOfPage=DOMAIN+route(lang,article),image=DOMAIN+(social_image or '/assets/img/hero-lts-market.jpg'))
+        schema.update(headline=d['title'],mainEntityOfPage=DOMAIN+route(lang,article))
+        if not d.get('no_social_image'): schema['image']=DOMAIN+(social_image or '/assets/img/hero-lts-market.jpg')
         if d.get('modified'): schema['dateModified']=d['modified']
         if d.get('date'): schema['datePublished']=d['date']
         if d.get('author'): schema['author']={'@type':'Organization','name':d['author']}
