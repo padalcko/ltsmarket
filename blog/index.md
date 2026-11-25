@@ -12,13 +12,13 @@ LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
 
-Blog LTS Market
+Blog LTS Market2026-11-25
 
 ## [Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia](https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/)
 
 Czy mocniejszy laser zawsze oznacza szybszą i skuteczniejszą epilację? Wyjaśniamy znaczenie mocy, wielkości plamki zabiegowej, optyki FAC i chłodzenia.
 
-Blog LTS Market
+Blog LTS Market2026-11-25
 
 ## [Technologie łączone w kosmetologii: epilacja laserowa, fotoodmładzanie i indywidualne programy zabiegowe](https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/)
 
