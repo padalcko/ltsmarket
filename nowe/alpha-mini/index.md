@@ -6,13 +6,13 @@ Język: Polski
 
 Inne wersje językowe: [English](https://ltsmarket.pl/en/new/alpha-mini/), [Русский](https://ltsmarket.pl/ru/novye/alpha-mini/)
 
-> Alpha Mini – profesjonalny laser diodowy do depilacji. Cena od 40 000 zł. Kup w LTS Market i zyskaj wsparcie serwisowe Laser Tech Service.
+> Alpha Mini – profesjonalny laser diodowy do depilacji. Cena 40 000–60 000 zł. Kup w LTS Market i zyskaj wsparcie serwisowe Laser Tech Service.
 
 Nowy laser diodowy
 
 Kompaktowy laser diodowy do salonów kosmetycznych. Profesjonalna technologia depilacji, zaawansowany system chłodzenia ICE Flow i wsparcie techniczne [Laser Tech Service](https://lasertechservice.pl/).
 
-Od 40 000 zł
+40 000–60 000 zł
 
 **1000–1200 W**Moc głowicy
 
@@ -145,7 +145,7 @@ Zakres i koszty przeglądów, napraw, części oraz ewentualnej regeneracji podz
 
 ### Ile kosztuje Alpha Mini?
 
-Cena zaczyna się od 40 000 zł. Ostateczna kwota zależy od wybranej konfiguracji i uzgodnionych warunków sprzedaży.
+Cena wynosi 40 000–60 000 zł. Ostateczna kwota zależy od wybranej konfiguracji i uzgodnionych warunków sprzedaży.
 
 ### Czy Alpha Mini nadaje się do nowego salonu?
 

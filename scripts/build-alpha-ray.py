@@ -100,7 +100,7 @@ def generate():
             schemas = [json.loads(x) for x in re.findall(r'<script type="application/ld\+json">(.*?)</script>', source, re.S)]
             prod = next(x for x in schemas if x.get('@type')=='Product')
             prod.update({'@id':BASE+path+'#product','name':name,'model':name,'description':desc,'image':[BASE+'/assets/img/nowe/'+product+'.webp'],'url':BASE+path,'mainEntityOfPage':BASE+path})
-            prod['offers'] = {'@type':'AggregateOffer' if product=='alpha' else 'Offer', 'lowPrice' if product=='alpha' else 'price':60000 if product=='alpha' else 55000, 'priceCurrency':'PLN','url':BASE+path,'seller':{'@type':'Organization','name':'LTS Market','url':BASE+'/'}}
+            prod['offers'] = {'@type':'AggregateOffer', 'lowPrice':60000 if product=='alpha' else 55000, 'highPrice':80000 if product=='alpha' else 75000, 'priceCurrency':'PLN','url':BASE+path,'seller':{'@type':'Organization','name':'LTS Market','url':BASE+'/'}}
             crumbs = next(x for x in schemas if x.get('@type')=='BreadcrumbList')
             crumbs['itemListElement'][-1].update(name=name,item=BASE+path)
             for obj in [prod, crumbs]: head += '<script type="application/ld+json">'+json.dumps(obj,ensure_ascii=False,indent=2)+'</script>\n'

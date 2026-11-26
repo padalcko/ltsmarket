@@ -6,13 +6,13 @@ Język: Polski
 
 Inne wersje językowe: [English](https://ltsmarket.pl/en/new/alpha/), [Русский](https://ltsmarket.pl/ru/novye/alpha/)
 
-> Alpha – profesjonalny laser diodowy z głowicą 1600–2000 W, chłodzeniem TEC 1200 W i systemem CRM. Cena od 60 000 zł. Wsparcie Laser Tech Service.
+> Alpha – profesjonalny laser diodowy z głowicą 1600–2000 W, chłodzeniem TEC 1200 W i systemem CRM. Cena 60 000–80 000 zł. Wsparcie Laser Tech Service.
 
 **PROFESJONALNY LASER DIODOWY — BUSINESS**
 
 Wydajny laser diodowy dla salonów kosmetycznych i gabinetów kosmetologicznych. Moc głowicy 1600–2000 W, okno zabiegowe 12×20 mm, chłodzenie TEC 1200 W oraz inteligentne funkcje wspierające codzienną pracę.
 
-**Od 60 000 zł**
+**60 000–80 000 zł**
 
 **Kupując Alpha w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**
 
@@ -109,7 +109,7 @@ Profesjonalne studia mogą docenić połączenie wydajnej głowicy, większego o
 | Model | Alpha |
 | Typ | Profesjonalny laser diodowy |
 | Pozycjonowanie | Business |
-| Cena | Od 60 000 zł |
+| Cena | 60 000–80 000 zł |
 | Moc głowicy | 1600–2000 W |
 | Energia / czas impulsu | 180–220 J / 200 ms |
 | Chłodzenie | TEC 1200 W |
@@ -137,7 +137,7 @@ Warunki gwarancji, napraw, części i dojazdów wynikają z umowy zakupu oraz uz
 
 ## Ile kosztuje laser Alpha?
 
-Cena Alpha w LTS Market zaczyna się od 60 000 zł. Ostateczna oferta zależy od wybranej konfiguracji urządzenia i warunków zakupu.
+Cena Alpha w LTS Market wynosi 60 000–80 000 zł. Ostateczna oferta zależy od wybranej konfiguracji urządzenia i warunków zakupu.
 
 Przed podjęciem decyzji warto porównać parametry oraz określić potrzeby gabinetu. LTS Market pomaga w doborze urządzenia i przygotowaniu indywidualnej oferty.
 
@@ -149,7 +149,7 @@ Możliwe jest również omówienie finansowania w formie leasingu na warunkach i
 
 ### Ile kosztuje Alpha?
 
-Cena Alpha zaczyna się od 60 000 zł. Ostateczna kwota zależy od konfiguracji i warunków oferty.
+Cena Alpha wynosi 60 000–80 000 zł. Ostateczna kwota zależy od konfiguracji i warunków oferty.
 
 ### Jaka jest moc głowicy Alpha?
 

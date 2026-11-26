@@ -1,6 +1,6 @@
-# Professional equipment for beauty and medical clinics
+# Professional equipment for the beauty and medical industry
 
-HTML source: [Professional equipment for beauty and medical clinics](https://ltsmarket.pl/en/)
+HTML source: [Professional equipment for the beauty and medical industry](https://ltsmarket.pl/en/)
 
 Language: English
 
@@ -10,99 +10,137 @@ Other languages: [Polski](https://ltsmarket.pl/), [Русский](https://ltsma
 
 Proven solutions for your business
 
-New and pre-owned equipment checked by our service team. Leasing, advice and technical support. Delivery across Poland.
+New and pre-owned aesthetic equipment, leasing options for newly established businesses, free training with the purchase of new equipment, and professional technical support from Laser Tech Service. We deliver throughout Poland.
 
-Inspected equipment      Service support      Leasing and financing      Delivery across Poland
+**Verified equipment**Professional equipment for beauty salons and aesthetic clinics.**Free training**Included with the purchase of new equipment.**Leasing and financing**Available for newly established businesses.**Professional service**Technical support from Laser Tech Service.
 
 LTS Market
 
 ## New equipment
 
-Professional technologies for modern beauty clinics and the beauty industry.
-
 ![Alpha Mini](https://ltsmarket.pl/assets/img/nowe/alpha-mini.webp)
 
 ### Alpha Mini
 
-Starting price — request a quote
+PLN 40,000–60,000
 
-Learn more
+The price depends on the equipment configuration.
 
-![Lumos](https://ltsmarket.pl/assets/img/nowe/lumos.webp)
+- Handpiece power: 1000–1200 W
 
-### Lumos
+- Treatment window: 12 × 12 mm
 
-Starting price — request a quote
+- ICE Flow cooling
 
-Learn more
+View details
 
-![Ray](https://ltsmarket.pl/assets/img/nowe/ray.webp)
+![RAY](https://ltsmarket.pl/assets/img/nowe/ray.webp)
 
-### Ray
+### RAY
 
-Starting price — request a quote
+PLN 55,000–75,000
 
-Learn more
+The price depends on the equipment configuration.
+
+- Handpiece power: 1200 W
+
+- 4 interchangeable tips
+
+- Freon 300 W cooling
+
+View details
 
 ![Alpha](https://ltsmarket.pl/assets/img/nowe/alpha.webp)
 
 ### Alpha
 
-Starting price — request a quote
+PLN 60,000–80,000
 
-Learn more
+The price depends on the equipment configuration.
 
-Why LTS Market
+- Handpiece power: 1600–2000 W
 
-## More than equipment sales
+- Treatment window: 12×20 mm
 
-We support the full equipment lifecycle — from technology selection and financing to setup, training, servicing and eventual resale.
+- TEC 1200 W cooling
 
-Service and safety
+View details
 
-### Technical support for your business
+![LUMOS](https://ltsmarket.pl/assets/img/nowe/lumos.webp)
 
-- Our own service centre in Wrocław, serving all of Poland
+### LUMOS
 
-- Prompt on-site service visits
+PLN 68,000–100,000
 
-- Manufacturer’s warranty
+The price depends on the equipment configuration.
 
-- Warranty on service work
+- Handpiece power: 2000–4000 W
 
-- Certified equipment
+- ICE Flow cooling
 
-Setup and support
+- FAC optical technology
 
-### Help after your purchase
+View details
 
-- Staff training and certification
+Leasing and financing for aesthetic equipment
 
-- After-sales support
+## Leasing and financing for aesthetic equipment
 
-- 4 years of experience in the Polish market and laser equipment servicing
+Equipping a professional salon does not necessarily require spending all available capital upfront. Leasing allows businesses to spread equipment costs over time and preserve funds for business development.
 
-Full equipment lifecycle
+Financing options are also available to newly established businesses.
 
-### From purchase to resale
+### Key benefits:
 
-- Our own shop for pre-owned beauty and laser equipment
+- Financing options for new businesses.
 
-- An established customer base for your pre-owned equipment
+- Investment costs spread over time.
+
+- Preservation of working capital.
+
+- Access to professional salon equipment.
+
+Financing terms and final approval depend on the individual assessment of the financing partner.
+
+## Why choose LTS Market?
+
+LTS Market combines professional aesthetic equipment sales with technical support, training, and financing options.
+
+### Free training
+
+Free equipment operation training is included with the purchase of a new device.
+
+### 6-month warranty
+
+Pre-owned equipment sold by LTS Market comes with a six-month warranty.
+
+### Technical diagnostics
+
+Every pre-owned device undergoes a technical inspection before sale.
+
+### Leasing for new businesses
+
+We help newly established businesses explore available financing options.
+
+### Professional technical support
+
+Technical support is provided by Laser Tech Service, a specialist in aesthetic and laser equipment servicing.
+
+### Delivery throughout Poland
+
+We deliver professional equipment to beauty salons and aesthetic clinics across Poland.
 
 LTS Market
 
 ## Pre-owned equipment
-
-All equipment in our pre-owned range has undergone full servicing and pre-sale diagnostics at [Laser Tech Service](https://lasertechservice.pl/). Every device is carefully inspected and tested before being offered for sale.
-
-We only sell equipment in working technical condition, ready for continued use in a clinic.
 
 ![MEDIflex US450 — full front view of the device](https://ltsmarket.pl/assets/img/uzywane/mediflex-us450/mediflex-us450-laser-diodowy-front-card.webp)
 
 ### MEDIflex US450
 
 Used 755/808/1064 nm diode laser. Declared diode power 2000 W. Made in 2022. Operational and serviced by Laser Tech Service.
+
+6-month warranty
 
 PLN 40,000
 
@@ -114,6 +152,8 @@ View details
 
 Multifunctional 3D CONTOUR body-contouring system with cryolipolysis, lipolaser and vacuum massage. Manufactured in 2022. Fully operational, serviced by Laser Tech Service and ready for use.
 
+6-month warranty
+
 12 000 zł
 
 View details
@@ -123,6 +163,8 @@ View details
 ### MEDILASE PRO
 
 Professional MEDILASE PRO diode laser from 2021. Fully operational, serviced by Laser Tech Service and ready for use.
+
+6-month warranty
 
 35 000 zł
 
@@ -134,29 +176,165 @@ View details
 
 Professional Chungwoo ELLISYS PLUS microneedling RF system from 2024. Fully operational, serviced by Laser Tech Service and ready for use.
 
+6-month warranty
+
 30 000 zł
 
 View details
 
-![DaeYang CARBO 3000](https://ltsmarket.pl/assets/img/uzywane/daeyang-carbo-3000/daeyang-carbo-3000-01-card.webp)
+## Professional support from Laser Tech Service
 
-### DaeYang CARBO 3000
+Purchasing professional aesthetic equipment is the beginning of its operational lifecycle. Access to qualified technical support is therefore just as important as choosing the right equipment.
 
-Pre-owned DaeYang CARBO 3000 CO₂ insufflator. Fully operational, serviced by Laser Tech Service and ready for use.
+LTS Market customers receive technical support from Laser Tech Service, a specialist in diagnostics, repairs, refurbishment, and maintenance of aesthetic and laser equipment.
 
-5 000 zł
+Professional servicing helps reduce downtime risks and maintain equipment in appropriate technical condition.
 
-View details
+Використовувати наявні посилання на відповідні мовні версії сайту:
 
-Financing
+https://lasertechservice.pl/
 
-## Leasing
+Our clients and training
 
-### Financing tailored to your business.
+## Trusted by beauty professionals
 
-We prepare an individual leasing offer for each customer purchasing new equipment. Financing is tailored to the equipment value, your business’s resources and the planned lease term.
+Purchasing equipment from LTS Market is more than an investment in professional technology. Every purchase of new equipment includes free operation training and professional technical support.
 
-We work with banks and leasing companies across Poland, allowing us to compare available options and help you choose a suitable solution.
+Explore beauty salons equipped with our devices and professionals who have completed training.
+
+All photographs show actual customers, salon equipment, and training sessions.
+
+## Alt-тексти
+
+Сформувати відповідно до фактичного змісту кожної фотографії.
+
+Приклади допустимих формулювань:
+
+PL:
+
+- Laser LUMOS w gabinecie kosmetologicznym klienta LTS Market.
+
+- Szkolenie z obsługi urządzeń kosmetologicznych.
+
+- Uczestnicy szkolenia z certyfikatami.
+
+- Gabinet kosmetologiczny wyposażony w profesjonalne urządzenia.
+
+RU:
+
+- Лазер LUMOS в косметологическом кабинете клиента LTS Market.
+
+- Обучение работе с косметологическим оборудованием.
+
+- Участники обучения с сертификатами.
+
+- Косметологический кабинет с профессиональным оборудованием.
+
+EN:
+
+- LUMOS laser in an LTS Market customer's beauty salon.
+
+- Professional aesthetic equipment operation training.
+
+- Training participants with certificates.
+
+- Beauty salon equipped with professional aesthetic devices.
+
+Використовувати ці формулювання лише там, де вони відповідають змісту конкретної фотографії.
+
+Не додавати вигаданих відгуків, рейтингів, Review або AggregateRating JSON-LD.
+
+![LUMOS laser in a beauty salon.](https://ltsmarket.pl/assets/img/clients/lumos-laser-in-beauty-salon.webp)
+
+![Four training participants with certificates beside a LUMOS laser.](https://ltsmarket.pl/assets/img/clients/lumos-group-training-certificates.webp)
+
+![Two specialists with a certificate beside Alpha Mini and LUMOS equipment.](https://ltsmarket.pl/assets/img/clients/lumos-alpha-mini-equipment-training.webp)
+
+![Training participant with a certificate beside a LUMOS laser.](https://ltsmarket.pl/assets/img/clients/lumos-training-certificate.webp)
+
+![Three specialists in a salon beside LUMOS equipment and a training certificate.](https://ltsmarket.pl/assets/img/clients/lumos-salon-team-training.webp)
+
+![Treatment room equipped with a LUMOS laser.](https://ltsmarket.pl/assets/img/clients/lumos-equipped-treatment-room.webp)
+
+## Latest articles
+
+LTS Market Blog2026-11-26
+
+### [How to Buy a Used Hair Removal Laser Without Getting Scammed: Shot Counters, Counterfeits and Hidden Faults](https://ltsmarket.pl/en/blog/how-to-buy-a-used-hair-removal-laser-safely/)
+
+Learn how to check a used hair removal laser before buying. Shot counters, counterfeit devices, hidden faults, professional inspection and warranty.
+
+LTS Market Blog2026-11-25
+
+### [Fast and comfortable laser hair removal: power, spot size, optics and cooling systems](https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/)
+
+Does higher laser power always mean better hair removal? Explore optical power, spot size, FAC technology and cooling systems.
+
+LTS Market Blog2026-11-25
+
+### [Combined aesthetic technologies: laser hair removal, photorejuvenation and personalised treatment programmes](https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/)
+
+How can different aesthetic technologies complement each other? Explore laser hair removal, IPL, BBL, fractional treatments and radiofrequency.
+
+LTS Market Blog2026-11-24
+
+### [Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety](https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/)
+
+Do modern hair removal lasers really use artificial intelligence? Discover melanin measurements, spectrophotometry, sensors and automatic parameter control.
+
+## Frequently asked questions
+
+### Does LTS Market provide a warranty on pre-owned equipment?
+
+Yes. All pre-owned equipment sold by LTS Market comes with a [six-month warranty](https://ltsmarket.pl/en/uzywane.html). Each device also undergoes technical diagnostics before sale.
+
+### Is pre-owned equipment inspected before sale?
+
+Yes. Every pre-owned device undergoes a technical inspection before sale. The purpose of the inspection is to assess the equipment's condition and prepare it for further operation.
+
+### Can aesthetic equipment be purchased through leasing?
+
+Yes. LTS Market offers [leasing options](https://ltsmarket.pl/en/leasing.html) for aesthetic equipment. Financing terms depend on the selected device and the financing partner's assessment.
+
+### Is leasing available for newly established businesses?
+
+Yes. [Financing options](https://ltsmarket.pl/en/leasing.html) are available to entrepreneurs who are starting a new business. Final approval and leasing terms depend on the financing partner's individual assessment.
+
+### Is training included with the purchase of new equipment?
+
+Yes. Free equipment operation training is included with the purchase of new equipment from LTS Market. The training introduces customers to the device's functions and appropriate operating procedures.
+
+### Who provides technical support for the equipment?
+
+Technical support is provided by [Laser Tech Service](https://lasertechservice.pl/en/), a specialist in diagnostics, repairs, refurbishment, and maintenance of aesthetic and laser equipment.
+
+### Does LTS Market deliver equipment throughout Poland?
+
+Yes. We deliver professional aesthetic equipment to salons and clinics throughout Poland. Delivery arrangements depend on the equipment type and order conditions.
+
+### Can you help me choose aesthetic equipment for my salon?
+
+Yes. We help customers select equipment according to their treatment services, business requirements, and available budget. Both new and pre-owned equipment are available.
+
+### Is it better to buy a new or pre-owned hair removal laser?
+
+A new laser is suitable for salons looking for modern technology, warranty coverage, and equipment operation training. A technically inspected pre-owned device can be a cost-effective alternative for businesses with a smaller budget.
+
+The choice depends on the salon's requirements, expected equipment usage, and financial resources.
+
+### How much does a professional hair removal laser cost?
+
+New professional hair removal lasers offered by LTS Market range from PLN 40,000 to PLN 100,000, depending on the model and configuration.
+
+- [Alpha Mini](https://ltsmarket.pl/en/new/alpha-mini/): PLN 40,000–60,000.
+
+- [RAY](https://ltsmarket.pl/en/new/ray/): PLN 55,000–75,000.
+
+- [Alpha](https://ltsmarket.pl/en/new/alpha/): PLN 60,000–80,000.
+
+- [LUMOS](https://ltsmarket.pl/en/new/lumos/): PLN 68,000–100,000.
+
+Pre-owned equipment and leasing options are also available.
 
 Contact
 

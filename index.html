@@ -129,7 +129,8 @@ f.parentNode.insertBefore(j,f);
 
     <!-- GA4 G-1Z98BZS3WW: page-view analytics. -->
     <script src="/js/analytics.js" defer></script>
-  <!-- AI resources: generated -->
+  <script type="application/ld+json" id="homepage-faq-schema">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Czy LTS Market udziela gwarancji na urządzenia używane?","acceptedAnswer":{"@type":"Answer","text":"Tak. Wszystkie urządzenia używane sprzedawane przez LTS Market objęte są sześciomiesięczną gwarancją. Przed sprzedażą przechodzą również diagnostykę techniczną."}},{"@type":"Question","name":"Czy urządzenia używane są sprawdzane przed sprzedażą?","acceptedAnswer":{"@type":"Answer","text":"Tak. Każde urządzenie używane przechodzi kontrolę techniczną przed sprzedażą. Celem diagnostyki jest ocena stanu urządzenia oraz jego przygotowanie do dalszej eksploatacji."}},{"@type":"Question","name":"Czy można kupić urządzenie kosmetologiczne w <a href=\"/leasing.html\">leasingu</a>?","acceptedAnswer":{"@type":"Answer","text":"Tak. LTS Market oferuje możliwość zakupu urządzeń kosmetologicznych z wykorzystaniem leasingu. Warunki finansowania zależą od wybranego urządzenia oraz oceny partnera finansowego."}},{"@type":"Question","name":"Czy leasing jest dostępny dla nowych firm?","acceptedAnswer":{"@type":"Answer","text":"Tak. Z możliwości finansowania mogą korzystać również przedsiębiorcy, którzy dopiero rozpoczynają działalność. Ostateczna decyzja oraz warunki leasingu zależą od indywidualnej oceny partnera finansowego."}},{"@type":"Question","name":"Czy szkolenie jest wliczone w cenę nowego urządzenia?","acceptedAnswer":{"@type":"Answer","text":"Tak. Przy zakupie nowego urządzenia w LTS Market zapewniamy bezpłatne szkolenie z jego obsługi. Pozwala ono zapoznać się z funkcjami urządzenia i zasadami jego prawidłowego użytkowania."}},{"@type":"Question","name":"Kto zapewnia obsługę serwisową urządzeń?","acceptedAnswer":{"@type":"Answer","text":"Wsparcie techniczne zapewnia Laser Tech Service, specjalizujący się w diagnostyce, naprawach, regeneracji oraz konserwacji urządzeń kosmetologicznych i laserowych."}},{"@type":"Question","name":"Czy LTS Market dostarcza urządzenia na terenie całej Polski?","acceptedAnswer":{"@type":"Answer","text":"Tak. Dostarczamy profesjonalne urządzenia kosmetologiczne do salonów i klinik na terenie całej Polski. Szczegóły dostawy zależą od rodzaju urządzenia oraz warunków zamówienia."}},{"@type":"Question","name":"Czy pomagacie w wyborze urządzenia kosmetologicznego?","acceptedAnswer":{"@type":"Answer","text":"Tak. Pomagamy dobrać urządzenie do rodzaju wykonywanych zabiegów, potrzeb gabinetu oraz dostępnego budżetu. Oferujemy zarówno nowe, jak i używane urządzenia."}},{"@type":"Question","name":"Co lepiej kupić: nowy czy używany laser do epilacji?","acceptedAnswer":{"@type":"Answer","text":"Nowy laser jest odpowiednim rozwiązaniem dla salonów poszukujących nowoczesnych technologii, gwarancji oraz szkolenia z obsługi. Sprawdzone urządzenie używane może być korzystną alternatywą dla przedsiębiorców dysponujących mniejszym budżetem. Wybór zależy od potrzeb salonu, planowanego obciążenia urządzenia oraz możliwości finansowych."}},{"@type":"Question","name":"Ile kosztuje profesjonalny laser do epilacji?","acceptedAnswer":{"@type":"Answer","text":"Ceny nowych laserów do epilacji oferowanych przez LTS Market wynoszą od 40 000 do 100 000 zł, zależnie od modelu i konfiguracji. Alpha Mini: 40 000–60 000 zł. RAY: 55 000–75 000 zł. Alpha: 60 000–80 000 zł. LUMOS: 68 000–100 000 zł. Dostępne są również urządzenia używane oraz możliwość finansowania zakupu w leasingu."}}]}</script>
+<!-- AI resources: generated -->
     <link rel="alternate" type="text/markdown" href="https://ltsmarket.pl/index.md">
     <link rel="describedby" href="/llms.txt">
 <!-- /AI resources -->
@@ -259,7 +260,7 @@ style="display:none;visibility:hidden"></iframe>
       </div>
     </header>
 
-    <main id="main-content">
+    <main id="main-content" class="home-page">
       <section class="hero">
         <div class="hero__media" aria-hidden="true">
           <img
@@ -275,31 +276,13 @@ style="display:none;visibility:hidden"></iframe>
 
         <div class="container hero__container">
           <div class="hero__content">
-            <p class="section-label hero__label">
-              Sprawdzone rozwiązania dla Twojego biznesu
-            </p>
+            <p class="section-label hero__label">Sprawdzone rozwiązania dla Twojego biznesu</p>
 
-            <h1 class="hero__title">
-              <span>Profesjonalne</span>
-              <span>urządzenia</span>
-              <span class="hero__title-accent"> dla branży beauty i med </span>
-            </h1>
+            <h1 class="hero__title">Profesjonalne urządzenia dla branży <span class="hero__title-accent">beauty i&nbsp;med</span></h1>
 
-            <p class="hero__description">
-              Nowe i używane urządzenia, sprawdzone przez serwis. Leasing,
-              doradztwo i wsparcie techniczne. Dostarczamy w całej Polsce.
-            </p>
+            <p class="hero__description">Nowe i używane urządzenia kosmetologiczne, leasing również dla nowych firm, bezpłatne szkolenia przy zakupie nowych urządzeń oraz profesjonalne wsparcie Laser Tech Service. Dostarczamy sprzęt na terenie całej Polski.</p>
 
-            <div class="hero__actions">
-              <a class="button button--primary" href="#nowe">
-                Zobacz urządzenia
-                <span aria-hidden="true">→</span>
-              </a>
-
-              <a class="button button--outline" href="#kontakt">
-                Zapytaj o ofertę
-              </a>
-            </div>
+            <div class="hero__actions"><a class="button button--primary" href="#nowe">Zobacz urządzenia <span aria-hidden="true">→</span></a><a class="button button--outline" href="#kontakt">Zapytaj o ofertę</a></div>
           </div>
 
           <div class="hero__side-copy" aria-hidden="true">
@@ -309,269 +292,11 @@ style="display:none;visibility:hidden"></iframe>
           </div>
         </div>
 
-        <div class="container hero-benefits">
-          <a class="hero-benefit" href="#uzywane">
-            <span class="hero-benefit__icon" aria-hidden="true">
-              <svg viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M12 3 20 6v5c0 5-3.4 8.4-8 10-4.6-1.6-8-5-8-10V6Z" />
-                <path d="m8 12 3 3 5-6" />
-              </svg>
-            </span>
-
-            <span class="hero-benefit__text"> Sprawdzone urządzenia </span>
-          </a>
-
-          <a class="hero-benefit" href="#serwis">
-            <span class="hero-benefit__icon" aria-hidden="true">
-              <svg viewBox="0 0 24 24" aria-hidden="true">
-                <path
-                  d="M14.5 6.5a5 5 0 0 0-6.4 6.4L3 18l3 3 5.1-5.1a5 5 0 0 0 6.4-6.4L14 13l-3-3Z"
-                />
-              </svg>
-            </span>
-
-            <span class="hero-benefit__text"> Wsparcie serwisowe </span>
-          </a>
-
-          <a class="hero-benefit" href="#leasing">
-            <span class="hero-benefit__icon" aria-hidden="true">
-              <svg viewBox="0 0 24 24" aria-hidden="true">
-                <rect x="5" y="2" width="14" height="20" rx="2" />
-                <path d="M8 6h8v4H8zM8 14h1m6 0h1M8 18h1m6 0h1" />
-              </svg>
-            </span>
-
-            <span class="hero-benefit__text"> Leasing i finansowanie </span>
-          </a>
-
-          <a class="hero-benefit" href="#kontakt">
-            <span class="hero-benefit__icon" aria-hidden="true">
-              <svg viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M3 5h11v12H3zM14 9h4l3 4v4h-7M14 13h7" />
-                <circle cx="7" cy="18" r="2" />
-                <circle cx="18" cy="18" r="2" />
-              </svg>
-            </span>
-
-            <span class="hero-benefit__text"> Dostawa w całej Polsce </span>
-          </a>
-        </div>
-      </section>
-
-      <section class="products-section products-section--light" id="nowe">
-        <div class="container">
-          <header class="section-heading">
-            <span class="section-label"> LTS Market </span>
-
-            <h2>Nowe urządzenia</h2>
-
-            <p>
-              Profesjonalne technologie dla nowoczesnych gabinetów
-              kosmetologicznych i branży beauty.
-            </p>
-          </header>
-
-          <div class="product-grid">
-            <a class="product-card" href="/nowe/alpha-mini/">
-              <div class="product-card__image">
-                <img
-                  src="/assets/img/nowe/alpha-mini.webp"
-                  alt="Alpha Mini"
-                  loading="lazy"
-                  width="1145"
-                  height="1374"
-                />
-              </div>
-
-              <div class="product-card__body">
-                <h3>Alpha Mini</h3>
-
-                <p class="product-card__price">Cena od — zapytaj o ofertę</p>
-
-                <span class="product-card__link">
-                  Zobacz więcej
-                  <span aria-hidden="true">→</span>
-                </span>
-              </div>
-            </a>
-
-            <a class="product-card" href="/nowe.html#lumos">
-              <div class="product-card__image">
-                <img
-                  src="/assets/img/nowe/lumos.webp"
-                  alt="Lumos"
-                  loading="lazy"
-                  width="1145"
-                  height="1374"
-                />
-              </div>
-
-              <div class="product-card__body">
-                <h3>Lumos</h3>
-
-                <p class="product-card__price">Cena od — zapytaj o ofertę</p>
-
-                <span class="product-card__link">
-                  Zobacz więcej
-                  <span aria-hidden="true">→</span>
-                </span>
-              </div>
-            </a>
-
-            <a class="product-card" href="/nowe.html#ray">
-              <div class="product-card__image">
-                <img
-                  src="/assets/img/nowe/ray.webp"
-                  alt="Ray"
-                  loading="lazy"
-                  width="1145"
-                  height="1374"
-                />
-              </div>
-
-              <div class="product-card__body">
-                <h3>Ray</h3>
-
-                <p class="product-card__price">Cena od — zapytaj o ofertę</p>
-
-                <span class="product-card__link">
-                  Zobacz więcej
-                  <span aria-hidden="true">→</span>
-                </span>
-              </div>
-            </a>
-
-            <a class="product-card" href="/nowe.html#alpha">
-              <div class="product-card__image">
-                <img
-                  src="/assets/img/nowe/alpha.webp"
-                  alt="Alpha"
-                  loading="lazy"
-                  width="1145"
-                  height="1374"
-                />
-              </div>
-
-              <div class="product-card__body">
-                <h3>Alpha</h3>
-
-                <p class="product-card__price">Cena od — zapytaj o ofertę</p>
-
-                <span class="product-card__link">
-                  Zobacz więcej
-                  <span aria-hidden="true">→</span>
-                </span>
-              </div>
-            </a>
-          </div>
-
-          <div class="section-action">
-            <a class="button button--dark" href="/nowe.html">
-              Zobacz wszystkie nowe urządzenia
-              <span aria-hidden="true">→</span>
-            </a>
-          </div>
-        </div>
-      </section>
-
-      <section class="advantages" id="serwis">
-        <div class="container">
-          <header class="section-heading section-heading--dark">
-            <span class="section-label"> Dlaczego LTS Market </span>
-
-            <h2>Więcej niż sprzedaż urządzeń</h2>
-
-            <p>
-              Zapewniamy pełny cykl obsługi urządzenia — od wyboru technologii i
-              finansowania, przez wdrożenie i szkolenie, aż po serwis oraz
-              późniejszą odsprzedaż.
-            </p>
-          </header>
-
-          <div class="advantages__grid">
-            <article class="advantage-group">
-              <div class="advantage-group__number" aria-hidden="true">01</div>
-
-              <span class="section-label"> Serwis i bezpieczeństwo </span>
-
-              <h3>Techniczne zaplecze Twojego biznesu</h3>
-
-              <ul>
-                <li>Własny serwis we Wrocławiu i obsługa w całej Polsce</li>
-
-                <li>Szybki dojazd serwisu do klienta</li>
-
-                <li>Gwarancja producenta</li>
-
-                <li>Gwarancja na wykonany serwis</li>
-
-                <li>Certyfikowane urządzenia</li>
-              </ul>
-            </article>
-
-            <article class="advantage-group">
-              <div class="advantage-group__number" aria-hidden="true">02</div>
-
-              <span class="section-label"> Wdrożenie i wsparcie </span>
-
-              <h3>Pomoc również po zakupie</h3>
-
-              <ul>
-                <li>Szkolenia i certyfikacja personelu</li>
-
-                <li>Wsparcie po sprzedaży</li>
-
-                <li>
-                  4 lata doświadczenia na polskim rynku i w serwisie urządzeń
-                  laserowych
-                </li>
-              </ul>
-            </article>
-
-            <article class="advantage-group">
-              <div class="advantage-group__number" aria-hidden="true">03</div>
-
-              <span class="section-label"> Pełny cykl urządzenia </span>
-
-              <h3>Od zakupu do późniejszej odsprzedaży</h3>
-
-              <ul>
-                <li>
-                  Własny sklep z używanymi urządzeniami kosmetologicznymi i
-                  laserowymi
-                </li>
-
-                <li>Gotowa baza klientów dla Twojego używanego urządzenia</li>
-              </ul>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <section class="products-section products-section--dark" id="uzywane">
-        <div class="container">
-          <header class="section-heading section-heading--dark">
-            <span class="section-label"> LTS Market </span>
-
-            <h2>Używane urządzenia</h2>
-
-            <div class="section-heading__description">
-              <p>
-                Wszystkie urządzenia dostępne w naszej ofercie przeszły pełny
-                serwis oraz diagnostykę przedsprzedażową w <a class="service-name-link" href="https://lasertechservice.pl/">Laser Tech Service</a>.
-                Każde urządzenie jest dokładnie sprawdzane i testowane przed
-                wystawieniem do sprzedaży.
-              </p>
-
-              <p>
-                Sprzedajemy wyłącznie urządzenia znajdujące się w sprawnym
-                stanie technicznym, gotowe do dalszej pracy w gabinecie.
-              </p>
-            </div>
-          </header>
-
-          <div class="product-grid product-grid--dark"><a class="product-card product-card--dark" href="/uzywane/mediflex-us450.html"><div class="product-card__image"><img src="/assets/img/uzywane/mediflex-us450/mediflex-us450-laser-diodowy-front-card.webp" alt="MEDIflex US450 — widok całego urządzenia od przodu" loading="lazy" width="360" height="640"></div><div class="product-card__body"><h3>MEDIflex US450</h3><p class="product-card__description">Używany laser diodowy 755/808/1064 nm. Deklarowana moc diody 2000 W. Rok 2022. Sprawny, po serwisie Laser Tech Service.</p><p class="product-card__price">40 000 zł</p><span class="product-card__link">Zobacz szczegóły <span aria-hidden="true">→</span></span></div></a>
-            <a
+        <div class="container hero-benefits"><a class="hero-benefit" href="#uzywane"><span class="hero-benefit__icon"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 20 6v5c0 5-3.4 8.4-8 10-4.6-1.6-8-5-8-10V6Z"/><path d="m8 12 3 3 5-6"/></svg></span><span class="hero-benefit__text"><strong>Sprawdzone urządzenia</strong><span>Profesjonalny sprzęt dla gabinetów kosmetologicznych i klinik.</span></span></a><a class="hero-benefit" href="#clients-training"><span class="hero-benefit__icon"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9 12 4l9 5-9 5-9-5Z"/><path d="M6 11v5c3 3 9 3 12 0v-5M21 9v6"/></svg></span><span class="hero-benefit__text"><strong>Bezpłatne szkolenia</strong><span>Przy zakupie nowego urządzenia.</span></span></a><a class="hero-benefit" href="#leasing"><span class="hero-benefit__icon"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2"/><path d="M8 6h8v4H8zM8 14h1m6 0h1M8 18h1m6 0h1"/></svg></span><span class="hero-benefit__text"><strong>Leasing i finansowanie</strong><span>Również dla nowych przedsiębiorstw.</span></span></a><a class="hero-benefit" href="#serwis"><span class="hero-benefit__icon"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 6.5a5 5 0 0 0-6.4 6.4L3 18l3 3 5.1-5.1a5 5 0 0 0 6.4-6.4L14 13l-3-3Z"/></svg></span><span class="hero-benefit__text"><strong>Profesjonalny serwis</strong><span>Wsparcie techniczne Laser Tech Service.</span></span></a></div></section>
+<section class="products-section products-section--light" id="nowe"><div class="container"><header class="section-heading"><span class="section-label">LTS Market</span><h2>Nowe <span class="home-heading-accent">urządzenia</span></h2></header><div class="product-grid"><a class="product-card" href="/nowe/alpha-mini/"><div class="product-card__image"><img src="/assets/img/nowe/alpha-mini.webp" alt="Alpha Mini" loading="lazy" width="1145" height="1374"></div><div class="product-card__body"><h3>Alpha Mini</h3><p class="product-card__price">40 000–60 000 zł</p><p class="product-card__price-note">Cena zależy od konfiguracji urządzenia.</p><ul class="product-card__specs"><li>Moc głowicy: 1000–1200 W</li><li>Okno zabiegowe: 12 × 12 mm</li><li>Chłodzenie ICE Flow</li></ul><span class="product-card__link">Zobacz więcej <span aria-hidden="true">→</span></span></div></a><a class="product-card" href="/nowe/ray/"><div class="product-card__image"><img src="/assets/img/nowe/ray.webp" alt="RAY" loading="lazy" width="1145" height="1374"></div><div class="product-card__body"><h3>RAY</h3><p class="product-card__price">55 000–75 000 zł</p><p class="product-card__price-note">Cena zależy od konfiguracji urządzenia.</p><ul class="product-card__specs"><li>Moc głowicy: 1200 W</li><li>4 wymienne końcówki</li><li>Chłodzenie Freon 300 W</li></ul><span class="product-card__link">Zobacz więcej <span aria-hidden="true">→</span></span></div></a><a class="product-card" href="/nowe/alpha/"><div class="product-card__image"><img src="/assets/img/nowe/alpha.webp" alt="Alpha" loading="lazy" width="1145" height="1374"></div><div class="product-card__body"><h3>Alpha</h3><p class="product-card__price">60 000–80 000 zł</p><p class="product-card__price-note">Cena zależy od konfiguracji urządzenia.</p><ul class="product-card__specs"><li>Moc głowicy: 1600–2000 W</li><li>Okno zabiegowe: 12×20 mm</li><li>Chłodzenie TEC 1200 W</li></ul><span class="product-card__link">Zobacz więcej <span aria-hidden="true">→</span></span></div></a><a class="product-card" href="/nowe/lumos/"><div class="product-card__image"><img src="/assets/img/nowe/lumos.webp" alt="LUMOS" loading="lazy" width="1145" height="1374"></div><div class="product-card__body"><h3>LUMOS</h3><p class="product-card__price">68 000–100 000 zł</p><p class="product-card__price-note">Cena zależy od konfiguracji urządzenia.</p><ul class="product-card__specs"><li>Moc głowicy: 2000–4000 W</li><li>Chłodzenie ICE Flow</li><li>Technologia optyczna FAC</li></ul><span class="product-card__link">Zobacz więcej <span aria-hidden="true">→</span></span></div></a></div><div class="section-action"><a class="button button--primary home-cta" href="/nowe.html">ZOBACZ WSZYSTKIE NOWE URZĄDZENIA <span aria-hidden="true">→</span></a></div></div></section>
+<section class="leasing home-leasing" id="leasing"><div class="container"><header class="section-heading"><span class="section-label">FINANSOWANIE</span><h2>Leasing i <span class="home-heading-accent">finansowanie</span></h2><p>Profesjonalne wyposażenie salonu nie musi oznaczać jednorazowego wydatku całego kapitału. Leasing pozwala rozłożyć koszt zakupu urządzenia w czasie i zachować środki na rozwój działalności.</p></header><div class="home-leasing__grid"><article class="home-leasing__card"><span class="home-leasing__icon"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2"/><path d="M8 6h8v4H8zM8 14h1m6 0h1M8 18h1m6 0h1"/></svg></span><h3>Również dla nowych firm</h3><p>Możliwość ubiegania się o finansowanie od początku działalności.</p></article><article class="home-leasing__card"><span class="home-leasing__icon"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h18M12 3v18"/><circle cx="12" cy="12" r="9"/></svg></span><h3>Rozłożenie kosztów</h3><p>Rozłóż koszt zakupu urządzenia w czasie.</p></article><article class="home-leasing__card"><span class="home-leasing__icon"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 20 6v5c0 5-3.4 8.4-8 10-4.6-1.6-8-5-8-10V6Z"/><path d="m8 12 3 3 5-6"/></svg></span><h3>Zachowanie kapitału</h3><p>Zachowaj środki na bieżące potrzeby i rozwój salonu.</p></article><article class="home-leasing__card"><span class="home-leasing__icon"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5h11v12H3zM14 9h4l3 4v4h-7M14 13h7"/><circle cx="7" cy="18" r="2"/><circle cx="18" cy="18" r="2"/></svg></span><h3>Rozwój biznesu</h3><p>Finansowanie profesjonalnego wyposażenia gabinetu.</p></article></div><div class="section-action"><a class="button button--primary home-cta" href="/leasing.html">SPRAWDŹ MOŻLIWOŚCI LEASINGU <span aria-hidden="true">→</span></a></div><p class="home-leasing__note">Warunki finansowania oraz ostateczna decyzja zależą od indywidualnej oceny partnera finansowego.</p></div></section>
+<section class="home-info-section" id="why-lts-market"><div class="container"><header class="section-heading section-heading--dark"><h2>Dlaczego warto wybrać <span class="home-heading-accent">LTS Market</span>?</h2><p>LTS Market łączy sprzedaż profesjonalnych urządzeń kosmetologicznych z zapleczem technicznym, szkoleniami oraz możliwością finansowania inwestycji.</p></header><div class="home-info-grid"><article class="home-info-card"><span class="home-info-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg></span><h3>Bezpłatne szkolenia</h3><p>Przy zakupie nowego urządzenia zapewniamy bezpłatne szkolenie z jego obsługi.</p></article><article class="home-info-card"><span class="home-info-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg></span><h3>6 miesięcy gwarancji</h3><p>Urządzenia używane sprzedawane przez LTS Market objęte są sześciomiesięczną gwarancją.</p></article><article class="home-info-card"><span class="home-info-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg></span><h3>Diagnostyka techniczna</h3><p>Każde urządzenie używane przechodzi kontrolę techniczną przed sprzedażą.</p></article><article class="home-info-card"><span class="home-info-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg></span><h3>Leasing dla nowych firm</h3><p>Pomagamy znaleźć możliwości finansowania również przedsiębiorcom rozpoczynającym działalność.</p></article><article class="home-info-card"><span class="home-info-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg></span><h3>Profesjonalne wsparcie serwisowe</h3><p>Zaplecze techniczne zapewnia Laser Tech Service, specjalizujący się w serwisie urządzeń kosmetologicznych i laserowych.</p></article><article class="home-info-card"><span class="home-info-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8 12 3 3 5-6"/></svg></span><h3>Dostawa w całej Polsce</h3><p>Dostarczamy profesjonalne urządzenia do salonów kosmetologicznych i klinik na terenie całego kraju.</p></article></div></div></section>
+<section class="products-section products-section--dark" id="uzywane"><div class="container"><header class="section-heading section-heading--dark"><span class="section-label">LTS Market</span><h2>Używane <span class="home-heading-accent">urządzenia</span></h2></header><div class="product-grid product-grid--dark"><a class="product-card product-card--dark" href="/uzywane/mediflex-us450.html"><div class="product-card__image"><img src="/assets/img/uzywane/mediflex-us450/mediflex-us450-laser-diodowy-front-card.webp" alt="MEDIflex US450 — widok całego urządzenia od przodu" loading="lazy" width="360" height="640"></div><div class="product-card__body"><h3>MEDIflex US450</h3><p class="product-card__description">Używany laser diodowy 755/808/1064 nm. Deklarowana moc diody 2000 W. Rok 2022. Sprawny, po serwisie Laser Tech Service.</p><span class="product-card__warranty">6 miesięcy gwarancji</span><p class="product-card__price">40 000 zł</p><span class="product-card__link">Zobacz szczegóły <span aria-hidden="true">→</span></span></div></a><a
               class="product-card product-card--dark"
               href="/uzywane/3d-contour.html"
               ><div class="product-card__image">
@@ -591,7 +316,7 @@ style="display:none;visibility:hidden"></iframe>
                   podciśnieniowy. Rok 2022. Urządzenie sprawne, po serwisie
                   Laser Tech Service i gotowe do pracy.
                 </p>
-                <p class="product-card__price">12 000 zł</p>
+                <span class="product-card__warranty">6 miesięcy gwarancji</span><p class="product-card__price">12 000 zł</p>
                 <span class="product-card__link"
                   >Zobacz szczegóły <span aria-hidden="true">→</span></span
                 >
@@ -615,7 +340,7 @@ style="display:none;visibility:hidden"></iframe>
                   Urządzenie sprawne, po serwisie Laser Tech Service i gotowe do
                   pracy.
                 </p>
-                <p class="product-card__price">35 000 zł</p>
+                <span class="product-card__warranty">6 miesięcy gwarancji</span><p class="product-card__price">35 000 zł</p>
                 <span class="product-card__link"
                   >Zobacz szczegóły <span aria-hidden="true">→</span></span
                 >
@@ -639,89 +364,22 @@ style="display:none;visibility:hidden"></iframe>
                   z 2024 roku. Urządzenie sprawne, po serwisie Laser Tech
                   Service i gotowe do pracy.
                 </p>
-                <p class="product-card__price">30 000 zł</p>
+                <span class="product-card__warranty">6 miesięcy gwarancji</span><p class="product-card__price">30 000 zł</p>
                 <span class="product-card__link"
                   >Zobacz szczegóły <span aria-hidden="true">→</span></span
                 >
               </div></a
-            ><a
-              class="product-card product-card--dark"
-              href="/uzywane/daeyang-carbo-3000.html"
-              ><div class="product-card__image">
-                <img
-                  src="/assets/img/uzywane/daeyang-carbo-3000/daeyang-carbo-3000-01-card.webp"
-                  alt="DaeYang CARBO 3000"
-                  loading="lazy"
-                  width="360"
-                  height="640"
-                />
-              </div>
-              <div class="product-card__body">
-                <h3>DaeYang CARBO 3000</h3>
-                <p class="product-card__description">
-                  Używany insuflator CO₂ DaeYang CARBO 3000. Urządzenie sprawne,
-                  po serwisie Laser Tech Service i gotowe do pracy.
-                </p>
-                <p class="product-card__price">5 000 zł</p>
-                <span class="product-card__link"
-                  >Zobacz szczegóły <span aria-hidden="true">→</span></span
-                >
-              </div></a
-            >
-          </div>
-
-          <div class="section-action">
-            <a class="button button--outline" href="/uzywane.html">
-              Zobacz wszystkie używane urządzenia
-              <span aria-hidden="true">→</span>
-            </a>
-          </div>
-        </div>
-      </section>
-
-      <section class="leasing" id="leasing">
-        <div class="container leasing__container">
-          <div class="leasing__content">
-            <span class="section-label"> Finansowanie </span>
-
-            <h2>Leasing</h2>
-
-            <h3>Finansowanie dopasowane do Twojego biznesu.</h3>
-
-            <p>
-              Dla każdego klienta przygotowujemy indywidualną ofertę leasingu na
-              zakup nowych urządzeń. Dobieramy formę finansowania do wartości
-              urządzenia, możliwości firmy oraz planowanego okresu leasingu.
-            </p>
-
-            <p>
-              Współpracujemy z bankami i firmami leasingowymi działającymi na
-              terenie całej Polski, dzięki czemu możemy porównać dostępne
-              możliwości i pomóc w wyborze odpowiedniego rozwiązania.
-            </p>
-
-            <a class="button button--dark" href="/leasing.html">
-              Sprawdź możliwości finansowania
-              <span aria-hidden="true">→</span>
-            </a>
-          </div>
-
-          <div class="leasing__visual" aria-hidden="true">
-            <span class="leasing__word leasing__word--1"> LEASING </span>
-
-            <span class="leasing__word leasing__word--2"> FINANSOWANIE </span>
-
-            <span class="leasing__word leasing__word--3"> DLA FIRM </span>
-          </div>
-        </div>
-      </section>
-
-      <section class="contact-section" id="kontakt">
+            ></div><div class="section-action"><a class="button button--primary home-cta" href="/uzywane.html">ZOBACZ WSZYSTKIE URZĄDZENIA UŻYWANE <span aria-hidden="true">→</span></a></div></div></section>
+<section class="home-service home-service--light" id="serwis"><div class="container"><header class="section-heading"><h2>Wsparcie <span class="home-heading-accent">Laser Tech Service</span></h2></header><div class="home-service__copy"><p>Zakup profesjonalnego urządzenia kosmetologicznego to początek jego eksploatacji. Dlatego równie ważny jak wybór sprzętu jest dostęp do odpowiedniego zaplecza technicznego.</p><p>Wsparcie serwisowe klientów LTS Market zapewnia Laser Tech Service, specjalizujący się w diagnostyce, naprawach, regeneracji oraz konserwacji urządzeń kosmetologicznych i laserowych.</p><p>Profesjonalna obsługa techniczna pomaga ograniczyć ryzyko przestojów i utrzymać urządzenia w odpowiednim stanie technicznym.</p><a class="button button--primary home-cta" href="https://lasertechservice.pl/">POZNAJ LASER TECH SERVICE <span aria-hidden="true">→</span></a></div></div></section>
+<section class="home-info-section home-clients" id="clients-training"><div class="container"><header class="section-heading section-heading--dark"><span class="section-label">ZAUFANIE I DOŚWIADCZENIE</span><h2>Nasi <span class="home-heading-accent">klienci</span></h2><p>Nasze urządzenia pracują w salonach kosmetologicznych. Przy zakupie nowego urządzenia zapewniamy bezpłatne szkolenie z jego obsługi, aby specjaliści mogli lepiej poznać możliwości zakupionego sprzętu.</p></header><div class="home-clients__carousel" data-carousel><div class="home-clients__viewport"><div class="home-clients__track"><figure class="home-clients__slide"><a href="/assets/img/clients/lumos-laser-in-beauty-salon.webp" target="_blank" rel="noopener"><img src="/assets/img/clients/lumos-laser-in-beauty-salon.webp" alt="Laser Lumos w salonie kosmetologicznym" loading="lazy" decoding="async" width="787" height="1400"></a><figcaption>Laser Lumos w salonie kosmetologicznym</figcaption></figure><figure class="home-clients__slide"><a href="/assets/img/clients/lumos-group-training-certificates.webp" target="_blank" rel="noopener"><img src="/assets/img/clients/lumos-group-training-certificates.webp" alt="Uczestnicy szkolenia z certyfikatami" loading="lazy" decoding="async" width="787" height="1400"></a><figcaption>Uczestnicy szkolenia z certyfikatami</figcaption></figure><figure class="home-clients__slide"><a href="/assets/img/clients/lumos-alpha-mini-equipment-training.webp" target="_blank" rel="noopener"><img src="/assets/img/clients/lumos-alpha-mini-equipment-training.webp" alt="Profesjonalne wyposażenie salonu" loading="lazy" decoding="async" width="787" height="1400"></a><figcaption>Profesjonalne wyposażenie salonu</figcaption></figure><figure class="home-clients__slide"><a href="/assets/img/clients/lumos-training-certificate.webp" target="_blank" rel="noopener"><img src="/assets/img/clients/lumos-training-certificate.webp" alt="Uczestniczka szkolenia z certyfikatem" loading="lazy" decoding="async" width="787" height="1400"></a><figcaption>Uczestniczka szkolenia z certyfikatem</figcaption></figure><figure class="home-clients__slide"><a href="/assets/img/clients/lumos-equipped-treatment-room.webp" target="_blank" rel="noopener"><img src="/assets/img/clients/lumos-equipped-treatment-room.webp" alt="Gabinet wyposażony w laser Lumos" loading="lazy" decoding="async" width="787" height="1400"></a><figcaption>Gabinet wyposażony w laser Lumos</figcaption></figure></div></div><div class="home-clients__controls"><button type="button" data-prev aria-label="Poprzednie zdjęcie">←</button><button type="button" data-pause aria-label="Wstrzymaj pokaz" data-pause-label="Wstrzymaj pokaz" data-resume-label="Wznów pokaz" aria-pressed="false">Ⅱ</button><button type="button" data-next aria-label="Następne zdjęcie">→</button></div></div></div></section>
+<section class="home-info-section home-blog home-blog--light" id="latest-articles"><div class="container"><header class="section-heading"><h2>Najnowsze <span class="home-heading-accent">artykuły</span></h2></header><div class="blog-grid"><article class="blog-card"><div class="blog-card__meta"><span class="blog-card__category">Blog LTS Market</span><time class="blog-card__date" datetime="2026-11-26">2026-11-26</time></div><h3><a href="/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/">Jak kupić używany laser do depilacji i nie dać się oszukać? Liczniki impulsów, podróbki i ukryte usterki</a></h3><p class="blog-card__description">Jak sprawdzić używany laser do depilacji przed zakupem? Licznik impulsów, podróbki, ukryte usterki, diagnostyka i gwarancja LTS Market.</p><footer class="blog-card__footer"><span class="blog-card__reading">około 8 min czytania</span><a class="blog-card__link" href="/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/" aria-label="Czytaj artykuł: Jak kupić używany laser do depilacji i nie dać się oszukać? Liczniki impulsów, podróbki i ukryte usterki">Czytaj artykuł <span aria-hidden="true">→</span></a></footer></article><article class="blog-card"><div class="blog-card__meta"><span class="blog-card__category">Blog LTS Market</span><time class="blog-card__date" datetime="2026-11-25">2026-11-25</time></div><h3><a href="/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/">Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia</a></h3><p class="blog-card__description">Czy mocniejszy laser zawsze oznacza szybszą i skuteczniejszą epilację? Wyjaśniamy znaczenie mocy, wielkości plamki zabiegowej, optyki FAC i chłodzenia.</p><footer class="blog-card__footer"><span class="blog-card__reading">około 10 min czytania</span><a class="blog-card__link" href="/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/" aria-label="Czytaj artykuł: Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia">Czytaj artykuł <span aria-hidden="true">→</span></a></footer></article><article class="blog-card"><div class="blog-card__meta"><span class="blog-card__category">Blog LTS Market</span><time class="blog-card__date" datetime="2026-11-25">2026-11-25</time></div><h3><a href="/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/">Technologie łączone w kosmetologii: epilacja laserowa, fotoodmładzanie i indywidualne programy zabiegowe</a></h3><p class="blog-card__description">Jak połączyć różne technologie kosmetologiczne w jednej ofercie gabinetu? Wyjaśniamy różnice między laserami, IPL, BBL, metodami frakcyjnymi i RF.</p><footer class="blog-card__footer"><span class="blog-card__reading">około 10 min czytania</span><a class="blog-card__link" href="/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/" aria-label="Czytaj artykuł: Technologie łączone w kosmetologii: epilacja laserowa, fotoodmładzanie i indywidualne programy zabiegowe">Czytaj artykuł <span aria-hidden="true">→</span></a></footer></article><article class="blog-card"><div class="blog-card__meta"><span class="blog-card__category">Blog LTS Market</span><time class="blog-card__date" datetime="2026-11-24">2026-11-24</time></div><h3><a href="/blog/sztuczna-inteligencja-w-epilacji-laserowej/">Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów</a></h3><p class="blog-card__description">Czy nowoczesny laser rzeczywiście wykorzystuje sztuczną inteligencję? Wyjaśniamy znaczenie pomiaru melaniny, spektrofotometrii, czujników i automatycznej kontroli parametrów.</p><footer class="blog-card__footer"><span class="blog-card__reading">około 11 min czytania</span><a class="blog-card__link" href="/blog/sztuczna-inteligencja-w-epilacji-laserowej/" aria-label="Czytaj artykuł: Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów">Czytaj artykuł <span aria-hidden="true">→</span></a></footer></article></div><div class="section-action"><a class="button button--primary home-cta" href="/blog/">ZOBACZ WSZYSTKIE ARTYKUŁY <span aria-hidden="true">→</span></a></div></div></section>
+<section class="home-info-section home-faq" id="faq"><div class="container"><header class="section-heading section-heading--dark"><h2>Najczęściej zadawane <span class="home-heading-accent">pytania</span></h2></header><div class="alpha-faq"><details><summary>Czy LTS Market udziela gwarancji na urządzenia używane?</summary><p>Tak. Wszystkie urządzenia używane sprzedawane przez LTS Market objęte są <a href="/uzywane.html">sześciomiesięczną gwarancją</a>. Przed sprzedażą przechodzą również diagnostykę techniczną.</p></details><details><summary>Czy urządzenia używane są sprawdzane przed sprzedażą?</summary><p>Tak. Każde urządzenie używane przechodzi kontrolę techniczną przed sprzedażą. Celem diagnostyki jest ocena stanu urządzenia oraz jego przygotowanie do dalszej eksploatacji.</p></details><details><summary>Czy można kupić urządzenie kosmetologiczne w <a href="/leasing.html">leasingu</a>?</summary><p>Tak. LTS Market oferuje możliwość zakupu urządzeń kosmetologicznych z wykorzystaniem leasingu. Warunki finansowania zależą od wybranego urządzenia oraz oceny partnera finansowego.</p></details><details><summary>Czy leasing jest dostępny dla nowych firm?</summary><p>Tak. Z możliwości <a href="/leasing.html">finansowania</a> mogą korzystać również przedsiębiorcy, którzy dopiero rozpoczynają działalność. Ostateczna decyzja oraz warunki leasingu zależą od indywidualnej oceny partnera finansowego.</p></details><details><summary>Czy szkolenie jest wliczone w cenę nowego urządzenia?</summary><p>Tak. Przy zakupie nowego urządzenia w LTS Market zapewniamy bezpłatne szkolenie z jego obsługi. Pozwala ono zapoznać się z funkcjami urządzenia i zasadami jego prawidłowego użytkowania.</p></details><details><summary>Kto zapewnia obsługę serwisową urządzeń?</summary><p>Wsparcie techniczne zapewnia <a href="https://lasertechservice.pl/">Laser Tech Service</a>, specjalizujący się w diagnostyce, naprawach, regeneracji oraz konserwacji urządzeń kosmetologicznych i laserowych.</p></details><details><summary>Czy LTS Market dostarcza urządzenia na terenie całej Polski?</summary><p>Tak. Dostarczamy profesjonalne urządzenia kosmetologiczne do salonów i klinik na terenie całej Polski. Szczegóły dostawy zależą od rodzaju urządzenia oraz warunków zamówienia.</p></details><details><summary>Czy pomagacie w wyborze urządzenia kosmetologicznego?</summary><p>Tak. Pomagamy dobrać urządzenie do rodzaju wykonywanych zabiegów, potrzeb gabinetu oraz dostępnego budżetu. Oferujemy zarówno nowe, jak i używane urządzenia.</p></details><details><summary>Co lepiej kupić: nowy czy używany laser do epilacji?</summary><p>Nowy laser jest odpowiednim rozwiązaniem dla salonów poszukujących nowoczesnych technologii, gwarancji oraz szkolenia z obsługi. Sprawdzone urządzenie używane może być korzystną alternatywą dla przedsiębiorców dysponujących mniejszym budżetem.</p><p>Wybór zależy od potrzeb salonu, planowanego obciążenia urządzenia oraz możliwości finansowych.</p></details><details><summary>Ile kosztuje profesjonalny laser do epilacji?</summary><p>Ceny nowych laserów do epilacji oferowanych przez LTS Market wynoszą od 40 000 do 100 000 zł, zależnie od modelu i konfiguracji.</p><ul><li><a href="/nowe/alpha-mini/">Alpha Mini</a>: 40 000–60 000 zł.</li><li><a href="/nowe/ray/">RAY</a>: 55 000–75 000 zł.</li><li><a href="/nowe/alpha/">Alpha</a>: 60 000–80 000 zł.</li><li><a href="/nowe/lumos/">LUMOS</a>: 68 000–100 000 zł.</li></ul><p>Dostępne są również urządzenia używane oraz możliwość finansowania zakupu w leasingu.</p></details></div></div></section>
+<section class="contact-section" id="kontakt">
         <div class="container">
           <header class="section-heading section-heading--dark">
             <span class="section-label"> Kontakt </span>
 
-            <h2>Właściciel salonu?</h2>
+            <h2>Skontaktuj się <span class="home-heading-accent">z nami</span></h2>
 
             <p class="contact-section__lead">
               Porozmawiajmy o nowym urządzeniu.
@@ -963,5 +621,6 @@ style="display:none;visibility:hidden"></iframe>
 
     <script src="/js/lead-api.js" defer></script>
     <script src="/js/main.js" defer></script>
-  </body>
+  <script src="/js/home-carousel.js" defer></script>
+</body>
 </html>

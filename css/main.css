@@ -2577,3 +2577,184 @@ main :is(h1, h2, h3, p, .button) { overflow-wrap: anywhere; }
     border-top: 3px solid var(--color-blue);
     background: var(--dark-card-background);
 }
+
+/* Homepage visual system. Scoped so catalogues and product pages keep their styles. */
+.home-page > section { scroll-margin-top: var(--header-height); }
+.home-page .section-heading { max-width: 900px; margin-bottom: 30px; }
+.home-page .section-heading h2,
+.home-page .home-leasing h2 {
+    font-size: clamp(27px, 3.2vw, 42px);
+    line-height: 1.16;
+    letter-spacing: -.04em;
+    overflow-wrap: normal;
+}
+.home-page .home-heading-accent { color: var(--color-blue); }
+.home-page .section-label { font-size: clamp(12px, 1vw, 14px); }
+.home-page .section-heading > p,
+.home-page .home-service__copy p,
+.home-page .home-leasing__card p,
+.home-page .home-info-card p,
+.home-page .home-faq details p,
+.home-page .home-faq details li { font-size: clamp(15px, 1.2vw, 17px); line-height: 1.65; }
+.home-page .section-action { justify-content: center; margin-top: 28px; }
+.home-page .home-leasing .section-action,
+.home-page .home-blog .section-action { justify-content: flex-start; }
+.home-page .home-cta {
+    min-height: 52px;
+    width: fit-content;
+    max-width: 100%;
+    padding: 13px 22px;
+    border-radius: var(--radius-small);
+    color: var(--color-white);
+    background: var(--color-blue);
+    font-size: 13px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+}
+.home-page .home-cta:hover { background: var(--color-blue-hover); }
+.home-page .home-cta:focus-visible { outline: 2px solid var(--color-blue); outline-offset: 3px; }
+
+/* Approved Hero remains intact; the compact benefit cards use the available width. */
+.home-page > .hero { min-height: 0; }
+.home-page > .hero .hero__container { min-height: 0; padding-block: clamp(140px, 18vw, 220px) 38px; }
+.home-page > .hero .hero__title,
+html[lang="ru"] .home-page > .hero .hero__title {
+    display: block;
+    max-width: 850px;
+    font-size: clamp(28px, 5vw, 56px);
+    line-height: 1.14;
+    text-transform: none;
+    letter-spacing: -.04em;
+}
+.home-page > .hero .hero__title span { display: inline; }
+.home-page > .hero .hero__title-accent { margin: 0; white-space: normal; }
+.home-page > .hero .hero__description { max-width: 720px; }
+.home-page .hero-benefits { gap: 16px; padding-bottom: 20px; border: 0; }
+.home-page .hero-benefit,
+.home-page .hero-benefits .hero-benefit {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    min-width: 0;
+    min-height: 0;
+    height: 100%;
+    padding: 16px;
+    border: var(--dark-card-border);
+    border-top: 3px solid var(--color-blue);
+    background: var(--dark-card-background), var(--color-bg);
+}
+.home-page .hero-benefit:hover,
+.home-page .hero-benefit:not(:first-child):hover { padding-left: 16px; }
+.home-page .hero-benefit__icon { flex: 0 0 28px; width: 28px; height: 28px; }
+.home-page .hero-benefit__icon svg { width: 24px; height: 24px; }
+.home-page .hero-benefit__text { display: grid; gap: 5px; min-width: 0; width: 100%; font-size: 15px; }
+.home-page .hero-benefit__text strong { color: var(--color-white); font-size: 16px; line-height: 1.35; }
+.home-page .hero-benefit__text span { color: rgba(255,255,255,.72); line-height: 1.5; font-weight: 400; }
+
+/* Product rows retain the existing cards and links. */
+.home-page .product-grid { align-items: stretch; }
+.home-page .product-card { height: 100%; }
+.home-page .product-card__image { aspect-ratio: 5 / 6; }
+.home-page .product-card__image img { object-fit: cover; }
+.home-page .product-card[href*="ellisys-plus"] .product-card__image img { object-fit: contain; }
+.home-page .product-card__body { min-height: 0; padding: 20px; }
+.home-page .product-card h3 { font-size: clamp(18px, 1.55vw, 22px); line-height: 1.3; }
+.home-page .product-card__price {
+    color: var(--color-blue);
+    font-size: clamp(21px, 1.9vw, 25px);
+    line-height: 1.25;
+    font-weight: 800;
+}
+.home-page .product-card--dark .product-card__price { color: var(--color-blue); }
+.home-page .product-card__price-note { margin: -6px 0 14px; color: var(--color-text-soft); font-size: 13px; }
+.home-page .product-card__specs { margin: 0 0 18px; padding-left: 18px; color: var(--color-text-soft); font-size: 13px; line-height: 1.55; }
+.home-page .product-card__warranty { display: inline-block; width: fit-content; margin: 0 0 10px; padding: 5px 8px; border: 1px solid var(--color-blue); color: var(--color-blue); font-size: 12px; font-weight: 700; }
+.home-page .product-grid--dark .product-card__body { display: grid; grid-template-rows: auto 1fr auto auto auto; }
+.home-page .product-grid--dark .product-card__description { margin-bottom: 14px; }
+.home-page .product-grid--dark .product-card__link { margin-top: 0; }
+
+/* Compact financing row on the existing light surface. */
+.home-page .home-leasing { padding: 68px 0; background: #f3f6f8; }
+.home-page .home-leasing .section-heading { max-width: 960px; }
+.home-page .home-leasing__grid { display: grid; grid-template-columns: 1fr; gap: 16px; }
+.home-page .home-leasing__card { min-width: 0; padding: 22px; border: 1px solid var(--color-border); border-top: 3px solid var(--color-blue); background: var(--color-white); }
+.home-page .home-leasing__icon { display: block; width: 30px; height: 30px; margin-bottom: 12px; color: var(--color-blue); }
+.home-page .home-leasing__icon svg { width: 30px; height: 30px; }
+.home-page .home-leasing__card h3,
+.home-page .home-info-card h3 { margin: 0 0 10px; font-size: clamp(18px, 1.6vw, 22px); line-height: 1.3; }
+.home-page .home-leasing__card p { margin: 0; color: var(--color-text-soft); }
+.home-page .home-leasing__note { max-width: 900px; margin: 18px auto 0; color: var(--color-text-soft); font-size: 13px; line-height: 1.55; text-align: center; }
+
+/* Alternating surfaces and consistent information cards. */
+.home-page .home-info-section,
+.home-page .home-service { padding: 68px 0; color: var(--color-white); background: var(--color-bg); }
+.home-page .home-info-grid { display: grid; grid-template-columns: 1fr; gap: 16px; }
+.home-page .home-info-card { padding: 24px; border: var(--dark-card-border); border-top: 3px solid var(--color-blue); background: var(--dark-card-background), var(--color-bg); }
+.home-page .home-info-card__icon { display: block; width: 28px; height: 28px; margin-bottom: 12px; color: var(--color-blue); }
+.home-page .home-info-card__icon svg { width: 28px; height: 28px; }
+.home-page .home-info-card p { margin: 0; color: rgba(255,255,255,.72); }
+.home-page .home-service--light,
+.home-page .home-blog--light { color: var(--color-text); background: var(--color-light); }
+.home-page .home-service__copy { max-width: 900px; }
+.home-page .home-service__copy p { color: var(--color-text-soft); }
+.home-page .home-service__copy .home-cta { display: flex; margin: 24px 0 0; }
+
+/* One-row client carousel. Original images stay in HTML. */
+.home-page .home-clients__carousel { position: relative; }
+.home-page .home-clients__viewport { overflow: hidden; }
+.home-page .home-clients__track { position: relative; display: flex; gap: 16px; transition: transform 420ms ease; will-change: transform; }
+.home-page .home-clients__slide { flex: 0 0 100%; min-width: 0; margin: 0; }
+.home-page .home-clients__slide a { display: block; aspect-ratio: 4 / 5; overflow: hidden; border: var(--dark-card-border); background: var(--color-bg-card); }
+.home-page .home-clients__slide a:focus-visible { outline: 2px solid var(--color-blue); outline-offset: -2px; }
+.home-page .home-clients__slide img { width: 100%; height: 100%; object-fit: cover; object-position: center 50%; }
+.home-page .home-clients__slide:first-child img { object-position: center 62%; }
+.home-page .home-clients__slide:nth-child(3) img { object-position: center 48%; }
+.home-page .home-clients__slide figcaption { padding-top: 8px; color: rgba(255,255,255,.65); font-size: 12px; line-height: 1.4; }
+.home-page .home-clients__controls { display: flex; justify-content: center; gap: 8px; margin-top: 18px; }
+.home-page .home-clients__controls button { display: grid; place-items: center; width: 36px; height: 36px; border: var(--dark-card-border); border-radius: var(--radius-small); color: var(--color-white); background: var(--color-bg-card); cursor: pointer; }
+.home-page .home-clients__controls button:hover { border-color: var(--color-blue); color: var(--color-blue); }
+.home-page .home-clients__controls button:focus-visible { outline: 2px solid var(--color-blue); outline-offset: 2px; }
+
+/* Blog, FAQ, and form. */
+.home-page .home-blog .blog-grid { display: grid; grid-template-columns: 1fr; gap: 16px; }
+.home-page .home-blog .blog-card { display: flex; flex-direction: column; min-width: 0; padding: 22px; border: 1px solid var(--color-border); border-top: 3px solid var(--color-blue); background: var(--color-white); }
+.home-page .home-blog .blog-card h3 { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; margin: 12px 0; font-size: clamp(18px, 1.5vw, 21px); line-height: 1.4; }
+.home-page .home-blog .blog-card__description { margin-bottom: 16px; color: var(--color-text-soft); font-size: 15px; line-height: 1.55; }
+.home-page .home-blog .blog-card__date,
+.home-page .home-blog .blog-card__reading { color: var(--color-text-soft); font-size: 12px; }
+.home-page .home-blog .blog-card__category,
+.home-page .home-blog .blog-card__link { color: var(--color-blue); }
+.home-page .home-blog .blog-card__footer { display: flex; flex-wrap: wrap; gap: 10px; margin-top: auto; padding-top: 14px; border-top: 1px solid var(--color-border); }
+.home-page .home-faq .alpha-faq { max-width: 960px; }
+.home-page .home-faq details { padding: 18px 0; border-bottom: var(--dark-card-border); }
+.home-page .home-faq summary { position: relative; padding-right: 32px; cursor: pointer; font-size: 17px; font-weight: 700; line-height: 1.5; }
+.home-page .home-faq summary::after { position: absolute; right: 4px; top: 0; color: var(--color-blue); content: '+'; font-size: 24px; line-height: 1; }
+.home-page .home-faq details[open] summary::after { content: '−'; }
+.home-page .home-faq summary:focus-visible { outline: 2px solid var(--color-blue); outline-offset: 3px; }
+.home-page .home-faq details p,
+.home-page .home-faq details li { color: rgba(255,255,255,.72); }
+.home-page .home-faq details p { margin-top: 12px; }
+.home-page .home-faq details ul { padding-left: 20px; }
+.home-page .home-faq details a { color: var(--color-blue); text-decoration: underline; }
+.home-page .contact-section .section-heading h2 { color: var(--color-white); }
+.home-page .contact-section button[type="submit"] { color: var(--color-white); background: var(--color-blue); }
+.home-page .contact-section button[type="submit"]:hover { background: var(--color-blue-hover); }
+
+@media (min-width: 640px) {
+    .home-page .home-leasing__grid,
+    .home-page .home-info-grid,
+    .home-page .home-blog .blog-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+    .home-page .home-clients__slide { flex-basis: calc((100% - 16px) / 2); }
+}
+@media (min-width: 1024px) {
+    .home-page .home-leasing__grid,
+    .home-page .home-blog .blog-grid { grid-template-columns: repeat(4,minmax(0,1fr)); }
+    .home-page .home-info-grid { grid-template-columns: repeat(3,minmax(0,1fr)); }
+    .home-page .home-clients__slide { flex-basis: calc((100% - 48px) / 4); }
+    .home-page .product-grid--dark .product-card h3 { min-height: 2.6em; }
+    .home-page > .hero .hero__container { padding-block: 140px 55px; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .home-page .home-clients__track { transition: none; }
+}

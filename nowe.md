@@ -44,7 +44,7 @@ Laser diodowy
 
 ### Alpha Mini
 
-od **40 000 zł**
+**40 000–60 000 zł**
 
 Kompaktowy model przeznaczony do rozpoczęcia działalności oraz pracy przy umiarkowanym obciążeniu gabinetu.
 
@@ -74,7 +74,7 @@ Laser diodowy
 
 ### [Ray](https://ltsmarket.pl/nowe/ray/)
 
-**55 000 zł**
+**55 000–75 000 zł**
 
 Model wyposażony w cztery wymienne końcówki, przygotowany do wygodnej pracy na różnych obszarach ciała.
 
@@ -104,7 +104,7 @@ Laser diodowy
 
 ### [Alpha](https://ltsmarket.pl/nowe/alpha/)
 
-od **60 000 zł**
+**60 000–80 000 zł**
 
 Wysoka moc i rozbudowane funkcje dla gabinetów potrzebujących urządzenia przygotowanego do intensywnej pracy.
 

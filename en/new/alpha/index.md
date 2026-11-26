@@ -12,7 +12,7 @@ Other languages: [Polski](https://ltsmarket.pl/nowe/alpha/), [Русский](ht
 
 A professional diode laser with 1600–2000 W handpiece options, a 12×20 mm treatment window, TEC 1200 W cooling and intelligent features designed for regular clinic operation.
 
-**From PLN 60,000**
+**PLN 60,000–80,000**
 
 **Buy Alpha from LTS Market and receive professional [Laser Tech Service](https://lasertechservice.pl/) support.**
 
@@ -109,7 +109,7 @@ Professional studios can consider Alpha for its handpiece options, treatment win
 | Model | Alpha |
 | Type | Professional diode laser |
 | Positioning | Business |
-| Price | From PLN 60,000 |
+| Price | PLN 60,000–80,000 |
 | Handpiece power | 1600–2000 W |
 | Energy / pulse duration | 180–220 J / 200 ms |
 | Cooling | TEC 1200 W |
@@ -137,7 +137,7 @@ Warranty and post-warranty service conditions depend on the purchase agreement. 
 
 ## Alpha Price and Leasing Options
 
-Alpha prices start at PLN 60,000, depending on configuration and purchase conditions.
+Alpha prices range from PLN 60,000 to PLN 80,000, depending on configuration and purchase conditions.
 
 LTS Market can help you compare available options and prepare an individual quotation. Leasing may also be discussed, subject to the financing provider's terms.
 
@@ -147,7 +147,7 @@ Purchasing Alpha from LTS Market also provides access to professional [Laser Tec
 
 ### How much does Alpha cost?
 
-Alpha prices start at PLN 60,000, depending on configuration.
+Alpha prices range from PLN 60,000 to PLN 80,000, depending on configuration.
 
 ### What is the handpiece power?
 

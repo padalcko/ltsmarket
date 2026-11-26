@@ -12,7 +12,7 @@ Other languages: [Polski](https://ltsmarket.pl/nowe/ray/), [Русский](http
 
 Professional diode laser with a 1200 W handpiece, four interchangeable treatment tips, FAC optical technology, a handpiece touchscreen and Freon 300 W cooling.
 
-**PLN 55,000**
+**PLN 55,000–75,000**
 
 **Buy Ray from LTS Market and receive professional [Laser Tech Service](https://lasertechservice.pl/) support.**
 
@@ -123,7 +123,7 @@ For studios seeking convenient handpiece operation and access to professional te
 | Model | Ray |
 | Type | Professional diode laser |
 | Positioning | Compact |
-| Price | PLN 55,000 |
+| Price | PLN 55,000–75,000 |
 | Handpiece power | 1200 W |
 | Energy / pulse duration | 150 J / 200 ms |
 | Cooling | Freon 300 W |
@@ -152,7 +152,7 @@ Warranty and post-warranty services depend on the purchase agreement and agreed 
 
 ## Ray Price and Financing Options
 
-Ray is listed at PLN 55,000.
+Ray is listed at PLN 55,000–75,000.
 
 Its key features include a 1200 W handpiece, four interchangeable tips, FAC optics, a touchscreen and Freon 300 W cooling.
 
@@ -164,7 +164,7 @@ Purchasing Ray from LTS Market also provides access to professional [Laser Tech 
 
 ### How much does Ray cost?
 
-Ray is listed at PLN 55,000.
+Ray is listed at PLN 55,000–75,000.
 
 ### How many interchangeable tips does Ray have?
 

@@ -44,7 +44,7 @@ Diode laser
 
 ### Alpha Mini
 
-from **40 000 zł**
+**PLN 40,000–60,000**
 
 A compact model for starting a business and clinics with a moderate workload.
 
@@ -74,7 +74,7 @@ Diode laser
 
 ### [Ray](https://ltsmarket.pl/en/new/ray/)
 
-**55 000 zł**
+**PLN 55,000–75,000**
 
 A model with four interchangeable tips for convenient treatment of different body areas.
 
@@ -104,7 +104,7 @@ Diode laser
 
 ### [Alpha](https://ltsmarket.pl/en/new/alpha/)
 
-from **60 000 zł**
+**PLN 60,000–80,000**
 
 High power and extensive features for clinics that need equipment built for intensive use.
 
@@ -132,7 +132,7 @@ Premium
 
 ### [Lumos](https://ltsmarket.pl/en/new/lumos/)
 
-**68 000–100 000 zł**
+**PLN 68,000–100,000**
 
 An advanced system combining high power, four wavelengths and extensive technologies to support your clinic’s work.
 

@@ -6,13 +6,13 @@ Język: Polski
 
 Inne wersje językowe: [English](https://ltsmarket.pl/en/new/ray/), [Русский](https://ltsmarket.pl/ru/novye/ray/)
 
-> Ray – profesjonalny laser diodowy 1200 W z czterema wymiennymi końcówkami, technologią FAC i chłodzeniem Freon 300 W. Cena 55 000 zł.
+> Ray – profesjonalny laser diodowy 1200 W z czterema wymiennymi końcówkami, technologią FAC i chłodzeniem Freon 300 W. Cena 55 000–75 000 zł.
 
 **PROFESJONALNY LASER DIODOWY — COMPACT**
 
 Profesjonalny laser diodowy o mocy głowicy 1200 W, wyposażony w cztery wymienne końcówki, technologię FAC, dotykowy ekran głowicy oraz system chłodzenia Freon 300 W.
 
-**55 000 zł**
+**55 000–75 000 zł**
 
 **Kupując Ray w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**
 
@@ -123,7 +123,7 @@ Dla specjalistycznych studiów ważne są ergonomia manipuły, wygodne sterowani
 | Model | Ray |
 | Typ | Profesjonalny laser diodowy |
 | Pozycjonowanie | Compact |
-| Cena | 55 000 zł |
+| Cena | 55 000–75 000 zł |
 | Moc głowicy | 1200 W |
 | Energia / czas impulsu | 150 J / 200 ms |
 | Chłodzenie | Freon 300 W |
@@ -152,7 +152,7 @@ Zakres i koszt napraw, części oraz usług gwarancyjnych i pogwarancyjnych okre
 
 ## Ile kosztuje laser Ray?
 
-Cena Ray w LTS Market wynosi 55 000 zł.
+Cena Ray w LTS Market wynosi 55 000–75 000 zł.
 
 Urządzenie oferuje głowicę 1200 W, cztery wymienne końcówki, technologię FAC, dotykowy ekran manipuły oraz chłodzenie Freon 300 W.
 
@@ -164,7 +164,7 @@ Kupując Ray u nas, otrzymujesz również profesjonalne wsparcie serwisowe [Lase
 
 ### Ile kosztuje Ray?
 
-Cena Ray w LTS Market wynosi 55 000 zł.
+Cena Ray w LTS Market wynosi 55 000–75 000 zł.
 
 ### Ile końcówek posiada Ray?
 

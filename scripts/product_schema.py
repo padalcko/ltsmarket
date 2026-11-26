@@ -1,6 +1,7 @@
 """Shared Product/Offer normalization; no changes to visible content or SEO tags.
 
-Base configurations at the published minimum prices were confirmed by the owner.
+New-model configuration ranges remain AggregateOffer values; do not infer a
+specific available configuration price from a range minimum.
 Shipping uses a truthful maximum rate, not a rate inferred from product price.
 The basket-level free-shipping threshold must also be configured in Merchant Center.
 New-device delivery times omit the incomplete handling/transit-only estimate.
@@ -120,14 +121,6 @@ def normalize_node(node, lang):
             if kind is None:
                 raise ValueError('Product has no known condition: '+node.get('name', ''))
             offer = node['offers']
-            if offer['@type'] == 'AggregateOffer':
-                # One seller, confirmed purchasable base configuration, no independent offers.
-                if node['name'] not in ('Alpha Mini', 'Alpha', 'Lumos'):
-                    raise ValueError('Unconfirmed aggregate offer: '+node['name'])
-                offer['price'] = offer.pop('lowPrice')
-                offer.pop('highPrice', None)
-                offer.pop('offerCount', None)
-                offer['@type'] = 'Offer'
             if kind == 'new' and node['name'] == 'Lumos':
                 # Old catalogue schema used an anchor instead of the actual product page.
                 node['url'] = BASE+NEW_ROUTES[lang]+'lumos/'

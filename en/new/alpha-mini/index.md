@@ -6,13 +6,13 @@ Language: English
 
 Other languages: [Polski](https://ltsmarket.pl/nowe/alpha-mini/), [Русский](https://ltsmarket.pl/ru/novye/alpha-mini/)
 
-> Alpha Mini professional hair removal diode laser from PLN 40,000. Buy from LTS Market with access to Laser Tech Service technical support.
+> Alpha Mini professional hair removal diode laser priced at PLN 40,000–60,000. Buy from LTS Market with access to Laser Tech Service technical support.
 
 New diode laser
 
 A compact diode laser for beauty salons. Professional hair removal technology, advanced ICE Flow cooling and technical support from [Laser Tech Service](https://lasertechservice.pl/).
 
-From 40 000 zł
+PLN 40,000–60,000
 
 **1000–1200 W**Handpiece power
 
@@ -145,7 +145,7 @@ The scope and cost of inspections, repairs, parts and any component refurbishmen
 
 ### How much does Alpha Mini cost?
 
-Prices start at PLN 40,000. The final amount depends on the selected configuration and agreed sales terms.
+Prices range from PLN 40,000 to PLN 60,000. The final amount depends on the selected configuration and agreed sales terms.
 
 ### Is Alpha Mini suitable for a new salon?
 
