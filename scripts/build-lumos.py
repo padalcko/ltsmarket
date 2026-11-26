@@ -123,9 +123,11 @@ def generate():
                 main+=f'<section class="nowe-intro" id="{id}"><div class="container alpha-split lumos-feature{reverse}">{copy}{wavelength_illustration(lang) if i==2 else illustration(lang,i-3)}</div></section>'
             else:
                 main+=alpha.section(plain(blocks[i][0]),body(blocks[i][1:],dark=i==8),id,dark=i==8)
+        main+=business_section(lang)
         note={'pl':'zależnie od konfiguracji','en':'depending on configuration','ru':'в зависимости от комплектации'}[lang]
         software={'pl':'zależnie od wersji oprogramowania','en':'depending on software version','ru':'в зависимости от версии ПО'}[lang]
-        values=['Lumos',{'pl':'Profesjonalny laser diodowy','en':'Professional diode laser','ru':'Профессиональный диодный лазер'}[lang],'Premium','68 000–100 000 PLN','2000–4000 W — '+note,'755 / 808 / 940 / 1064 nm','10–240 J','1–30 Hz',{'pl':'Od 5 ms','en':'From 5 ms','ru':'От 5 мс'}[lang],'ICE Flow','FAC','NeoDez — '+note,'Android — '+software,software,note]
+        price_display='PLN 68,000–100,000' if lang=='en' else '68 000–100 000 PLN'
+        values=['Lumos',{'pl':'Profesjonalny laser diodowy','en':'Professional diode laser','ru':'Профессиональный диодный лазер'}[lang],'Premium',price_display,'2000–4000 W — '+note,'755 / 808 / 940 / 1064 nm','10–240 J','1–30 Hz',{'pl':'Od 5 ms','en':'From 5 ms','ru':'От 5 мс'}[lang],'ICE Flow','FAC','NeoDez — '+note,'Android — '+software,software,note]
         table='<p class="alpha-copy">'+e(labels[8])+'</p><table class="alpha-spec"><caption>'+e(labels[0])+'</caption><thead><tr><th scope="col">'+labels[1]+'</th><th scope="col">'+labels[2]+'</th></tr></thead><tbody>'+''.join(f'<tr><th scope="row">{e(k)}</th><td>{e(v)}</td></tr>' for k,v in zip(ROW_NAMES[lang],values))+'</tbody></table>'
         main+=alpha.section(labels[0],table,'specification')
         main+=alpha.section(labels[3],media.gallery(lang),'gallery')
@@ -141,7 +143,6 @@ def generate():
         formsection=re.search(r'<section class="contact-form-section".*?</section>',source,re.S)[0]
         formsection=formsection.replace('Alpha Mini','Lumos').replace('alpha-mini','lumos')
         formsection=re.sub(r'<p class="alpha-notice">.*?</p>', '<p class="alpha-notice">'+inline(hero[7])+'</p>',formsection,flags=re.S)
-        main+=business_section(lang)
         main+=offer
         main+=formsection
         main=accent_headings(main)

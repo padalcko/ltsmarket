@@ -148,6 +148,30 @@ W studiach specjalizujących się w depilacji laserowej znaczenie mają wygoda o
 
 Przy wyborze sprzętu dla kilku stanowisk lub placówek warto uwzględnić nie tylko parametry urządzeń, ale również organizację przeglądów i możliwość korzystania z profesjonalnego serwisu.
 
+## Jakie problemy biznesowe rozwiązuje zakup lasera LUMOS?
+
+Zakup nowego lasera LUMOS pozwala ograniczyć ryzyko nieplanowanych kosztów serwisowych, zapewnić stabilne warunki wykonywania zabiegów, zwiększyć bezpieczeństwo działalności, pozyskiwać nowych klientów i lepiej planować finanse salonu.
+
+### Ochrona przed nieplanowanymi kosztami napraw
+
+Nowe podzespoły, gwarancja oraz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/) pomagają ograniczyć ryzyko nieplanowanych wydatków, przestojów urządzenia i odwoływania wizyt klientów.
+
+### Stabilna skuteczność zabiegów
+
+Nowy moduł diodowy, technologia optyczna FAC oraz system chłodzenia ICE Flow wspierają stabilne warunki pracy urządzenia i powtarzalność wykonywanych zabiegów.
+
+### Bezpieczeństwo prawne i techniczne
+
+Odpowiednia dokumentacja techniczna oraz potwierdzona zgodność urządzenia z obowiązującymi wymaganiami europejskimi pomagają ograniczyć ryzyko prawne i techniczne związane z prowadzeniem salonu.
+
+### Pozyskiwanie nowych klientów
+
+Nowoczesne technologie epilacji laserowej stanowią dodatkowy argument marketingowy, pomagają wyróżnić ofertę salonu i przyciągać klientów poszukujących profesjonalnych zabiegów.
+
+### Przewidywalne planowanie finansowe
+
+Leasing umożliwia rozłożenie kosztów zakupu urządzenia w czasie, zachowanie kapitału obrotowego i finansowanie inwestycji z przychodów generowanych przez wykonywane zabiegi.
+
 ## Specyfikacja Lumos
 
 Konfiguracja i zakres funkcji wymagają potwierdzenia w indywidualnej ofercie oraz dokumentacji urządzenia.
@@ -329,30 +353,6 @@ Można omówić możliwość finansowania zakupu. Warunki zależą od instytucji
 ### Jak zamówić Lumos?
 
 Skontaktuj się z LTS Market za pomocą formularza, telefonu lub poczty elektronicznej. Przygotujemy informacje o konfiguracjach i indywidualną ofertę.
-
-## Jakie problemy biznesowe rozwiązuje zakup lasera LUMOS?
-
-Zakup nowego lasera LUMOS pozwala ograniczyć ryzyko nieplanowanych kosztów serwisowych, zapewnić stabilne warunki wykonywania zabiegów, zwiększyć bezpieczeństwo działalności, pozyskiwać nowych klientów i lepiej planować finanse salonu.
-
-### Ochrona przed nieplanowanymi kosztami napraw
-
-Nowe podzespoły, gwarancja oraz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/) pomagają ograniczyć ryzyko nieplanowanych wydatków, przestojów urządzenia i odwoływania wizyt klientów.
-
-### Stabilna skuteczność zabiegów
-
-Nowy moduł diodowy, technologia optyczna FAC oraz system chłodzenia ICE Flow wspierają stabilne warunki pracy urządzenia i powtarzalność wykonywanych zabiegów.
-
-### Bezpieczeństwo prawne i techniczne
-
-Odpowiednia dokumentacja techniczna oraz potwierdzona zgodność urządzenia z obowiązującymi wymaganiami europejskimi pomagają ograniczyć ryzyko prawne i techniczne związane z prowadzeniem salonu.
-
-### Pozyskiwanie nowych klientów
-
-Nowoczesne technologie epilacji laserowej stanowią dodatkowy argument marketingowy, pomagają wyróżnić ofertę salonu i przyciągać klientów poszukujących profesjonalnych zabiegów.
-
-### Przewidywalne planowanie finansowe
-
-Leasing umożliwia rozłożenie kosztów zakupu urządzenia w czasie, zachowanie kapitału obrotowego i finansowanie inwestycji z przychodów generowanych przez wykonywane zabiegi.
 
 ## Kupujesz Lumos. Otrzymujesz więcej niż laser.
 
