@@ -90,7 +90,7 @@ Profesjonalne wyposażenie salonu nie musi oznaczać jednorazowego wydatku całe
 
 ### Również dla nowych firm
 
-Możliwość ubiegania się o finansowanie od początku działalności.
+Możliwość ubiegania się o finansowanie po minimum 3 miesiącach prowadzenia działalności.
 
 ### Rozłożenie kosztów
 

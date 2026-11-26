@@ -88,9 +88,9 @@ FINANCING
 
 Professional salon equipment does not have to require a large upfront investment. Leasing allows you to spread the purchase cost over time and preserve capital for business development.
 
-### For new businesses
+### Also for new businesses
 
-Financing applications are also available to newly established businesses.
+Businesses may apply for financing after at least three months of operation.
 
 ### Spread the investment
 

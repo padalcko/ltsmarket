@@ -21,7 +21,7 @@
         "ru": "https://ltsmarket.pl/ru/",
         "x-default": "https://ltsmarket.pl/"
       },
-      "contentSha256": "84ba0afa721d7727e54139d90d4b4e3a1cbcd0ebbc1b0370f45c3969bbe16b89",
+      "contentSha256": "f6e0478530e7a908ff9f124887379860d84668875c9dd7ad4ac47e532ba2a82b",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1188,7 +1188,7 @@
         "ru": "https://ltsmarket.pl/ru/",
         "x-default": "https://ltsmarket.pl/"
       },
-      "contentSha256": "85fa4d1b67358319397d9ccab2deeee42d88df95156b3bd5e7ef8615425f410b",
+      "contentSha256": "ea9d9bc3e615e38ca9424d85e33e671e5fff2c3baa0bc4d9f2306b16bb15ce00",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2379,31 +2379,175 @@
       "markdownUrl": "https://ltsmarket.pl/en/leasing.md",
       "language": "en",
       "type": "main-pages",
-      "title": "Financing tailored to your company",
-      "description": "Leasing for beauty equipment and lasers. We tailor financing terms to each customer and work with banks and leasing companies across Poland.",
+      "title": "Laser and beauty equipment leasing",
+      "description": "Lease new hair removal lasers and beauty equipment in Poland. Down payment from 10%, 24–60 months. Business and consumer leasing available.",
       "languageAlternates": {
         "pl": "https://ltsmarket.pl/leasing.html",
         "en": "https://ltsmarket.pl/en/leasing.html",
         "ru": "https://ltsmarket.pl/ru/leasing.html",
         "x-default": "https://ltsmarket.pl/leasing.html"
       },
-      "contentSha256": "85860958b2a9d548ea4ca7d0c895c8b8dc97760fba91f8b6c74d1b2be0e7f868",
+      "contentSha256": "d5c313c46a0afeb8bd6813e4e6fb6e89f35e167eb206c06f0dabac985051d9d5",
       "structuredData": [
         {
           "@context": "https://schema.org",
-          "@type": "Service",
-          "name": "Leasing and financing of professional beauty equipment",
-          "description": "Leasing and financing options for professional beauty equipment, including diode lasers and cosmetology devices. Financing applications are also available to newly established businesses, subject to individual assessment by the financing partner.",
-          "provider": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/en/"
-          },
-          "areaServed": {
-            "@type": "Country",
-            "name": "Poland"
-          },
-          "url": "https://ltsmarket.pl/en/leasing.html"
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://ltsmarket.pl/en/leasing.html#webpage",
+              "url": "https://ltsmarket.pl/en/leasing.html",
+              "name": "Laser and Beauty Equipment Leasing in Poland | LTS Market",
+              "description": "Lease new hair removal lasers and beauty equipment in Poland. Down payment from 10%, 24–60 months. Business and consumer leasing available.",
+              "inLanguage": "en",
+              "isPartOf": {
+                "@id": "https://ltsmarket.pl/#website"
+              },
+              "about": {
+                "@id": "https://ltsmarket.pl/en/leasing.html#service"
+              }
+            },
+            {
+              "@type": "Service",
+              "@id": "https://ltsmarket.pl/en/leasing.html#service",
+              "name": "Laser and Beauty Equipment Leasing in Poland | LTS Market",
+              "description": "Lease new hair removal lasers and beauty equipment in Poland. Down payment from 10%, 24–60 months. Business and consumer leasing available.",
+              "serviceType": "Assistance with selecting and arranging leasing for new professional beauty equipment",
+              "provider": {
+                "@id": "https://ltsmarket.pl/#organization"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "Poland"
+              },
+              "url": "https://ltsmarket.pl/en/leasing.html"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://ltsmarket.pl/en/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Laser and Beauty Equipment Leasing in Poland | LTS Market",
+                  "item": "https://ltsmarket.pl/en/leasing.html"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Can I lease a hair removal laser in Poland?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. LTS Market helps arrange financing for new hair removal lasers and professional beauty equipment throughout Poland."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "What is the minimum down payment?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The minimum down payment is 10% of the equipment value. The final amount depends on the customer's individual assessment and financing conditions."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "What leasing periods are available?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Financing is available for periods ranging from 24 to 60 months. The payment schedule is determined individually."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Can a newly established business apply for leasing?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Businesses that have been operating for at least three months may apply. Approval depends on the financing institution's decision."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Can a private individual lease professional beauty equipment?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Private individuals without a registered business may apply for consumer leasing. Availability depends on their individual financial assessment."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Can foreign entrepreneurs obtain leasing in Poland?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, financing may be available to foreign entrepreneurs. Requirements depend on the applicant's legal status, documentation and the financing institution's procedures."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Can I lease a pre-owned hair removal laser?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. LTS Market leasing is available exclusively for new equipment. Pre-owned devices are available through a separate sales offer."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "How long does a leasing decision take?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The indicative processing time is one to three business days after the required documents have been submitted. Some applications may require additional processing time."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "What types of leasing are available?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "LTS Market assists customers with operating leases, finance leases and consumer leasing. Availability depends on the customer's circumstances and the financing institution's offer."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "What documents are required?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Typical requirements include customer details, identification, a leasing application and an equipment quotation or pro forma invoice. Business applicants may also need to provide registration and financial documents."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Can a leasing agreement be terminated early?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, early termination may be possible. The applicable conditions and any associated costs are determined by the leasing agreement and the financing institution's rules."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Does LTS Market assist with the application process?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. We help customers prepare equipment documentation, explore available financing options and navigate the application process."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Is equipment training included?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. Free equipment operation training is included when purchasing new equipment from LTS Market, including purchases financed through leasing."
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -3959,31 +4103,175 @@
       "markdownUrl": "https://ltsmarket.pl/leasing.md",
       "language": "pl",
       "type": "main-pages",
-      "title": "Finansowanie dopasowane do Twojej firmy",
-      "description": "Leasing urządzeń kosmetycznych i laserów. Indywidualnie dobieramy warunki finansowania dla każdego klienta i współpracujemy z bankami oraz firmami leasingowymi w całej Polsce.",
+      "title": "Leasing laserów i urządzeń kosmetycznych",
+      "description": "Leasing nowych laserów i urządzeń kosmetycznych w Polsce. Wkład własny od 10%, okres 24–60 miesięcy. Finansowanie firm i osób prywatnych.",
       "languageAlternates": {
         "pl": "https://ltsmarket.pl/leasing.html",
         "en": "https://ltsmarket.pl/en/leasing.html",
         "ru": "https://ltsmarket.pl/ru/leasing.html",
         "x-default": "https://ltsmarket.pl/leasing.html"
       },
-      "contentSha256": "31c23101cba7751127c36992d65a47fff64742fc2c3f40e23d1f975faa9dd873",
+      "contentSha256": "cd3ac990d0170f686a32a54ed129d1d85169e07ac3636a7ba2cd6828f0f51e95",
       "structuredData": [
         {
           "@context": "https://schema.org",
-          "@type": "Service",
-          "name": "Leasing urządzeń kosmetycznych",
-          "description": "Indywidualnie dobierane finansowanie profesjonalnych urządzeń dla branży beauty.",
-          "provider": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
-          },
-          "areaServed": {
-            "@type": "Country",
-            "name": "Polska"
-          },
-          "url": "https://ltsmarket.pl/leasing.html"
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://ltsmarket.pl/leasing.html#webpage",
+              "url": "https://ltsmarket.pl/leasing.html",
+              "name": "Leasing laserów i urządzeń kosmetycznych | LTS Market",
+              "description": "Leasing nowych laserów i urządzeń kosmetycznych w Polsce. Wkład własny od 10%, okres 24–60 miesięcy. Finansowanie firm i osób prywatnych.",
+              "inLanguage": "pl",
+              "isPartOf": {
+                "@id": "https://ltsmarket.pl/#website"
+              },
+              "about": {
+                "@id": "https://ltsmarket.pl/leasing.html#service"
+              }
+            },
+            {
+              "@type": "Service",
+              "@id": "https://ltsmarket.pl/leasing.html#service",
+              "name": "Leasing laserów i urządzeń kosmetycznych | LTS Market",
+              "description": "Leasing nowych laserów i urządzeń kosmetycznych w Polsce. Wkład własny od 10%, okres 24–60 miesięcy. Finansowanie firm i osób prywatnych.",
+              "serviceType": "Pomoc w wyborze i przygotowaniu finansowania leasingowego nowego profesjonalnego sprzętu kosmetycznego",
+              "provider": {
+                "@id": "https://ltsmarket.pl/#organization"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "Poland"
+              },
+              "url": "https://ltsmarket.pl/leasing.html"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Strona główna",
+                  "item": "https://ltsmarket.pl/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Leasing laserów i urządzeń kosmetycznych | LTS Market",
+                  "item": "https://ltsmarket.pl/leasing.html"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Czy mogę wziąć laser do epilacji w leasing?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tak. LTS Market pomaga w finansowaniu zakupu nowych laserów do epilacji oraz profesjonalnych urządzeń kosmetycznych na terenie Polski."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Ile wynosi minimalny wkład własny?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Minimalny wkład własny wynosi 10% wartości urządzenia. Ostateczna wysokość opłaty wstępnej zależy od indywidualnej oceny klienta oraz warunków finansowania."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Na jaki okres można wziąć urządzenie w leasing?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Finansowanie jest dostępne na okres od 24 do 60 miesięcy. Szczegółowy harmonogram spłat ustalany jest indywidualnie."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Czy nowa firma może otrzymać leasing?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tak. O finansowanie mogą ubiegać się przedsiębiorcy prowadzący działalność od minimum trzech miesięcy. Przyznanie leasingu zależy od decyzji instytucji finansującej."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Czy osoba prywatna może wziąć urządzenie w leasing?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tak. Osoby fizyczne nieprowadzące działalności gospodarczej mogą ubiegać się o leasing konsumencki. Dostępność finansowania zależy od indywidualnej oceny klienta."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Czy cudzoziemiec może otrzymać leasing w Polsce?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tak, taka możliwość istnieje. Wymagania zależą od statusu prawnego klienta, posiadanych dokumentów oraz procedur instytucji finansującej."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Czy można wziąć używany laser w leasing?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nie. Oferta leasingowa LTS Market obejmuje wyłącznie nowe urządzenia. Sprzęt używany jest dostępny w ramach odrębnej oferty sprzedaży."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Jak długo czeka się na decyzję leasingową?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Orientacyjny czas uzyskania decyzji wynosi od jednego do trzech dni roboczych od przekazania wymaganych dokumentów. W niektórych przypadkach procedura może potrwać dłużej."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Jakie rodzaje leasingu są dostępne?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "LTS Market pomaga w uzyskaniu leasingu operacyjnego, finansowego oraz konsumenckiego. Dostępność konkretnej formy finansowania zależy od sytuacji klienta i oferty finansującego."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Jakie dokumenty są potrzebne?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Najczęściej wymagane są dane klienta, dokument tożsamości, wniosek leasingowy oraz oferta lub faktura pro forma. W przypadku przedsiębiorców mogą być wymagane dane rejestrowe firmy i dodatkowe dokumenty finansowe."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Czy można wcześniej zakończyć umowę leasingową?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tak, możliwość wcześniejszego zakończenia umowy istnieje. Szczegółowe warunki oraz ewentualne koszty wynikają z zawartej umowy i zasad instytucji finansującej."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Czy LTS Market pomaga w załatwieniu formalności?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tak. Pomagamy w przygotowaniu dokumentacji dotyczącej urządzenia, wyborze dostępnej formy finansowania oraz przejściu przez proces składania wniosku."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Czy szkolenie jest wliczone w zakup urządzenia?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tak. Przy zakupie nowego urządzenia, również w ramach leasingu, zapewniamy bezpłatne szkolenie z jego obsługi."
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -4949,7 +5237,7 @@
         "ru": "https://ltsmarket.pl/ru/",
         "x-default": "https://ltsmarket.pl/"
       },
-      "contentSha256": "75d4f0cda3ba895ce6e6bf982c5de59e15d61b7d3ef37f6335e47d7c0ce8e4d2",
+      "contentSha256": "a216550709aafd6eacc5166d07dca73fd84661c594c409065cf9ee1dca75b98a",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6140,31 +6428,175 @@
       "markdownUrl": "https://ltsmarket.pl/ru/leasing.md",
       "language": "ru",
       "type": "main-pages",
-      "title": "Финансирование для вашей компании",
-      "description": "Лизинг косметологического оборудования и лазеров. Подбираем условия финансирования индивидуально и сотрудничаем с банками и лизинговыми компаниями по всей Польше.",
+      "title": "Лизинг лазеров и косметологического оборудования",
+      "description": "Лизинг новых лазеров и косметологического оборудования в Польше. Взнос от 10%, срок 24–60 месяцев. Для компаний и физических лиц.",
       "languageAlternates": {
         "pl": "https://ltsmarket.pl/leasing.html",
         "en": "https://ltsmarket.pl/en/leasing.html",
         "ru": "https://ltsmarket.pl/ru/leasing.html",
         "x-default": "https://ltsmarket.pl/leasing.html"
       },
-      "contentSha256": "e6c10a471c53365833fe19baec45e32aa4101cf2a51e32973dd436a81376b19a",
+      "contentSha256": "7ccbdcb8013fad4d64e7d7811328dd74c32b07f2b30021b12d8b8cfa06341006",
       "structuredData": [
         {
           "@context": "https://schema.org",
-          "@type": "Service",
-          "name": "Лизинг и финансирование профессионального косметологического оборудования",
-          "description": "Лизинг и финансирование профессионального косметологического оборудования, включая диодные лазеры и косметологические аппараты. Возможность подачи заявки на финансирование доступна также новым предприятиям. Окончательное решение зависит от индивидуальной оценки финансового партнёра.",
-          "provider": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/ru/"
-          },
-          "areaServed": {
-            "@type": "Country",
-            "name": "Польша"
-          },
-          "url": "https://ltsmarket.pl/ru/leasing.html"
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": "https://ltsmarket.pl/ru/leasing.html#webpage",
+              "url": "https://ltsmarket.pl/ru/leasing.html",
+              "name": "Лизинг лазеров и косметологического оборудования | LTS Market",
+              "description": "Лизинг новых лазеров и косметологического оборудования в Польше. Взнос от 10%, срок 24–60 месяцев. Для компаний и физических лиц.",
+              "inLanguage": "ru",
+              "isPartOf": {
+                "@id": "https://ltsmarket.pl/#website"
+              },
+              "about": {
+                "@id": "https://ltsmarket.pl/ru/leasing.html#service"
+              }
+            },
+            {
+              "@type": "Service",
+              "@id": "https://ltsmarket.pl/ru/leasing.html#service",
+              "name": "Лизинг лазеров и косметологического оборудования | LTS Market",
+              "description": "Лизинг новых лазеров и косметологического оборудования в Польше. Взнос от 10%, срок 24–60 месяцев. Для компаний и физических лиц.",
+              "serviceType": "Помощь в подборе и оформлении лизинга нового профессионального косметологического оборудования",
+              "provider": {
+                "@id": "https://ltsmarket.pl/#organization"
+              },
+              "areaServed": {
+                "@type": "Country",
+                "name": "Poland"
+              },
+              "url": "https://ltsmarket.pl/ru/leasing.html"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Главная",
+                  "item": "https://ltsmarket.pl/ru/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Лизинг лазеров и косметологического оборудования | LTS Market",
+                  "item": "https://ltsmarket.pl/ru/leasing.html"
+                }
+              ]
+            },
+            {
+              "@type": "FAQPage",
+              "mainEntity": [
+                {
+                  "@type": "Question",
+                  "name": "Можно ли приобрести лазер для эпиляции в лизинг?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да. LTS Market помогает оформить финансирование для покупки новых лазеров для эпиляции и профессионального косметологического оборудования на территории Польши."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Какой минимальный первоначальный взнос?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Минимальный первоначальный взнос составляет 10% стоимости оборудования. Окончательная сумма зависит от индивидуальной оценки клиента и условий финансирования."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "На какой срок предоставляется лизинг?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Финансирование доступно на срок от 24 до 60 месяцев. График платежей определяется индивидуально."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Может ли новая компания получить лизинг?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да. Подать заявку могут предприниматели, ведущие деятельность не менее трёх месяцев. Решение принимает финансовая организация."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Может ли физическое лицо приобрести оборудование в лизинг?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да. Физические лица без зарегистрированной предпринимательской деятельности могут подать заявку на потребительский лизинг. Доступность финансирования зависит от индивидуальной оценки клиента."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Может ли иностранец получить лизинг в Польше?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да, такая возможность существует. Требования зависят от правового статуса клиента, имеющихся документов и процедур финансовой организации."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Можно ли приобрести бывший в употреблении лазер в лизинг?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Нет. Лизинговое финансирование LTS Market распространяется исключительно на новое оборудование. Бывшие в употреблении аппараты продаются отдельно."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Сколько времени занимает рассмотрение заявки?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ориентировочный срок получения решения составляет от одного до трёх рабочих дней после предоставления необходимых документов. В отдельных случаях рассмотрение может занять больше времени."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Какие виды лизинга доступны?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "LTS Market помогает оформить операционный, финансовый и потребительский лизинг. Доступность конкретного вида финансирования зависит от ситуации клиента и предложения финансовой организации."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Какие документы нужны для оформления лизинга?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Обычно требуются данные клиента, документ, удостоверяющий личность, заявка на лизинг и коммерческое предложение или счёт pro forma. Для предпринимателей могут потребоваться регистрационные и финансовые документы компании."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Можно ли досрочно завершить договор лизинга?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да, такая возможность предусмотрена. Конкретные условия и возможные дополнительные расходы определяются договором и правилами финансовой организации."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Помогает ли LTS Market с оформлением документов?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да. Мы помогаем подготовить документацию на оборудование, выбрать доступную форму финансирования и пройти процедуру подачи заявки."
+                  }
+                },
+                {
+                  "@type": "Question",
+                  "name": "Входит ли обучение в стоимость оборудования?",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да. При покупке нового оборудования, в том числе в лизинг, предоставляется бесплатное обучение работе с аппаратом."
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },

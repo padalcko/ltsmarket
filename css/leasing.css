@@ -8,149 +8,6 @@
 
 
 /* ============================================================
-   01. COMMON
-   ============================================================ */
-
-.leasing-section-title {
-    margin: 0;
-
-    color: var(--color-text);
-
-    font-size: clamp(2.4rem, 5vw, 4.8rem);
-    font-weight: 700;
-    line-height: 0.98;
-
-    letter-spacing: -0.055em;
-}
-
-.leasing-section-title span {
-    display: block;
-
-    color: var(--color-blue);
-}
-
-
-/* ============================================================
-   02. HERO
-   ============================================================ */
-
-.leasing-hero {
-    position: relative;
-
-    overflow: hidden;
-
-    color: #ffffff;
-
-    background:
-        radial-gradient(circle at 85% 25%,
-            rgba(22, 140, 255, 0.12),
-            transparent 34%),
-        linear-gradient(105deg,
-            #02080d 0%,
-            #04101a 58%,
-            #071b2b 100%);
-}
-
-.leasing-hero::before {
-    position: absolute;
-    top: -360px;
-    right: -160px;
-
-    width: 760px;
-    height: 760px;
-
-    border: 1px solid rgba(22, 140, 255, 0.07);
-
-    content: "";
-
-    transform: rotate(38deg);
-
-    pointer-events: none;
-}
-
-.leasing-hero__container {
-    position: relative;
-    z-index: 2;
-
-    display: flex;
-    align-items: center;
-
-    min-height: 650px;
-
-    padding-top: calc(var(--header-height) + 65px);
-    padding-bottom: 70px;
-}
-
-.leasing-hero__content {
-    width: 100%;
-    max-width: 1050px;
-}
-
-.leasing-hero__label {
-    margin-bottom: 24px;
-}
-
-.leasing-hero__title {
-    max-width: 1100px;
-
-    margin: 0 0 32px;
-
-    color: #ffffff;
-
-    font-size: clamp(3.2rem, 6vw, 6rem);
-    font-weight: 700;
-    line-height: 0.95;
-
-    letter-spacing: -0.06em;
-    text-transform: uppercase;
-}
-
-.leasing-hero__title span {
-    display: block;
-
-    margin-top: 8px;
-
-    color: var(--color-blue);
-}
-
-.leasing-hero__description {
-    max-width: 720px;
-
-    margin: 0 0 12px;
-
-    color: rgba(255, 255, 255, 0.58);
-
-    font-size: 0.94rem;
-    line-height: 1.75;
-}
-
-.leasing-hero__actions {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-
-    gap: 34px;
-
-    margin-top: 34px;
-}
-
-.leasing-hero__phone {
-    color: #ffffff;
-
-    font-size: 0.88rem;
-    font-weight: 650;
-
-    letter-spacing: 0.055em;
-
-    transition: color var(--transition);
-}
-
-.leasing-hero__phone:hover {
-    color: var(--color-blue);
-}
-
-
-/* ============================================================
    03. INDIVIDUAL CONDITIONS
    ============================================================ */
 
@@ -460,22 +317,8 @@
 
     /* HERO */
 
-    .leasing-hero__container {
-        min-height: 600px;
 
-        padding-top: calc(var(--header-height) + 60px);
-        padding-bottom: 60px;
-    }
 
-    .leasing-hero__content {
-        max-width: 850px;
-    }
-
-    .leasing-hero__title {
-        max-width: 850px;
-
-        font-size: clamp(3.2rem, 8vw, 5.2rem);
-    }
 
 
     /* INFO */
@@ -543,53 +386,12 @@
 
     /* HERO */
 
-    .leasing-hero::before {
-        top: -180px;
-        right: -360px;
 
-        width: 650px;
-        height: 650px;
-    }
 
-    .leasing-hero__container {
-        min-height: auto;
 
-        padding-top: calc(var(--header-height) + 70px);
-        padding-bottom: 60px;
-    }
 
-    .leasing-hero__label {
-        margin-bottom: 18px;
-    }
 
-    .leasing-hero__title {
-        max-width: 100%;
 
-        margin-bottom: 26px;
-
-        font-size: clamp(2.7rem, 12vw, 4.2rem);
-        line-height: 0.94;
-    }
-
-    .leasing-hero__title span {
-        margin-top: 6px;
-    }
-
-    .leasing-hero__description {
-        max-width: 100%;
-
-        font-size: 0.87rem;
-        line-height: 1.7;
-    }
-
-    .leasing-hero__actions {
-        align-items: flex-start;
-        flex-direction: column;
-
-        gap: 22px;
-
-        margin-top: 30px;
-    }
 
 
     /* INFO */
@@ -683,17 +485,8 @@
 
 @media (max-width: 479px) {
 
-    .leasing-hero__title {
-        font-size: clamp(2.45rem, 12.5vw, 3.3rem);
-    }
 
-    .leasing-hero__description {
-        font-size: 0.84rem;
-    }
 
-    .leasing-hero__phone {
-        font-size: 0.82rem;
-    }
 
     .leasing-info,
     .leasing-steps,
@@ -731,16 +524,132 @@
 
 @media (prefers-reduced-motion: reduce) {
 
-    .leasing-hero__phone,
-    .leasing-cta__contact strong {
-        transition: none;
-    }
 }
 .leasing-steps__grid { gap: 16px; border: 0; }
+
+/* Additional leasing content uses the existing palette and card components. */
+.leasing-facts,
+.leasing-new-business,
+.leasing-support,
+.leasing-blog { padding: 88px 0; background: #fff; }
+.leasing-info,
+.leasing-types,
+.leasing-documents { padding: 88px 0; background: #f3f6f8; }
+.leasing-faq { padding: 88px 0; color: #fff; background: #04101a; }
+.leasing-faq .leasing-section-title { color: #fff; }
+.leasing-copy { max-width: 850px; }
+.leasing-copy p,
+.leasing-equipment > .container > p,
+.leasing-blog > .container > p:not(.section-label) { color: var(--color-text-soft); line-height: 1.75; }
+.leasing-copy ul { padding-left: 24px; color: var(--color-text-soft); line-height: 1.75; }
+.leasing-copy li + li { margin-top: 8px; }
+.leasing-note { max-width: 920px; margin: 24px 0; color: var(--color-text-soft); font-size: .86rem; line-height: 1.7; }
+.leasing-facts__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.leasing-fact strong { display: block; margin-bottom: 8px; color: var(--color-blue); font-size: clamp(27px, 3.2vw, 42px); line-height: 1.16; }
+.leasing-fact span { color: var(--color-text); font-size: clamp(15px, 1.2vw, 17px); line-height: 1.65; }
+.leasing-types__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.leasing-type h3 { margin-bottom: 16px; }
+.leasing-new-business .button,
+.leasing-support .button { margin-top: 22px; }
+.leasing-faq .alpha-faq { max-width: 960px; }
+.leasing-faq details { padding: 18px 0; border-bottom: 1px solid rgba(255,255,255,.2); }
+.leasing-faq summary { position: relative; padding-right: 32px; cursor: pointer; font-size: 1rem; font-weight: 700; line-height: 1.5; }
+.leasing-faq summary::after { position: absolute; right: 4px; top: 0; color: var(--color-blue); content: '+'; font-size: 1.5rem; line-height: 1; }
+.leasing-faq details[open] summary::after { content: '−'; }
+.leasing-faq summary:focus-visible { outline: 2px solid var(--color-blue); outline-offset: 4px; }
+.leasing-faq details p { max-width: 850px; margin: 12px 0 0; color: rgba(255,255,255,.75); line-height: 1.7; }
+.leasing-blog__links { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; padding: 0; list-style: none; }
+.leasing-blog__links a { display: block; height: 100%; padding: 24px; border: 1px solid var(--color-border); color: var(--color-text); font-weight: 700; line-height: 1.5; }
+.leasing-blog__links a:hover,
+.leasing-blog__links a:focus-visible { border-color: var(--color-blue); color: var(--color-blue); }
+@media (max-width: 1023px) {
+    .leasing-facts__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 767px) {
+    .leasing-facts, .leasing-info, .leasing-types,
+    .leasing-new-business, .leasing-documents, .leasing-support,
+    .leasing-faq, .leasing-blog { padding: 64px 0; }
+    .leasing-types__grid, .leasing-blog__links { grid-template-columns: 1fr; }
+}
+@media (max-width: 479px) {
+    .leasing-facts__grid { grid-template-columns: 1fr; }
+}
 .leasing-step {
     min-width: 0;
     padding: 26px;
     border: var(--dark-card-border);
     border-top: 3px solid var(--color-blue);
     background: var(--dark-card-background);
+}
+
+/* Center the copy below the header while keeping the complete device in view. */
+.home-page.leasing-page > .hero { min-height: 760px; }
+.home-page.leasing-page > .hero .hero__container {
+    min-height: 0;
+    align-items: center;
+    padding-block: 40px;
+}
+.home-page.leasing-page > .hero .hero__content { width: 53%; max-width: 720px; }
+.home-page.leasing-page > .hero .hero__title { text-transform: none; }
+.home-page.leasing-page > .hero .hero__title .hero__title-accent { display: inline; }
+.home-page.leasing-page > .hero .hero__description { margin-bottom: 12px; }
+.home-page.leasing-page > .hero .hero__description:last-of-type { margin-bottom: 28px; }
+.leasing-page .hero__media { background: var(--color-bg-deep); }
+.leasing-page .hero__media img {
+    inset: 0;
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    max-height: none;
+    object-fit: cover;
+    object-position: right center;
+    opacity: 1;
+    transform: none;
+}
+.leasing-page .hero__overlay {
+    background: linear-gradient(90deg, rgba(4,12,20,.94) 0%, rgba(4,12,20,.86) 32%, rgba(4,12,20,.68) 48%, transparent 62%);
+}
+.leasing-page > .leasing-facts { background: #f3f6f8; }
+.leasing-page .leasing-facts__grid { align-items: stretch; }
+.leasing-page .leasing-fact { height: 100%; }
+.leasing-page .leasing-type { height: 100%; }
+.leasing-page .leasing-step h3 { font-size: clamp(18px, 1.6vw, 22px); line-height: 1.3; }
+.leasing-page .leasing-step p,
+.leasing-page .leasing-copy p,
+.leasing-page .leasing-copy li,
+.leasing-page .leasing-equipment > .container > p,
+.leasing-page .leasing-blog > .container > p:not(.section-label),
+.leasing-page .leasing-type p,
+.leasing-page .leasing-faq details p,
+.leasing-page .leasing-cta__content > p:last-child {
+    font-size: clamp(15px, 1.2vw, 17px);
+    line-height: 1.65;
+}
+.leasing-page .leasing-cta h2 {
+    font-size: clamp(27px, 3.2vw, 42px);
+    line-height: 1.16;
+    letter-spacing: -.04em;
+}
+.leasing-page .leasing-faq summary { font-size: 17px; }
+.leasing-page > section:not(.hero):not(.leasing-equipment) { padding-block: 68px; }
+.leasing-page > .leasing-equipment { padding-block: 68px; }
+@media (min-width: 1024px) {
+    .leasing-page > .leasing-equipment { padding-block: 100px; }
+}
+@media (min-width: 1200px) {
+    .leasing-page .hero__media { top: var(--header-height); }
+}
+@media (min-width: 1600px) {
+    .leasing-page .hero__media img { object-fit: contain; }
+}
+@media (max-width: 1199px) {
+    .home-page.leasing-page > .hero { display: block; min-height: 0; }
+    .leasing-page .hero__media { position: relative; width: 100%; aspect-ratio: 1931 / 814; }
+    .leasing-page .hero__media img { object-position: right center; }
+    .leasing-page .hero__overlay { display: none; }
+    .home-page.leasing-page > .hero .hero__container { padding-top: 28px; padding-bottom: 55px; }
+    .home-page.leasing-page > .hero .hero__content { width: 100%; max-width: 100%; }
+}
+@media (max-width: 767px) {
+    .leasing-page .hero__media { aspect-ratio: auto; height: clamp(280px, 80vw, 420px); }
 }
