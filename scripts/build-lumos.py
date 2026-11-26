@@ -7,6 +7,7 @@ import json
 import re
 from pathlib import Path
 from site_content import link_service_names
+from product_schema import SHIPPING_COPY
 from lumos_visuals import illustration, wavelength_illustration
 import lumos_gallery as media
 
@@ -30,6 +31,14 @@ ROW_NAMES = {
  'pl':['Model','Kategoria','Pozycjonowanie','Cena','Moc głowicy','Długości fal','Energia','Częstotliwość','Czas impulsu','Chłodzenie','Optyka','Technologia higieniczna','Interfejs','CRM','Dermatoskop'],
  'en':['Model','Category','Positioning','Price','Handpiece power','Wavelengths','Energy','Frequency','Pulse duration','Cooling','Optics','Hygiene technology','Interface','CRM','Dermatoscope'],
  'ru':['Модель','Категория','Позиционирование','Цена','Мощность манипулы','Длины волн','Энергия','Частота','Длительность импульса','Охлаждение','Оптика','Гигиеническая технология','Интерфейс','CRM','Дерматоскоп']}
+HERO_FEATURES = {
+ 'pl': [('2000–4000 W','Moc głowicy'),('4','Długości fal'),('ICE Flow','System chłodzenia'),('FAC','Technologia optyczna')],
+ 'ru': [('2000–4000 Вт','Мощность манипулы'),('4','Длины волн'),('ICE Flow','Система охлаждения'),('FAC','Оптическая технология')],
+ 'en': [('2000–4000 W','Handpiece power'),('4','Wavelengths'),('ICE Flow','Cooling system'),('FAC','Optical technology')]}
+HERO_SUPPORT = {
+ 'pl': 'Profesjonalne wsparcie serwisowe Laser Tech Service.',
+ 'ru': 'Профессиональная сервисная поддержка Laser Tech Service.',
+ 'en': 'Professional technical support from Laser Tech Service.'}
 
 def plain(s): return re.sub(r'^#+ ', '', s).replace('**','')
 def inline(s): return re.sub(r'\*\*(.*?)\*\*',r'<strong>\1</strong>',e(s))
@@ -58,6 +67,18 @@ def accent_headings(source):
         return match[1]+''.join(parts)+match[3]
     return re.sub(r'(<h[1-6]\b[^>]*>)(.*?)(</h[1-6]>)',heading,source,flags=re.S)
 
+def business_section(lang):
+    data=json.loads((ROOT/'scripts/lumos-business.json').read_text())[lang]
+    cards=[]
+    for index,item in enumerate(data['cards']):
+        description=e(item['text'])
+        if index==4:
+            word='Лизинг' if lang=='ru' else 'Leasing'
+            description=description.replace(word,f'<a href="#offer-benefits">{word}</a>',1)
+        cards.append(f'<article class="nowe-support__card"><h3>{e(item["title"])}</h3><p>{description}</p></article>')
+    content=f'<p class="lumos-business__intro">{e(data["intro"])}</p><div class="nowe-support__grid">'+''.join(cards)+'</div>'
+    return alpha.section(data['title'],content,'business-benefits',True)
+
 def generate():
     data=json.loads((ROOT/'scripts/lumos-content.json').read_text())
     for lang,blocks in data.items():
@@ -84,7 +105,13 @@ def generate():
             chrome=chrome.replace(alpha.ROUTES[l],ROUTES[l]); tail=tail.replace(alpha.ROUTES[l],ROUTES[l])
         crumb=re.search(r'<nav class="used-breadcrumbs".*?</nav>',source,re.S)[0].replace('Alpha Mini','Lumos')
         main='<main id="main-content" class="alpha-page lumos-page">'
-        main+=f'<section class="nowe-hero"><div class="container nowe-hero__container"><div class="nowe-hero__content">{crumb}<p class="section-label nowe-hero__label">{inline(hero[0])}</p><h1 class="nowe-hero__title">{e(plain(hero[1]))}</h1><p class="nowe-hero__description">{inline(hero[2])}</p><p class="alpha-price">{inline(hero[3])}</p><p>{inline(hero[4])}</p><div class="nowe-hero__actions"><a class="button button--primary" href="#contact-form">{e(plain(hero[5]))}</a><a class="button button--outline" href="#specification">{e(plain(hero[6]))}</a></div><p class="alpha-notice">{inline(hero[7])}</p></div><div class="nowe-hero__visual">{media.photo(0,lang,True)}</div></div></section>'
+        features=''.join(f'<div class="lumos-hero__feature"><strong>{e(value)}</strong><span>{e(label)}</span></div>' for value,label in HERO_FEATURES[lang])
+        leasing=prefix+'/leasing.html'
+        support=f'<p class="lumos-hero__support"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2 20 5v6c0 5.2-3.3 8.8-8 11-4.7-2.2-8-5.8-8-11V5l8-3Z"/><path d="m9 12 2 2 4-4"/></svg><span>{e(HERO_SUPPORT[lang])}</span></p>'
+        hero_image=f'<img src="/assets/img/lumos/lumos-hero-transparent.webp" width="675" height="1254" alt="{e(media.IMAGES[0]["alt"][lang])}" fetchpriority="high" decoding="async">'
+        main+=f'<section class="nowe-hero"><div class="container nowe-hero__container"><div class="lumos-hero__intro">{crumb}<p class="section-label nowe-hero__label">{inline(hero[0])}</p><h1 class="nowe-hero__title">{e(plain(hero[1]))}</h1><p class="nowe-hero__description">{inline(hero[2])}</p></div><div class="nowe-hero__visual">{hero_image}</div><div class="lumos-hero__details"><div class="lumos-hero__features">{features}</div><p class="alpha-price">{inline(hero[3])}</p><p class="lumos-hero__price-note">{inline(hero[4])}</p><div class="nowe-hero__actions"><a class="button button--primary" href="#contact-form">{e(plain(hero[5]))}</a><a class="button button--outline" href="{leasing}">{e(plain(hero[6]))}</a></div>{support}</div></div></section>'
+        shipping=SHIPPING_COPY[lang]
+        main+='<div class="container lumos-shipping"><p class="alpha-notice" data-shipping-info="true">'+'<br>'.join(shipping[key] for key in ('new','free','below'))+'</p></div>'
         main+=alpha.section(plain(blocks[1][0]),body(blocks[1][1:]),'technology')
         # Reuse supplied headings and full descriptions for the reference benefit cards.
         benefits=[(plain(blocks[i][0]),plain(blocks[i][1])) for i in (3,4,5)]
@@ -114,6 +141,7 @@ def generate():
         formsection=re.search(r'<section class="contact-form-section".*?</section>',source,re.S)[0]
         formsection=formsection.replace('Alpha Mini','Lumos').replace('alpha-mini','lumos')
         formsection=re.sub(r'<p class="alpha-notice">.*?</p>', '<p class="alpha-notice">'+inline(hero[7])+'</p>',formsection,flags=re.S)
+        main+=business_section(lang)
         main+=offer
         main+=formsection
         main=accent_headings(main)

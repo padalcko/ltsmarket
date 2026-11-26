@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "title": "Jakie problemy biznesowe rozwiązuje zakup lasera LUMOS?",
+    "intro": "Zakup nowego lasera LUMOS pozwala ograniczyć ryzyko nieplanowanych kosztów serwisowych, zapewnić stabilne warunki wykonywania zabiegów, zwiększyć bezpieczeństwo działalności, pozyskiwać nowych klientów i lepiej planować finanse salonu.",
+    "cards": [
+      {
+        "title": "Ochrona przed nieplanowanymi kosztami napraw",
+        "text": "Nowe podzespoły, gwarancja oraz profesjonalne wsparcie serwisowe Laser Tech Service pomagają ograniczyć ryzyko nieplanowanych wydatków, przestojów urządzenia i odwoływania wizyt klientów."
+      },
+      {
+        "title": "Stabilna skuteczność zabiegów",
+        "text": "Nowy moduł diodowy, technologia optyczna FAC oraz system chłodzenia ICE Flow wspierają stabilne warunki pracy urządzenia i powtarzalność wykonywanych zabiegów."
+      },
+      {
+        "title": "Bezpieczeństwo prawne i techniczne",
+        "text": "Odpowiednia dokumentacja techniczna oraz potwierdzona zgodność urządzenia z obowiązującymi wymaganiami europejskimi pomagają ograniczyć ryzyko prawne i techniczne związane z prowadzeniem salonu."
+      },
+      {
+        "title": "Pozyskiwanie nowych klientów",
+        "text": "Nowoczesne technologie epilacji laserowej stanowią dodatkowy argument marketingowy, pomagają wyróżnić ofertę salonu i przyciągać klientów poszukujących profesjonalnych zabiegów."
+      },
+      {
+        "title": "Przewidywalne planowanie finansowe",
+        "text": "Leasing umożliwia rozłożenie kosztów zakupu urządzenia w czasie, zachowanie kapitału obrotowego i finansowanie inwestycji z przychodów generowanych przez wykonywane zabiegi."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Какие бизнес-проблемы решает покупка лазера LUMOS?",
+    "intro": "Покупка нового лазера LUMOS позволяет снизить риск непредвиденных расходов на ремонт, обеспечить стабильные условия проведения процедур, повысить безопасность бизнеса, привлекать новых клиентов и эффективнее планировать финансы салона.",
+    "cards": [
+      {
+        "title": "Защита от непредвиденных расходов на ремонт",
+        "text": "Новые комплектующие, гарантия и профессиональная сервисная поддержка Laser Tech Service помогают снизить риск непредвиденных расходов, простоев оборудования и отмены записей клиентов."
+      },
+      {
+        "title": "Стабильная эффективность процедур",
+        "text": "Новый диодный модуль, оптическая технология FAC и система охлаждения ICE Flow способствуют стабильной работе оборудования и повторяемости условий проведения процедур."
+      },
+      {
+        "title": "Юридическая и техническая безопасность",
+        "text": "Наличие необходимой технической документации и подтверждённое соответствие оборудования действующим европейским требованиям помогают снизить юридические и технические риски при ведении бизнеса."
+      },
+      {
+        "title": "Привлечение новых клиентов",
+        "text": "Современные технологии лазерной эпиляции становятся дополнительным маркетинговым аргументом, помогают выделить салон среди конкурентов и привлекать клиентов, заинтересованных в профессиональных процедурах."
+      },
+      {
+        "title": "Предсказуемое финансовое планирование",
+        "text": "Лизинг позволяет распределить стоимость оборудования во времени, сохранить оборотный капитал и финансировать инвестицию за счёт доходов от проводимых процедур."
+      }
+    ]
+  },
+  "en": {
+    "title": "What business problems does buying a LUMOS hair removal laser solve?",
+    "intro": "Buying a new LUMOS hair removal laser helps reduce unexpected repair costs, maintain consistent treatment conditions, improve operational safety, attract new clients, and make salon financial planning more predictable.",
+    "cards": [
+      {
+        "title": "Protection against unexpected repair costs",
+        "text": "New components, warranty coverage, and professional technical support from Laser Tech Service help reduce the risk of unexpected expenses, equipment downtime, and cancelled appointments."
+      },
+      {
+        "title": "Consistent treatment performance",
+        "text": "A new diode module, FAC optical technology, and the ICE Flow cooling system support stable equipment operation and consistent treatment conditions."
+      },
+      {
+        "title": "Regulatory and technical safety",
+        "text": "Appropriate technical documentation and verified compliance with applicable European requirements help reduce regulatory and technical risks associated with operating a salon."
+      },
+      {
+        "title": "Attracting new clients",
+        "text": "Modern laser hair removal technologies provide an additional marketing advantage, help differentiate the salon from competitors, and attract clients seeking professional treatments."
+      },
+      {
+        "title": "Predictable financial planning",
+        "text": "Leasing allows salons to spread equipment costs over time, preserve working capital, and finance their investment through revenue generated by treatments."
+      }
+    ]
+  }
+}

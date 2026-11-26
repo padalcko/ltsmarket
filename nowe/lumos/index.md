@@ -1,6 +1,6 @@
-# Lumos — inteligentny laser diodowy dla nowoczesnego salonu
+# LUMOS – inteligentny laser diodowy
 
-Źródło HTML: [Lumos — inteligentny laser diodowy dla nowoczesnego salonu](https://ltsmarket.pl/nowe/lumos/)
+Źródło HTML: [LUMOS – inteligentny laser diodowy](https://ltsmarket.pl/nowe/lumos/)
 
 Język: Polski
 
@@ -12,17 +12,25 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/new/lumos/), [Русс�
 
 Nowoczesny system depilacji laserowej dla wymagających salonów kosmetycznych i gabinetów kosmetologicznych. Cztery długości fal, moc głowicy 2000–4000 W, zaawansowane chłodzenie ICE Flow oraz inteligentne funkcje wspierające codzienną pracę.
 
+![Lumos — Widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-hero-transparent.webp)
+
+**2000–4000 W**Moc głowicy
+
+**4**Długości fal
+
+**ICE Flow**System chłodzenia
+
+**FAC**Technologia optyczna
+
 **68 000–100 000 zł**
 
 Cena zależy od wybranej konfiguracji urządzenia.
 
-**Kupując Lumos w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**
+Profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).
 
 Urządzenia nowe: 14–30 dni roboczych.
 Darmowa dostawa od 35 000 zł.
 Dostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.
-
-![Lumos — Widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ## Lumos — więcej niż moc. Technologia zaprojektowana do profesjonalnej pracy.
 
@@ -163,6 +171,8 @@ Konfiguracja i zakres funkcji wymagają potwierdzenia w indywidualnej ofercie or
 | Dermatoskop | zależnie od konfiguracji |
 
 ## Galeria Lumos
+
+![Lumos — Widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ![Lumos — Drugi widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-alternate-800.webp)
 
@@ -319,6 +329,30 @@ Można omówić możliwość finansowania zakupu. Warunki zależą od instytucji
 ### Jak zamówić Lumos?
 
 Skontaktuj się z LTS Market za pomocą formularza, telefonu lub poczty elektronicznej. Przygotujemy informacje o konfiguracjach i indywidualną ofertę.
+
+## Jakie problemy biznesowe rozwiązuje zakup lasera LUMOS?
+
+Zakup nowego lasera LUMOS pozwala ograniczyć ryzyko nieplanowanych kosztów serwisowych, zapewnić stabilne warunki wykonywania zabiegów, zwiększyć bezpieczeństwo działalności, pozyskiwać nowych klientów i lepiej planować finanse salonu.
+
+### Ochrona przed nieplanowanymi kosztami napraw
+
+Nowe podzespoły, gwarancja oraz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/) pomagają ograniczyć ryzyko nieplanowanych wydatków, przestojów urządzenia i odwoływania wizyt klientów.
+
+### Stabilna skuteczność zabiegów
+
+Nowy moduł diodowy, technologia optyczna FAC oraz system chłodzenia ICE Flow wspierają stabilne warunki pracy urządzenia i powtarzalność wykonywanych zabiegów.
+
+### Bezpieczeństwo prawne i techniczne
+
+Odpowiednia dokumentacja techniczna oraz potwierdzona zgodność urządzenia z obowiązującymi wymaganiami europejskimi pomagają ograniczyć ryzyko prawne i techniczne związane z prowadzeniem salonu.
+
+### Pozyskiwanie nowych klientów
+
+Nowoczesne technologie epilacji laserowej stanowią dodatkowy argument marketingowy, pomagają wyróżnić ofertę salonu i przyciągać klientów poszukujących profesjonalnych zabiegów.
+
+### Przewidywalne planowanie finansowe
+
+Leasing umożliwia rozłożenie kosztów zakupu urządzenia w czasie, zachowanie kapitału obrotowego i finansowanie inwestycji z przychodów generowanych przez wykonywane zabiegi.
 
 ## Kupujesz Lumos. Otrzymujesz więcej niż laser.
 
