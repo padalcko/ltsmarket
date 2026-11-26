@@ -252,7 +252,9 @@ BUSINESS GUIDES
 
 ## Plan your next investment
 
-Learn more about choosing a professional hair removal laser, opening a beauty salon and selecting equipment that meets your business requirements.
+Learn how to open your own beauty studio, plan your startup budget, calculate investment profitability and choose professional equipment and suitable financing options.
+
+- [How to Open an Aesthetic Beauty Business in Poland in 2027](https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/)
 
 - [Laser hair removal as a business: why plan your salon opening for autumn?](https://ltsmarket.pl/en/blog/laser-hair-removal-business/)
 

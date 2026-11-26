@@ -10,7 +10,7 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/how-to-open-a-beau
 
 Blog LTS Market
 
-26.11.2026 · Александр Падалко — specjalista ds. rozwoju cyfrowego biznesu, widoczności w wyszukiwarkach i promocji w systemach AI
+26.11.2026 · Oleksandr Padalko — Specjalista ds. cyfrowego rozwoju biznesu, widoczności w wyszukiwarkach i promocji w systemach AI.
 
 Otwarcie gabinetu kosmetologicznego w Polsce wymaga przygotowania biznesplanu, rejestracji działalności gospodarczej, wyboru odpowiedniego lokalu, spełnienia wymagań higienicznych oraz zakupu wyposażenia dostosowanego do planowanych zabiegów.
 
@@ -237,7 +237,7 @@ W przypadku używanego urządzenia licznik impulsów nie jest jedynym wskaźniki
 
 Istotne są również stan modułu laserowego, stabilność parametrów, sprawność chłodzenia, historia napraw oraz dostępność podzespołów.
 
-Opublikowane karty katalogowe podają 35 000 zł za MEDILASE PRO i 40 000 zł za MEDIflex US450. Cenę i dostępność należy potwierdzić przed zakupem. LTS Market oferuje również usługę profesjonalnego doboru urządzenia. Opublikowana cena usługi wynosi 2500 zł; aktualne warunki należy potwierdzić przed zamówieniem. Nie rozszerzać zakresu gwarancji ponad warunki wskazane w konkretnej karcie produktu.
+Opublikowane karty katalogowe podają 35 000 zł za MEDILASE PRO i 40 000 zł za MEDIflex US450. Cenę i dostępność należy potwierdzić przed zakupem. LTS Market oferuje również usługę profesjonalnego doboru urządzenia. Opublikowana cena usługi wynosi 2500 zł; aktualne warunki należy potwierdzić przed zamówieniem. Zakres gwarancji zależy od konkretnego urządzenia i warunków określonych w jego ofercie.
 
 [Poradnik zakupu używanego lasera →](https://ltsmarket.pl/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/)
 

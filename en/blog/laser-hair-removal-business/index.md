@@ -10,7 +10,7 @@ Other languages: [Polski](https://ltsmarket.pl/blog/depilacja-laserowa-jako-bizn
 
 LTS Market Blog
 
-Александр Падалко — specialist in digital business development, search visibility and promotion in AI systems
+Oleksandr Padalko — Specialist in digital business development, search visibility and AI search optimization.
 
 Autumn can be a quiet starting point: time to prepare your treatment room, learn how to use your equipment and welcome your first clients. If you are planning a laser hair removal business in Poland, start with a practical plan before choosing a particular laser.
 
@@ -74,7 +74,7 @@ Write down your intended services, equipment budget and monthly expenses. Compar
 
 [Contact LTS Market](https://ltsmarket.pl/en/kontakt.html) with your plans for a salon in Poland. Include your budget and whether you are considering new equipment, a pre-owned device or leasing. This provides a useful starting point for discussing available options.
 
-[How to open a beauty business in Poland? Read the complete guide with calculators.](https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/)
+For the next steps, see the [guide to opening a beauty business in Poland with calculators](https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/).
 
 ## Plan your salon with LTS Market
 

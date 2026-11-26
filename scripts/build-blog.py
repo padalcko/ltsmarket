@@ -30,9 +30,9 @@ LABELS = {
 }
 AUTHORS = {
     'oleksandr': {
-        'pl': ('Александр Падалко', 'specjalista ds. rozwoju cyfrowego biznesu, widoczności w wyszukiwarkach i promocji w systemach AI'),
-        'ru': ('Александр Падалко', 'специалист по цифровому развитию бизнеса, поисковой видимости и продвижению в AI-системах'),
-        'en': ('Александр Падалко', 'specialist in digital business development, search visibility and promotion in AI systems'),
+        'pl': ('Oleksandr Padalko', 'Specjalista ds. cyfrowego rozwoju biznesu, widoczności w wyszukiwarkach i promocji w systemach AI.'),
+        'ru': ('Александр Падалко', 'Специалист по цифровому развитию бизнеса, поисковой видимости и продвижению в AI-системах.'),
+        'en': ('Oleksandr Padalko', 'Specialist in digital business development, search visibility and AI search optimization.'),
     },
     'dmytro': {
         'pl': ('Dmytro Zaitsev', 'CEO, założyciel i główny specjalista techniczny'),
@@ -40,10 +40,15 @@ AUTHORS = {
         'en': ('Dmytro Zaitsev', 'CEO, founder and lead technical specialist'),
     },
     'sofiia': {
-        'pl': ('Sofiia Shcherbakova', 'Client Manager'),
+        'pl': ('Sofiia Shcherbakova', 'Menedżer ds. obsługi klienta'),
         'ru': ('Sofiia Shcherbakova', 'менеджер по работе с клиентами'),
         'en': ('Sofiia Shcherbakova', 'Client Manager'),
     },
+}
+AUTHOR_IDS = {
+    'oleksandr': 'https://ltsmarket.pl/#author-oleksandr-padalko',
+    'dmytro': 'https://ltsmarket.pl/#author-dmytro-zaitsev',
+    'sofiia': 'https://ltsmarket.pl/#author-sofiia-shcherbakova',
 }
 
 def listing_route(lang, page=1):
@@ -121,6 +126,7 @@ def build(lang, article, page=1):
         if d.get('date'): schema['datePublished']=d['date']
         if d.get('author'):
             schema['author']={'@type':'Person' if d.get('author_key') else 'Organization','name':d['author']}
+            if d.get('author_key'): schema['author']['@id']=AUTHOR_IDS[d['author_key']]
             if d.get('author_title'): schema['author']['jobTitle']=d['author_title']
             if d.get('author_url'): schema['author']['url']=d['author_url']
     else:
@@ -217,6 +223,33 @@ for lang in DATA:
     if not args.article_only:
         for page in range(2, PAGE_COUNT + 1):
             build(lang,0,page)
+
+if not args.article_only:
+    # Keep the existing four-card homepage section in sync with the blog registry.
+    # Later entries in the registry win ties, matching publication order.
+    for lang in DATA:
+        latest = sorted(enumerate(POSTS), key=lambda item: (item[1][lang].get('date', ''), item[0]), reverse=True)[:4]
+        home = ROOT / (prefix(lang).lstrip('/') + 'index.html')
+        source = home.read_text()
+        cards = []
+        for index, post in latest:
+            entry = post[lang]
+            words = len(re.sub(r'<[^>]+>', ' ', entry['lead'] + ' ' + entry.get('intro_html', '') + ' ' + ' '.join(h + ' ' + body for h, body in entry['sections'])).split())
+            if entry.get('clinic_guide'):
+                words = len((ROOT / 'content/clinic-guide' / f'{lang}.txt').read_text().split())
+            reading = LABELS[lang]['minutes'].format(n=max(1, math.ceil(words / 200)))
+            title = escape(entry.get('card_title', entry['title']))
+            url = route(lang, index + 1)
+            date = escape(entry['date'], quote=True)
+            category = escape(DATA[lang]['blog'])
+            description = escape(entry.get('card_description', entry['description']))
+            read = DATA[lang]['read']
+            cards.append(f'<article class="blog-card"><div class="blog-card__meta"><span class="blog-card__category">{category}</span><time class="blog-card__date" datetime="{date}">{date}</time></div><h3><a href="{url}">{title}</a></h3><p class="blog-card__description">{description}</p><footer class="blog-card__footer"><span class="blog-card__reading">{reading}</span><a class="blog-card__link" href="{url}" aria-label="{escape(read + ": " + entry.get("card_title", entry["title"]), quote=True)}">{read} <span aria-hidden="true">→</span></a></footer></article>')
+        pattern = r'(<section class="home-info-section home-blog home-blog--light" id="latest-articles">.*?<div class="blog-grid">).*?(</div><div class="section-action">)'
+        updated, count = re.subn(pattern, lambda match: match[1] + ''.join(cards) + match[2], source, count=1, flags=re.S)
+        if count != 1:
+            raise ValueError(f'Homepage latest-articles block missing: {home}')
+        home.write_text(updated)
 
 if args.article_only:
     print(f'Built {3 if args.slug else len(DATA) * len(POSTS)} localized article pages.')

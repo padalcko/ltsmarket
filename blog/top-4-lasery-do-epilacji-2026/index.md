@@ -10,7 +10,7 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/top-4-laser-hair-r
 
 Blog LTS Market
 
-24.11.2026 · Sofiia Shcherbakova — Client Manager
+24.11.2026 · Sofiia Shcherbakova — Menedżer ds. obsługi klienta
 
 Współczesny rynek urządzeń kosmetologicznych oferuje wiele platform przeznaczonych do epilacji laserowej. Niektóre wykorzystują technologię aleksandrytową, inne diodową lub neodymową. Producenci rozwijają systemy optyczne, udoskonalają chłodzenie i wprowadzają rozwiązania cyfrowe wspierające codzienną pracę specjalistów.
 

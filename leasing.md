@@ -252,7 +252,9 @@ PORADNIK PRZEDSIĘBIORCY
 
 ## Zaplanuj swoją inwestycję
 
-Dowiedz się więcej o wyborze profesjonalnego lasera do epilacji, otwieraniu gabinetu kosmetycznego oraz zakupie urządzeń dopasowanych do potrzeb Twojego biznesu.
+Dowiedz się, jak otworzyć własny gabinet kosmetologiczny, zaplanować budżet, obliczyć rentowność inwestycji oraz wybrać profesjonalne urządzenia i odpowiednią formę finansowania.
+
+- [Jak otworzyć gabinet kosmetologiczny w Polsce w 2027 roku? Kompletny poradnik](https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/)
 
 - [Depilacja laserowa jako biznes: dlaczego jesień to dobry moment na otwarcie gabinetu?](https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/)
 

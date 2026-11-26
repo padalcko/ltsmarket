@@ -21,7 +21,7 @@
         "ru": "https://ltsmarket.pl/ru/",
         "x-default": "https://ltsmarket.pl/"
       },
-      "contentSha256": "f6e0478530e7a908ff9f124887379860d84668875c9dd7ad4ac47e532ba2a82b",
+      "contentSha256": "092f0b27f78f03e2d91f1ecaebda353f4fb1aa32103f174090ecc92519bc3e25",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -219,7 +219,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
         "x-default": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
       },
-      "contentSha256": "8f6e5ef34ab718bbdfc217ba744718595ddbabf9615107fc4d7eb62c078bedce",
+      "contentSha256": "5a35c9e248420740266d968d9e9894b93b09a1722adca0fe2c7d8a60d9f36408",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -242,7 +242,8 @@
           "author": {
             "@type": "Person",
             "name": "Sofiia Shcherbakova",
-            "jobTitle": "Client Manager"
+            "@id": "https://ltsmarket.pl/#author-sofiia-shcherbakova",
+            "jobTitle": "Menedżer ds. obsługi klienta"
           }
         },
         {
@@ -312,6 +313,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
@@ -360,7 +362,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/",
         "x-default": "https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/"
       },
-      "contentSha256": "ee252a547ce421e4b6f1cb367c256ece4be7eecd9da8e2953493155807caf9b6",
+      "contentSha256": "164a50838a6c216cb601dc513efbaf4cf330f2f374668c30539a851547f57e93",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -381,8 +383,9 @@
           "dateModified": "2026-11-26",
           "author": {
             "@type": "Person",
-            "name": "Александр Падалко",
-            "jobTitle": "specjalista ds. rozwoju cyfrowego biznesu, widoczności w wyszukiwarkach i promocji w systemach AI"
+            "name": "Oleksandr Padalko",
+            "@id": "https://ltsmarket.pl/#author-oleksandr-padalko",
+            "jobTitle": "Specjalista ds. cyfrowego rozwoju biznesu, widoczności w wyszukiwarkach i promocji w systemach AI."
           }
         },
         {
@@ -453,6 +456,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
@@ -524,6 +528,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
@@ -607,6 +612,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
@@ -655,7 +661,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/",
         "x-default": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/"
       },
-      "contentSha256": "f41f30800b93a80c60c73247bf18ba3e165e58989519d0d2f263ac10e84411e9",
+      "contentSha256": "879e96accddc48fd32bcaf09dc4738a72ce1121a15c0a939ca70aa0497cb0a0e",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -687,8 +693,9 @@
           "datePublished": "2026-11-26",
           "author": {
             "@type": "Person",
-            "name": "Александр Падалко",
-            "jobTitle": "specjalista ds. rozwoju cyfrowego biznesu, widoczności w wyszukiwarkach i promocji w systemach AI"
+            "name": "Oleksandr Padalko",
+            "@id": "https://ltsmarket.pl/#author-oleksandr-padalko",
+            "jobTitle": "Specjalista ds. cyfrowego rozwoju biznesu, widoczności w wyszukiwarkach i promocji w systemach AI."
           }
         },
         {
@@ -861,6 +868,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
@@ -909,7 +917,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/",
         "x-default": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/"
       },
-      "contentSha256": "7e935a6e64b0156ab66408a232808ed4a35cae840fc357529362c70b0ea98cfc",
+      "contentSha256": "9f40d02a69bdd51259b14c42a49862a7d99f909be0d8249a6cb83253be6d620e",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -931,7 +939,8 @@
           "author": {
             "@type": "Person",
             "name": "Sofiia Shcherbakova",
-            "jobTitle": "Client Manager"
+            "@id": "https://ltsmarket.pl/#author-sofiia-shcherbakova",
+            "jobTitle": "Menedżer ds. obsługi klienta"
           }
         },
         {
@@ -1002,6 +1011,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
@@ -1073,6 +1083,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
@@ -1143,6 +1154,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
@@ -1214,6 +1226,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
@@ -1262,7 +1275,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
         "x-default": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
       },
-      "contentSha256": "33c6bbc06ed79785f8459ad7af288efe7cf5d0e4eedd5a684321cd05ff70c023",
+      "contentSha256": "7799d751d74a76679eee26ba72885fc9da7bb07569515c0ce1a2ebc5d85f2dee",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1285,7 +1298,8 @@
           "author": {
             "@type": "Person",
             "name": "Sofiia Shcherbakova",
-            "jobTitle": "Client Manager"
+            "@id": "https://ltsmarket.pl/#author-sofiia-shcherbakova",
+            "jobTitle": "Menedżer ds. obsługi klienta"
           }
         },
         {
@@ -1356,6 +1370,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
@@ -1404,7 +1419,7 @@
         "ru": "https://ltsmarket.pl/ru/",
         "x-default": "https://ltsmarket.pl/"
       },
-      "contentSha256": "ea9d9bc3e615e38ca9424d85e33e671e5fff2c3baa0bc4d9f2306b16bb15ce00",
+      "contentSha256": "4ff917fc9126e7bb4528c5e4adb7128406e21301d225033d1f45d8f279ad9851",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1602,7 +1617,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
         "x-default": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
       },
-      "contentSha256": "9c39d992a62056134b2ae581ffef27b3bf2b6dd821de0aac3f5eae5ab77b55a8",
+      "contentSha256": "0d16ca16ceaca7b9eadc1c0ff9d6761ba82e321fc28f09da85e00cfb238b6500",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1625,6 +1640,7 @@
           "author": {
             "@type": "Person",
             "name": "Sofiia Shcherbakova",
+            "@id": "https://ltsmarket.pl/#author-sofiia-shcherbakova",
             "jobTitle": "Client Manager"
           }
         },
@@ -1696,6 +1712,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
@@ -1766,6 +1783,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
@@ -1837,6 +1855,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
@@ -1908,6 +1927,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
@@ -1990,6 +2010,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
@@ -2038,7 +2059,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/",
         "x-default": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/"
       },
-      "contentSha256": "7551fc0ac607bc3516a91377d45ac0d31f933307de1358b24fbbf42603f61ddd",
+      "contentSha256": "2f2efcc6b80c4b26d0fa516d1915e777962ea306951e2e2fee0d1067ac120c01",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2070,8 +2091,9 @@
           "datePublished": "2026-11-26",
           "author": {
             "@type": "Person",
-            "name": "Александр Падалко",
-            "jobTitle": "specialist in digital business development, search visibility and promotion in AI systems"
+            "name": "Oleksandr Padalko",
+            "@id": "https://ltsmarket.pl/#author-oleksandr-padalko",
+            "jobTitle": "Specialist in digital business development, search visibility and AI search optimization."
           }
         },
         {
@@ -2221,7 +2243,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/",
         "x-default": "https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/"
       },
-      "contentSha256": "18f94d4f11036c6224c6eacea43c65085a3d9d2b57da92acdd56278bb11a0e5e",
+      "contentSha256": "d831703a2d201224d759b03501d313246b5f6d385b2003b885197fbf7f952378",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2242,8 +2264,9 @@
           "dateModified": "2026-11-26",
           "author": {
             "@type": "Person",
-            "name": "Александр Падалко",
-            "jobTitle": "specialist in digital business development, search visibility and promotion in AI systems"
+            "name": "Oleksandr Padalko",
+            "@id": "https://ltsmarket.pl/#author-oleksandr-padalko",
+            "jobTitle": "Specialist in digital business development, search visibility and AI search optimization."
           }
         },
         {
@@ -2314,6 +2337,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
@@ -2385,6 +2409,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
@@ -2455,6 +2480,7 @@
           "author": {
             "@type": "Person",
             "name": "Sofiia Shcherbakova",
+            "@id": "https://ltsmarket.pl/#author-sofiia-shcherbakova",
             "jobTitle": "Client Manager"
           }
         },
@@ -2526,6 +2552,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
@@ -2596,6 +2623,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
@@ -2667,6 +2695,7 @@
           "author": {
             "@type": "Person",
             "name": "Sofiia Shcherbakova",
+            "@id": "https://ltsmarket.pl/#author-sofiia-shcherbakova",
             "jobTitle": "Client Manager"
           }
         },
@@ -2738,6 +2767,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
@@ -2819,7 +2849,7 @@
         "ru": "https://ltsmarket.pl/ru/leasing.html",
         "x-default": "https://ltsmarket.pl/leasing.html"
       },
-      "contentSha256": "d5c313c46a0afeb8bd6813e4e6fb6e89f35e167eb206c06f0dabac985051d9d5",
+      "contentSha256": "f34afb7ac81bd9bc228ff76bf90c0ffc7a56d68dc83a974cb0b86e5f7b619d80",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -4543,7 +4573,7 @@
         "ru": "https://ltsmarket.pl/ru/leasing.html",
         "x-default": "https://ltsmarket.pl/leasing.html"
       },
-      "contentSha256": "cd3ac990d0170f686a32a54ed129d1d85169e07ac3636a7ba2cd6828f0f51e95",
+      "contentSha256": "999cd7ea7ad10e58de5521e05bdcbd19a3bd1f6654569182f4ea26b960ad86f0",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5669,7 +5699,7 @@
         "ru": "https://ltsmarket.pl/ru/",
         "x-default": "https://ltsmarket.pl/"
       },
-      "contentSha256": "a216550709aafd6eacc5166d07dca73fd84661c594c409065cf9ee1dca75b98a",
+      "contentSha256": "b9a36857aebd2af87e8cc588e0335b9dab009c0a2fe159087ddf1114dddbb69b",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5867,7 +5897,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
         "x-default": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
       },
-      "contentSha256": "c5e05d8fbb803d8c2b81cd43f4e05a5067e640d33886fe0e1af03d10966b0d8a",
+      "contentSha256": "29e26e6579bb01b3622c724fc143f9d71f385af299cfa553af1addf319cf778e",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5890,6 +5920,7 @@
           "author": {
             "@type": "Person",
             "name": "Sofiia Shcherbakova",
+            "@id": "https://ltsmarket.pl/#author-sofiia-shcherbakova",
             "jobTitle": "менеджер по работе с клиентами"
           }
         },
@@ -5960,6 +5991,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
@@ -6031,6 +6063,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
@@ -6102,6 +6135,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
@@ -6184,6 +6218,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
@@ -6232,7 +6267,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/",
         "x-default": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/"
       },
-      "contentSha256": "7dca08007dde3db7623fd8778e01ec782318f7df9d465057b59a92391c3f4fef",
+      "contentSha256": "46a2598e55d07a71b3cf9821a28512feace8e3b3bf95034f8456981d24020d9e",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6265,7 +6300,8 @@
           "author": {
             "@type": "Person",
             "name": "Александр Падалко",
-            "jobTitle": "специалист по цифровому развитию бизнеса, поисковой видимости и продвижению в AI-системах"
+            "@id": "https://ltsmarket.pl/#author-oleksandr-padalko",
+            "jobTitle": "Специалист по цифровому развитию бизнеса, поисковой видимости и продвижению в AI-системах."
           }
         },
         {
@@ -6415,7 +6451,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/",
         "x-default": "https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/"
       },
-      "contentSha256": "741ea70e8ccce4872ae50e123ee602dfd14a6b206ad95edd37f3a759aa913877",
+      "contentSha256": "841d0c61b7f8ad53c35a5514dba40d7251bc3fad6290c745c67a2ee84efb95b5",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6437,7 +6473,8 @@
           "author": {
             "@type": "Person",
             "name": "Александр Падалко",
-            "jobTitle": "специалист по цифровому развитию бизнеса, поисковой видимости и продвижению в AI-системах"
+            "@id": "https://ltsmarket.pl/#author-oleksandr-padalko",
+            "jobTitle": "Специалист по цифровому развитию бизнеса, поисковой видимости и продвижению в AI-системах."
           }
         },
         {
@@ -6508,6 +6545,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
@@ -6578,6 +6616,7 @@
           "author": {
             "@type": "Person",
             "name": "Sofiia Shcherbakova",
+            "@id": "https://ltsmarket.pl/#author-sofiia-shcherbakova",
             "jobTitle": "менеджер по работе с клиентами"
           }
         },
@@ -6649,6 +6688,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
@@ -6719,6 +6759,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
@@ -6790,6 +6831,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
@@ -6861,6 +6903,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
@@ -6932,6 +6975,7 @@
           "author": {
             "@type": "Person",
             "name": "Dmytro Zaitsev",
+            "@id": "https://ltsmarket.pl/#author-dmytro-zaitsev",
             "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
@@ -7003,6 +7047,7 @@
           "author": {
             "@type": "Person",
             "name": "Sofiia Shcherbakova",
+            "@id": "https://ltsmarket.pl/#author-sofiia-shcherbakova",
             "jobTitle": "менеджер по работе с клиентами"
           }
         },
@@ -7084,7 +7129,7 @@
         "ru": "https://ltsmarket.pl/ru/leasing.html",
         "x-default": "https://ltsmarket.pl/leasing.html"
       },
-      "contentSha256": "7ccbdcb8013fad4d64e7d7811328dd74c32b07f2b30021b12d8b8cfa06341006",
+      "contentSha256": "322f902127360daee40592e4d6fc4992cb499a5607cdec4584d5d45156c549e4",
       "structuredData": [
         {
           "@context": "https://schema.org",

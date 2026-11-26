@@ -103,6 +103,8 @@ This means you can invest in both your salon's equipment and its online presence
 
 Whether you are opening your first beauty salon or expanding an established clinic, the right equipment starts with understanding your business needs.
 
+If you are planning a new studio, read the [guide to opening a beauty business in Poland](https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/) to plan your budget and assess profitability.
+
 Tell us about your salon, expected treatment volume and budget. We can help you compare available configurations and discuss purchasing or leasing options.
 
 **Explore [professional diode lasers at LTS Market](https://ltsmarket.pl/en/nowe.html) and request a personalised offer. [Alpha Mini](https://ltsmarket.pl/en/new/alpha-mini/) · [Alpha Diode Laser](https://ltsmarket.pl/en/new/alpha/) · [Leasing](https://ltsmarket.pl/en/leasing.html)**

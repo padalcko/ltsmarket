@@ -10,7 +10,7 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/alpha-vs-alpha-min
 
 Blog LTS Market
 
-23.11.2026 · Sofiia Shcherbakova — Client Manager
+23.11.2026 · Sofiia Shcherbakova — Menedżer ds. obsługi klienta
 
 ![Laser diodowy Alpha w ofercie LTS Market](https://ltsmarket.pl/assets/img/nowe/alpha.webp)
 
@@ -96,6 +96,8 @@ Dzięki temu możesz zadbać zarówno o wyposażenie gabinetu, jak i o jego obec
 ## Alpha czy Alpha Mini? Porozmawiajmy o Twoim gabinecie
 
 Nie musisz znać wszystkich parametrów technicznych, aby wybrać odpowiedni laser.
+
+Jeśli dopiero planujesz gabinet, przeczytaj [poradnik otwarcia gabinetu kosmetologicznego w Polsce](https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/), aby zaplanować budżet i rentowność.
 
 Wystarczy, że opowiesz nam o swoim salonie, planowanej liczbie klientów i budżecie. Pomożemy porównać dostępne konfiguracje i przygotujemy ofertę zakupu lub leasingu.
 

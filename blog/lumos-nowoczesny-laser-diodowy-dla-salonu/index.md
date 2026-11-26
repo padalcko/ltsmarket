@@ -10,7 +10,7 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/lumos-modern-diode
 
 Blog LTS Market
 
-Sofiia Shcherbakova — Client Manager
+Sofiia Shcherbakova — Menedżer ds. obsługi klienta
 
 ![Lumos — Widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 

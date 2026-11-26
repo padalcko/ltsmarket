@@ -10,7 +10,7 @@ Other languages: [Polski](https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmeto
 
 LTS Market Blog
 
-26.11.2026 · Александр Падалко — specialist in digital business development, search visibility and promotion in AI systems
+26.11.2026 · Oleksandr Padalko — Specialist in digital business development, search visibility and AI search optimization.
 
 Starting an aesthetic beauty business in Poland requires a business plan, business registration, suitable premises, compliance with hygiene requirements and equipment appropriate for the intended treatments.
 
@@ -189,7 +189,7 @@ The laser module, energy stability, cooling system, repair history and availabil
 
 Published catalogue pages list PLN 35,000 for MEDILASE PRO and PLN 40,000 for MEDIflex US450. Confirm price and availability before purchase. LTS Market also provides professional equipment selection services. The published service price is PLN 2,500; confirm current terms before ordering.
 
-Warranty statements must match the specific product's terms.
+Warranty coverage depends on the specific device and the terms stated in its offer.
 
 [Used laser buying guide →](https://ltsmarket.pl/en/blog/how-to-buy-a-used-hair-removal-laser-safely/)
 
