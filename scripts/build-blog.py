@@ -71,8 +71,6 @@ def build(lang, article, page=1):
         for other in DATA:
             head = head.replace(DOMAIN+route(other), DOMAIN+listing_route(other,page))
     head = head.replace('/css/leasing.css','/css/blog.css')
-    if d.get('regional_hreflang'):
-        head = head.replace('hreflang="pl"', 'hreflang="pl-PL"').replace('hreflang="ru"', 'hreflang="ru-RU"')
     if article:
         head = head.replace('property="og:type" content="website"','property="og:type" content="article"')
     social_image = d.get('image') or d.get('social_image') if article else None
@@ -197,14 +195,8 @@ for article in range(len(POSTS) + 1):
         node=ET.SubElement(base,'{'+ns+'}url')
         ET.SubElement(node,'{'+ns+'}loc').text=DOMAIN+route(lang,article)
         for alt in (*DATA,'x-default'):
-            hreflang = {'pl':'pl-PL','ru':'ru-RU'}.get(alt,alt) if article and POSTS[article-1][lang].get('regional_hreflang') else alt
-            ET.SubElement(node,'{'+xhtml+'}link',{'rel':'alternate','hreflang':hreflang,'href':DOMAIN+route('pl' if alt=='x-default' else alt,article)})
-for page in range(2, PAGE_COUNT + 1):
-    for lang in DATA:
-        node=ET.SubElement(base,'{'+ns+'}url')
-        ET.SubElement(node,'{'+ns+'}loc').text=DOMAIN+listing_route(lang,page)
-        for alt in (*DATA,'x-default'):
-            ET.SubElement(node,'{'+xhtml+'}link',{'rel':'alternate','hreflang':alt,'href':DOMAIN+listing_route('pl' if alt=='x-default' else alt,page)})
+            ET.SubElement(node,'{'+xhtml+'}link',{'rel':'alternate','hreflang':alt,'href':DOMAIN+route('pl' if alt=='x-default' else alt,article)})
+# Pagination remains reachable from HTML navigation, but is not a content document.
 ET.indent(tree,space='  ')
 
 tree.write(ROOT/'sitemap.xml',encoding='utf-8',xml_declaration=True)

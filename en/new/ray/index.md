@@ -129,7 +129,7 @@ For studios seeking convenient handpiece operation and access to professional te
 | Cooling | Freon 300 W |
 | Optics | FAC |
 | Tips | 4 interchangeable |
-| Diode stack | 12 laser bars (not pressure) |
+| Diode stack | 12 laser bars |
 | Handpiece | Ergonomic, with touchscreen |
 
 ## Ray Gallery

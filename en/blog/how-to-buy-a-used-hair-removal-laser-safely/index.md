@@ -266,6 +266,8 @@ LUMOS | LEASING
 
 Considering a used laser? Explore financing options for a new LUMOS as well. Grow your salon with modern technology while spreading the cost of your investment over time.
 
+![LUMOS diode laser — front view](https://ltsmarket.pl/assets/img/lumos/lumos-front-cta-transparent.webp)
+
 [Explore LUMOS and leasing options](https://ltsmarket.pl/en/new/lumos/)
 
 [← All articles](https://ltsmarket.pl/en/blog/)

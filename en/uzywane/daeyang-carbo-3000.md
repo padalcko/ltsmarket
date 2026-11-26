@@ -12,7 +12,7 @@ Other languages: [Polski](https://ltsmarket.pl/uzywane/daeyang-carbo-3000.html),
 
 OTHER
 
-5 000 zł
+PLN 5,000
 
 Pre-owned DaeYang CARBO 3000 CO₂ insufflator. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.
 

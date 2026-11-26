@@ -12,7 +12,7 @@ Other languages: [Polski](https://ltsmarket.pl/uzywane/ellisys-plus.html), [Ру
 
 RF
 
-30 000 zł
+PLN 30,000
 
 Professional Chungwoo ELLISYS PLUS microneedling RF system from 2024. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.
 

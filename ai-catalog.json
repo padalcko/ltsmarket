@@ -21,7 +21,7 @@
         "ru": "https://ltsmarket.pl/ru/",
         "x-default": "https://ltsmarket.pl/"
       },
-      "contentSha256": "a0c5b0a70654339353858106bad0ef8ae3294aaf27c116b5eaa38f4bfca3c9a6",
+      "contentSha256": "84ba0afa721d7727e54139d90d4b4e3a1cbcd0ebbc1b0370f45c3969bbe16b89",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -65,7 +65,7 @@
             },
             {
               "@type": "Question",
-              "name": "Czy można kupić urządzenie kosmetologiczne w <a href=\"/leasing.html\">leasingu</a>?",
+              "name": "Czy można kupić urządzenie kosmetologiczne w leasingu?",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Tak. LTS Market oferuje możliwość zakupu urządzeń kosmetologicznych z wykorzystaniem leasingu. Warunki finansowania zależą od wybranego urządzenia oraz oceny partnera finansowego."
@@ -967,221 +967,6 @@
       ]
     },
     {
-      "url": "https://ltsmarket.pl/blog/page/2/",
-      "markdownUrl": "https://ltsmarket.pl/blog/page/2/index.md",
-      "language": "pl",
-      "type": "main-pages",
-      "title": "Blog LTS Market",
-      "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
-      "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/2/",
-        "en": "https://ltsmarket.pl/en/blog/page/2/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/2/",
-        "x-default": "https://ltsmarket.pl/blog/page/2/"
-      },
-      "contentSha256": "9b267f85a96ea5f1fe3d72ea138ddfd3029c2df6c293691c7be2bd8ffa16dcab",
-      "structuredData": [
-        {
-          "@context": "https://schema.org",
-          "@type": "Blog",
-          "@id": "https://ltsmarket.pl/blog/page/2/#blog",
-          "url": "https://ltsmarket.pl/blog/page/2/",
-          "name": "Blog LTS Market",
-          "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
-          "inLanguage": "pl",
-          "publisher": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
-          },
-          "blogPost": [
-            {
-              "@type": "BlogPosting",
-              "headline": "Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe",
-              "url": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "TOP 4 profesjonalne lasery do epilacji w 2026 roku",
-              "url": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu",
-              "url": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Dermatoskop — dodatkowe narzędzie kosmetologa. Dlaczego warto mieć go w laserze do epilacji?",
-              "url": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
-            }
-          ]
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Strona główna",
-              "item": {
-                "@id": "https://ltsmarket.pl/"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Blog LTS Market",
-              "item": {
-                "@id": "https://ltsmarket.pl/blog/"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "url": "https://ltsmarket.pl/blog/page/3/",
-      "markdownUrl": "https://ltsmarket.pl/blog/page/3/index.md",
-      "language": "pl",
-      "type": "main-pages",
-      "title": "Blog LTS Market",
-      "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
-      "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/3/",
-        "en": "https://ltsmarket.pl/en/blog/page/3/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
-        "x-default": "https://ltsmarket.pl/blog/page/3/"
-      },
-      "contentSha256": "5bcda0271f5b214a2d8ea5a0aa44f493df48f56ec6d44df9d126b6635b771371",
-      "structuredData": [
-        {
-          "@context": "https://schema.org",
-          "@type": "Blog",
-          "@id": "https://ltsmarket.pl/blog/page/3/#blog",
-          "url": "https://ltsmarket.pl/blog/page/3/",
-          "name": "Blog LTS Market",
-          "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
-          "inLanguage": "pl",
-          "publisher": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
-          },
-          "blogPost": [
-            {
-              "@type": "BlogPosting",
-              "headline": "Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC",
-              "url": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Zakup używanego lasera kosmetycznego. Dlaczego warto zaufać specjalistom Laser Tech Service?",
-              "url": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu",
-              "url": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Bezpieczne usuwanie tatuażu laserem Nd:YAG — co warto wiedzieć?",
-              "url": "https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/"
-            }
-          ]
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Strona główna",
-              "item": {
-                "@id": "https://ltsmarket.pl/"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Blog LTS Market",
-              "item": {
-                "@id": "https://ltsmarket.pl/blog/"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "url": "https://ltsmarket.pl/blog/page/4/",
-      "markdownUrl": "https://ltsmarket.pl/blog/page/4/index.md",
-      "language": "pl",
-      "type": "main-pages",
-      "title": "Blog LTS Market",
-      "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
-      "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/4/",
-        "en": "https://ltsmarket.pl/en/blog/page/4/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/4/",
-        "x-default": "https://ltsmarket.pl/blog/page/4/"
-      },
-      "contentSha256": "f0af9134db83022fe4230b8f5cf9275520ea2e2d14c4a9baa17288689e112e1f",
-      "structuredData": [
-        {
-          "@context": "https://schema.org",
-          "@type": "Blog",
-          "@id": "https://ltsmarket.pl/blog/page/4/#blog",
-          "url": "https://ltsmarket.pl/blog/page/4/",
-          "name": "Blog LTS Market",
-          "description": "Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.",
-          "inLanguage": "pl",
-          "publisher": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
-          },
-          "blogPost": [
-            {
-              "@type": "BlogPosting",
-              "headline": "Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF",
-              "url": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Depilacja laserowa jako biznes: dlaczego jesień to dobry moment na otwarcie gabinetu?",
-              "url": "https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/"
-            }
-          ]
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Strona główna",
-              "item": {
-                "@id": "https://ltsmarket.pl/"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Blog LTS Market",
-              "item": {
-                "@id": "https://ltsmarket.pl/blog/"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "url": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/",
       "markdownUrl": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/index.md",
       "language": "pl",
@@ -1403,7 +1188,7 @@
         "ru": "https://ltsmarket.pl/ru/",
         "x-default": "https://ltsmarket.pl/"
       },
-      "contentSha256": "bdacec7df802d5693851aa1e57c3c267c69164bf81d98537b640ebe6dc8bc07a",
+      "contentSha256": "85fa4d1b67358319397d9ccab2deeee42d88df95156b3bd5e7ef8615425f410b",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2354,221 +2139,6 @@
       ]
     },
     {
-      "url": "https://ltsmarket.pl/en/blog/page/2/",
-      "markdownUrl": "https://ltsmarket.pl/en/blog/page/2/index.md",
-      "language": "en",
-      "type": "main-pages",
-      "title": "LTS Market Blog",
-      "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
-      "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/2/",
-        "en": "https://ltsmarket.pl/en/blog/page/2/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/2/",
-        "x-default": "https://ltsmarket.pl/blog/page/2/"
-      },
-      "contentSha256": "bccda1bd73e4c366fdf5130191e7c88a09870cfad274228d8577f5a479794e12",
-      "structuredData": [
-        {
-          "@context": "https://schema.org",
-          "@type": "Blog",
-          "@id": "https://ltsmarket.pl/en/blog/page/2/#blog",
-          "url": "https://ltsmarket.pl/en/blog/page/2/",
-          "name": "LTS Market Blog",
-          "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
-          "inLanguage": "en",
-          "publisher": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
-          },
-          "blogPost": [
-            {
-              "@type": "BlogPosting",
-              "headline": "Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths",
-              "url": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Top 4 Professional Laser Hair Removal Machines in 2026",
-              "url": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Alpha vs Alpha Mini: Which Diode Laser Is Right for Your Beauty Salon?",
-              "url": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Dermoscopy: An Additional Tool for Laser Hair Removal Professionals",
-              "url": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/"
-            }
-          ]
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": {
-                "@id": "https://ltsmarket.pl/en/"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "LTS Market Blog",
-              "item": {
-                "@id": "https://ltsmarket.pl/en/blog/"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "url": "https://ltsmarket.pl/en/blog/page/3/",
-      "markdownUrl": "https://ltsmarket.pl/en/blog/page/3/index.md",
-      "language": "en",
-      "type": "main-pages",
-      "title": "LTS Market Blog",
-      "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
-      "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/3/",
-        "en": "https://ltsmarket.pl/en/blog/page/3/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
-        "x-default": "https://ltsmarket.pl/blog/page/3/"
-      },
-      "contentSha256": "51306f6940ade007f58001a5e316ec412f05c86941b3808848533548a75a0ccd",
-      "structuredData": [
-        {
-          "@context": "https://schema.org",
-          "@type": "Blog",
-          "@id": "https://ltsmarket.pl/en/blog/page/3/#blog",
-          "url": "https://ltsmarket.pl/en/blog/page/3/",
-          "name": "LTS Market Blog",
-          "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
-          "inLanguage": "en",
-          "publisher": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
-          },
-          "blogPost": [
-            {
-              "@type": "BlogPosting",
-              "headline": "What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained",
-              "url": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters",
-              "url": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Lumos — the intelligent diode laser designed for modern beauty businesses",
-              "url": "https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Safe tattoo removal with an Nd:YAG laser: what should you know?",
-              "url": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/"
-            }
-          ]
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": {
-                "@id": "https://ltsmarket.pl/en/"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "LTS Market Blog",
-              "item": {
-                "@id": "https://ltsmarket.pl/en/blog/"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "url": "https://ltsmarket.pl/en/blog/page/4/",
-      "markdownUrl": "https://ltsmarket.pl/en/blog/page/4/index.md",
-      "language": "en",
-      "type": "main-pages",
-      "title": "LTS Market Blog",
-      "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
-      "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/4/",
-        "en": "https://ltsmarket.pl/en/blog/page/4/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/4/",
-        "x-default": "https://ltsmarket.pl/blog/page/4/"
-      },
-      "contentSha256": "175abb617c76e11f736492c0a2c79f0ce8feb2943813d8f8ec6397641c799d30",
-      "structuredData": [
-        {
-          "@context": "https://schema.org",
-          "@type": "Blog",
-          "@id": "https://ltsmarket.pl/en/blog/page/4/#blog",
-          "url": "https://ltsmarket.pl/en/blog/page/4/",
-          "name": "LTS Market Blog",
-          "description": "Practical guides to beauty equipment, financing and running a salon in Poland.",
-          "inLanguage": "en",
-          "publisher": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
-          },
-          "blogPost": [
-            {
-              "@type": "BlogPosting",
-              "headline": "Modern body contouring: combining cavitation and RF skin tightening",
-              "url": "https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Laser hair removal as a business: why plan your salon opening for autumn?",
-              "url": "https://ltsmarket.pl/en/blog/laser-hair-removal-business/"
-            }
-          ]
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": {
-                "@id": "https://ltsmarket.pl/en/"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "LTS Market Blog",
-              "item": {
-                "@id": "https://ltsmarket.pl/en/blog/"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "url": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/",
       "markdownUrl": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/index.md",
       "language": "en",
@@ -2822,8 +2392,8 @@
         {
           "@context": "https://schema.org",
           "@type": "Service",
-          "name": "Leasing urządzeń kosmetycznych",
-          "description": "Indywidualnie dobierane finansowanie profesjonalnych urządzeń dla branży beauty.",
+          "name": "Leasing and financing of professional beauty equipment",
+          "description": "Leasing and financing options for professional beauty equipment, including diode lasers and cosmetology devices. Financing applications are also available to newly established businesses, subject to individual assessment by the financing partner.",
           "provider": {
             "@type": "Organization",
             "name": "LTS Market",
@@ -2920,6 +2490,92 @@
               "item": "https://ltsmarket.pl/en/new/alpha-mini/"
             }
           ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does Alpha Mini cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Prices range from PLN 40,000 to PLN 60,000. The final amount depends on the selected configuration and agreed sales terms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Alpha Mini suitable for a new salon?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Its compact design can help you arrange a new workstation. Discuss planned treatments, space and workload before purchasing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which wavelengths are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available variants are 808 nm, 755 + 808 + 1064 nm and 755 + 808 + 940 + 1064 nm. The specific handpiece is agreed in the offer."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How does ICE Flow work?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "TEC elements, a liquid circuit and air remove heat, while a sapphire window provides contact cooling. This does not mean completely painless treatment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Alpha Mini have a handpiece display?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The Alpha Mini handpiece has a 2-inch touchscreen for adjusting treatment settings."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How often is maintenance required?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Follow the supplied set’s manual and operating conditions. Laser Tech Service can help define checks and maintenance requirements."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does LTS Market provide technical support?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. When you buy Alpha Mini from LTS Market, you receive access to service support from Laser Tech Service, specialising in laser equipment diagnostics, maintenance and repairs. Detailed warranty and post-warranty service terms are agreed in accordance with the purchase conditions and the scope of work required."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who services Alpha Mini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Laser Tech Service provides technical support for LTS Market customers. Report an issue to arrange diagnostics and discuss the work needed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Laser Tech Service offer post-warranty repairs?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "You can request diagnostics and discuss a post-warranty repair. Feasibility, parts and costs are assessed individually."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I order Alpha Mini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Complete the form below, email sales@ltsmarket.pl or call +48 575 254 431. We will agree on the configuration and prepare an offer."
+              }
+            }
+          ]
         }
       ]
     },
@@ -3004,6 +2660,92 @@
               "position": 3,
               "name": "Alpha",
               "item": "https://ltsmarket.pl/en/new/alpha/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does Alpha cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Alpha prices range from PLN 60,000 to PLN 80,000, depending on configuration."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the handpiece power?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Alpha is available with 1600–2000 W handpiece options."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the treatment window size?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The treatment window measures 12×20 mm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cooling system does Alpha use?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Alpha features a TEC cooling system rated at 1200 W."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Alpha include Android and CRM?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Android and CRM are listed among its features. Exact functionality depends on the software version."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Alpha support automatic parameter selection?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the device offers parameter selection assistance. Operators remain responsible for correct treatment settings."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Alpha have a dermatoscope?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A built-in dermatoscope is listed among its features."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is technical support included after purchase?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. LTS Market customers purchasing Alpha receive Laser Tech Service support."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can Alpha be financed through leasing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Leasing options can be discussed, subject to the financing provider's terms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How can I order Alpha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Contact LTS Market through the website form, by phone or by email."
+              }
             }
           ]
         }
@@ -3092,6 +2834,116 @@
               "item": "https://ltsmarket.pl/en/new/lumos/"
             }
           ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does Lumos cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lumos is listed at PLN 68,000–100,000, depending on the selected configuration and final quotation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which wavelengths does Lumos use?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lumos combines 755, 808, 940 and 1064 nm wavelengths."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the handpiece power?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lumos is offered with handpiece options ranging from 2000 to 4000 W."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What pulse settings are available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The stated energy range is 10–240 J, with frequencies of 1–30 Hz and pulse durations starting at 5 ms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does FAC mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "FAC stands for Fast Axis Collimation, an optical technique used to reduce laser beam divergence along one axis."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is NeoDez?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "NeoDez is an additional hygiene-related handpiece technology. It does not replace standard cleaning and disinfection."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Lumos have cooling?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Lumos features ICE Flow cooling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Lumos include Android and CRM?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Android and CRM are listed among the available features. Exact functionality depends on the software version."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Lumos have a dermatoscope?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A dermatoscope function is listed among its features and should be used within the manufacturer's specified scope."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I receive technical support after purchasing Lumos?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. LTS Market customers purchasing Lumos receive professional service support from Laser Tech Service."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are post-warranty repairs available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Laser Tech Service provides post-warranty diagnostics and repairs, with pricing and scope agreed individually."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can Lumos be purchased through leasing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Financing options can be discussed, subject to the financing provider's approval and terms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I order Lumos?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Contact LTS Market through the website form, by phone or by email to request an individual quotation."
+              }
+            }
+          ]
         }
       ]
     },
@@ -3108,7 +2960,7 @@
         "ru": "https://ltsmarket.pl/ru/novye/ray/",
         "x-default": "https://ltsmarket.pl/nowe/ray/"
       },
-      "contentSha256": "b7669c729a86275dd68a25297f424275e504692e30e8d790a9b0a2332018196a",
+      "contentSha256": "86cb4a1140d18197b593237a41ea64a6b730728aa972fa4baf6d77e93ee0c6e2",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -3176,6 +3028,100 @@
               "position": 3,
               "name": "Ray",
               "item": "https://ltsmarket.pl/en/new/ray/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does Ray cost?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ray is listed at PLN 55,000–75,000."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many interchangeable tips does Ray have?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ray is equipped with four interchangeable treatment tips."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the handpiece power?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The stated handpiece power is 1200 W."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the pulse energy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The listed value is 150 J at a 200 ms pulse duration."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does a 12-bar diode stack mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It refers to a laser source constructed using 12 diode bars, not a pressure rating."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is FAC?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "FAC stands for Fast Axis Collimation, an optical technique used to reduce beam divergence."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cooling system does Ray use?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ray is listed with Freon 300 W cooling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the handpiece have a touchscreen?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. A handpiece touchscreen is listed among Ray's features."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is after-sales technical support available?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Ray customers purchasing through LTS Market receive Laser Tech Service support."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can Ray be financed through leasing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Financing options can be discussed, subject to the provider's terms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How do I order Ray?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Contact LTS Market through the website form, by phone or by email."
+              }
             }
           ]
         }
@@ -3478,7 +3424,7 @@
         "ru": "https://ltsmarket.pl/ru/uzywane.html",
         "x-default": "https://ltsmarket.pl/uzywane.html"
       },
-      "contentSha256": "e05e6f636724fcf8f4984562f4e142d6c9d8d387e490421e7d0b69f2820721f3",
+      "contentSha256": "2e6ec1401724c7f8ab2afdc408e6346b6b7d3d47306958e3eb62c41247025797",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -3535,7 +3481,7 @@
         "ru": "https://ltsmarket.pl/ru/uzywane/3d-contour.html",
         "x-default": "https://ltsmarket.pl/uzywane/3d-contour.html"
       },
-      "contentSha256": "e73207b7b9db1cd8435be33d17840dda564c2740b008ed3267e4fe997e7167fe",
+      "contentSha256": "68002926a16816d6ec08bc4068a9b772a8fe0e4bc3fcdcfb9530c9c8a7702059",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -3622,7 +3568,7 @@
         "ru": "https://ltsmarket.pl/ru/uzywane/daeyang-carbo-3000.html",
         "x-default": "https://ltsmarket.pl/uzywane/daeyang-carbo-3000.html"
       },
-      "contentSha256": "f5e531ceb1fe34f2cd2ecfde71f4672630bac81affb84d4ebdc8303eb0125015",
+      "contentSha256": "0721ad302a943aa8b24974ef980793aaff7db90b860daeadee81c291a1e35a95",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -3708,7 +3654,7 @@
         "ru": "https://ltsmarket.pl/ru/uzywane/ellisys-plus.html",
         "x-default": "https://ltsmarket.pl/uzywane/ellisys-plus.html"
       },
-      "contentSha256": "95a81e5b68d11ca9f867a0a178bfe43758c8c86f96264f64d3f0f419819a0d58",
+      "contentSha256": "eefa9b8f1d62f61fa0a895937cfb27b427dd002c62f892ae663c122a81f5c16f",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -3904,7 +3850,7 @@
         "ru": "https://ltsmarket.pl/ru/uzywane/medilase-pro.html",
         "x-default": "https://ltsmarket.pl/uzywane/medilase-pro.html"
       },
-      "contentSha256": "bf798b00dbe224e9c55d69614ab7413d784d96ef83620069f92c54e1911333ba",
+      "contentSha256": "d952b9be45ad2183b399396451f305865a1af5001057855fef2e738f8af64029",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -4337,6 +4283,92 @@
               "item": "https://ltsmarket.pl/nowe/alpha-mini/"
             }
           ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ile kosztuje Alpha Mini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cena wynosi 40 000–60 000 zł. Ostateczna kwota zależy od wybranej konfiguracji i uzgodnionych warunków sprzedaży."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy Alpha Mini nadaje się do nowego salonu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kompaktowa konstrukcja może ułatwić organizację nowego stanowiska. Przed zakupem warto omówić planowane zabiegi, miejsce i obciążenie urządzenia."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie długości fal oferuje urządzenie?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dostępne są warianty 808 nm, 755 + 808 + 1064 nm oraz 755 + 808 + 940 + 1064 nm. Wybór konkretnej głowicy ustalamy w ofercie."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jak działa ICE Flow?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "System odprowadza ciepło przez elementy TEC, obieg płynu i powietrze oraz zapewnia kontaktowe chłodzenie przez szafirowe okno. Nie oznacza to całkowitej bezbolesności zabiegu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy Alpha Mini posiada ekran na głowicy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Głowica Alpha Mini ma 2-calowy ekran dotykowy do sterowania parametrami zabiegu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jak często należy wykonywać konserwację?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zgodnie z instrukcją dostarczonego zestawu i warunkami pracy. Laser Tech Service pomoże ustalić zakres kontroli i przeglądów."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy LTS Market zapewnia wsparcie techniczne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Kupując Alpha Mini w LTS Market, otrzymujesz dostęp do wsparcia serwisowego Laser Tech Service, specjalizującego się w diagnostyce, konserwacji i naprawie urządzeń laserowych. Szczegółowe warunki obsługi gwarancyjnej i pogwarancyjnej są ustalane zgodnie z warunkami zakupu oraz zakresem wymaganych prac."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Kto zajmuje się serwisem Alpha Mini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wsparcie techniczne dla klientów LTS Market zapewnia Laser Tech Service. Zgłoszenie pozwala ustalić diagnostykę i potrzebny zakres prac."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy Laser Tech Service wykonuje naprawy pogwarancyjne?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Możesz zgłosić urządzenie do diagnostyki i uzgodnić naprawę pogwarancyjną. Możliwość wykonania prac, części i koszt są oceniane indywidualnie."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jak zamówić Alpha Mini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wypełnij formularz poniżej, napisz na sales@ltsmarket.pl lub zadzwoń pod +48 575 254 431. Uzgodnimy konfigurację i przygotujemy ofertę."
+              }
+            }
+          ]
         }
       ]
     },
@@ -4421,6 +4453,92 @@
               "position": 3,
               "name": "Alpha",
               "item": "https://ltsmarket.pl/nowe/alpha/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ile kosztuje Alpha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cena Alpha wynosi 60 000–80 000 zł. Ostateczna kwota zależy od konfiguracji i warunków oferty."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jaka jest moc głowicy Alpha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dostępne konfiguracje mają moc głowicy od 1600 do 2000 W."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie jest okno zabiegowe?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Alpha posiada okno zabiegowe o wymiarach 12×20 mm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jak działa chłodzenie TEC?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Chłodzenie TEC wykorzystuje elementy termoelektryczne do zarządzania przepływem ciepła. Alpha jest oferowany z układem TEC 1200 W."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy Alpha ma CRM i Android?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak, funkcje CRM i interfejs Android są wymienione w wyposażeniu urządzenia. Szczegółowy zakres funkcji zależy od wersji oprogramowania."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy Alpha automatycznie dobiera parametry?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Urządzenie oferuje funkcję wspomagającą dobór ustawień. Operator odpowiada za prawidłową kwalifikację klienta i kontrolę parametrów."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy Alpha posiada dermatoskop?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak, wbudowany dermatoskop jest wymieniony w wyposażeniu Alpha."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy otrzymam wsparcie po zakupie?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Kupując Alpha w LTS Market, otrzymujesz wsparcie serwisowe Laser Tech Service."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy możliwy jest leasing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Można omówić finansowanie zakupu zgodnie z warunkami instytucji leasingowej."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jak zamówić Alpha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Skontaktuj się z LTS Market przez formularz, telefon lub e-mail, aby otrzymać indywidualną ofertę."
+              }
             }
           ]
         }
@@ -4509,6 +4627,116 @@
               "item": "https://ltsmarket.pl/nowe/lumos/"
             }
           ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ile kosztuje Lumos?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cena Lumos wynosi od 68 000 do 100 000 zł, w zależności od wybranej konfiguracji i warunków oferty."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie długości fal wykorzystuje Lumos?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lumos wykorzystuje cztery długości fal: 755, 808, 940 i 1064 nm."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jaka jest moc głowicy Lumos?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Urządzenie jest oferowane w konfiguracjach o mocy głowicy od 2000 do 4000 W."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie są parametry impulsów?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Deklarowany zakres energii wynosi 10–240 J, częstotliwość 1–30 Hz, a czas impulsu rozpoczyna się od 5 ms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Co oznacza FAC?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "FAC to technologia optyczna służąca do ograniczania rozbieżności wiązki laserowej w jednej z osi."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czym jest NeoDez?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "NeoDez to dodatkowa technologia związana z higieną głowicy zabiegowej. Nie zastępuje standardowych procedur czyszczenia i dezynfekcji."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy Lumos posiada system chłodzenia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Lumos wykorzystuje system ICE Flow."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy Lumos posiada Android i CRM?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Android i CRM są wymienione w wyposażeniu Lumos. Dokładny zakres funkcji zależy od wersji oprogramowania."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy Lumos posiada dermatoskop?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak, funkcja dermatoskopu jest wymieniona w wyposażeniu urządzenia. Jej zastosowanie powinno odpowiadać instrukcji producenta."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy otrzymam wsparcie serwisowe po zakupie?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Kupując Lumos w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe Laser Tech Service."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy możliwy jest serwis pogwarancyjny?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Laser Tech Service oferuje diagnostykę i naprawy pogwarancyjne. Zakres i koszt prac są ustalane indywidualnie."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy Lumos można kupić w leasingu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Można omówić możliwość finansowania zakupu. Warunki zależą od instytucji finansującej."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jak zamówić Lumos?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Skontaktuj się z LTS Market za pomocą formularza, telefonu lub poczty elektronicznej. Przygotujemy informacje o konfiguracjach i indywidualną ofertę."
+              }
+            }
+          ]
         }
       ]
     },
@@ -4525,7 +4753,7 @@
         "ru": "https://ltsmarket.pl/ru/novye/ray/",
         "x-default": "https://ltsmarket.pl/nowe/ray/"
       },
-      "contentSha256": "718084ef57b047468e7c1280c5507ace6ffa3e63dcbf43961b396046c5e4d97c",
+      "contentSha256": "adeee620429f0defd751f907b6376a581dc9be369f078162db0cb7d43a067c38",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -4595,6 +4823,100 @@
               "item": "https://ltsmarket.pl/nowe/ray/"
             }
           ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ile kosztuje Ray?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cena Ray w LTS Market wynosi 55 000–75 000 zł."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ile końcówek posiada Ray?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ray jest wyposażony w cztery wymienne końcówki zabiegowe."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jaka jest moc głowicy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Deklarowana moc głowicy wynosi 1200 W."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jaka jest energia impulsu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "W katalogu podano 150 J przy czasie impulsu 200 ms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Co oznacza stos diodowy 12 bar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To konstrukcja źródła laserowego złożonego z 12 barów diodowych. Nie jest to wartość ciśnienia."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czym jest technologia FAC?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "FAC to technologia optyczna ograniczająca rozbieżność wiązki laserowej w jednej z osi."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jakie chłodzenie posiada Ray?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ray jest oferowany z układem chłodzenia określanym jako Freon 300 W."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy głowica posiada ekran dotykowy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Dotykowy ekran głowicy jest wymieniony w wyposażeniu Ray."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy otrzymam wsparcie serwisowe?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Kupując Ray w LTS Market, otrzymujesz profesjonalne wsparcie Laser Tech Service."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy Ray można kupić w leasingu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Można omówić finansowanie zakupu zgodnie z warunkami instytucji finansującej."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jak zamówić Ray?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Skontaktuj się z LTS Market przez formularz na stronie, telefonicznie lub e-mailowo."
+              }
+            }
+          ]
         }
       ]
     },
@@ -4627,7 +4949,7 @@
         "ru": "https://ltsmarket.pl/ru/",
         "x-default": "https://ltsmarket.pl/"
       },
-      "contentSha256": "0b217d49a83e73d26a4aae5a5650336bb27395affae166916cb9e102967d04b3",
+      "contentSha256": "75d4f0cda3ba895ce6e6bf982c5de59e15d61b7d3ef37f6335e47d7c0ce8e4d2",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -4671,7 +4993,7 @@
             },
             {
               "@type": "Question",
-              "name": "Можно ли приобрести косметологическое оборудование в <a href=\"/ru/leasing.html\">лизинг</a>?",
+              "name": "Можно ли приобрести косметологическое оборудование в лизинг?",
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Да. LTS Market предлагает возможность приобретения косметологического оборудования в лизинг. Условия финансирования зависят от выбранного аппарата и оценки финансового партнёра."
@@ -5642,221 +5964,6 @@
       ]
     },
     {
-      "url": "https://ltsmarket.pl/ru/blog/page/2/",
-      "markdownUrl": "https://ltsmarket.pl/ru/blog/page/2/index.md",
-      "language": "ru",
-      "type": "main-pages",
-      "title": "Блог LTS Market",
-      "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
-      "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/2/",
-        "en": "https://ltsmarket.pl/en/blog/page/2/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/2/",
-        "x-default": "https://ltsmarket.pl/blog/page/2/"
-      },
-      "contentSha256": "2aacbfa02f38aa5dbb26a2f43b8d86ac3b653d02d66ffaf6dc8837c293a9c07b",
-      "structuredData": [
-        {
-          "@context": "https://schema.org",
-          "@type": "Blog",
-          "@id": "https://ltsmarket.pl/ru/blog/page/2/#blog",
-          "url": "https://ltsmarket.pl/ru/blog/page/2/",
-          "name": "Блог LTS Market",
-          "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
-          "inLanguage": "ru",
-          "publisher": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
-          },
-          "blogPost": [
-            {
-              "@type": "BlogPosting",
-              "headline": "Многоволновые лазеры для эпиляции: физика, эффективность и маркетинговые мифы",
-              "url": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "ТОП-4 профессиональных лазеров для эпиляции в 2026 году",
-              "url": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Alpha или Alpha Mini? Сравниваем два диодных лазера для профессиональной эпиляции",
-              "url": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Дерматоскоп — дополнительный инструмент косметолога. Почему он полезен при лазерной эпиляции?",
-              "url": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/"
-            }
-          ]
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Главная",
-              "item": {
-                "@id": "https://ltsmarket.pl/ru/"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Блог LTS Market",
-              "item": {
-                "@id": "https://ltsmarket.pl/ru/blog/"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "url": "https://ltsmarket.pl/ru/blog/page/3/",
-      "markdownUrl": "https://ltsmarket.pl/ru/blog/page/3/index.md",
-      "language": "ru",
-      "type": "main-pages",
-      "title": "Блог LTS Market",
-      "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
-      "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/3/",
-        "en": "https://ltsmarket.pl/en/blog/page/3/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/3/",
-        "x-default": "https://ltsmarket.pl/blog/page/3/"
-      },
-      "contentSha256": "898c7d7d269d9d782753323cdbae42bdde83184f0c8f13507eada00e19a05ee3",
-      "structuredData": [
-        {
-          "@context": "https://schema.org",
-          "@type": "Blog",
-          "@id": "https://ltsmarket.pl/ru/blog/page/3/#blog",
-          "url": "https://ltsmarket.pl/ru/blog/page/3/",
-          "name": "Блог LTS Market",
-          "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
-          "inLanguage": "ru",
-          "publisher": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
-          },
-          "blogPost": [
-            {
-              "@type": "BlogPosting",
-              "headline": "Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC",
-              "url": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?",
-              "url": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса",
-              "url": "https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Безопасное удаление татуировки лазером Nd:YAG: что важно знать?",
-              "url": "https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/"
-            }
-          ]
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Главная",
-              "item": {
-                "@id": "https://ltsmarket.pl/ru/"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Блог LTS Market",
-              "item": {
-                "@id": "https://ltsmarket.pl/ru/blog/"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "url": "https://ltsmarket.pl/ru/blog/page/4/",
-      "markdownUrl": "https://ltsmarket.pl/ru/blog/page/4/index.md",
-      "language": "ru",
-      "type": "main-pages",
-      "title": "Блог LTS Market",
-      "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
-      "languageAlternates": {
-        "pl": "https://ltsmarket.pl/blog/page/4/",
-        "en": "https://ltsmarket.pl/en/blog/page/4/",
-        "ru": "https://ltsmarket.pl/ru/blog/page/4/",
-        "x-default": "https://ltsmarket.pl/blog/page/4/"
-      },
-      "contentSha256": "0a4caee577887e91175cf717a6d37584cef87dcbaa0fd740a9457590ab0ca188",
-      "structuredData": [
-        {
-          "@context": "https://schema.org",
-          "@type": "Blog",
-          "@id": "https://ltsmarket.pl/ru/blog/page/4/#blog",
-          "url": "https://ltsmarket.pl/ru/blog/page/4/",
-          "name": "Блог LTS Market",
-          "description": "Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.",
-          "inLanguage": "ru",
-          "publisher": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
-          },
-          "blogPost": [
-            {
-              "@type": "BlogPosting",
-              "headline": "Современное моделирование фигуры: сочетание кавитации и RF-лифтинга",
-              "url": "https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Лазерная эпиляция как бизнес: почему стоит запланировать открытие кабинета на осень?",
-              "url": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/"
-            }
-          ]
-        },
-        {
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Главная",
-              "item": {
-                "@id": "https://ltsmarket.pl/ru/"
-              }
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Блог LTS Market",
-              "item": {
-                "@id": "https://ltsmarket.pl/ru/blog/"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "url": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/",
       "markdownUrl": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/index.md",
       "language": "ru",
@@ -5938,7 +6045,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
         "x-default": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
       },
-      "contentSha256": "1c5ca63d9906c27ac48f49f6c000800b9263ceea0536d18ceee9635af2d26f7a",
+      "contentSha256": "e76a9a23117037e5cc112696d8325cc375bfe73ab3b2d86ccea4a358bdd773e0",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6046,8 +6153,8 @@
         {
           "@context": "https://schema.org",
           "@type": "Service",
-          "name": "Leasing urządzeń kosmetycznych",
-          "description": "Indywidualnie dobierane finansowanie profesjonalnych urządzeń dla branży beauty.",
+          "name": "Лизинг и финансирование профессионального косметологического оборудования",
+          "description": "Лизинг и финансирование профессионального косметологического оборудования, включая диодные лазеры и косметологические аппараты. Возможность подачи заявки на финансирование доступна также новым предприятиям. Окончательное решение зависит от индивидуальной оценки финансового партнёра.",
           "provider": {
             "@type": "Organization",
             "name": "LTS Market",
@@ -6144,6 +6251,92 @@
               "item": "https://ltsmarket.pl/ru/novye/alpha-mini/"
             }
           ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Сколько стоит Alpha Mini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Цена составляет 40 000–60 000 zł. Итоговая стоимость зависит от комплектации и согласованных условий продажи."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Подходит ли Alpha Mini для нового салона?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Компактная конструкция может упростить организацию нового рабочего места. Перед покупкой обсудите процедуры, доступное пространство и загрузку аппарата."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Какие длины волн доступны?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Доступны варианты 808 нм, 755 + 808 + 1064 нм и 755 + 808 + 940 + 1064 нм. Конкретную манипулу согласуем в предложении."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Как работает ICE Flow?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Элементы TEC, жидкостный контур и воздух отводят тепло, а сапфировое окно обеспечивает контактное охлаждение. Это не означает полной безболезненности процедуры."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Есть ли у Alpha Mini экран на манипуле?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да. На манипуле Alpha Mini установлен сенсорный экран 2 дюйма для управления параметрами процедуры."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Как часто нужно проводить обслуживание?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Следуйте инструкции поставленного комплекта с учётом условий работы. Laser Tech Service поможет определить необходимый объём проверок и обслуживания."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Предоставляет ли LTS Market техническую поддержку?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да. При покупке Alpha Mini в LTS Market вы получаете доступ к сервисной поддержке Laser Tech Service, специализирующейся на диагностике, обслуживании и ремонте лазерного оборудования. Подробные условия гарантийного и послегарантийного обслуживания определяются условиями покупки и объёмом необходимых работ."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Кто обслуживает Alpha Mini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Техническую поддержку клиентов LTS Market обеспечивает Laser Tech Service. Обращение позволяет согласовать диагностику и необходимый объём работ."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Выполняет ли Laser Tech Service послегарантийный ремонт?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Можно обратиться за диагностикой и согласовать послегарантийный ремонт. Возможность выполнения работ, запчасти и стоимость оцениваются индивидуально."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Как заказать Alpha Mini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Заполните форму ниже, напишите на sales@ltsmarket.pl или позвоните по номеру +48 575 254 431. Мы согласуем комплектацию и подготовим предложение."
+              }
+            }
+          ]
         }
       ]
     },
@@ -6160,7 +6353,7 @@
         "ru": "https://ltsmarket.pl/ru/novye/alpha/",
         "x-default": "https://ltsmarket.pl/nowe/alpha/"
       },
-      "contentSha256": "01793e2e25c80c91862dbe4e529cd3c2eeebc14b729081da2e3197c53af5d21c",
+      "contentSha256": "a5d8e29e00f3f8d3e6cb5b7cc7e86abfb9dbc1b3a57fa47320d5cfaf2c1edccf",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6230,6 +6423,92 @@
               "item": "https://ltsmarket.pl/ru/novye/alpha/"
             }
           ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Сколько стоит Alpha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Цена составляет 60 000–80 000 zł и зависит от комплектации."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Какая мощность манипулы?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "От 1600 до 2000 Вт в зависимости от версии."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Какой размер рабочего окна?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "12×20 мм."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Какое охлаждение используется?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Система TEC с заявленной мощностью 1200 Вт."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Есть ли Android и CRM?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да, эти функции указаны в оснащении Alpha. Их возможности зависят от программного обеспечения."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Есть ли автоматический подбор параметров?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да, предусмотрена функция помощи при выборе настроек. Оператор обязан контролировать параметры процедуры."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Есть ли встроенный дерматоскоп?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да, дерматоскоп указан в оснащении аппарата."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Предоставляется ли сервис после покупки?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да. Покупатели Alpha в LTS Market получают поддержку Laser Tech Service."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Можно ли приобрести Alpha в лизинг?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Возможность финансирования можно обсудить с LTS Market."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Как заказать Alpha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Свяжитесь с LTS Market через форму на сайте, по телефону или электронной почте."
+              }
+            }
+          ]
         }
       ]
     },
@@ -6246,7 +6525,7 @@
         "ru": "https://ltsmarket.pl/ru/novye/lumos/",
         "x-default": "https://ltsmarket.pl/nowe/lumos/"
       },
-      "contentSha256": "1e50441277bb4711fc030580cdc3ad494b203bb5f0188b8d33973949bf732093",
+      "contentSha256": "9b2f6a4a3447412bb3d6cdd5737d6d44e5673b4c43e4af01b9c56243e1342ebf",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6316,6 +6595,116 @@
               "item": "https://ltsmarket.pl/ru/novye/lumos/"
             }
           ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Сколько стоит Lumos?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Стоимость Lumos составляет от 68 000 до 100 000 zł в зависимости от комплектации и условий предложения."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Какие длины волн использует Lumos?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lumos объединяет четыре длины волны: 755, 808, 940 и 1064 нм."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Какая мощность манипулы?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lumos предлагается в конфигурациях с мощностью манипулы от 2000 до 4000 Вт."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Какие параметры импульсов доступны?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Заявленный диапазон энергии составляет 10–240 Дж, частота — 1–30 Гц, длительность импульса начинается от 5 мс."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Что означает FAC?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "FAC — оптическая технология для уменьшения расходимости лазерного излучения по одной из осей."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Что такое NeoDez?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "NeoDez — дополнительная технология, связанная с гигиеной манипулы. Она не заменяет стандартные процедуры очистки и дезинфекции."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Есть ли у Lumos охлаждение?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да. Lumos использует систему охлаждения ICE Flow."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Есть ли Android и CRM?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Android и CRM указаны среди функций Lumos. Точный перечень возможностей зависит от версии программного обеспечения."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Есть ли в Lumos дерматоскоп?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Функция дерматоскопа заявлена в оснащении аппарата и должна использоваться согласно инструкции производителя."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Предоставляется ли сервисная поддержка после покупки?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да. При покупке Lumos в LTS Market клиент получает профессиональную сервисную поддержку Laser Tech Service."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Доступен ли послегарантийный ремонт?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да. Laser Tech Service предоставляет услуги послегарантийной диагностики и ремонта. Стоимость определяется индивидуально."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Можно ли приобрести Lumos в лизинг?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Возможность финансирования можно обсудить с LTS Market. Условия зависят от финансовой организации."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Как заказать Lumos?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Свяжитесь с LTS Market через форму на сайте, по телефону или электронной почте, чтобы получить индивидуальное предложение."
+              }
+            }
+          ]
         }
       ]
     },
@@ -6332,7 +6721,7 @@
         "ru": "https://ltsmarket.pl/ru/novye/ray/",
         "x-default": "https://ltsmarket.pl/nowe/ray/"
       },
-      "contentSha256": "842f1e6e96351d6915c37f0eb7b2eefc64c9557997c31dca33dcc6267ef6ddb6",
+      "contentSha256": "82584bf0d3458578ebdce03a43d20660fdcd9755deb857ef189a5c3649ec83fb",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6400,6 +6789,100 @@
               "position": 3,
               "name": "Ray",
               "item": "https://ltsmarket.pl/ru/novye/ray/"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Сколько стоит Ray?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Цена Ray в LTS Market составляет 55 000–75 000 zł."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Сколько сменных насадок у Ray?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ray оснащён четырьмя сменными насадками."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Какая мощность манипулы?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1200 Вт."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Какая энергия импульса?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Заявлено 150 Дж при длительности импульса 200 мс."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Что означает диодная сборка 12 bar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Это сборка из 12 лазерных баров. Речь не идёт о давлении."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Что такое FAC?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "FAC — оптическая технология уменьшения расходимости лазерного излучения."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Какое охлаждение используется?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ray предлагается с системой Freon 300 Вт."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Есть ли экран на манипуле?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да, предусмотрен сенсорный экран."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Предоставляется ли сервисная поддержка?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да. При покупке Ray в LTS Market клиент получает поддержку Laser Tech Service."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Можно ли приобрести Ray в лизинг?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Возможность финансирования можно обсудить с LTS Market."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Как заказать Ray?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Свяжитесь с LTS Market через форму на сайте, по телефону или электронной почте."
+              }
             }
           ]
         }
@@ -7968,7 +8451,7 @@
       },
       "sourceUrl": "https://ltsmarket.pl/en/new/ray/",
       "markdownUrl": "https://ltsmarket.pl/en/new/ray/index.md",
-      "pageText": "**PROFESSIONAL COMPACT DIODE LASER**\n\nProfessional diode laser with a 1200 W handpiece, four interchangeable treatment tips, FAC optical technology, a handpiece touchscreen and Freon 300 W cooling.\n\n**PLN 55,000–75,000**\n\n**Buy Ray from LTS Market and receive professional [Laser Tech Service](https://lasertechservice.pl/) support.**\n\nNew equipment: 14–30 business days.\nFree delivery for orders of PLN 35,000 or more.\nDelivery within Poland: PLN 700 for orders below PLN 35,000.\n\n![Ray diode laser with control panel and handpiece](https://ltsmarket.pl/assets/img/nowe/ray.webp)\n\n## Ray — Flexible Operation Across Different Treatment Areas\n\nLaser hair removal procedures involve working on both large body areas and smaller zones where precise handpiece positioning is important.\n\nRay is a professional diode laser equipped with four interchangeable treatment tips, allowing operators to adapt the handpiece to different treatment areas within the device's intended use.\n\nIts 1200 W handpiece, stated energy of 150 J at 200 ms, FAC optical technology and integrated touchscreen provide a combination of features designed for professional clinic operation.\n\nRay is worth considering for salons that value handpiece ergonomics and flexible treatment-area handling.\n\n## Ray Features\n\n### Four Interchangeable Tips for Flexible Treatments\n\nRay features four interchangeable treatment tips.\n\n### 1200 W Handpiece and 150 J Energy\n\nRay features a handpiece rated at 1200 W, with stated energy of 150 J at a pulse duration of 200 ms.\n\n### Ergonomic Handpiece with Touchscreen\n\nRay combines an ergonomic handpiece design with an integrated touchscreen.\n\n## Four Interchangeable Tips for Flexible Treatments\n\nRay features four interchangeable treatment tips.\n\nThe size and shape of a treatment window influence how the handpiece is positioned and moved across different areas of the body.\n\nHaving interchangeable tips allows operators to adapt their working approach to the treatment zone.\n\nThe exact dimensions and intended use of each tip should be confirmed in the device documentation.\n\n## 1200 W Handpiece and 150 J Energy\n\nRay features a handpiece rated at 1200 W, with stated energy of 150 J at a pulse duration of 200 ms.\n\nWhen choosing a professional diode laser, it is important to consider not only output power but also optics, cooling, energy delivery and handpiece ergonomics.\n\nTreatment parameters must be selected according to the manufacturer's instructions and professional client assessment.\n\n## 12-Bar Diode Stack\n\nRay uses a diode stack consisting of 12 laser bars.\n\nA laser bar is a semiconductor component containing laser emitters. Multiple bars form part of the light-generating system inside the handpiece.\n\nCorrect electrical control, cooling and component condition are essential for proper operation.\n\nThe number of laser bars should not be treated as a direct measure of treatment effectiveness.\n\n## FAC Optical Technology\n\nRay incorporates Fast Axis Collimation, an optical technique used to reduce laser beam divergence along the fast axis.\n\nThe optical system helps shape and direct the emission generated by the diode stack.\n\nMaintaining the optical components in suitable condition is an important part of professional equipment care.\n\n## Freon 300 W Cooling\n\nRay is listed with a cooling system described as Freon 300 W.\n\nThe cooling system supports suitable operating conditions for the equipment's components.\n\nRefrigeration systems require correct maintenance, including attention to system integrity, heat exchange and component condition.\n\nThe exact refrigerant and cooling-system design should be confirmed in the documentation for the supplied device.\n\n## Ergonomic Handpiece with Touchscreen\n\nRay combines an ergonomic handpiece design with an integrated touchscreen.\n\nThe display provides access to the handpiece control functions supported by the device.\n\nInterchangeable tips help operators adapt the handpiece to different treatment zones.\n\nThese features are particularly relevant to clinics performing treatments across various body areas.\n\n## Who Is Ray Designed For?\n\n### Beauty Salons\n\nFor businesses introducing or expanding professional laser hair removal services.\n\n### Clinics Treating Different Body Areas\n\nFor operators who value the flexibility of interchangeable handpiece tips.\n\n### Specialist Hair Removal Studios\n\nFor studios seeking convenient handpiece operation and access to professional technical support.\n\n## Ray Specifications\n\n| Parameter | Value |\n| --- | --- |\n| Model | Ray |\n| Type | Professional diode laser |\n| Positioning | Compact |\n| Price | PLN 55,000–75,000 |\n| Handpiece power | 1200 W |\n| Energy / pulse duration | 150 J / 200 ms |\n| Cooling | Freon 300 W |\n| Optics | FAC |\n| Tips | 4 interchangeable |\n| Diode stack | 12 laser bars (not pressure) |\n| Handpiece | Ergonomic, with touchscreen |\n\n## Ray Gallery\n\nRay diode laser with control panel and handpiece\n\n## Buy Ray. Receive Professional Laser Tech Service Support.\n\nProfessional diode lasers require correct operation and regular attention to the handpiece, cooling system, electronics and electrical connections.\n\nWhen you purchase Ray from LTS Market, you receive professional service support from [Laser Tech Service](https://lasertechservice.pl/).\n\n[Laser Tech Service](https://lasertechservice.pl/) specialises in laser diagnostics, maintenance, repairs, cooling-system servicing and handpiece restoration.\n\nThis provides access to qualified technical specialists when equipment-related questions or faults arise.\n\n**LTS Market supplies professional equipment. [Laser Tech Service](https://lasertechservice.pl/) provides technical support after purchase.**\n\nWarranty and post-warranty services depend on the purchase agreement and agreed service conditions.\n\n## Ray Price and Financing Options\n\nRay is listed at PLN 55,000–75,000.\n\nIts key features include a 1200 W handpiece, four interchangeable tips, FAC optics, a touchscreen and Freon 300 W cooling.\n\nLTS Market can prepare an individual quotation and discuss leasing options, subject to the financing provider's terms.\n\nPurchasing Ray from LTS Market also provides access to professional [Laser Tech Service](https://lasertechservice.pl/) support.\n\n## Frequently Asked Questions\n\n### How much does Ray cost?\n\nRay is listed at PLN 55,000–75,000.\n\n### How many interchangeable tips does Ray have?\n\nRay is equipped with four interchangeable treatment tips.\n\n### What is the handpiece power?\n\nThe stated handpiece power is 1200 W.\n\n### What is the pulse energy?\n\nThe listed value is 150 J at a 200 ms pulse duration.\n\n### What does a 12-bar diode stack mean?\n\nIt refers to a laser source constructed using 12 diode bars, not a pressure rating.\n\n### What is FAC?\n\nFAC stands for Fast Axis Collimation, an optical technique used to reduce beam divergence.\n\n### What cooling system does Ray use?\n\nRay is listed with Freon 300 W cooling.\n\n### Does the handpiece have a touchscreen?\n\nYes. A handpiece touchscreen is listed among Ray's features.\n\n### Is after-sales technical support available?\n\nYes. Ray customers purchasing through LTS Market receive [Laser Tech Service](https://lasertechservice.pl/) support.\n\n### Can Ray be financed through leasing?\n\nFinancing options can be discussed, subject to the provider's terms.\n\n### How do I order Ray?\n\nContact LTS Market through the website form, by phone or by email.\n\n**Buy Ray from LTS Market and receive professional [Laser Tech Service](https://lasertechservice.pl/) support.**\n\n## Ask about Ray\n\nDescribe your clinic’s needs. We will discuss the configuration, price, availability and service support terms.\n\n[+48 575 254 431](tel:+48575254431)\n[sales@ltsmarket.pl](mailto:sales@ltsmarket.pl)"
+      "pageText": "**PROFESSIONAL COMPACT DIODE LASER**\n\nProfessional diode laser with a 1200 W handpiece, four interchangeable treatment tips, FAC optical technology, a handpiece touchscreen and Freon 300 W cooling.\n\n**PLN 55,000–75,000**\n\n**Buy Ray from LTS Market and receive professional [Laser Tech Service](https://lasertechservice.pl/) support.**\n\nNew equipment: 14–30 business days.\nFree delivery for orders of PLN 35,000 or more.\nDelivery within Poland: PLN 700 for orders below PLN 35,000.\n\n![Ray diode laser with control panel and handpiece](https://ltsmarket.pl/assets/img/nowe/ray.webp)\n\n## Ray — Flexible Operation Across Different Treatment Areas\n\nLaser hair removal procedures involve working on both large body areas and smaller zones where precise handpiece positioning is important.\n\nRay is a professional diode laser equipped with four interchangeable treatment tips, allowing operators to adapt the handpiece to different treatment areas within the device's intended use.\n\nIts 1200 W handpiece, stated energy of 150 J at 200 ms, FAC optical technology and integrated touchscreen provide a combination of features designed for professional clinic operation.\n\nRay is worth considering for salons that value handpiece ergonomics and flexible treatment-area handling.\n\n## Ray Features\n\n### Four Interchangeable Tips for Flexible Treatments\n\nRay features four interchangeable treatment tips.\n\n### 1200 W Handpiece and 150 J Energy\n\nRay features a handpiece rated at 1200 W, with stated energy of 150 J at a pulse duration of 200 ms.\n\n### Ergonomic Handpiece with Touchscreen\n\nRay combines an ergonomic handpiece design with an integrated touchscreen.\n\n## Four Interchangeable Tips for Flexible Treatments\n\nRay features four interchangeable treatment tips.\n\nThe size and shape of a treatment window influence how the handpiece is positioned and moved across different areas of the body.\n\nHaving interchangeable tips allows operators to adapt their working approach to the treatment zone.\n\nThe exact dimensions and intended use of each tip should be confirmed in the device documentation.\n\n## 1200 W Handpiece and 150 J Energy\n\nRay features a handpiece rated at 1200 W, with stated energy of 150 J at a pulse duration of 200 ms.\n\nWhen choosing a professional diode laser, it is important to consider not only output power but also optics, cooling, energy delivery and handpiece ergonomics.\n\nTreatment parameters must be selected according to the manufacturer's instructions and professional client assessment.\n\n## 12-Bar Diode Stack\n\nRay uses a diode stack consisting of 12 laser bars.\n\nA laser bar is a semiconductor component containing laser emitters. Multiple bars form part of the light-generating system inside the handpiece.\n\nCorrect electrical control, cooling and component condition are essential for proper operation.\n\nThe number of laser bars should not be treated as a direct measure of treatment effectiveness.\n\n## FAC Optical Technology\n\nRay incorporates Fast Axis Collimation, an optical technique used to reduce laser beam divergence along the fast axis.\n\nThe optical system helps shape and direct the emission generated by the diode stack.\n\nMaintaining the optical components in suitable condition is an important part of professional equipment care.\n\n## Freon 300 W Cooling\n\nRay is listed with a cooling system described as Freon 300 W.\n\nThe cooling system supports suitable operating conditions for the equipment's components.\n\nRefrigeration systems require correct maintenance, including attention to system integrity, heat exchange and component condition.\n\nThe exact refrigerant and cooling-system design should be confirmed in the documentation for the supplied device.\n\n## Ergonomic Handpiece with Touchscreen\n\nRay combines an ergonomic handpiece design with an integrated touchscreen.\n\nThe display provides access to the handpiece control functions supported by the device.\n\nInterchangeable tips help operators adapt the handpiece to different treatment zones.\n\nThese features are particularly relevant to clinics performing treatments across various body areas.\n\n## Who Is Ray Designed For?\n\n### Beauty Salons\n\nFor businesses introducing or expanding professional laser hair removal services.\n\n### Clinics Treating Different Body Areas\n\nFor operators who value the flexibility of interchangeable handpiece tips.\n\n### Specialist Hair Removal Studios\n\nFor studios seeking convenient handpiece operation and access to professional technical support.\n\n## Ray Specifications\n\n| Parameter | Value |\n| --- | --- |\n| Model | Ray |\n| Type | Professional diode laser |\n| Positioning | Compact |\n| Price | PLN 55,000–75,000 |\n| Handpiece power | 1200 W |\n| Energy / pulse duration | 150 J / 200 ms |\n| Cooling | Freon 300 W |\n| Optics | FAC |\n| Tips | 4 interchangeable |\n| Diode stack | 12 laser bars |\n| Handpiece | Ergonomic, with touchscreen |\n\n## Ray Gallery\n\nRay diode laser with control panel and handpiece\n\n## Buy Ray. Receive Professional Laser Tech Service Support.\n\nProfessional diode lasers require correct operation and regular attention to the handpiece, cooling system, electronics and electrical connections.\n\nWhen you purchase Ray from LTS Market, you receive professional service support from [Laser Tech Service](https://lasertechservice.pl/).\n\n[Laser Tech Service](https://lasertechservice.pl/) specialises in laser diagnostics, maintenance, repairs, cooling-system servicing and handpiece restoration.\n\nThis provides access to qualified technical specialists when equipment-related questions or faults arise.\n\n**LTS Market supplies professional equipment. [Laser Tech Service](https://lasertechservice.pl/) provides technical support after purchase.**\n\nWarranty and post-warranty services depend on the purchase agreement and agreed service conditions.\n\n## Ray Price and Financing Options\n\nRay is listed at PLN 55,000–75,000.\n\nIts key features include a 1200 W handpiece, four interchangeable tips, FAC optics, a touchscreen and Freon 300 W cooling.\n\nLTS Market can prepare an individual quotation and discuss leasing options, subject to the financing provider's terms.\n\nPurchasing Ray from LTS Market also provides access to professional [Laser Tech Service](https://lasertechservice.pl/) support.\n\n## Frequently Asked Questions\n\n### How much does Ray cost?\n\nRay is listed at PLN 55,000–75,000.\n\n### How many interchangeable tips does Ray have?\n\nRay is equipped with four interchangeable treatment tips.\n\n### What is the handpiece power?\n\nThe stated handpiece power is 1200 W.\n\n### What is the pulse energy?\n\nThe listed value is 150 J at a 200 ms pulse duration.\n\n### What does a 12-bar diode stack mean?\n\nIt refers to a laser source constructed using 12 diode bars, not a pressure rating.\n\n### What is FAC?\n\nFAC stands for Fast Axis Collimation, an optical technique used to reduce beam divergence.\n\n### What cooling system does Ray use?\n\nRay is listed with Freon 300 W cooling.\n\n### Does the handpiece have a touchscreen?\n\nYes. A handpiece touchscreen is listed among Ray's features.\n\n### Is after-sales technical support available?\n\nYes. Ray customers purchasing through LTS Market receive [Laser Tech Service](https://lasertechservice.pl/) support.\n\n### Can Ray be financed through leasing?\n\nFinancing options can be discussed, subject to the provider's terms.\n\n### How do I order Ray?\n\nContact LTS Market through the website form, by phone or by email.\n\n**Buy Ray from LTS Market and receive professional [Laser Tech Service](https://lasertechservice.pl/) support.**\n\n## Ask about Ray\n\nDescribe your clinic’s needs. We will discuss the configuration, price, availability and service support terms.\n\n[+48 575 254 431](tel:+48575254431)\n[sales@ltsmarket.pl](mailto:sales@ltsmarket.pl)"
     },
     {
       "language": "en",
@@ -8044,7 +8527,7 @@
       },
       "sourceUrl": "https://ltsmarket.pl/en/uzywane/3d-contour.html",
       "markdownUrl": "https://ltsmarket.pl/en/uzywane/3d-contour.md",
-      "pageText": "![3D CONTOUR — photo 1](https://ltsmarket.pl/assets/img/uzywane/3d-contour/3d-contour-01.webp)\n\nBODY CONTOURING\n\n12 000 zł\n\nMultifunctional 3D CONTOUR body-contouring system with cryolipolysis, lipolaser and vacuum massage. Manufactured in 2022. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.\n\nUsed equipment: 3–7 business days.\nFree delivery for orders of PLN 35,000 or more.\nDelivery within Poland: PLN 700 for orders below PLN 35,000.\n\n- Year of manufacture: 2022\n\n- Condition: Operational\n\n- Service: Serviced by Laser Tech Service\n\nPlease confirm price and availability when contacting us.",
+      "pageText": "![3D CONTOUR — photo 1](https://ltsmarket.pl/assets/img/uzywane/3d-contour/3d-contour-01.webp)\n\nBODY CONTOURING\n\nPLN 12,000\n\nMultifunctional 3D CONTOUR body-contouring system with cryolipolysis, lipolaser and vacuum massage. Manufactured in 2022. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.\n\nUsed equipment: 3–7 business days.\nFree delivery for orders of PLN 35,000 or more.\nDelivery within Poland: PLN 700 for orders below PLN 35,000.\n\n- Year of manufacture: 2022\n\n- Condition: Operational\n\n- Service: Serviced by Laser Tech Service\n\nPlease confirm price and availability when contacting us.",
       "position": 2
     },
     {
@@ -8120,7 +8603,7 @@
       },
       "sourceUrl": "https://ltsmarket.pl/en/uzywane/daeyang-carbo-3000.html",
       "markdownUrl": "https://ltsmarket.pl/en/uzywane/daeyang-carbo-3000.md",
-      "pageText": "![DaeYang CARBO 3000 — photo 1](https://ltsmarket.pl/assets/img/uzywane/daeyang-carbo-3000/daeyang-carbo-3000-01.webp)\n\nOTHER\n\n5 000 zł\n\nPre-owned DaeYang CARBO 3000 CO₂ insufflator. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.\n\nUsed equipment: 3–7 business days.\nFree delivery for orders of PLN 35,000 or more.\nDelivery within Poland: PLN 700 for orders below PLN 35,000.\n\n- Year of manufacture: Not specified\n\n- Condition: Operational\n\n- Service: Serviced by Laser Tech Service\n\nPlease confirm price and availability when contacting us.",
+      "pageText": "![DaeYang CARBO 3000 — photo 1](https://ltsmarket.pl/assets/img/uzywane/daeyang-carbo-3000/daeyang-carbo-3000-01.webp)\n\nOTHER\n\nPLN 5,000\n\nPre-owned DaeYang CARBO 3000 CO₂ insufflator. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.\n\nUsed equipment: 3–7 business days.\nFree delivery for orders of PLN 35,000 or more.\nDelivery within Poland: PLN 700 for orders below PLN 35,000.\n\n- Year of manufacture: Not specified\n\n- Condition: Operational\n\n- Service: Serviced by Laser Tech Service\n\nPlease confirm price and availability when contacting us.",
       "position": 5
     },
     {
@@ -8196,7 +8679,7 @@
       },
       "sourceUrl": "https://ltsmarket.pl/en/uzywane/ellisys-plus.html",
       "markdownUrl": "https://ltsmarket.pl/en/uzywane/ellisys-plus.md",
-      "pageText": "![Chungwoo ELLISYS PLUS — photo 1](https://ltsmarket.pl/assets/img/uzywane/ellisys-plus/ellisys-plus-01.webp)\n\nRF\n\n30 000 zł\n\nProfessional Chungwoo ELLISYS PLUS microneedling RF system from 2024. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.\n\nUsed equipment: 3–7 business days.\nFree delivery for orders of PLN 35,000 or more.\nDelivery within Poland: PLN 700 for orders below PLN 35,000.\n\n- Year of manufacture: 2024\n\n- Condition: Operational\n\n- Service: Serviced by Laser Tech Service\n\nPlease confirm price and availability when contacting us.",
+      "pageText": "![Chungwoo ELLISYS PLUS — photo 1](https://ltsmarket.pl/assets/img/uzywane/ellisys-plus/ellisys-plus-01.webp)\n\nRF\n\nPLN 30,000\n\nProfessional Chungwoo ELLISYS PLUS microneedling RF system from 2024. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.\n\nUsed equipment: 3–7 business days.\nFree delivery for orders of PLN 35,000 or more.\nDelivery within Poland: PLN 700 for orders below PLN 35,000.\n\n- Year of manufacture: 2024\n\n- Condition: Operational\n\n- Service: Serviced by Laser Tech Service\n\nPlease confirm price and availability when contacting us.",
       "position": 4
     },
     {
@@ -8375,7 +8858,7 @@
       },
       "sourceUrl": "https://ltsmarket.pl/en/uzywane/medilase-pro.html",
       "markdownUrl": "https://ltsmarket.pl/en/uzywane/medilase-pro.md",
-      "pageText": "![MEDILASE PRO — photo 1](https://ltsmarket.pl/assets/img/uzywane/medilase-pro/medilase-pro-01.webp)\n\nDIODE LASER\n\n35 000 zł\n\nProfessional MEDILASE PRO diode laser from 2021. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.\n\nUsed equipment: 3–7 business days.\nFree delivery for orders of PLN 35,000 or more.\nDelivery within Poland: PLN 700 for orders below PLN 35,000.\n\n- Year of manufacture: 2021\n\n- Condition: Operational\n\n- Service: Serviced by Laser Tech Service\n\nPlease confirm price and availability when contacting us.",
+      "pageText": "![MEDILASE PRO — photo 1](https://ltsmarket.pl/assets/img/uzywane/medilase-pro/medilase-pro-01.webp)\n\nDIODE LASER\n\nPLN 35,000\n\nProfessional MEDILASE PRO diode laser from 2021. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.\n\nUsed equipment: 3–7 business days.\nFree delivery for orders of PLN 35,000 or more.\nDelivery within Poland: PLN 700 for orders below PLN 35,000.\n\n- Year of manufacture: 2021\n\n- Condition: Operational\n\n- Service: Serviced by Laser Tech Service\n\nPlease confirm price and availability when contacting us.",
       "position": 3
     },
     {
@@ -8580,7 +9063,7 @@
       },
       "sourceUrl": "https://ltsmarket.pl/nowe/ray/",
       "markdownUrl": "https://ltsmarket.pl/nowe/ray/index.md",
-      "pageText": "**PROFESJONALNY LASER DIODOWY — COMPACT**\n\nProfesjonalny laser diodowy o mocy głowicy 1200 W, wyposażony w cztery wymienne końcówki, technologię FAC, dotykowy ekran głowicy oraz system chłodzenia Freon 300 W.\n\n**55 000–75 000 zł**\n\n**Kupując Ray w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**\n\nUrządzenia nowe: 14–30 dni roboczych.\nDarmowa dostawa od 35 000 zł.\nDostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.\n\n![Ray — laser diodowy z panelem sterowania i głowicą](https://ltsmarket.pl/assets/img/nowe/ray.webp)\n\n## Ray — wygodna praca na różnych obszarach ciała\n\nPodczas depilacji laserowej operator pracuje zarówno na większych powierzchniach ciała, jak i w miejscach wymagających większej precyzji prowadzenia głowicy. Dlatego konstrukcja manipuły i możliwość dostosowania końcówki zabiegowej mają duże znaczenie.\n\nRay to profesjonalny laser diodowy wyposażony w cztery wymienne końcówki. Takie rozwiązanie pozwala dostosować sposób pracy do różnych obszarów zabiegowych, zgodnie z możliwościami wybranej końcówki.\n\nGłowica o mocy 1200 W, deklarowana energia 150 J przy 200 ms, technologia optyczna FAC i dotykowy ekran manipuły tworzą zestaw funkcji przeznaczonych do codziennej pracy gabinetowej.\n\nRay jest propozycją dla salonów, które zwracają szczególną uwagę na ergonomię i elastyczność pracy z głowicą.\n\n## Możliwości Ray\n\n### Cztery wymienne końcówki — jedna głowica, różne obszary zabiegowe\n\nJedną z głównych cech Ray są cztery wymienne końcówki zabiegowe.\n\n### Głowica 1200 W i energia 150 J\n\nRay jest wyposażony w głowicę o deklarowanej mocy 1200 W. Energia została określona jako 150 J przy czasie impulsu 200 ms.\n\n### Ergonomiczna głowica z ekranem dotykowym\n\nRay posiada głowicę zaprojektowaną z myślą o wygodnej pracy operatora.\n\n## Cztery wymienne końcówki — jedna głowica, różne obszary zabiegowe\n\nJedną z głównych cech Ray są cztery wymienne końcówki zabiegowe.\n\nW profesjonalnej depilacji laserowej wielkość i kształt pola zabiegowego wpływają na sposób prowadzenia głowicy. Większe powierzchnie ciała wymagają innej organizacji pracy niż niewielkie lub trudno dostępne obszary.\n\nMożliwość wymiany końcówek daje operatorowi większą elastyczność podczas planowania procedury.\n\nKonkretne rozmiary końcówek i ich przeznaczenie należy dobrać zgodnie z dokumentacją urządzenia.\n\n## Głowica 1200 W i energia 150 J\n\nRay jest wyposażony w głowicę o deklarowanej mocy 1200 W. Energia została określona jako 150 J przy czasie impulsu 200 ms.\n\nPodczas wyboru lasera warto zwracać uwagę nie tylko na moc, ale również na sposób dostarczania energii, optykę, chłodzenie oraz ergonomię głowicy.\n\nOdpowiednie parametry zabiegowe powinny być zawsze dobierane zgodnie z instrukcją producenta i kwalifikacją klienta.\n\n## Stos diodowy 12 bar — konstrukcja źródła laserowego\n\nRay wykorzystuje stos diodowy złożony z 12 barów laserowych.\n\nBar laserowy to element półprzewodnikowy zawierający emitery światła laserowego. Zestaw takich elementów tworzy źródło promieniowania wykorzystywane w głowicy.\n\nWłaściwe chłodzenie, sterowanie prądem i stan połączeń elektrycznych mają znaczenie dla prawidłowego działania układu diodowego.\n\nLiczba barów nie powinna być traktowana jako samodzielny wskaźnik skuteczności zabiegowej urządzenia.\n\n## Technologia FAC — optyka profesjonalnego lasera\n\nRay wykorzystuje technologię FAC, czyli Fast Axis Collimation.\n\nRozwiązanie to pomaga ograniczać rozbieżność wiązki laserowej w jednej z osi, co jest istotnym elementem konstrukcji optycznej laserów diodowych.\n\nOptyka współpracuje z układem diodowym i pozostałymi elementami głowicy, dlatego jej stan techniczny ma znaczenie dla prawidłowego funkcjonowania urządzenia.\n\n## Chłodzenie Freon 300 W\n\nRay jest oferowany z systemem chłodzenia określanym jako Freon 300 W.\n\nChłodzenie ma za zadanie wspierać utrzymywanie odpowiednich warunków pracy elementów urządzenia.\n\nUkłady chłodnicze wymagają prawidłowej eksploatacji i okresowej kontroli technicznej. Szczelność instalacji, stan podzespołów oraz sprawność wymiany ciepła wpływają na niezawodność urządzenia.\n\nSzczegółowe informacje dotyczące czynnika chłodniczego i konstrukcji systemu należy potwierdzić w dokumentacji konkretnego modelu.\n\n## Ergonomiczna głowica z ekranem dotykowym\n\nRay posiada głowicę zaprojektowaną z myślą o wygodnej pracy operatora.\n\nDotykowy ekran umieszczony na manipule zapewnia dostęp do funkcji sterowania przewidzianych przez producenta.\n\nWymienne końcówki umożliwiają dostosowanie głowicy do różnych obszarów zabiegowych, a ergonomiczna konstrukcja wspiera jej prowadzenie podczas pracy.\n\nTo rozwiązanie szczególnie interesujące dla gabinetów, w których wykonuje się zabiegi na różnych partiach ciała.\n\n## Dla kogo przeznaczony jest Ray?\n\n### Salony kosmetyczne\n\nRay jest propozycją dla salonów planujących wprowadzenie lub rozwój usług depilacji laserowej.\n\n### Gabinety pracujące na różnych obszarach ciała\n\nCztery wymienne końcówki dają możliwość dostosowania sposobu prowadzenia głowicy do różnych obszarów zabiegowych.\n\n### Studia depilacji laserowej\n\nDla specjalistycznych studiów ważne są ergonomia manipuły, wygodne sterowanie i możliwość skorzystania z profesjonalnego serwisu.\n\n## Specyfikacja Ray\n\n| Parametr | Wartość |\n| --- | --- |\n| Model | Ray |\n| Typ | Profesjonalny laser diodowy |\n| Pozycjonowanie | Compact |\n| Cena | 55 000–75 000 zł |\n| Moc głowicy | 1200 W |\n| Energia / czas impulsu | 150 J / 200 ms |\n| Chłodzenie | Freon 300 W |\n| Optyka | FAC |\n| Końcówki | 4 wymienne |\n| Stos diodowy | 12 barów laserowych (nie ciśnienie) |\n| Głowica | Ergonomiczna, z ekranem dotykowym |\n\n## Galeria Ray\n\nRay — laser diodowy z panelem sterowania i głowicą\n\n## Kupujesz Ray. Otrzymujesz wsparcie serwisowe Laser Tech Service.\n\nW profesjonalnym laserze diodowym szczególnie ważne są stan głowicy, układu chłodzenia, elektroniki oraz połączeń elektrycznych.\n\nDlatego zakup Ray w LTS Market oznacza nie tylko otrzymanie urządzenia, ale również dostęp do profesjonalnego wsparcia serwisowego [Laser Tech Service](https://lasertechservice.pl/).\n\n[Laser Tech Service](https://lasertechservice.pl/) zajmuje się diagnostyką, konserwacją i naprawą laserów diodowych, regeneracją manipuł oraz obsługą układów chłodzenia.\n\nW razie problemów technicznych możesz skorzystać z wiedzy specjalistów, którzy na co dzień zajmują się serwisem laserów i naprawą laserów kosmetologicznych.\n\n**LTS Market sprzedaje profesjonalne urządzenia. [Laser Tech Service](https://lasertechservice.pl/) zapewnia wsparcie techniczne po zakupie.**\n\nZakres i koszt napraw, części oraz usług gwarancyjnych i pogwarancyjnych określają warunki zakupu i uzgodnienia serwisowe.\n\n## Ile kosztuje laser Ray?\n\nCena Ray w LTS Market wynosi 55 000–75 000 zł.\n\nUrządzenie oferuje głowicę 1200 W, cztery wymienne końcówki, technologię FAC, dotykowy ekran manipuły oraz chłodzenie Freon 300 W.\n\nLTS Market przygotowuje indywidualne oferty zakupu i umożliwia omówienie finansowania w formie leasingu.\n\nKupując Ray u nas, otrzymujesz również profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).\n\n## Najczęstsze pytania\n\n### Ile kosztuje Ray?\n\nCena Ray w LTS Market wynosi 55 000–75 000 zł.\n\n### Ile końcówek posiada Ray?\n\nRay jest wyposażony w cztery wymienne końcówki zabiegowe.\n\n### Jaka jest moc głowicy?\n\nDeklarowana moc głowicy wynosi 1200 W.\n\n### Jaka jest energia impulsu?\n\nW katalogu podano 150 J przy czasie impulsu 200 ms.\n\n### Co oznacza stos diodowy 12 bar?\n\nTo konstrukcja źródła laserowego złożonego z 12 barów diodowych. Nie jest to wartość ciśnienia.\n\n### Czym jest technologia FAC?\n\nFAC to technologia optyczna ograniczająca rozbieżność wiązki laserowej w jednej z osi.\n\n### Jakie chłodzenie posiada Ray?\n\nRay jest oferowany z układem chłodzenia określanym jako Freon 300 W.\n\n### Czy głowica posiada ekran dotykowy?\n\nTak. Dotykowy ekran głowicy jest wymieniony w wyposażeniu Ray.\n\n### Czy otrzymam wsparcie serwisowe?\n\nTak. Kupując Ray w LTS Market, otrzymujesz profesjonalne wsparcie [Laser Tech Service](https://lasertechservice.pl/).\n\n### Czy Ray można kupić w leasingu?\n\nMożna omówić finansowanie zakupu zgodnie z warunkami instytucji finansującej.\n\n### Jak zamówić Ray?\n\nSkontaktuj się z LTS Market przez formularz na stronie, telefonicznie lub e-mailowo.\n\n**Kupując Ray w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Zapytaj o Ray\n\nOpisz potrzeby swojego gabinetu. Uzgodnimy konfigurację, cenę, dostępność i warunki wsparcia serwisowego.\n\n[+48 575 254 431](tel:+48575254431)\n[sales@ltsmarket.pl](mailto:sales@ltsmarket.pl)"
+      "pageText": "**PROFESJONALNY LASER DIODOWY — COMPACT**\n\nProfesjonalny laser diodowy o mocy głowicy 1200 W, wyposażony w cztery wymienne końcówki, technologię FAC, dotykowy ekran głowicy oraz system chłodzenia Freon 300 W.\n\n**55 000–75 000 zł**\n\n**Kupując Ray w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**\n\nUrządzenia nowe: 14–30 dni roboczych.\nDarmowa dostawa od 35 000 zł.\nDostawa na terenie Polski: 700 zł dla zamówień poniżej 35 000 zł.\n\n![Ray — laser diodowy z panelem sterowania i głowicą](https://ltsmarket.pl/assets/img/nowe/ray.webp)\n\n## Ray — wygodna praca na różnych obszarach ciała\n\nPodczas depilacji laserowej operator pracuje zarówno na większych powierzchniach ciała, jak i w miejscach wymagających większej precyzji prowadzenia głowicy. Dlatego konstrukcja manipuły i możliwość dostosowania końcówki zabiegowej mają duże znaczenie.\n\nRay to profesjonalny laser diodowy wyposażony w cztery wymienne końcówki. Takie rozwiązanie pozwala dostosować sposób pracy do różnych obszarów zabiegowych, zgodnie z możliwościami wybranej końcówki.\n\nGłowica o mocy 1200 W, deklarowana energia 150 J przy 200 ms, technologia optyczna FAC i dotykowy ekran manipuły tworzą zestaw funkcji przeznaczonych do codziennej pracy gabinetowej.\n\nRay jest propozycją dla salonów, które zwracają szczególną uwagę na ergonomię i elastyczność pracy z głowicą.\n\n## Możliwości Ray\n\n### Cztery wymienne końcówki — jedna głowica, różne obszary zabiegowe\n\nJedną z głównych cech Ray są cztery wymienne końcówki zabiegowe.\n\n### Głowica 1200 W i energia 150 J\n\nRay jest wyposażony w głowicę o deklarowanej mocy 1200 W. Energia została określona jako 150 J przy czasie impulsu 200 ms.\n\n### Ergonomiczna głowica z ekranem dotykowym\n\nRay posiada głowicę zaprojektowaną z myślą o wygodnej pracy operatora.\n\n## Cztery wymienne końcówki — jedna głowica, różne obszary zabiegowe\n\nJedną z głównych cech Ray są cztery wymienne końcówki zabiegowe.\n\nW profesjonalnej depilacji laserowej wielkość i kształt pola zabiegowego wpływają na sposób prowadzenia głowicy. Większe powierzchnie ciała wymagają innej organizacji pracy niż niewielkie lub trudno dostępne obszary.\n\nMożliwość wymiany końcówek daje operatorowi większą elastyczność podczas planowania procedury.\n\nKonkretne rozmiary końcówek i ich przeznaczenie należy dobrać zgodnie z dokumentacją urządzenia.\n\n## Głowica 1200 W i energia 150 J\n\nRay jest wyposażony w głowicę o deklarowanej mocy 1200 W. Energia została określona jako 150 J przy czasie impulsu 200 ms.\n\nPodczas wyboru lasera warto zwracać uwagę nie tylko na moc, ale również na sposób dostarczania energii, optykę, chłodzenie oraz ergonomię głowicy.\n\nOdpowiednie parametry zabiegowe powinny być zawsze dobierane zgodnie z instrukcją producenta i kwalifikacją klienta.\n\n## Stos diodowy 12 bar — konstrukcja źródła laserowego\n\nRay wykorzystuje stos diodowy złożony z 12 barów laserowych.\n\nBar laserowy to element półprzewodnikowy zawierający emitery światła laserowego. Zestaw takich elementów tworzy źródło promieniowania wykorzystywane w głowicy.\n\nWłaściwe chłodzenie, sterowanie prądem i stan połączeń elektrycznych mają znaczenie dla prawidłowego działania układu diodowego.\n\nLiczba barów nie powinna być traktowana jako samodzielny wskaźnik skuteczności zabiegowej urządzenia.\n\n## Technologia FAC — optyka profesjonalnego lasera\n\nRay wykorzystuje technologię FAC, czyli Fast Axis Collimation.\n\nRozwiązanie to pomaga ograniczać rozbieżność wiązki laserowej w jednej z osi, co jest istotnym elementem konstrukcji optycznej laserów diodowych.\n\nOptyka współpracuje z układem diodowym i pozostałymi elementami głowicy, dlatego jej stan techniczny ma znaczenie dla prawidłowego funkcjonowania urządzenia.\n\n## Chłodzenie Freon 300 W\n\nRay jest oferowany z systemem chłodzenia określanym jako Freon 300 W.\n\nChłodzenie ma za zadanie wspierać utrzymywanie odpowiednich warunków pracy elementów urządzenia.\n\nUkłady chłodnicze wymagają prawidłowej eksploatacji i okresowej kontroli technicznej. Szczelność instalacji, stan podzespołów oraz sprawność wymiany ciepła wpływają na niezawodność urządzenia.\n\nSzczegółowe informacje dotyczące czynnika chłodniczego i konstrukcji systemu należy potwierdzić w dokumentacji konkretnego modelu.\n\n## Ergonomiczna głowica z ekranem dotykowym\n\nRay posiada głowicę zaprojektowaną z myślą o wygodnej pracy operatora.\n\nDotykowy ekran umieszczony na manipule zapewnia dostęp do funkcji sterowania przewidzianych przez producenta.\n\nWymienne końcówki umożliwiają dostosowanie głowicy do różnych obszarów zabiegowych, a ergonomiczna konstrukcja wspiera jej prowadzenie podczas pracy.\n\nTo rozwiązanie szczególnie interesujące dla gabinetów, w których wykonuje się zabiegi na różnych partiach ciała.\n\n## Dla kogo przeznaczony jest Ray?\n\n### Salony kosmetyczne\n\nRay jest propozycją dla salonów planujących wprowadzenie lub rozwój usług depilacji laserowej.\n\n### Gabinety pracujące na różnych obszarach ciała\n\nCztery wymienne końcówki dają możliwość dostosowania sposobu prowadzenia głowicy do różnych obszarów zabiegowych.\n\n### Studia depilacji laserowej\n\nDla specjalistycznych studiów ważne są ergonomia manipuły, wygodne sterowanie i możliwość skorzystania z profesjonalnego serwisu.\n\n## Specyfikacja Ray\n\n| Parametr | Wartość |\n| --- | --- |\n| Model | Ray |\n| Typ | Profesjonalny laser diodowy |\n| Pozycjonowanie | Compact |\n| Cena | 55 000–75 000 zł |\n| Moc głowicy | 1200 W |\n| Energia / czas impulsu | 150 J / 200 ms |\n| Chłodzenie | Freon 300 W |\n| Optyka | FAC |\n| Końcówki | 4 wymienne |\n| Stos diodowy | 12 barów laserowych |\n| Głowica | Ergonomiczna, z ekranem dotykowym |\n\n## Galeria Ray\n\nRay — laser diodowy z panelem sterowania i głowicą\n\n## Kupujesz Ray. Otrzymujesz wsparcie serwisowe Laser Tech Service.\n\nW profesjonalnym laserze diodowym szczególnie ważne są stan głowicy, układu chłodzenia, elektroniki oraz połączeń elektrycznych.\n\nDlatego zakup Ray w LTS Market oznacza nie tylko otrzymanie urządzenia, ale również dostęp do profesjonalnego wsparcia serwisowego [Laser Tech Service](https://lasertechservice.pl/).\n\n[Laser Tech Service](https://lasertechservice.pl/) zajmuje się diagnostyką, konserwacją i naprawą laserów diodowych, regeneracją manipuł oraz obsługą układów chłodzenia.\n\nW razie problemów technicznych możesz skorzystać z wiedzy specjalistów, którzy na co dzień zajmują się serwisem laserów i naprawą laserów kosmetologicznych.\n\n**LTS Market sprzedaje profesjonalne urządzenia. [Laser Tech Service](https://lasertechservice.pl/) zapewnia wsparcie techniczne po zakupie.**\n\nZakres i koszt napraw, części oraz usług gwarancyjnych i pogwarancyjnych określają warunki zakupu i uzgodnienia serwisowe.\n\n## Ile kosztuje laser Ray?\n\nCena Ray w LTS Market wynosi 55 000–75 000 zł.\n\nUrządzenie oferuje głowicę 1200 W, cztery wymienne końcówki, technologię FAC, dotykowy ekran manipuły oraz chłodzenie Freon 300 W.\n\nLTS Market przygotowuje indywidualne oferty zakupu i umożliwia omówienie finansowania w formie leasingu.\n\nKupując Ray u nas, otrzymujesz również profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).\n\n## Najczęstsze pytania\n\n### Ile kosztuje Ray?\n\nCena Ray w LTS Market wynosi 55 000–75 000 zł.\n\n### Ile końcówek posiada Ray?\n\nRay jest wyposażony w cztery wymienne końcówki zabiegowe.\n\n### Jaka jest moc głowicy?\n\nDeklarowana moc głowicy wynosi 1200 W.\n\n### Jaka jest energia impulsu?\n\nW katalogu podano 150 J przy czasie impulsu 200 ms.\n\n### Co oznacza stos diodowy 12 bar?\n\nTo konstrukcja źródła laserowego złożonego z 12 barów diodowych. Nie jest to wartość ciśnienia.\n\n### Czym jest technologia FAC?\n\nFAC to technologia optyczna ograniczająca rozbieżność wiązki laserowej w jednej z osi.\n\n### Jakie chłodzenie posiada Ray?\n\nRay jest oferowany z układem chłodzenia określanym jako Freon 300 W.\n\n### Czy głowica posiada ekran dotykowy?\n\nTak. Dotykowy ekran głowicy jest wymieniony w wyposażeniu Ray.\n\n### Czy otrzymam wsparcie serwisowe?\n\nTak. Kupując Ray w LTS Market, otrzymujesz profesjonalne wsparcie [Laser Tech Service](https://lasertechservice.pl/).\n\n### Czy Ray można kupić w leasingu?\n\nMożna omówić finansowanie zakupu zgodnie z warunkami instytucji finansującej.\n\n### Jak zamówić Ray?\n\nSkontaktuj się z LTS Market przez formularz na stronie, telefonicznie lub e-mailowo.\n\n**Kupując Ray w LTS Market, otrzymujesz profesjonalne wsparcie serwisowe [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Zapytaj o Ray\n\nOpisz potrzeby swojego gabinetu. Uzgodnimy konfigurację, cenę, dostępność i warunki wsparcia serwisowego.\n\n[+48 575 254 431](tel:+48575254431)\n[sales@ltsmarket.pl](mailto:sales@ltsmarket.pl)"
     },
     {
       "language": "ru",
@@ -8682,7 +9165,7 @@
       },
       "sourceUrl": "https://ltsmarket.pl/ru/novye/alpha/",
       "markdownUrl": "https://ltsmarket.pl/ru/novye/alpha/index.md",
-      "pageText": "**ПРОФЕССИОНАЛЬНЫЙ ДИОДНЫЙ ЛАЗЕР — BUSINESS**\n\nДиодный лазер для салонов красоты и косметологических кабинетов. Мощность манипулы 1600–2000 Вт, рабочее окно 12×20 мм, охлаждение TEC 1200 Вт и интеллектуальные функции управления.\n\n**60 000–80 000 zł**\n\n**Покупая Alpha в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\nНовое оборудование: 14–30 рабочих дней.\nБесплатная доставка от 35 000 zł.\nДоставка по Польше: 700 zł для заказов менее 35 000 zł.\n\n![Диодный лазер Alpha с панелью управления и манипулой](https://ltsmarket.pl/assets/img/nowe/alpha.webp)\n\n## Alpha — профессиональное оборудование для развивающегося салона\n\nПри выборе диодного лазера важно учитывать не только мощность, но и удобство работы, диапазон настроек, эффективность охлаждения и возможность технического обслуживания.\n\nAlpha предназначен для косметологических кабинетов, которым необходимо профессиональное оборудование для регулярного проведения процедур.\n\nМощность манипулы 1600–2000 Вт, рабочее окно 12×20 мм и система охлаждения TEC 1200 Вт составляют основу технических характеристик аппарата.\n\nДополнительные функции включают Android, CRM, встроенный дерматоскоп и автоматизированную помощь в подборе параметров.\n\n## Возможности Alpha\n\n### Мощность манипулы 1600–2000 Вт\n\nAlpha предлагается в комплектациях с мощностью манипулы от 1600 до 2000 Вт.\n\n### Охлаждение TEC 1200 Вт\n\nСистема охлаждения является важной частью конструкции профессионального диодного лазера.\n\n### Android, CRM и автоматический подбор параметров\n\nAndroid\n\n## Мощность манипулы 1600–2000 Вт\n\nAlpha предлагается в комплектациях с мощностью манипулы от 1600 до 2000 Вт.\n\nЗаявленная энергия составляет 180–220 Дж при длительности импульса 200 мс, в зависимости от версии устройства.\n\nРабочее окно 12×20 мм имеет площадь 240 мм² и позволяет работать на различных участках тела.\n\nПри этом максимальная мощность не определяет результат процедуры сама по себе. Важны правильная настройка, квалификация специалиста и соблюдение инструкции производителя.\n\n## Охлаждение TEC 1200 Вт\n\nСистема охлаждения является важной частью конструкции профессионального диодного лазера.\n\nAlpha использует систему TEC с заявленной мощностью 1200 Вт. Термоэлектрические элементы помогают управлять теплообменом внутри системы.\n\nДля поддержания нормальной работы оборудования необходимо соблюдать рекомендации по эксплуатации и регулярно проводить технические проверки.\n\n## Оптическая технология FAC\n\nFAC, или Fast Axis Collimation, — технология уменьшения расходимости лазерного излучения по одной из осей.\n\nОптическая система помогает формировать и направлять лазерный пучок внутри аппарата.\n\nFAC является одним из элементов конструкции Alpha наряду с диодной манипулой, охлаждением и управляющей электроникой.\n\n## Android, CRM и автоматический подбор параметров\n\n### Android\n\nСовременный интерфейс обеспечивает доступ к настройкам и функциям аппарата.\n\n### CRM\n\nФункции CRM могут использоваться для организации информации о клиентах и проведённых процедурах. Точный перечень возможностей зависит от программного обеспечения.\n\n### Автоматический подбор параметров\n\nAlpha предлагает функцию помощи при выборе настроек процедуры. Она не заменяет профессиональную оценку клиента и контроль со стороны оператора.\n\n### Встроенный дерматоскоп\n\nДерматоскоп может использоваться для дополнительного наблюдения за кожей и волосами в пределах возможностей, предусмотренных производителем.\n\n## Кому подойдёт Alpha?\n\n### Салонам с регулярной загрузкой\n\nДля кабинетов, которые постоянно проводят процедуры лазерной эпиляции.\n\n### Развивающимся косметологическим центрам\n\nДля салонов, планирующих расширять перечень услуг и использовать оборудование с современными функциями управления.\n\n### Специализированным студиям эпиляции\n\nДля бизнеса, которому важны характеристики манипулы, удобство работы и доступность профессионального технического обслуживания.\n\n## Характеристики Alpha\n\n| Параметр | Значение |\n| --- | --- |\n| Модель | Alpha |\n| Тип | Профессиональный диодный лазер |\n| Позиционирование | Business |\n| Цена | 60 000–80 000 zł |\n| Мощность манипулы | 1600–2000 W |\n| Энергия / длительность импульса | 180–220 J / 200 ms |\n| Охлаждение | TEC 1200 W |\n| Оптика | FAC |\n| Рабочее окно | 12×20 mm |\n| Функции | Android, CRM, дерматоскоп, автоматический подбор параметров |\n\n## Галерея Alpha\n\nДиодный лазер Alpha с панелью управления и манипулой\n\n## Покупаете Alpha. Получаете сервисную поддержку Laser Tech Service.\n\nПрофессиональный лазер требует правильной эксплуатации, регулярных технических проверок и своевременного обслуживания.\n\nПри покупке Alpha в LTS Market вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\nСпециалисты [Laser Tech Service](https://lasertechservice.pl/) занимаются диагностикой, ремонтом и обслуживанием лазерного оборудования, включая диодные лазеры, системы охлаждения, электронику и манипулы.\n\nЭто позволяет владельцу салона обратиться к профессионалам при возникновении технических вопросов или неисправностей.\n\n**LTS Market продаёт профессиональные лазеры. [Laser Tech Service](https://lasertechservice.pl/) обеспечивает техническую поддержку после покупки.**\n\nУсловия гарантийного и послегарантийного обслуживания определяются договором и согласованным объёмом работ.\n\n## Сколько стоит Alpha?\n\nСтоимость Alpha в LTS Market составляет 60 000–80 000 zł. Окончательная цена зависит от выбранной комплектации.\n\nМы поможем сравнить варианты оборудования и подготовить индивидуальное коммерческое предложение.\n\nТакже можно обсудить покупку в лизинг на условиях финансовой организации.\n\n**Покупая Alpha в LTS Market, вы получаете сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Частые вопросы\n\n### Сколько стоит Alpha?\n\nЦена составляет 60 000–80 000 zł и зависит от комплектации.\n\n### Какая мощность манипулы?\n\nОт 1600 до 2000 Вт в зависимости от версии.\n\n### Какой размер рабочего окна?\n\n12×20 мм.\n\n### Какое охлаждение используется?\n\nСистема TEC с заявленной мощностью 1200 Вт.\n\n### Есть ли Android и CRM?\n\nДа, эти функции указаны в оснащении Alpha. Их возможности зависят от программного обеспечения.\n\n### Есть ли автоматический подбор параметров?\n\nДа, предусмотрена функция помощи при выборе настроек. Оператор обязан контролировать параметры процедуры.\n\n### Есть ли встроенный дерматоскоп?\n\nДа, дерматоскоп указан в оснащении аппарата.\n\n### Предоставляется ли сервис после покупки?\n\nДа. Покупатели Alpha в LTS Market получают поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\n### Можно ли приобрести Alpha в лизинг?\n\nВозможность финансирования можно обсудить с LTS Market.\n\n### Как заказать Alpha?\n\nСвяжитесь с LTS Market через форму на сайте, по телефону или электронной почте.\n\n**Покупая Alpha в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Запрос об Alpha\n\nОпишите потребности кабинета. Мы согласуем комплектацию, цену, доступность и условия сервисной поддержки.\n\n[+48 575 254 431](tel:+48575254431)\n[sales@ltsmarket.pl](mailto:sales@ltsmarket.pl)"
+      "pageText": "**ПРОФЕССИОНАЛЬНЫЙ ДИОДНЫЙ ЛАЗЕР — BUSINESS**\n\nДиодный лазер для салонов красоты и косметологических кабинетов. Мощность манипулы 1600–2000 Вт, рабочее окно 12×20 мм, охлаждение TEC 1200 Вт и интеллектуальные функции управления.\n\n**60 000–80 000 zł**\n\n**Покупая Alpha в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\nНовое оборудование: 14–30 рабочих дней.\nБесплатная доставка от 35 000 zł.\nДоставка по Польше: 700 zł для заказов менее 35 000 zł.\n\n![Диодный лазер Alpha с панелью управления и манипулой](https://ltsmarket.pl/assets/img/nowe/alpha.webp)\n\n## Alpha — профессиональное оборудование для развивающегося салона\n\nПри выборе диодного лазера важно учитывать не только мощность, но и удобство работы, диапазон настроек, эффективность охлаждения и возможность технического обслуживания.\n\nAlpha предназначен для косметологических кабинетов, которым необходимо профессиональное оборудование для регулярного проведения процедур.\n\nМощность манипулы 1600–2000 Вт, рабочее окно 12×20 мм и система охлаждения TEC 1200 Вт составляют основу технических характеристик аппарата.\n\nДополнительные функции включают Android, CRM, встроенный дерматоскоп и автоматизированную помощь в подборе параметров.\n\n## Возможности Alpha\n\n### Мощность манипулы 1600–2000 Вт\n\nAlpha предлагается в комплектациях с мощностью манипулы от 1600 до 2000 Вт.\n\n### Охлаждение TEC 1200 Вт\n\nСистема охлаждения является важной частью конструкции профессионального диодного лазера.\n\n### Android, CRM и автоматический подбор параметров\n\nAndroid\n\n## Мощность манипулы 1600–2000 Вт\n\nAlpha предлагается в комплектациях с мощностью манипулы от 1600 до 2000 Вт.\n\nЗаявленная энергия составляет 180–220 Дж при длительности импульса 200 мс, в зависимости от версии устройства.\n\nРабочее окно 12×20 мм имеет площадь 240 мм² и позволяет работать на различных участках тела.\n\nПри этом максимальная мощность не определяет результат процедуры сама по себе. Важны правильная настройка, квалификация специалиста и соблюдение инструкции производителя.\n\n## Охлаждение TEC 1200 Вт\n\nСистема охлаждения является важной частью конструкции профессионального диодного лазера.\n\nAlpha использует систему TEC с заявленной мощностью 1200 Вт. Термоэлектрические элементы помогают управлять теплообменом внутри системы.\n\nДля поддержания нормальной работы оборудования необходимо соблюдать рекомендации по эксплуатации и регулярно проводить технические проверки.\n\n## Оптическая технология FAC\n\nFAC, или Fast Axis Collimation, — технология уменьшения расходимости лазерного излучения по одной из осей.\n\nОптическая система помогает формировать и направлять лазерный пучок внутри аппарата.\n\nFAC является одним из элементов конструкции Alpha наряду с диодной манипулой, охлаждением и управляющей электроникой.\n\n## Android, CRM и автоматический подбор параметров\n\n### Android\n\nСовременный интерфейс обеспечивает доступ к настройкам и функциям аппарата.\n\n### CRM\n\nФункции CRM могут использоваться для организации информации о клиентах и проведённых процедурах. Точный перечень возможностей зависит от программного обеспечения.\n\n### Автоматический подбор параметров\n\nAlpha предлагает функцию помощи при выборе настроек процедуры. Она не заменяет профессиональную оценку клиента и контроль со стороны оператора.\n\n### Встроенный дерматоскоп\n\nДерматоскоп может использоваться для дополнительного наблюдения за кожей и волосами в пределах возможностей, предусмотренных производителем.\n\n## Кому подойдёт Alpha?\n\n### Салонам с регулярной загрузкой\n\nДля кабинетов, которые постоянно проводят процедуры лазерной эпиляции.\n\n### Развивающимся косметологическим центрам\n\nДля салонов, планирующих расширять перечень услуг и использовать оборудование с современными функциями управления.\n\n### Специализированным студиям эпиляции\n\nДля бизнеса, которому важны характеристики манипулы, удобство работы и доступность профессионального технического обслуживания.\n\n## Характеристики Alpha\n\n| Параметр | Значение |\n| --- | --- |\n| Модель | Alpha |\n| Тип | Профессиональный диодный лазер |\n| Позиционирование | Business |\n| Цена | 60 000–80 000 zł |\n| Мощность манипулы | 1600–2000 W |\n| Энергия / длительность импульса | 180–220 J / 200 ms |\n| Охлаждение | TEC 1200 W |\n| Оптика | FAC |\n| Рабочее окно | 12×20 mm |\n| Функции | Android, CRM, дерматоскоп, автоматический подбор параметров |\n\n## Галерея Alpha\n\nДиодный лазер Alpha с панелью управления и манипулой\n\n## Покупаете Alpha. Получаете сервисную поддержку Laser Tech Service.\n\nПрофессиональный лазер требует правильной эксплуатации, регулярных технических проверок и своевременного обслуживания.\n\nПри покупке Alpha в LTS Market вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\nСпециалисты [Laser Tech Service](https://lasertechservice.pl/) занимаются диагностикой, ремонтом и обслуживанием лазерного оборудования, включая диодные лазеры, системы охлаждения, электронику и манипулы.\n\nЭто позволяет владельцу салона обратиться к профессионалам при возникновении технических вопросов или неисправностей.\n\n**LTS Market продаёт профессиональные лазеры. [Laser Tech Service](https://lasertechservice.pl/) обеспечивает техническую поддержку после покупки.**\n\nУсловия гарантийного и послегарантийного обслуживания определяются договором и согласованным объёмом работ.\n\n## Сколько стоит Alpha?\n\nСтоимость Alpha в LTS Market составляет 60 000–80 000 zł. Окончательная цена зависит от выбранной комплектации.\n\nМы поможем сравнить варианты оборудования и подготовить индивидуальное коммерческое предложение.\n\nТакже можно обсудить покупку в лизинг на условиях финансовой организации.\n\n**Покупая Alpha в LTS Market, вы получаете сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Частые вопросы\n\n### Сколько стоит Alpha?\n\nЦена составляет 60 000–80 000 zł и зависит от комплектации.\n\n### Какая мощность манипулы?\n\nОт 1600 до 2000 Вт в зависимости от версии.\n\n### Какой размер рабочего окна?\n\n12×20 мм.\n\n### Какое охлаждение используется?\n\nСистема TEC с заявленной мощностью 1200 Вт.\n\n### Есть ли Android и CRM?\n\nДа, эти функции указаны в оснащении Alpha. Их возможности зависят от программного обеспечения.\n\n### Есть ли автоматический подбор параметров?\n\nДа, предусмотрена функция помощи при выборе настроек. Оператор обязан контролировать параметры процедуры.\n\n### Есть ли встроенный дерматоскоп?\n\nДа, дерматоскоп указан в оснащении аппарата.\n\n### Предоставляется ли сервис после покупки?\n\nДа. Покупатели Alpha в LTS Market получают поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\n### Можно ли приобрести Alpha в лизинг?\n\nВозможность финансирования можно обсудить с LTS Market.\n\n### Как заказать Alpha?\n\nСвяжитесь с LTS Market через форму на сайте, по телефону или электронной почте.\n\n**Покупая Alpha в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Запрос о Alpha\n\nОпишите потребности кабинета. Мы согласуем комплектацию, цену, доступность и условия сервисной поддержки.\n\n[+48 575 254 431](tel:+48575254431)\n[sales@ltsmarket.pl](mailto:sales@ltsmarket.pl)"
     },
     {
       "language": "ru",
@@ -8733,7 +9216,7 @@
       },
       "sourceUrl": "https://ltsmarket.pl/ru/novye/lumos/",
       "markdownUrl": "https://ltsmarket.pl/ru/novye/lumos/index.md",
-      "pageText": "**ПРОФЕССИОНАЛЬНЫЙ ДИОДНЫЙ ЛАЗЕР ПРЕМИУМ-КЛАССА**\n\nСовременная система лазерной эпиляции для салонов красоты и косметологических кабинетов. Четыре длины волн, мощность манипулы 2000–4000 Вт, охлаждение ICE Flow и интеллектуальные функции для профессиональной работы.\n\n![Lumos — Вид спереди](https://ltsmarket.pl/assets/img/lumos/lumos-hero-transparent.webp)\n\n**2000–4000 Вт**Мощность манипулы\n\n**4**Длины волн\n\n**ICE Flow**Система охлаждения\n\n**FAC**Оптическая технология\n\n**68 000–100 000 zł**\n\nСтоимость зависит от выбранной комплектации.\n\nПрофессиональная сервисная поддержка [Laser Tech Service](https://lasertechservice.pl/).\n\nНовое оборудование: 14–30 рабочих дней.\nБесплатная доставка от 35 000 zł.\nДоставка по Польше: 700 zł для заказов менее 35 000 zł.\n\n## Lumos — не только мощность. Технологии для профессиональной работы.\n\nПри выборе лазера для косметологического салона важно учитывать не только максимальную мощность. Большое значение имеют диапазон настроек, стабильность работы, удобство управления и эффективность системы охлаждения.\n\nLumos объединяет четыре длины волн: 755, 808, 940 и 1064 нм. Аппарат предлагается с мощностью манипулы от 2000 до 4000 Вт, диапазоном энергии 10–240 Дж и частотой импульсов до 30 Гц.\n\nДополнительные технологии ICE Flow, FAC и NeoDez, а также функции Android и CRM расширяют возможности организации работы с оборудованием.\n\nLumos предназначен для профессиональных салонов и косметологических кабинетов, которым необходимы гибкие настройки и доступ к квалифицированной технической поддержке.\n\n## Возможности Lumos\n\n### Мощность манипулы 2000–4000 Вт и широкий диапазон параметров\n\nLumos предлагается в конфигурациях с мощностью манипулы от 2000 до 4000 Вт. Диапазон энергии составляет 10–240 Дж, частота импульсов — 1–30 Гц, а длительность импульса начинается от 5 мс.\n\n### ICE Flow — современная система охлаждения\n\nОхлаждение играет важную роль в работе диодного лазера. Контроль температуры помогает поддерживать комфорт во время процедуры и нормальные условия эксплуатации манипулы.\n\n### Технология FAC — управление лазерным излучением\n\nFAC, или Fast Axis Collimation, — оптическая технология, применяемая в диодных лазерных системах для уменьшения расходимости излучения по одной из осей.\n\n## Четыре длины волны в одной диодной системе\n\nРазные длины волн отличаются характером взаимодействия с меланином и особенностями проникновения света в ткани. Их сочетание расширяет возможности выбора параметров процедур.\n\n### 755 нм — высокое поглощение меланином\n\nДлина волны 755 нм характеризуется относительно высоким поглощением меланином. Может использоваться в правильно подобранных процедурах с учётом фототипа кожи и характеристик волос.\n\n### 808 нм — распространённая диодная технология\n\nДлина волны 808 нм широко используется в профессиональной лазерной эпиляции и является основой многих систем для уменьшения нежелательного роста волос.\n\n### 940 нм — дополнительные возможности настройки\n\nДлина волны 940 нм расширяет диапазон конфигураций многоволновой системы. Её применение должно соответствовать рекомендациям производителя.\n\n### 1064 нм — другие характеристики поглощения\n\nДлина волны 1064 нм отличается меньшим поглощением меланином по сравнению с более короткими диапазонами. Может применяться в соответствующих процедурах, в том числе при работе с более тёмными фототипами кожи.\n\nНаличие четырёх длин волн не заменяет профессиональную оценку кожи, правильный подбор параметров и подготовку оператора.\n\n## Мощность манипулы 2000–4000 Вт и широкий диапазон параметров\n\nLumos предлагается в конфигурациях с мощностью манипулы от 2000 до 4000 Вт. Диапазон энергии составляет 10–240 Дж, частота импульсов — 1–30 Гц, а длительность импульса начинается от 5 мс.\n\nТакие характеристики позволяют выбирать настройки в рамках процедур, предусмотренных производителем.\n\nПри этом максимальная мощность не является единственным показателем качества работы лазера. Важны также длительность импульса, размер рабочего окна, распределение энергии, охлаждение и правильная настройка оборудования.\n\nСпециалисты LTS Market помогут сравнить доступные комплектации перед покупкой.\n\n## ICE Flow — современная система охлаждения\n\nОхлаждение играет важную роль в работе диодного лазера. Контроль температуры помогает поддерживать комфорт во время процедуры и нормальные условия эксплуатации манипулы.\n\nLumos использует технологию ICE Flow для управления температурой во время работы.\n\nЛюбая профессиональная система охлаждения требует регулярного технического обслуживания. Необходимо контролировать циркуляцию охлаждающей жидкости, чистоту системы и состояние компонентов согласно рекомендациям производителя.\n\nПоэтому доступ к квалифицированному сервису является важным преимуществом при покупке лазерного оборудования.\n\n## Технология FAC — управление лазерным излучением\n\nFAC, или Fast Axis Collimation, — оптическая технология, применяемая в диодных лазерных системах для уменьшения расходимости излучения по одной из осей.\n\nПравильно спроектированная оптическая система помогает формировать и направлять лазерный пучок внутри оптического тракта.\n\nКачество оптики является важной частью конструкции профессионального лазера наряду с характеристиками диодов, системой охлаждения и управляющей электроникой.\n\n## NeoDez — дополнительная технология для гигиены оборудования\n\nПоддержание чистоты рабочего места и оборудования является обязательной частью профессиональной работы косметологического кабинета.\n\nLumos предлагает технологию NeoDez, связанную с дополнительными гигиеническими функциями манипулы.\n\nЭта технология дополняет, но не заменяет стандартные процедуры очистки и дезинфекции. Оператор должен соблюдать инструкции производителя и действующие требования к гигиене.\n\nКонкретные возможности NeoDez зависят от комплектации устройства.\n\n## Интеллектуальные функции для косметологического кабинета\n\n### Android — удобное управление\n\nСовременный интерфейс на базе Android обеспечивает доступ к настройкам и функциям аппарата через панель управления.\n\n### CRM — организация информации\n\nФункции CRM могут помогать в организации данных о клиентах и проведённых процедурах. Их точный перечень зависит от установленной версии программного обеспечения.\n\n### Дерматоскоп — дополнительная оценка кожи\n\nLumos предлагает функцию дерматоскопа, которая может использоваться для наблюдения за состоянием кожи в пределах возможностей, предусмотренных производителем. Она не заменяет медицинскую диагностику.\n\nВ совокупности эти функции помогают организовать профессиональную работу с лазерным оборудованием.\n\n## Кому подойдёт Lumos?\n\n### Развивающимся салонам красоты\n\nLumos может заинтересовать салоны, которые планируют внедрить профессиональную лазерную эпиляцию или расширить существующий перечень услуг.\n\n### Косметологическим кабинетам\n\nЧетыре длины волн, широкий диапазон настроек и современный интерфейс делают Lumos вариантом для кабинетов, которым требуется профессиональное оборудование.\n\n### Специализированным студиям эпиляции\n\nДля таких студий важны удобство эксплуатации, возможность выбора параметров и доступность технической помощи.\n\n### Сетям косметологических салонов\n\nПри покупке оборудования для нескольких кабинетов или филиалов стоит учитывать не только характеристики лазеров, но и возможность организовать техническое обслуживание.\n\n## Какие бизнес-проблемы решает покупка лазера LUMOS?\n\nПокупка нового лазера LUMOS позволяет снизить риск непредвиденных расходов на ремонт, обеспечить стабильные условия проведения процедур, повысить безопасность бизнеса, привлекать новых клиентов и эффективнее планировать финансы салона.\n\n### Защита от непредвиденных расходов на ремонт\n\nНовые комплектующие, гарантия и профессиональная сервисная поддержка [Laser Tech Service](https://lasertechservice.pl/) помогают снизить риск непредвиденных расходов, простоев оборудования и отмены записей клиентов.\n\n### Стабильная эффективность процедур\n\nНовый диодный модуль, оптическая технология FAC и система охлаждения ICE Flow способствуют стабильной работе оборудования и повторяемости условий проведения процедур.\n\n### Юридическая и техническая безопасность\n\nНаличие необходимой технической документации и подтверждённое соответствие оборудования действующим европейским требованиям помогают снизить юридические и технические риски при ведении бизнеса.\n\n### Привлечение новых клиентов\n\nСовременные технологии лазерной эпиляции становятся дополнительным маркетинговым аргументом, помогают выделить салон среди конкурентов и привлекать клиентов, заинтересованных в профессиональных процедурах.\n\n### Предсказуемое финансовое планирование\n\nЛизинг позволяет распределить стоимость оборудования во времени, сохранить оборотный капитал и финансировать инвестицию за счёт доходов от проводимых процедур.\n\n## Характеристики Lumos\n\nКомплектацию и доступность функций необходимо подтвердить в индивидуальном предложении и документации аппарата.\n\n| Параметр | Значение |\n| --- | --- |\n| Модель | Lumos |\n| Категория | Профессиональный диодный лазер |\n| Позиционирование | Premium |\n| Цена | 68 000–100 000 PLN |\n| Мощность манипулы | 2000–4000 W — в зависимости от комплектации |\n| Длины волн | 755 / 808 / 940 / 1064 nm |\n| Энергия | 10–240 J |\n| Частота | 1–30 Hz |\n| Длительность импульса | От 5 мс |\n| Охлаждение | ICE Flow |\n| Оптика | FAC |\n| Гигиеническая технология | NeoDez — в зависимости от комплектации |\n| Интерфейс | Android — в зависимости от версии ПО |\n| CRM | в зависимости от версии ПО |\n| Дерматоскоп | в зависимости от комплектации |\n\n## Галерея Lumos\n\n![Lumos — Вид спереди](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)\n\n![Lumos — Другой вид спереди](https://ltsmarket.pl/assets/img/lumos/lumos-front-alternate-800.webp)\n\n![Lumos — Правая сторона аппарата](https://ltsmarket.pl/assets/img/lumos/lumos-right-side-800.webp)\n\n![Lumos — Левая сторона аппарата](https://ltsmarket.pl/assets/img/lumos/lumos-left-side-800.webp)\n\n![Lumos — Стартовый экран](https://ltsmarket.pl/assets/img/lumos/lumos-startup-800.webp)\n\n![Lumos — Держатели и модули](https://ltsmarket.pl/assets/img/lumos/lumos-holders-800.webp)\n\n![Lumos — Манипула сбоку](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-side-800.webp)\n\n![Lumos — Манипула в руке](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-grip-800.webp)\n\n![Lumos — Рабочее окно манипулы](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-window-800.webp)\n\n![Lumos — Дерматоскоп спереди](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-front-800.webp)\n\n![Lumos — Дерматоскоп сбоку](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-side-800.webp)\n\n![Lumos — Экран режима HR](https://ltsmarket.pl/assets/img/lumos/lumos-display-hr-800.webp)\n\n![Lumos — Интерфейс HR](https://ltsmarket.pl/assets/img/lumos/lumos-software-hr-800.webp)\n\n![Lumos — Карточки клиентов CRM](https://ltsmarket.pl/assets/img/lumos/lumos-crm-800.webp)\n\n![Lumos — Настройки программы](https://ltsmarket.pl/assets/img/lumos/lumos-settings-800.webp)\n\n![Lumos — Интерфейс режима SR](https://ltsmarket.pl/assets/img/lumos/lumos-software-sr-800.webp)\n\n## Lumos помогает сохранять историю каждого клиента\n\nВ зависимости от версии программного обеспечения система может поддерживать карточки клиентов, историю процедур и сохранение индивидуальных настроек.\n\nЕсли конкретная версия CRM поддерживает автоматическое восстановление предыдущих параметров, подготовка к повторной процедуре становится ещё удобнее.\n\nПри этом оператор обязан самостоятельно проверить и подтвердить настройки перед началом работы.\n\nОсновная организационная выгода очевидна: меньше бумажных записей, удобнее доступ к истории клиента и более системная работа персонала.\n\nПеред покупкой рекомендуем ознакомиться с демонстрацией CRM и проверить возможности защиты персональных данных.\n\n## Современное программное обеспечение, которое развивается вместе с салоном\n\nLumos использует интерфейс управления на базе Android.\n\nСпособ установки обновлений, включая возможность автоматической загрузки, зависит от версии программного обеспечения и поддержки производителя.\n\nПеред покупкой стоит уточнить порядок обновлений и срок программной поддержки.\n\n## Дерматоскоп — дополнительный инструмент косметолога\n\nСреди доступного оснащения Lumos заявлен дерматоскоп.\n\nОн предназначен для визуального наблюдения за состоянием кожи в пределах возможностей, предусмотренных производителем.\n\nВ зависимости от комплектации и программного обеспечения модуль может помогать организовать консультации и документировать наблюдения.\n\nПри этом дерматоскоп не заменяет медицинскую диагностику и консультацию врача-дерматолога.\n\n## Покупаете Lumos. Получаете профессиональную поддержку Laser Tech Service.\n\nПрофессиональный лазер — это инвестиция в развитие косметологического бизнеса. Но любое оборудование требует правильной эксплуатации, регулярных технических проверок и доступа к специалистам, которые могут диагностировать и устранить неисправности.\n\nПоэтому покупка Lumos в LTS Market означает больше, чем просто приобретение аппарата.\n\n**Покупая Lumos у нас, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n[Laser Tech Service](https://lasertechservice.pl/) специализируется на диагностике, обслуживании и ремонте лазерного и косметологического оборудования. Специалисты работают с диодными лазерами, системами охлаждения, электроникой и лазерными манипулами.\n\nЕсли возникают технические вопросы или неисправности, вы можете обратиться к специалистам, которые ежедневно занимаются обслуживанием лазерного оборудования.\n\n### Обслуживание лазеров\n\nПрофессиональная диагностика, технические проверки и профилактика оборудования.\n\n### Ремонт лазеров\n\nПоиск неисправностей и ремонт электронных компонентов, систем охлаждения и других узлов.\n\n### Восстановление лазеров\n\nРаботы по восстановлению лазерных манипул и отдельных компонентов оборудования.\n\n### Поддержка после покупки\n\nДоступ к профессиональным специалистам [Laser Tech Service](https://lasertechservice.pl/).\n\n**LTS Market продаёт профессиональные лазеры. [Laser Tech Service](https://lasertechservice.pl/) обеспечивает техническую поддержку после покупки.**\n\nУсловия гарантийного и послегарантийного обслуживания определяются договором покупки и согласованным объёмом работ. Сервисная поддержка не означает автоматического бесплатного ремонта, предоставления запчастей или выезда мастера.\n\n## Сколько стоит Lumos?\n\nСтоимость профессионального лазера Lumos в LTS Market составляет от 68 000 до 100 000 zł в зависимости от выбранной комплектации.\n\nПеред покупкой важно определить, какие характеристики и функции действительно необходимы для работы салона.\n\nLTS Market подготовит индивидуальное коммерческое предложение. Также можно обсудить возможность приобретения оборудования в лизинг на условиях финансовой организации.\n\n**При покупке Lumos в LTS Market вы также получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Частые вопросы\n\n### Сколько стоит Lumos?\n\nСтоимость Lumos составляет от 68 000 до 100 000 zł в зависимости от комплектации и условий предложения.\n\n### Какие длины волн использует Lumos?\n\nLumos объединяет четыре длины волны: 755, 808, 940 и 1064 нм.\n\n### Какая мощность манипулы?\n\nLumos предлагается в конфигурациях с мощностью манипулы от 2000 до 4000 Вт.\n\n### Какие параметры импульсов доступны?\n\nЗаявленный диапазон энергии составляет 10–240 Дж, частота — 1–30 Гц, длительность импульса начинается от 5 мс.\n\n### Что означает FAC?\n\nFAC — оптическая технология для уменьшения расходимости лазерного излучения по одной из осей.\n\n### Что такое NeoDez?\n\nNeoDez — дополнительная технология, связанная с гигиеной манипулы. Она не заменяет стандартные процедуры очистки и дезинфекции.\n\n### Есть ли у Lumos охлаждение?\n\nДа. Lumos использует систему охлаждения ICE Flow.\n\n### Есть ли Android и CRM?\n\nAndroid и CRM указаны среди функций Lumos. Точный перечень возможностей зависит от версии программного обеспечения.\n\n### Есть ли в Lumos дерматоскоп?\n\nФункция дерматоскопа заявлена в оснащении аппарата и должна использоваться согласно инструкции производителя.\n\n### Предоставляется ли сервисная поддержка после покупки?\n\nДа. При покупке Lumos в LTS Market клиент получает профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\n### Доступен ли послегарантийный ремонт?\n\nДа. [Laser Tech Service](https://lasertechservice.pl/) предоставляет услуги послегарантийной диагностики и ремонта. Стоимость определяется индивидуально.\n\n### Можно ли приобрести Lumos в лизинг?\n\nВозможность финансирования можно обсудить с LTS Market. Условия зависят от финансовой организации.\n\n### Как заказать Lumos?\n\nСвяжитесь с LTS Market через форму на сайте, по телефону или электронной почте, чтобы получить индивидуальное предложение.\n\n## Покупая Lumos, вы получаете больше, чем лазер.\n\n### Гарантия 24 месяца и доставка\n\nГарантия на условиях договора и доставка до дверей по всей Польше.\n\n### Сервис и техническая поддержка\n\n[Laser Tech Service](https://lasertechservice.pl/): диагностика, обслуживание и ремонт. Поддержка также в выходные по согласованным правилам.\n\n### Сайт-визитка в подарок\n\n[Raccoon Studio](https://raccoon-studio.com.ua/pl/) — от идеи до реализации. Сайт на первый год; первые 3 месяца поддержка и продвижение бесплатно. Дальнейшая поддержка и продвижение со скидками на согласованных условиях.\n\n### [Лизинг и финансирование](https://ltsmarket.pl/ru/leasing.html)\n\nОбсудите финансирование выбранной комплектации Lumos. Доступность и условия согласовываются индивидуально.\n\n[Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)\n\n**Покупая Lumos в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Запрос об Lumos\n\nОпишите потребности кабинета. Мы согласуем комплектацию, цену, доступность и условия сервисной поддержки.\n\n[+48 575 254 431](tel:+48575254431)\n[sales@ltsmarket.pl](mailto:sales@ltsmarket.pl)"
+      "pageText": "**ПРОФЕССИОНАЛЬНЫЙ ДИОДНЫЙ ЛАЗЕР ПРЕМИУМ-КЛАССА**\n\nСовременная система лазерной эпиляции для салонов красоты и косметологических кабинетов. Четыре длины волн, мощность манипулы 2000–4000 Вт, охлаждение ICE Flow и интеллектуальные функции для профессиональной работы.\n\n![Lumos — Вид спереди](https://ltsmarket.pl/assets/img/lumos/lumos-hero-transparent.webp)\n\n**2000–4000 Вт**Мощность манипулы\n\n**4**Длины волн\n\n**ICE Flow**Система охлаждения\n\n**FAC**Оптическая технология\n\n**68 000–100 000 zł**\n\nСтоимость зависит от выбранной комплектации.\n\nПрофессиональная сервисная поддержка [Laser Tech Service](https://lasertechservice.pl/).\n\nНовое оборудование: 14–30 рабочих дней.\nБесплатная доставка от 35 000 zł.\nДоставка по Польше: 700 zł для заказов менее 35 000 zł.\n\n## Lumos — не только мощность. Технологии для профессиональной работы.\n\nПри выборе лазера для косметологического салона важно учитывать не только максимальную мощность. Большое значение имеют диапазон настроек, стабильность работы, удобство управления и эффективность системы охлаждения.\n\nLumos объединяет четыре длины волн: 755, 808, 940 и 1064 нм. Аппарат предлагается с мощностью манипулы от 2000 до 4000 Вт, диапазоном энергии 10–240 Дж и частотой импульсов до 30 Гц.\n\nДополнительные технологии ICE Flow, FAC и NeoDez, а также функции Android и CRM расширяют возможности организации работы с оборудованием.\n\nLumos предназначен для профессиональных салонов и косметологических кабинетов, которым необходимы гибкие настройки и доступ к квалифицированной технической поддержке.\n\n## Возможности Lumos\n\n### Мощность манипулы 2000–4000 Вт и широкий диапазон параметров\n\nLumos предлагается в конфигурациях с мощностью манипулы от 2000 до 4000 Вт. Диапазон энергии составляет 10–240 Дж, частота импульсов — 1–30 Гц, а длительность импульса начинается от 5 мс.\n\n### ICE Flow — современная система охлаждения\n\nОхлаждение играет важную роль в работе диодного лазера. Контроль температуры помогает поддерживать комфорт во время процедуры и нормальные условия эксплуатации манипулы.\n\n### Технология FAC — управление лазерным излучением\n\nFAC, или Fast Axis Collimation, — оптическая технология, применяемая в диодных лазерных системах для уменьшения расходимости излучения по одной из осей.\n\n## Четыре длины волны в одной диодной системе\n\nРазные длины волн отличаются характером взаимодействия с меланином и особенностями проникновения света в ткани. Их сочетание расширяет возможности выбора параметров процедур.\n\n### 755 нм — высокое поглощение меланином\n\nДлина волны 755 нм характеризуется относительно высоким поглощением меланином. Может использоваться в правильно подобранных процедурах с учётом фототипа кожи и характеристик волос.\n\n### 808 нм — распространённая диодная технология\n\nДлина волны 808 нм широко используется в профессиональной лазерной эпиляции и является основой многих систем для уменьшения нежелательного роста волос.\n\n### 940 нм — дополнительные возможности настройки\n\nДлина волны 940 нм расширяет диапазон конфигураций многоволновой системы. Её применение должно соответствовать рекомендациям производителя.\n\n### 1064 нм — другие характеристики поглощения\n\nДлина волны 1064 нм отличается меньшим поглощением меланином по сравнению с более короткими диапазонами. Может применяться в соответствующих процедурах, в том числе при работе с более тёмными фототипами кожи.\n\nНаличие четырёх длин волн не заменяет профессиональную оценку кожи, правильный подбор параметров и подготовку оператора.\n\n## Мощность манипулы 2000–4000 Вт и широкий диапазон параметров\n\nLumos предлагается в конфигурациях с мощностью манипулы от 2000 до 4000 Вт. Диапазон энергии составляет 10–240 Дж, частота импульсов — 1–30 Гц, а длительность импульса начинается от 5 мс.\n\nТакие характеристики позволяют выбирать настройки в рамках процедур, предусмотренных производителем.\n\nПри этом максимальная мощность не является единственным показателем качества работы лазера. Важны также длительность импульса, размер рабочего окна, распределение энергии, охлаждение и правильная настройка оборудования.\n\nСпециалисты LTS Market помогут сравнить доступные комплектации перед покупкой.\n\n## ICE Flow — современная система охлаждения\n\nОхлаждение играет важную роль в работе диодного лазера. Контроль температуры помогает поддерживать комфорт во время процедуры и нормальные условия эксплуатации манипулы.\n\nLumos использует технологию ICE Flow для управления температурой во время работы.\n\nЛюбая профессиональная система охлаждения требует регулярного технического обслуживания. Необходимо контролировать циркуляцию охлаждающей жидкости, чистоту системы и состояние компонентов согласно рекомендациям производителя.\n\nПоэтому доступ к квалифицированному сервису является важным преимуществом при покупке лазерного оборудования.\n\n## Технология FAC — управление лазерным излучением\n\nFAC, или Fast Axis Collimation, — оптическая технология, применяемая в диодных лазерных системах для уменьшения расходимости излучения по одной из осей.\n\nПравильно спроектированная оптическая система помогает формировать и направлять лазерный пучок внутри оптического тракта.\n\nКачество оптики является важной частью конструкции профессионального лазера наряду с характеристиками диодов, системой охлаждения и управляющей электроникой.\n\n## NeoDez — дополнительная технология для гигиены оборудования\n\nПоддержание чистоты рабочего места и оборудования является обязательной частью профессиональной работы косметологического кабинета.\n\nLumos предлагает технологию NeoDez, связанную с дополнительными гигиеническими функциями манипулы.\n\nЭта технология дополняет, но не заменяет стандартные процедуры очистки и дезинфекции. Оператор должен соблюдать инструкции производителя и действующие требования к гигиене.\n\nКонкретные возможности NeoDez зависят от комплектации устройства.\n\n## Интеллектуальные функции для косметологического кабинета\n\n### Android — удобное управление\n\nСовременный интерфейс на базе Android обеспечивает доступ к настройкам и функциям аппарата через панель управления.\n\n### CRM — организация информации\n\nФункции CRM могут помогать в организации данных о клиентах и проведённых процедурах. Их точный перечень зависит от установленной версии программного обеспечения.\n\n### Дерматоскоп — дополнительная оценка кожи\n\nLumos предлагает функцию дерматоскопа, которая может использоваться для наблюдения за состоянием кожи в пределах возможностей, предусмотренных производителем. Она не заменяет медицинскую диагностику.\n\nВ совокупности эти функции помогают организовать профессиональную работу с лазерным оборудованием.\n\n## Кому подойдёт Lumos?\n\n### Развивающимся салонам красоты\n\nLumos может заинтересовать салоны, которые планируют внедрить профессиональную лазерную эпиляцию или расширить существующий перечень услуг.\n\n### Косметологическим кабинетам\n\nЧетыре длины волн, широкий диапазон настроек и современный интерфейс делают Lumos вариантом для кабинетов, которым требуется профессиональное оборудование.\n\n### Специализированным студиям эпиляции\n\nДля таких студий важны удобство эксплуатации, возможность выбора параметров и доступность технической помощи.\n\n### Сетям косметологических салонов\n\nПри покупке оборудования для нескольких кабинетов или филиалов стоит учитывать не только характеристики лазеров, но и возможность организовать техническое обслуживание.\n\n## Какие бизнес-проблемы решает покупка лазера LUMOS?\n\nПокупка нового лазера LUMOS позволяет снизить риск непредвиденных расходов на ремонт, обеспечить стабильные условия проведения процедур, повысить безопасность бизнеса, привлекать новых клиентов и эффективнее планировать финансы салона.\n\n### Защита от непредвиденных расходов на ремонт\n\nНовые комплектующие, гарантия и профессиональная сервисная поддержка [Laser Tech Service](https://lasertechservice.pl/) помогают снизить риск непредвиденных расходов, простоев оборудования и отмены записей клиентов.\n\n### Стабильная эффективность процедур\n\nНовый диодный модуль, оптическая технология FAC и система охлаждения ICE Flow способствуют стабильной работе оборудования и повторяемости условий проведения процедур.\n\n### Юридическая и техническая безопасность\n\nНаличие необходимой технической документации и подтверждённое соответствие оборудования действующим европейским требованиям помогают снизить юридические и технические риски при ведении бизнеса.\n\n### Привлечение новых клиентов\n\nСовременные технологии лазерной эпиляции становятся дополнительным маркетинговым аргументом, помогают выделить салон среди конкурентов и привлекать клиентов, заинтересованных в профессиональных процедурах.\n\n### Предсказуемое финансовое планирование\n\nЛизинг позволяет распределить стоимость оборудования во времени, сохранить оборотный капитал и финансировать инвестицию за счёт доходов от проводимых процедур.\n\n## Характеристики Lumos\n\nКомплектацию и доступность функций необходимо подтвердить в индивидуальном предложении и документации аппарата.\n\n| Параметр | Значение |\n| --- | --- |\n| Модель | Lumos |\n| Категория | Профессиональный диодный лазер |\n| Позиционирование | Premium |\n| Цена | 68 000–100 000 PLN |\n| Мощность манипулы | 2000–4000 W — в зависимости от комплектации |\n| Длины волн | 755 / 808 / 940 / 1064 nm |\n| Энергия | 10–240 J |\n| Частота | 1–30 Hz |\n| Длительность импульса | От 5 мс |\n| Охлаждение | ICE Flow |\n| Оптика | FAC |\n| Гигиеническая технология | NeoDez — в зависимости от комплектации |\n| Интерфейс | Android — в зависимости от версии ПО |\n| CRM | в зависимости от версии ПО |\n| Дерматоскоп | в зависимости от комплектации |\n\n## Галерея Lumos\n\n![Lumos — Вид спереди](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)\n\n![Lumos — Другой вид спереди](https://ltsmarket.pl/assets/img/lumos/lumos-front-alternate-800.webp)\n\n![Lumos — Правая сторона аппарата](https://ltsmarket.pl/assets/img/lumos/lumos-right-side-800.webp)\n\n![Lumos — Левая сторона аппарата](https://ltsmarket.pl/assets/img/lumos/lumos-left-side-800.webp)\n\n![Lumos — Стартовый экран](https://ltsmarket.pl/assets/img/lumos/lumos-startup-800.webp)\n\n![Lumos — Держатели и модули](https://ltsmarket.pl/assets/img/lumos/lumos-holders-800.webp)\n\n![Lumos — Манипула сбоку](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-side-800.webp)\n\n![Lumos — Манипула в руке](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-grip-800.webp)\n\n![Lumos — Рабочее окно манипулы](https://ltsmarket.pl/assets/img/lumos/lumos-handpiece-window-800.webp)\n\n![Lumos — Дерматоскоп спереди](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-front-800.webp)\n\n![Lumos — Дерматоскоп сбоку](https://ltsmarket.pl/assets/img/lumos/lumos-dermatoscope-side-800.webp)\n\n![Lumos — Экран режима HR](https://ltsmarket.pl/assets/img/lumos/lumos-display-hr-800.webp)\n\n![Lumos — Интерфейс HR](https://ltsmarket.pl/assets/img/lumos/lumos-software-hr-800.webp)\n\n![Lumos — Карточки клиентов CRM](https://ltsmarket.pl/assets/img/lumos/lumos-crm-800.webp)\n\n![Lumos — Настройки программы](https://ltsmarket.pl/assets/img/lumos/lumos-settings-800.webp)\n\n![Lumos — Интерфейс режима SR](https://ltsmarket.pl/assets/img/lumos/lumos-software-sr-800.webp)\n\n## Lumos помогает сохранять историю каждого клиента\n\nВ зависимости от версии программного обеспечения система может поддерживать карточки клиентов, историю процедур и сохранение индивидуальных настроек.\n\nЕсли конкретная версия CRM поддерживает автоматическое восстановление предыдущих параметров, подготовка к повторной процедуре становится ещё удобнее.\n\nПри этом оператор обязан самостоятельно проверить и подтвердить настройки перед началом работы.\n\nОсновная организационная выгода очевидна: меньше бумажных записей, удобнее доступ к истории клиента и более системная работа персонала.\n\nПеред покупкой рекомендуем ознакомиться с демонстрацией CRM и проверить возможности защиты персональных данных.\n\n## Современное программное обеспечение, которое развивается вместе с салоном\n\nLumos использует интерфейс управления на базе Android.\n\nСпособ установки обновлений, включая возможность автоматической загрузки, зависит от версии программного обеспечения и поддержки производителя.\n\nПеред покупкой стоит уточнить порядок обновлений и срок программной поддержки.\n\n## Дерматоскоп — дополнительный инструмент косметолога\n\nСреди доступного оснащения Lumos заявлен дерматоскоп.\n\nОн предназначен для визуального наблюдения за состоянием кожи в пределах возможностей, предусмотренных производителем.\n\nВ зависимости от комплектации и программного обеспечения модуль может помогать организовать консультации и документировать наблюдения.\n\nПри этом дерматоскоп не заменяет медицинскую диагностику и консультацию врача-дерматолога.\n\n## Покупаете Lumos. Получаете профессиональную поддержку Laser Tech Service.\n\nПрофессиональный лазер — это инвестиция в развитие косметологического бизнеса. Но любое оборудование требует правильной эксплуатации, регулярных технических проверок и доступа к специалистам, которые могут диагностировать и устранить неисправности.\n\nПоэтому покупка Lumos в LTS Market означает больше, чем просто приобретение аппарата.\n\n**Покупая Lumos у нас, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n[Laser Tech Service](https://lasertechservice.pl/) специализируется на диагностике, обслуживании и ремонте лазерного и косметологического оборудования. Специалисты работают с диодными лазерами, системами охлаждения, электроникой и лазерными манипулами.\n\nЕсли возникают технические вопросы или неисправности, вы можете обратиться к специалистам, которые ежедневно занимаются обслуживанием лазерного оборудования.\n\n### Обслуживание лазеров\n\nПрофессиональная диагностика, технические проверки и профилактика оборудования.\n\n### Ремонт лазеров\n\nПоиск неисправностей и ремонт электронных компонентов, систем охлаждения и других узлов.\n\n### Восстановление лазеров\n\nРаботы по восстановлению лазерных манипул и отдельных компонентов оборудования.\n\n### Поддержка после покупки\n\nДоступ к профессиональным специалистам [Laser Tech Service](https://lasertechservice.pl/).\n\n**LTS Market продаёт профессиональные лазеры. [Laser Tech Service](https://lasertechservice.pl/) обеспечивает техническую поддержку после покупки.**\n\nУсловия гарантийного и послегарантийного обслуживания определяются договором покупки и согласованным объёмом работ. Сервисная поддержка не означает автоматического бесплатного ремонта, предоставления запчастей или выезда мастера.\n\n## Сколько стоит Lumos?\n\nСтоимость профессионального лазера Lumos в LTS Market составляет от 68 000 до 100 000 zł в зависимости от выбранной комплектации.\n\nПеред покупкой важно определить, какие характеристики и функции действительно необходимы для работы салона.\n\nLTS Market подготовит индивидуальное коммерческое предложение. Также можно обсудить возможность приобретения оборудования в лизинг на условиях финансовой организации.\n\n**При покупке Lumos в LTS Market вы также получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Частые вопросы\n\n### Сколько стоит Lumos?\n\nСтоимость Lumos составляет от 68 000 до 100 000 zł в зависимости от комплектации и условий предложения.\n\n### Какие длины волн использует Lumos?\n\nLumos объединяет четыре длины волны: 755, 808, 940 и 1064 нм.\n\n### Какая мощность манипулы?\n\nLumos предлагается в конфигурациях с мощностью манипулы от 2000 до 4000 Вт.\n\n### Какие параметры импульсов доступны?\n\nЗаявленный диапазон энергии составляет 10–240 Дж, частота — 1–30 Гц, длительность импульса начинается от 5 мс.\n\n### Что означает FAC?\n\nFAC — оптическая технология для уменьшения расходимости лазерного излучения по одной из осей.\n\n### Что такое NeoDez?\n\nNeoDez — дополнительная технология, связанная с гигиеной манипулы. Она не заменяет стандартные процедуры очистки и дезинфекции.\n\n### Есть ли у Lumos охлаждение?\n\nДа. Lumos использует систему охлаждения ICE Flow.\n\n### Есть ли Android и CRM?\n\nAndroid и CRM указаны среди функций Lumos. Точный перечень возможностей зависит от версии программного обеспечения.\n\n### Есть ли в Lumos дерматоскоп?\n\nФункция дерматоскопа заявлена в оснащении аппарата и должна использоваться согласно инструкции производителя.\n\n### Предоставляется ли сервисная поддержка после покупки?\n\nДа. При покупке Lumos в LTS Market клиент получает профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\n### Доступен ли послегарантийный ремонт?\n\nДа. [Laser Tech Service](https://lasertechservice.pl/) предоставляет услуги послегарантийной диагностики и ремонта. Стоимость определяется индивидуально.\n\n### Можно ли приобрести Lumos в лизинг?\n\nВозможность финансирования можно обсудить с LTS Market. Условия зависят от финансовой организации.\n\n### Как заказать Lumos?\n\nСвяжитесь с LTS Market через форму на сайте, по телефону или электронной почте, чтобы получить индивидуальное предложение.\n\n## Покупая Lumos, вы получаете больше, чем лазер.\n\n### Гарантия 24 месяца и доставка\n\nГарантия на условиях договора и доставка до дверей по всей Польше.\n\n### Сервис и техническая поддержка\n\n[Laser Tech Service](https://lasertechservice.pl/): диагностика, обслуживание и ремонт. Поддержка также в выходные по согласованным правилам.\n\n### Сайт-визитка в подарок\n\n[Raccoon Studio](https://raccoon-studio.com.ua/pl/) — от идеи до реализации. Сайт на первый год; первые 3 месяца поддержка и продвижение бесплатно. Дальнейшая поддержка и продвижение со скидками на согласованных условиях.\n\n### [Лизинг и финансирование](https://ltsmarket.pl/ru/leasing.html)\n\nОбсудите финансирование выбранной комплектации Lumos. Доступность и условия согласовываются индивидуально.\n\n[Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса](https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/)\n\n**Покупая Lumos в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Запрос о Lumos\n\nОпишите потребности кабинета. Мы согласуем комплектацию, цену, доступность и условия сервисной поддержки.\n\n[+48 575 254 431](tel:+48575254431)\n[sales@ltsmarket.pl](mailto:sales@ltsmarket.pl)"
     },
     {
       "language": "ru",
@@ -8784,7 +9267,7 @@
       },
       "sourceUrl": "https://ltsmarket.pl/ru/novye/ray/",
       "markdownUrl": "https://ltsmarket.pl/ru/novye/ray/index.md",
-      "pageText": "**ПРОФЕССИОНАЛЬНЫЙ ДИОДНЫЙ ЛАЗЕР — COMPACT**\n\nПрофессиональный диодный лазер с манипулой мощностью 1200 Вт, четырьмя сменными насадками, оптической технологией FAC, сенсорным экраном манипулы и охлаждением Freon 300 Вт.\n\n**55 000–75 000 zł**\n\n**Покупая Ray в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\nНовое оборудование: 14–30 рабочих дней.\nБесплатная доставка от 35 000 zł.\nДоставка по Польше: 700 zł для заказов менее 35 000 zł.\n\n![Диодный лазер Ray с панелью управления и манипулой](https://ltsmarket.pl/assets/img/nowe/ray.webp)\n\n## Ray — удобная работа на разных участках тела\n\nПри проведении лазерной эпиляции специалист работает как с большими участками тела, так и с небольшими зонами, где особенно важна точность положения манипулы.\n\nRay — профессиональный диодный лазер с четырьмя сменными насадками. Такая конструкция позволяет адаптировать работу манипулы к различным зонам обработки в пределах предусмотренного производителем применения.\n\nМощность манипулы 1200 Вт, заявленная энергия 150 Дж при 200 мс, оптическая технология FAC и встроенный сенсорный экран составляют основу его функциональных возможностей.\n\nRay может заинтересовать косметологические кабинеты, для которых особенно важны удобство манипулы и возможность использования сменных насадок.\n\n## Возможности Ray\n\n### Четыре сменные насадки для разных зон\n\nОдной из главных особенностей Ray являются четыре сменные насадки.\n\n### Манипула 1200 Вт и энергия 150 Дж\n\nRay оснащён манипулой с заявленной мощностью 1200 Вт. Энергия указана как 150 Дж при длительности импульса 200 мс.\n\n### Эргономичная манипула с сенсорным экраном\n\nRay оснащён эргономичной манипулой со встроенным сенсорным экраном.\n\n## Четыре сменные насадки для разных зон\n\nОдной из главных особенностей Ray являются четыре сменные насадки.\n\nРазмер и форма рабочего окна влияют на способ перемещения манипулы по поверхности кожи.\n\nСменные насадки позволяют адаптировать работу к различным участкам тела.\n\nТочные размеры и назначение каждой насадки необходимо уточнять в технической документации аппарата.\n\n## Манипула 1200 Вт и энергия 150 Дж\n\nRay оснащён манипулой с заявленной мощностью 1200 Вт. Энергия указана как 150 Дж при длительности импульса 200 мс.\n\nПри выборе профессионального лазера необходимо учитывать не только мощность, но и оптическую систему, охлаждение, способ передачи энергии и эргономику манипулы.\n\nПараметры процедур должны соответствовать инструкции производителя и профессиональной оценке клиента.\n\n## Диодная сборка из 12 лазерных баров\n\nRay использует диодную сборку из 12 лазерных баров.\n\nЛазерный бар представляет собой полупроводниковый элемент с излучающими структурами. Несколько таких элементов образуют часть источника лазерного излучения.\n\nДля нормальной работы сборки важны правильное охлаждение, управление электрическим током и состояние соединений.\n\nКоличество баров само по себе не является показателем эффективности эпиляции.\n\n## Оптическая технология FAC\n\nRay использует технологию Fast Axis Collimation, предназначенную для уменьшения расходимости лазерного излучения по одной из осей.\n\nОптическая система помогает формировать и направлять излучение диодной сборки.\n\nСостояние оптических компонентов имеет значение для правильной работы лазерного оборудования.\n\n## Охлаждение Freon 300 Вт\n\nRay предлагается с системой охлаждения, обозначенной как Freon 300 Вт.\n\nСистема охлаждения предназначена для поддержания нормальных условий работы компонентов аппарата.\n\nХолодильные контуры требуют правильной эксплуатации и технического обслуживания. Необходимо контролировать состояние компонентов, герметичность системы и эффективность теплообмена.\n\nТочный тип хладагента и конструкцию системы необходимо уточнять по документации конкретного устройства.\n\n## Эргономичная манипула с сенсорным экраном\n\nRay оснащён эргономичной манипулой со встроенным сенсорным экраном.\n\nЭкран обеспечивает доступ к функциям управления, предусмотренным производителем.\n\nСменные насадки позволяют адаптировать манипулу к различным зонам обработки.\n\nТакая конструкция может быть удобна для салонов, выполняющих процедуры на разных участках тела.\n\n## Кому подойдёт Ray?\n\n### Салонам красоты\n\nДля кабинетов, которые планируют внедрить или расширить услуги профессиональной лазерной эпиляции.\n\n### Косметологическим кабинетам\n\nДля специалистов, которым важна возможность использования сменных насадок при работе на различных участках тела.\n\n### Студиям лазерной эпиляции\n\nДля бизнеса, который ценит удобство манипулы, сенсорное управление и доступность технической поддержки.\n\n## Характеристики Ray\n\n| Параметр | Значение |\n| --- | --- |\n| Модель | Ray |\n| Тип | Профессиональный диодный лазер |\n| Позиционирование | Compact |\n| Цена | 55 000–75 000 zł |\n| Мощность манипулы | 1200 W |\n| Энергия / длительность импульса | 150 J / 200 ms |\n| Охлаждение | Freon 300 W |\n| Оптика | FAC |\n| Насадки | 4 сменные |\n| Диодная сборка | 12 лазерных баров (не давление) |\n| Манипула | Эргономичная, с сенсорным экраном |\n\n## Галерея Ray\n\nДиодный лазер Ray с панелью управления и манипулой\n\n## Покупаете Ray. Получаете сервисную поддержку Laser Tech Service.\n\nПрофессиональный диодный лазер требует правильной эксплуатации и регулярного технического обслуживания.\n\nОсобенно важно контролировать состояние манипулы, диодной сборки, системы охлаждения, электроники и электрических соединений.\n\nПри покупке Ray в LTS Market вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\nСпециалисты [Laser Tech Service](https://lasertechservice.pl/) занимаются диагностикой, обслуживанием и ремонтом диодных лазеров, восстановлением манипул и обслуживанием систем охлаждения.\n\nЭто позволяет обратиться за профессиональной технической помощью при возникновении неисправностей.\n\n**LTS Market продаёт профессиональное оборудование. [Laser Tech Service](https://lasertechservice.pl/) обеспечивает поддержку после покупки.**\n\nУсловия гарантийного и послегарантийного обслуживания определяются договором и согласованным объёмом работ.\n\n## Сколько стоит Ray?\n\nСтоимость Ray в LTS Market составляет 55 000–75 000 zł.\n\nАппарат предлагает манипулу мощностью 1200 Вт, четыре сменные насадки, технологию FAC, сенсорный экран и систему охлаждения Freon 300 Вт.\n\nLTS Market подготовит индивидуальное предложение и поможет обсудить возможность покупки в лизинг.\n\nПокупая Ray у нас, вы также получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\n## Частые вопросы\n\n### Сколько стоит Ray?\n\nЦена Ray в LTS Market составляет 55 000–75 000 zł.\n\n### Сколько сменных насадок у Ray?\n\nRay оснащён четырьмя сменными насадками.\n\n### Какая мощность манипулы?\n\n1200 Вт.\n\n### Какая энергия импульса?\n\nЗаявлено 150 Дж при длительности импульса 200 мс.\n\n### Что означает диодная сборка 12 bar?\n\nЭто сборка из 12 лазерных баров. Речь не идёт о давлении.\n\n### Что такое FAC?\n\nFAC — оптическая технология уменьшения расходимости лазерного излучения.\n\n### Какое охлаждение используется?\n\nRay предлагается с системой Freon 300 Вт.\n\n### Есть ли экран на манипуле?\n\nДа, предусмотрен сенсорный экран.\n\n### Предоставляется ли сервисная поддержка?\n\nДа. При покупке Ray в LTS Market клиент получает поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\n### Можно ли приобрести Ray в лизинг?\n\nВозможность финансирования можно обсудить с LTS Market.\n\n### Как заказать Ray?\n\nСвяжитесь с LTS Market через форму на сайте, по телефону или электронной почте.\n\n**Покупая Ray в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Запрос об Ray\n\nОпишите потребности кабинета. Мы согласуем комплектацию, цену, доступность и условия сервисной поддержки.\n\n[+48 575 254 431](tel:+48575254431)\n[sales@ltsmarket.pl](mailto:sales@ltsmarket.pl)"
+      "pageText": "**ПРОФЕССИОНАЛЬНЫЙ ДИОДНЫЙ ЛАЗЕР — COMPACT**\n\nПрофессиональный диодный лазер с манипулой мощностью 1200 Вт, четырьмя сменными насадками, оптической технологией FAC, сенсорным экраном манипулы и охлаждением Freon 300 Вт.\n\n**55 000–75 000 zł**\n\n**Покупая Ray в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\nНовое оборудование: 14–30 рабочих дней.\nБесплатная доставка от 35 000 zł.\nДоставка по Польше: 700 zł для заказов менее 35 000 zł.\n\n![Диодный лазер Ray с панелью управления и манипулой](https://ltsmarket.pl/assets/img/nowe/ray.webp)\n\n## Ray — удобная работа на разных участках тела\n\nПри проведении лазерной эпиляции специалист работает как с большими участками тела, так и с небольшими зонами, где особенно важна точность положения манипулы.\n\nRay — профессиональный диодный лазер с четырьмя сменными насадками. Такая конструкция позволяет адаптировать работу манипулы к различным зонам обработки в пределах предусмотренного производителем применения.\n\nМощность манипулы 1200 Вт, заявленная энергия 150 Дж при 200 мс, оптическая технология FAC и встроенный сенсорный экран составляют основу его функциональных возможностей.\n\nRay может заинтересовать косметологические кабинеты, для которых особенно важны удобство манипулы и возможность использования сменных насадок.\n\n## Возможности Ray\n\n### Четыре сменные насадки для разных зон\n\nОдной из главных особенностей Ray являются четыре сменные насадки.\n\n### Манипула 1200 Вт и энергия 150 Дж\n\nRay оснащён манипулой с заявленной мощностью 1200 Вт. Энергия указана как 150 Дж при длительности импульса 200 мс.\n\n### Эргономичная манипула с сенсорным экраном\n\nRay оснащён эргономичной манипулой со встроенным сенсорным экраном.\n\n## Четыре сменные насадки для разных зон\n\nОдной из главных особенностей Ray являются четыре сменные насадки.\n\nРазмер и форма рабочего окна влияют на способ перемещения манипулы по поверхности кожи.\n\nСменные насадки позволяют адаптировать работу к различным участкам тела.\n\nТочные размеры и назначение каждой насадки необходимо уточнять в технической документации аппарата.\n\n## Манипула 1200 Вт и энергия 150 Дж\n\nRay оснащён манипулой с заявленной мощностью 1200 Вт. Энергия указана как 150 Дж при длительности импульса 200 мс.\n\nПри выборе профессионального лазера необходимо учитывать не только мощность, но и оптическую систему, охлаждение, способ передачи энергии и эргономику манипулы.\n\nПараметры процедур должны соответствовать инструкции производителя и профессиональной оценке клиента.\n\n## Диодная сборка из 12 лазерных баров\n\nRay использует диодную сборку из 12 лазерных баров.\n\nЛазерный бар представляет собой полупроводниковый элемент с излучающими структурами. Несколько таких элементов образуют часть источника лазерного излучения.\n\nДля нормальной работы сборки важны правильное охлаждение, управление электрическим током и состояние соединений.\n\nКоличество баров само по себе не является показателем эффективности эпиляции.\n\n## Оптическая технология FAC\n\nRay использует технологию Fast Axis Collimation, предназначенную для уменьшения расходимости лазерного излучения по одной из осей.\n\nОптическая система помогает формировать и направлять излучение диодной сборки.\n\nСостояние оптических компонентов имеет значение для правильной работы лазерного оборудования.\n\n## Охлаждение Freon 300 Вт\n\nRay предлагается с системой охлаждения, обозначенной как Freon 300 Вт.\n\nСистема охлаждения предназначена для поддержания нормальных условий работы компонентов аппарата.\n\nХолодильные контуры требуют правильной эксплуатации и технического обслуживания. Необходимо контролировать состояние компонентов, герметичность системы и эффективность теплообмена.\n\nТочный тип хладагента и конструкцию системы необходимо уточнять по документации конкретного устройства.\n\n## Эргономичная манипула с сенсорным экраном\n\nRay оснащён эргономичной манипулой со встроенным сенсорным экраном.\n\nЭкран обеспечивает доступ к функциям управления, предусмотренным производителем.\n\nСменные насадки позволяют адаптировать манипулу к различным зонам обработки.\n\nТакая конструкция может быть удобна для салонов, выполняющих процедуры на разных участках тела.\n\n## Кому подойдёт Ray?\n\n### Салонам красоты\n\nДля кабинетов, которые планируют внедрить или расширить услуги профессиональной лазерной эпиляции.\n\n### Косметологическим кабинетам\n\nДля специалистов, которым важна возможность использования сменных насадок при работе на различных участках тела.\n\n### Студиям лазерной эпиляции\n\nДля бизнеса, который ценит удобство манипулы, сенсорное управление и доступность технической поддержки.\n\n## Характеристики Ray\n\n| Параметр | Значение |\n| --- | --- |\n| Модель | Ray |\n| Тип | Профессиональный диодный лазер |\n| Позиционирование | Compact |\n| Цена | 55 000–75 000 zł |\n| Мощность манипулы | 1200 W |\n| Энергия / длительность импульса | 150 J / 200 ms |\n| Охлаждение | Freon 300 W |\n| Оптика | FAC |\n| Насадки | 4 сменные |\n| Диодная сборка | 12 лазерных баров |\n| Манипула | Эргономичная, с сенсорным экраном |\n\n## Галерея Ray\n\nДиодный лазер Ray с панелью управления и манипулой\n\n## Покупаете Ray. Получаете сервисную поддержку Laser Tech Service.\n\nПрофессиональный диодный лазер требует правильной эксплуатации и регулярного технического обслуживания.\n\nОсобенно важно контролировать состояние манипулы, диодной сборки, системы охлаждения, электроники и электрических соединений.\n\nПри покупке Ray в LTS Market вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\nСпециалисты [Laser Tech Service](https://lasertechservice.pl/) занимаются диагностикой, обслуживанием и ремонтом диодных лазеров, восстановлением манипул и обслуживанием систем охлаждения.\n\nЭто позволяет обратиться за профессиональной технической помощью при возникновении неисправностей.\n\n**LTS Market продаёт профессиональное оборудование. [Laser Tech Service](https://lasertechservice.pl/) обеспечивает поддержку после покупки.**\n\nУсловия гарантийного и послегарантийного обслуживания определяются договором и согласованным объёмом работ.\n\n## Сколько стоит Ray?\n\nСтоимость Ray в LTS Market составляет 55 000–75 000 zł.\n\nАппарат предлагает манипулу мощностью 1200 Вт, четыре сменные насадки, технологию FAC, сенсорный экран и систему охлаждения Freon 300 Вт.\n\nLTS Market подготовит индивидуальное предложение и поможет обсудить возможность покупки в лизинг.\n\nПокупая Ray у нас, вы также получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\n## Частые вопросы\n\n### Сколько стоит Ray?\n\nЦена Ray в LTS Market составляет 55 000–75 000 zł.\n\n### Сколько сменных насадок у Ray?\n\nRay оснащён четырьмя сменными насадками.\n\n### Какая мощность манипулы?\n\n1200 Вт.\n\n### Какая энергия импульса?\n\nЗаявлено 150 Дж при длительности импульса 200 мс.\n\n### Что означает диодная сборка 12 bar?\n\nЭто сборка из 12 лазерных баров. Речь не идёт о давлении.\n\n### Что такое FAC?\n\nFAC — оптическая технология уменьшения расходимости лазерного излучения.\n\n### Какое охлаждение используется?\n\nRay предлагается с системой Freon 300 Вт.\n\n### Есть ли экран на манипуле?\n\nДа, предусмотрен сенсорный экран.\n\n### Предоставляется ли сервисная поддержка?\n\nДа. При покупке Ray в LTS Market клиент получает поддержку [Laser Tech Service](https://lasertechservice.pl/).\n\n### Можно ли приобрести Ray в лизинг?\n\nВозможность финансирования можно обсудить с LTS Market.\n\n### Как заказать Ray?\n\nСвяжитесь с LTS Market через форму на сайте, по телефону или электронной почте.\n\n**Покупая Ray в LTS Market, вы получаете профессиональную сервисную поддержку [Laser Tech Service](https://lasertechservice.pl/).**\n\n## Запрос о Ray\n\nОпишите потребности кабинета. Мы согласуем комплектацию, цену, доступность и условия сервисной поддержки.\n\n[+48 575 254 431](tel:+48575254431)\n[sales@ltsmarket.pl](mailto:sales@ltsmarket.pl)"
     },
     {
       "language": "ru",

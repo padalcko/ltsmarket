@@ -82,23 +82,27 @@ Cena zależy od konfiguracji urządzenia.
 
 Zobacz więcej
 
-Leasing i finansowanie urządzeń kosmetologicznych
+FINANSOWANIE
 
-## Leasing i finansowanie urządzeń kosmetologicznych
+## Leasing i finansowanie
 
 Profesjonalne wyposażenie salonu nie musi oznaczać jednorazowego wydatku całego kapitału. Leasing pozwala rozłożyć koszt zakupu urządzenia w czasie i zachować środki na rozwój działalności.
 
-Z finansowania mogą korzystać również przedsiębiorcy, którzy dopiero rozpoczynają działalność.
+### Również dla nowych firm
 
-### Najważniejsze korzyści:
+Możliwość ubiegania się o finansowanie od początku działalności.
 
-- Finansowanie również dla nowych firm.
+### Rozłożenie kosztów
 
-- Rozłożenie kosztów inwestycji w czasie.
+Rozłóż koszt zakupu urządzenia w czasie.
 
-- Zachowanie kapitału obrotowego.
+### Zachowanie kapitału
 
-- Możliwość finansowania profesjonalnego wyposażenia salonu.
+Zachowaj środki na bieżące potrzeby i rozwój salonu.
+
+### Rozwój biznesu
+
+Finansowanie profesjonalnego wyposażenia gabinetu.
 
 Warunki finansowania oraz ostateczna decyzja zależą od indywidualnej oceny partnera finansowego.
 
@@ -182,7 +186,7 @@ Profesjonalne urządzenie RF mikroigłowe Chungwoo ELLISYS PLUS z 2024 roku. Urz
 
 Zobacz szczegóły
 
-## Profesjonalne wsparcie Laser Tech Service
+## Wsparcie Laser Tech Service
 
 Zakup profesjonalnego urządzenia kosmetologicznego to początek jego eksploatacji. Dlatego równie ważny jak wybór sprzętu jest dostęp do odpowiedniego zaplecza technicznego.
 
@@ -190,27 +194,31 @@ Wsparcie serwisowe klientów LTS Market zapewnia Laser Tech Service, specjalizuj
 
 Profesjonalna obsługa techniczna pomaga ograniczyć ryzyko przestojów i utrzymać urządzenia w odpowiednim stanie technicznym.
 
-Nasi klienci i szkolenia
+ZAUFANIE I DOŚWIADCZENIE
 
-## Zaufali nam profesjonaliści
+## Nasi klienci
 
-Zakup urządzenia w LTS Market to nie tylko inwestycja w profesjonalny sprzęt. Przy zakupie nowego urządzenia zapewniamy bezpłatne szkolenie z jego obsługi oraz profesjonalne wsparcie techniczne.
+Nasze urządzenia pracują w salonach kosmetologicznych. Przy zakupie nowego urządzenia zapewniamy bezpłatne szkolenie z jego obsługi, aby specjaliści mogli lepiej poznać możliwości zakupionego sprzętu.
 
-Zobacz gabinety wyposażone w nasze urządzenia oraz specjalistów, którzy ukończyli szkolenia.
+![Laser Lumos w salonie kosmetologicznym](https://ltsmarket.pl/assets/img/clients/lumos-laser-in-beauty-salon.webp)
 
-Wszystkie prezentowane fotografie przedstawiają rzeczywistych klientów, wyposażenie gabinetów oraz szkolenia.
+Laser Lumos w salonie kosmetologicznym
 
-![Laser LUMOS w gabinecie kosmetologicznym.](https://ltsmarket.pl/assets/img/clients/lumos-laser-in-beauty-salon.webp)
+![Uczestnicy szkolenia z certyfikatami](https://ltsmarket.pl/assets/img/clients/lumos-group-training-certificates.webp)
 
-![Cztery uczestniczki szkolenia z certyfikatami przy laserze LUMOS.](https://ltsmarket.pl/assets/img/clients/lumos-group-training-certificates.webp)
+Uczestnicy szkolenia z certyfikatami
 
-![Dwie specjalistki z certyfikatem obok urządzeń Alpha Mini i LUMOS.](https://ltsmarket.pl/assets/img/clients/lumos-alpha-mini-equipment-training.webp)
+![Profesjonalne wyposażenie salonu](https://ltsmarket.pl/assets/img/clients/lumos-alpha-mini-equipment-training.webp)
 
-![Uczestniczka szkolenia z certyfikatem obok lasera LUMOS.](https://ltsmarket.pl/assets/img/clients/lumos-training-certificate.webp)
+Profesjonalne wyposażenie salonu
 
-![Trzy specjalistki w gabinecie przy urządzeniu LUMOS i certyfikacie szkolenia.](https://ltsmarket.pl/assets/img/clients/lumos-salon-team-training.webp)
+![Uczestniczka szkolenia z certyfikatem](https://ltsmarket.pl/assets/img/clients/lumos-training-certificate.webp)
 
-![Gabinet zabiegowy wyposażony w laser LUMOS.](https://ltsmarket.pl/assets/img/clients/lumos-equipped-treatment-room.webp)
+Uczestniczka szkolenia z certyfikatem
+
+![Gabinet wyposażony w laser Lumos](https://ltsmarket.pl/assets/img/clients/lumos-equipped-treatment-room.webp)
+
+Gabinet wyposażony w laser Lumos
 
 ## Najnowsze artykuły
 
@@ -294,7 +302,7 @@ Dostępne są również urządzenia używane oraz możliwość finansowania zaku
 
 Kontakt
 
-## Właściciel salonu?
+## Skontaktuj się z nami
 
 Porozmawiajmy o nowym urządzeniu.
 

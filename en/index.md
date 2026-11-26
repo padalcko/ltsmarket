@@ -12,7 +12,7 @@ Proven solutions for your business
 
 New and pre-owned aesthetic equipment, leasing options for newly established businesses, free training with the purchase of new equipment, and professional technical support from Laser Tech Service. We deliver throughout Poland.
 
-**Verified equipment**Professional equipment for beauty salons and aesthetic clinics.**Free training**Included with the purchase of new equipment.**Leasing and financing**Available for newly established businesses.**Professional service**Technical support from Laser Tech Service.
+**Verified equipment**Professional equipment for beauty salons and clinics.**Free training**Included with the purchase of new equipment.**Leasing and financing**Also available for newly established businesses.**Professional service**Technical support from Laser Tech Service.
 
 LTS Market
 
@@ -82,23 +82,27 @@ The price depends on the equipment configuration.
 
 View details
 
-Leasing and financing for aesthetic equipment
+FINANCING
 
-## Leasing and financing for aesthetic equipment
+## Leasing and financing
 
-Equipping a professional salon does not necessarily require spending all available capital upfront. Leasing allows businesses to spread equipment costs over time and preserve funds for business development.
+Professional salon equipment does not have to require a large upfront investment. Leasing allows you to spread the purchase cost over time and preserve capital for business development.
 
-Financing options are also available to newly established businesses.
+### For new businesses
 
-### Key benefits:
+Financing applications are also available to newly established businesses.
 
-- Financing options for new businesses.
+### Spread the investment
 
-- Investment costs spread over time.
+Distribute the equipment purchase cost over time.
 
-- Preservation of working capital.
+### Preserve working capital
 
-- Access to professional salon equipment.
+Keep funds available for operating expenses and business growth.
+
+### Grow your business
+
+Finance professional equipment for your salon.
 
 Financing terms and final approval depend on the individual assessment of the financing partner.
 
@@ -132,7 +136,7 @@ We deliver professional equipment to beauty salons and aesthetic clinics across 
 
 LTS Market
 
-## Pre-owned equipment
+## Used equipment
 
 ![MEDIflex US450 — full front view of the device](https://ltsmarket.pl/assets/img/uzywane/mediflex-us450/mediflex-us450-laser-diodowy-front-card.webp)
 
@@ -154,7 +158,7 @@ Multifunctional 3D CONTOUR body-contouring system with cryolipolysis, lipolaser 
 
 6-month warranty
 
-12 000 zł
+PLN 12,000
 
 View details
 
@@ -166,7 +170,7 @@ Professional MEDILASE PRO diode laser from 2021. Fully operational, serviced by 
 
 6-month warranty
 
-35 000 zł
+PLN 35,000
 
 View details
 
@@ -178,11 +182,11 @@ Professional Chungwoo ELLISYS PLUS microneedling RF system from 2024. Fully oper
 
 6-month warranty
 
-30 000 zł
+PLN 30,000
 
 View details
 
-## Professional support from Laser Tech Service
+## Laser Tech Service support
 
 Purchasing professional aesthetic equipment is the beginning of its operational lifecycle. Access to qualified technical support is therefore just as important as choosing the right equipment.
 
@@ -190,71 +194,31 @@ LTS Market customers receive technical support from Laser Tech Service, a specia
 
 Professional servicing helps reduce downtime risks and maintain equipment in appropriate technical condition.
 
-Використовувати наявні посилання на відповідні мовні версії сайту:
+TRUST AND EXPERIENCE
 
-https://lasertechservice.pl/
+## Our clients
 
-Our clients and training
+Our equipment is used in beauty salons. Every purchase of new equipment includes free operational training to help specialists become familiar with their device and its capabilities.
 
-## Trusted by beauty professionals
+![Lumos laser in a beauty salon](https://ltsmarket.pl/assets/img/clients/lumos-laser-in-beauty-salon.webp)
 
-Purchasing equipment from LTS Market is more than an investment in professional technology. Every purchase of new equipment includes free operation training and professional technical support.
+Lumos laser in a beauty salon
 
-Explore beauty salons equipped with our devices and professionals who have completed training.
+![Training participants with certificates](https://ltsmarket.pl/assets/img/clients/lumos-group-training-certificates.webp)
 
-All photographs show actual customers, salon equipment, and training sessions.
+Training participants with certificates
 
-## Alt-тексти
+![Professional salon equipment](https://ltsmarket.pl/assets/img/clients/lumos-alpha-mini-equipment-training.webp)
 
-Сформувати відповідно до фактичного змісту кожної фотографії.
+Professional salon equipment
 
-Приклади допустимих формулювань:
+![Training participant with a certificate](https://ltsmarket.pl/assets/img/clients/lumos-training-certificate.webp)
 
-PL:
+Training participant with a certificate
 
-- Laser LUMOS w gabinecie kosmetologicznym klienta LTS Market.
+![Treatment room with a Lumos laser](https://ltsmarket.pl/assets/img/clients/lumos-equipped-treatment-room.webp)
 
-- Szkolenie z obsługi urządzeń kosmetologicznych.
-
-- Uczestnicy szkolenia z certyfikatami.
-
-- Gabinet kosmetologiczny wyposażony w profesjonalne urządzenia.
-
-RU:
-
-- Лазер LUMOS в косметологическом кабинете клиента LTS Market.
-
-- Обучение работе с косметологическим оборудованием.
-
-- Участники обучения с сертификатами.
-
-- Косметологический кабинет с профессиональным оборудованием.
-
-EN:
-
-- LUMOS laser in an LTS Market customer's beauty salon.
-
-- Professional aesthetic equipment operation training.
-
-- Training participants with certificates.
-
-- Beauty salon equipped with professional aesthetic devices.
-
-Використовувати ці формулювання лише там, де вони відповідають змісту конкретної фотографії.
-
-Не додавати вигаданих відгуків, рейтингів, Review або AggregateRating JSON-LD.
-
-![LUMOS laser in a beauty salon.](https://ltsmarket.pl/assets/img/clients/lumos-laser-in-beauty-salon.webp)
-
-![Four training participants with certificates beside a LUMOS laser.](https://ltsmarket.pl/assets/img/clients/lumos-group-training-certificates.webp)
-
-![Two specialists with a certificate beside Alpha Mini and LUMOS equipment.](https://ltsmarket.pl/assets/img/clients/lumos-alpha-mini-equipment-training.webp)
-
-![Training participant with a certificate beside a LUMOS laser.](https://ltsmarket.pl/assets/img/clients/lumos-training-certificate.webp)
-
-![Three specialists in a salon beside LUMOS equipment and a training certificate.](https://ltsmarket.pl/assets/img/clients/lumos-salon-team-training.webp)
-
-![Treatment room equipped with a LUMOS laser.](https://ltsmarket.pl/assets/img/clients/lumos-equipped-treatment-room.webp)
+Treatment room with a Lumos laser
 
 ## Latest articles
 
@@ -338,7 +302,7 @@ Pre-owned equipment and leasing options are also available.
 
 Contact
 
-## Own a salon?
+## Contact us
 
 Let’s discuss your new equipment.
 

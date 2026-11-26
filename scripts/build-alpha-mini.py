@@ -6,6 +6,7 @@ import json
 import re
 from pathlib import Path
 from site_content import link_service_names
+from faq_schema import script as faq_script
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = 'https://ltsmarket.pl'
@@ -55,6 +56,7 @@ def generate():
         product = {'@context':'https://schema.org','@type':'Product','@id':BASE+ROUTES[lang]+'#product','name':'Alpha Mini','model':'Alpha Mini','description':d['description'],'image':[BASE+IMAGE],'url':BASE+ROUTES[lang],'mainEntityOfPage':BASE+ROUTES[lang],'itemCondition':'https://schema.org/NewCondition','offers':{'@type':'AggregateOffer','lowPrice':40000,'highPrice':60000,'priceCurrency':'PLN','url':BASE+ROUTES[lang],'seller':{'@type':'Organization','name':'LTS Market','url':BASE+'/'}}}
         crumbs = {'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':name,'item':BASE+url} for i,(name,url) in enumerate([('LTS Market',prefix+'/'),(d['catalog'],catalog),('Alpha Mini',ROUTES[lang])])]}
         for obj in [product,crumbs]: head += '<script type="application/ld+json">\n'+json.dumps(obj,ensure_ascii=False,indent=2)+'\n</script>\n'
+        head += faq_script(d['faq'])
         # Reuse the catalogue header/footer verbatim except product language destinations.
         chrome_start = source.split('</head>')[1].split('<main')[0]
         footer = source[source.index('<footer'):source.index('</footer>')+len('</footer>')]

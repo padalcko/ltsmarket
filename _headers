@@ -66,21 +66,6 @@
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
-/blog/page/2/index.md
-  Content-Type: text/markdown; charset=utf-8
-  X-Content-Type-Options: nosniff
-  Link: <https://ltsmarket.pl/blog/page/2/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
-
-/blog/page/3/index.md
-  Content-Type: text/markdown; charset=utf-8
-  X-Content-Type-Options: nosniff
-  Link: <https://ltsmarket.pl/blog/page/3/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
-
-/blog/page/4/index.md
-  Content-Type: text/markdown; charset=utf-8
-  X-Content-Type-Options: nosniff
-  Link: <https://ltsmarket.pl/blog/page/4/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
-
 /blog/sztuczna-inteligencja-w-epilacji-laserowej/index.md
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
@@ -160,21 +145,6 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
-
-/en/blog/page/2/index.md
-  Content-Type: text/markdown; charset=utf-8
-  X-Content-Type-Options: nosniff
-  Link: <https://ltsmarket.pl/en/blog/page/2/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
-
-/en/blog/page/3/index.md
-  Content-Type: text/markdown; charset=utf-8
-  X-Content-Type-Options: nosniff
-  Link: <https://ltsmarket.pl/en/blog/page/3/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
-
-/en/blog/page/4/index.md
-  Content-Type: text/markdown; charset=utf-8
-  X-Content-Type-Options: nosniff
-  Link: <https://ltsmarket.pl/en/blog/page/4/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
 /en/blog/safe-tattoo-removal-nd-yag-laser/index.md
   Content-Type: text/markdown; charset=utf-8
@@ -375,21 +345,6 @@
   Content-Type: text/markdown; charset=utf-8
   X-Content-Type-Options: nosniff
   Link: <https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
-
-/ru/blog/page/2/index.md
-  Content-Type: text/markdown; charset=utf-8
-  X-Content-Type-Options: nosniff
-  Link: <https://ltsmarket.pl/ru/blog/page/2/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
-
-/ru/blog/page/3/index.md
-  Content-Type: text/markdown; charset=utf-8
-  X-Content-Type-Options: nosniff
-  Link: <https://ltsmarket.pl/ru/blog/page/3/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
-
-/ru/blog/page/4/index.md
-  Content-Type: text/markdown; charset=utf-8
-  X-Content-Type-Options: nosniff
-  Link: <https://ltsmarket.pl/ru/blog/page/4/>; rel="canonical", <https://ltsmarket.pl/llms.txt>; rel="describedby"
 
 /ru/blog/pokupka-bu-lazera-diagnostika/index.md
   Content-Type: text/markdown; charset=utf-8

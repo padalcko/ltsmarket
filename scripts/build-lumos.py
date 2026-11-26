@@ -7,6 +7,7 @@ import json
 import re
 from pathlib import Path
 from site_content import link_service_names
+from faq_schema import script as faq_script
 from product_schema import SHIPPING_COPY
 from lumos_visuals import illustration, wavelength_illustration
 import lumos_gallery as media
@@ -99,6 +100,8 @@ def generate():
         crumbjson=next(json.loads(x) for x in re.findall(r'<script type="application/ld\+json">(.*?)</script>',source,re.S) if json.loads(x).get('@type')=='BreadcrumbList')
         crumbjson['itemListElement'][-1].update(name='Lumos',item=BASE+ROUTES[lang])
         for obj in [product,crumbjson]: head+='<script type="application/ld+json">'+json.dumps(obj,ensure_ascii=False,indent=2)+'</script>\n'
+        faq=blocks[11]
+        head+=faq_script([(plain(q),plain(a)) for q,a in zip(faq[::2],faq[1::2])])
         chrome=source.split('</head>')[1].split('<main')[0]
         tail=source[source.index('<footer'):]
         for l in ROUTES:
@@ -137,11 +140,11 @@ def generate():
         main+=alpha.section(plain(service[0]),body(service[1:url-1],True)+f'<a class="button button--primary" href="https://lasertechservice.pl/">{e(plain(service[url-1]))}</a>'+body(service[url+1:]),'service',True)
         price=blocks[10]
         main+=alpha.section(plain(price[0]),body(price[1:-2])+f'<div class="nowe-hero__actions"><a class="button button--primary" href="#contact-form">{e(plain(price[-2]))}</a><a class="button button--outline" href="#contact-form">{e(plain(price[-1]))}</a></div>','purchase')
-        faq=blocks[11]
         main+=alpha.section(labels[6],'<div class="alpha-faq">'+''.join(f'<details><summary>{e(plain(q))}</summary><p>{inline(a)}</p></details>' for q,a in zip(faq[::2],faq[1::2]))+'</div>','faq')
         # Keep the same contact markup and localized handlers, including explicit product context.
         formsection=re.search(r'<section class="contact-form-section".*?</section>',source,re.S)[0]
         formsection=formsection.replace('Alpha Mini','Lumos').replace('alpha-mini','lumos')
+        if lang=='ru': formsection=formsection.replace('Запрос об Lumos','Запрос о Lumos')
         formsection=re.sub(r'<p class="alpha-notice">.*?</p>', '<p class="alpha-notice">'+inline(hero[7])+'</p>',formsection,flags=re.S)
         main+=offer
         main+=formsection

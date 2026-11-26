@@ -129,7 +129,7 @@ Dla specjalistycznych studiów ważne są ergonomia manipuły, wygodne sterowani
 | Chłodzenie | Freon 300 W |
 | Optyka | FAC |
 | Końcówki | 4 wymienne |
-| Stos diodowy | 12 barów laserowych (nie ciśnienie) |
+| Stos diodowy | 12 barów laserowych |
 | Głowica | Ergonomiczna, z ekranem dotykowym |
 
 ## Galeria Ray

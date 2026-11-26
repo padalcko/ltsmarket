@@ -7,6 +7,7 @@ import re
 from pathlib import Path
 from html import escape as e
 from site_content import link_service_names
+from faq_schema import script as faq_script
 from lumos_visuals import ART
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -75,7 +76,7 @@ def rows(product, lang, price):
     else:
         values += ['1200 W','150 J / 200 ms','Freon 300 W','FAC',
                    {'pl':'4 wymienne','en':'4 interchangeable','ru':'4 сменные'}[lang],
-                   {'pl':'12 barów laserowych (nie ciśnienie)','en':'12 laser bars (not pressure)','ru':'12 лазерных баров (не давление)'}[lang],
+                   {'pl':'12 barów laserowych','en':'12 laser bars','ru':'12 лазерных баров'}[lang],
                    {'pl':'Ergonomiczna, z ekranem dotykowym','en':'Ergonomic, with touchscreen','ru':'Эргономичная, с сенсорным экраном'}[lang]]
         keys = names[:8] + names[10:]
     return list(zip(keys, values))
@@ -104,6 +105,8 @@ def generate():
             crumbs = next(x for x in schemas if x.get('@type')=='BreadcrumbList')
             crumbs['itemListElement'][-1].update(name=name,item=BASE+path)
             for obj in [prod, crumbs]: head += '<script type="application/ld+json">'+json.dumps(obj,ensure_ascii=False,indent=2)+'</script>\n'
+            faq = blocks[-1]
+            head += faq_script([(plain(q),plain(a)) for q,a in zip(faq[::2],faq[1::2])])
             chrome = source.split('</head>')[1].split('<main')[0]
             tail = source[source.index('<footer'):]
             for l in PREFIXES:
@@ -132,7 +135,6 @@ def generate():
             main += section(plain(service[0]),body(service[1:url-1],dark=True)+f'<a class="button button--primary" href="https://lasertechservice.pl/">{e(plain(service[url-1]))}</a>'+body(service[url+1:]),'service',True)
             price = blocks[-2]
             main += section(plain(price[0]),body(price[1:-2])+f'<div class="nowe-hero__actions"><a class="button button--primary" href="#contact-form">{e(plain(price[-2]))}</a><a class="button button--outline" href="#contact-form">{e(plain(price[-1]))}</a></div>','purchase')
-            faq = blocks[-1]
             main += section(labels[6],'<div class="alpha-faq">'+''.join(f'<details><summary>{e(plain(q))}</summary><p>{inline(a)}</p></details>' for q,a in zip(faq[::2],faq[1::2]))+'</div>','faq')
             form = re.search(r'<section class="contact-form-section".*?</section>',source,re.S)[0].replace('Lumos',name).replace('lumos',product)
             form = re.sub(r'<p class="alpha-notice">.*?</p>','<p class="alpha-notice">'+inline(hero[6])+'</p>',form,flags=re.S)

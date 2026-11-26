@@ -12,7 +12,7 @@ Other languages: [Polski](https://ltsmarket.pl/uzywane/medilase-pro.html), [Ру
 
 DIODE LASER
 
-35 000 zł
+PLN 35,000
 
 Professional MEDILASE PRO diode laser from 2021. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.
 

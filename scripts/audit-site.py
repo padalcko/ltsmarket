@@ -48,7 +48,8 @@ for p,page in pages.items():
   check(target in pages,p,'alternate missing',url)
   if target in pages: check(any(a.get('rel')=='alternate' and a.get('href')==canon for _,a in pages[target].tags),p,'alternate return',url)
 site=ET.parse('sitemap.xml'); urls={el.text for el in site.findall('.//{http://www.sitemaps.org/schemas/sitemap/0.9}loc')}
-check(urls=={'https://ltsmarket.pl/'+str(p).removesuffix('index.html') for p in pages if p != Path('404.html')},'sitemap mismatch')
+check(urls=={'https://ltsmarket.pl/'+str(p).removesuffix('index.html') for p in pages
+             if p != Path('404.html') and not re.search(r'(^|/)blog/page/\d+/index\.html$', str(p))},'sitemap mismatch')
 for p in Path('.').rglob('*.webmanifest'): json.loads(p.read_text())
 for p in Path('css').glob('*.css'):
  s=re.sub(r'/\*.*?\*/','',p.read_text(),flags=re.S);check(s.count('{')==s.count('}'),p,'CSS braces')

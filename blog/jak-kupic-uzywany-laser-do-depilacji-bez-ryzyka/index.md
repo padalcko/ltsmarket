@@ -266,6 +266,8 @@ LUMOS | LEASING
 
 Rozważasz zakup używanego lasera? Sprawdź również możliwości finansowania nowego LUMOS. Rozwijaj swój salon, korzystając z nowoczesnej technologii i rozkładając inwestycję w czasie.
 
+![Laser diodowy LUMOS — widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-cta-transparent.webp)
+
 [Poznaj LUMOS i możliwości leasingu](https://ltsmarket.pl/nowe/lumos/)
 
 [← Wszystkie artykuły](https://ltsmarket.pl/blog/)

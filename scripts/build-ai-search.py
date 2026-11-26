@@ -11,6 +11,7 @@ if __name__=='__main__':
     from ai_resources import ROOT
     for path in ROOT.rglob('*.md'):
         if '.git' in path.parts or path in expected_markdown: continue
+        if __import__('re').search(r'/blog/page/\d+/index\.md$', str(path)): continue
         text=path.read_text()
         if any(label in text for label in ['\nŹródło HTML: [','\nHTML source: [','\nИсточник HTML: [']):
             raise SystemExit(f'Orphan Markdown requires review (not deleted): {path}')

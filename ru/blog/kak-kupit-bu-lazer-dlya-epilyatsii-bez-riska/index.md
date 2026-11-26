@@ -266,6 +266,8 @@ LUMOS | ЛИЗИНГ
 
 Рассматриваете покупку подержанного лазера? Изучите также возможности финансирования нового LUMOS. Развивайте свой салон, используя современные технологии и распределяя инвестиционные расходы во времени.
 
+![Диодный лазер LUMOS — вид спереди](https://ltsmarket.pl/assets/img/lumos/lumos-front-cta-transparent.webp)
+
 [Узнать больше о LUMOS и лизинге](https://ltsmarket.pl/ru/novye/lumos/)
 
 [← Все статьи](https://ltsmarket.pl/ru/blog/)

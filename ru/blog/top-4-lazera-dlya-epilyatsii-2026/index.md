@@ -151,8 +151,6 @@ Lumos демонстрирует современный подход к созд
 
 [Подробнее о лазере Lumos и его технических характеристиках.](https://ltsmarket.pl/ru/novye/lumos/)
 
-https://ltsmarket.pl/ru/novye/lumos/
-
 ### 4. DEKA Motus AX Moveo
 
 ![Александритовый лазер DEKA Motus AX](https://ltsmarket.pl/assets/img/blog/top-4-laser-hair-removal-2026/deka-motus-ax.webp)

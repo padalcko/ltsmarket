@@ -32,7 +32,7 @@ View details
 
 Multifunctional 3D CONTOUR body-contouring system with cryolipolysis, lipolaser and vacuum massage. Manufactured in 2022. Fully operational, serviced by Laser Tech Service and ready for use.
 
-12 000 zł
+PLN 12,000
 
 View details
 
@@ -42,7 +42,7 @@ View details
 
 Professional MEDILASE PRO diode laser from 2021. Fully operational, serviced by Laser Tech Service and ready for use.
 
-35 000 zł
+PLN 35,000
 
 View details
 
@@ -52,7 +52,7 @@ View details
 
 Professional Chungwoo ELLISYS PLUS microneedling RF system from 2024. Fully operational, serviced by Laser Tech Service and ready for use.
 
-30 000 zł
+PLN 30,000
 
 View details
 
@@ -62,6 +62,6 @@ View details
 
 Pre-owned DaeYang CARBO 3000 CO₂ insufflator. Fully operational, serviced by Laser Tech Service and ready for use.
 
-5 000 zł
+PLN 5,000
 
 View details

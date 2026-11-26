@@ -12,7 +12,7 @@ Other languages: [Polski](https://ltsmarket.pl/uzywane/3d-contour.html), [Рус
 
 BODY CONTOURING
 
-12 000 zł
+PLN 12,000
 
 Multifunctional 3D CONTOUR body-contouring system with cryolipolysis, lipolaser and vacuum massage. Manufactured in 2022. Fully operational, serviced by [Laser Tech Service](https://lasertechservice.pl/) and ready for use.
 

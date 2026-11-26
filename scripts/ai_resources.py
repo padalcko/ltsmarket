@@ -89,7 +89,8 @@ def integration(source):
 
 def discover():
     ns = {'s':'http://www.sitemaps.org/schemas/sitemap/0.9'}
-    urls = [x.text for x in ET.parse(ROOT/'sitemap.xml').findall('s:url/s:loc',ns)]
+    urls = [x.text for x in ET.parse(ROOT/'sitemap.xml').findall('s:url/s:loc',ns)
+            if not re.search(r'/(?:pl/|en/|ru/)?blog/page/\d+/$', x.text or '')]
     assert len(urls)==len(set(urls)), 'Duplicate sitemap URL'
     pages = []
     for url in sorted(urls):
@@ -111,7 +112,7 @@ def discover():
         article = next((x for x in schemas if x.get('@type') in ['Article','BlogPosting']),None)
         kind = 'used-equipment' if product and product.get('itemCondition','').endswith('UsedCondition') else 'new-equipment' if product else 'articles' if article else 'main-pages'
         alternates = {n.attrs['hreflang']:n.attrs['href'] for n in tags if n.tag=='link' and n.attrs.get('hreflang')}
-        alternates = {{'pl-PL':'pl','ru-RU':'ru'}.get(lang,lang):url for lang,url in alternates.items()}
+        alternates = {{'pl-PL':'pl','ru-RU':'ru'}.get(lang,lang):href for lang,href in alternates.items()}
         assert set(alternates)=={'pl','en','ru','x-default'},path
         pages.append(dict(path=path,source=source,tree=tree,tags=tags,meta=meta,canonical=url,lang=lang,
                           title=h1[0].text(),main=main[0],schemas=schemas,product=product,kind=kind,
@@ -192,7 +193,7 @@ def llms(pages):
     out+='The site is available in Polish, English and Russian. Canonical HTML pages are the source of truth. Markdown versions preserve their language, specifications, prices and service qualifications. LTS Market is the seller; Laser Tech Service is the service provider named on the pages. Service scope and financing terms must be read from the relevant HTML page, not inferred from another product.\n\n'
     for kind,title in [('main-pages','Main pages'),('new-equipment','New equipment'),('used-equipment','Used equipment'),('articles','Articles')]:
         out+='## '+title+'\n\n'
-        for p in pages:
+        for p in sorted(pages, key=lambda p: (('pl','en','ru').index(p['lang']), p['canonical'])):
             if p['kind']==kind:
                 out+=f'- [{p["lang"].upper()} — {p["title"]}]({p["canonical"]}): {p["meta"].get("description", "")} [Markdown]({p["md"]})\n'
         out+='\n'
