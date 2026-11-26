@@ -116,7 +116,7 @@ def build(lang, article, page=1):
     crumbs = [{'@type':'ListItem','position':1,'name':d['home'],'item':{'@id':DOMAIN+prefix(lang)}}, {'@type':'ListItem','position':2,'name':d['blog'],'item':{'@id':DOMAIN+route(lang)}}]
     if article:
         crumbs.append({'@type':'ListItem','position':3,'name':d['title'],'item':{'@id':DOMAIN+route(lang,article)}})
-    schema = {'@context':'https://schema.org','@type':'BlogPosting' if article else 'Blog','@id':DOMAIN+route(lang,article)+'#'+('article' if article else 'blog'),'url':DOMAIN+route(lang,article),'name':d['title'] if article else d['blog'],'description':desc,'inLanguage':lang,'publisher':{'@type':'Organization','name':'LTS Market','url':DOMAIN+'/'}}
+    schema = {'@context':'https://schema.org','@type':'BlogPosting' if article else 'Blog','@id':DOMAIN+route(lang,article)+'#'+('article' if article else 'blog'),'url':DOMAIN+route(lang,article),'name':d['title'] if article else d['blog'],'description':desc,'inLanguage':lang,'publisher':{'@type':'Organization','@id':DOMAIN+'/#organization','name':'LTS Market','url':DOMAIN+'/'}}
     if article:
         schema.update(headline=d['title'],mainEntityOfPage=DOMAIN+route(lang,article))
         for key in ('articleSection', 'keywords', 'about'):

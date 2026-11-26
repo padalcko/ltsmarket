@@ -26,6 +26,7 @@
         {
           "@context": "https://schema.org",
           "@type": "Organization",
+          "@id": "https://ltsmarket.pl/#organization",
           "name": "LTS Market",
           "url": "https://ltsmarket.pl/",
           "email": "sales@ltsmarket.pl",
@@ -156,6 +157,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -231,6 +233,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -303,6 +306,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -374,6 +378,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -445,6 +450,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -517,6 +523,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -589,6 +596,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -673,6 +681,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -857,6 +866,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -929,6 +939,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1000,6 +1011,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1072,6 +1084,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1144,6 +1157,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1215,6 +1229,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1287,6 +1302,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1359,6 +1375,7 @@
           "inLanguage": "pl",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1424,8 +1441,9 @@
         {
           "@context": "https://schema.org",
           "@type": "Organization",
+          "@id": "https://ltsmarket.pl/#organization",
           "name": "LTS Market",
-          "url": "https://ltsmarket.pl/en/",
+          "url": "https://ltsmarket.pl/",
           "email": "sales@ltsmarket.pl",
           "telephone": "+48575254431",
           "areaServed": {
@@ -1554,6 +1572,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1629,6 +1648,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1701,6 +1721,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1773,6 +1794,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1844,6 +1866,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1916,6 +1939,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -1988,6 +2012,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -2071,6 +2096,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -2255,6 +2281,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -2326,6 +2353,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -2398,6 +2426,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -2470,6 +2499,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -2541,6 +2571,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -2613,6 +2644,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -2684,6 +2716,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -2756,6 +2789,7 @@
           "inLanguage": "en",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -5704,8 +5738,9 @@
         {
           "@context": "https://schema.org",
           "@type": "Organization",
+          "@id": "https://ltsmarket.pl/#organization",
           "name": "LTS Market",
-          "url": "https://ltsmarket.pl/ru/",
+          "url": "https://ltsmarket.pl/",
           "email": "sales@ltsmarket.pl",
           "telephone": "+48575254431",
           "areaServed": {
@@ -5834,6 +5869,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -5897,7 +5933,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
         "x-default": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
       },
-      "contentSha256": "29e26e6579bb01b3622c724fc143f9d71f385af299cfa553af1addf319cf778e",
+      "contentSha256": "c2a722c6735655598e0e395396b73990c25803f813a754bc1d896a2d17861bb7",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5909,6 +5945,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -5981,6 +6018,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6052,6 +6090,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6124,6 +6163,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6196,6 +6236,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6279,6 +6320,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6463,6 +6505,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6534,6 +6577,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6606,6 +6650,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6677,6 +6722,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6749,6 +6795,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6820,6 +6867,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6892,6 +6940,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -6964,6 +7013,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
@@ -7036,6 +7086,7 @@
           "inLanguage": "ru",
           "publisher": {
             "@type": "Organization",
+            "@id": "https://ltsmarket.pl/#organization",
             "name": "LTS Market",
             "url": "https://ltsmarket.pl/"
           },
