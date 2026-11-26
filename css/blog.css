@@ -81,3 +81,15 @@
 .wavelength-figure svg { display: block; width: 100%; height: auto; }
 .wavelength-figure figcaption { margin-top: 14px; color: var(--color-text-soft); font-size: 14px; line-height: 1.6; text-align: center; }
 @media (max-width: 600px) { .wavelength-figure { overflow-x: auto; } .wavelength-figure svg { min-width: 620px; } }
+
+/* Shared product CTA for the three used-laser buying guides. */
+.blog-cta--lumos-product .blog-cta__copy { min-width:0; }
+.blog-cta--lumos-product .blog-cta__product { display:flex; align-items:center; justify-content:center; margin-top:20px; min-width:0; }
+.blog-cta--lumos-product .blog-cta__product img { display:block; width:100%; max-width:260px; height:auto; object-fit:contain; }
+@media (min-width: 1024px) {
+  .blog-cta--lumos-product { position:relative; }
+  .blog-cta--lumos-product .blog-cta__copy,
+  .blog-cta--lumos-product .blog-cta__actions { width:65%; }
+  .blog-cta--lumos-product .blog-cta__product { position:absolute; top:32px; bottom:32px; right:32px; width:calc((100% - 64px) * .35); margin:0; }
+  .blog-cta--lumos-product .blog-cta__product img { width:100%; height:100%; max-width:none; }
+}
