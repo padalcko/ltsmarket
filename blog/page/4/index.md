@@ -12,6 +12,12 @@ LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
 
+Technologie kosmetologiczne
+
+## [Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF](https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/)
+
+Kawitacja i lifting RF w ofercie gabinetu: poznaj różnice między technologiami, zasady wyboru urządzenia i możliwości rozwoju usług z LTS Market.
+
 Biznes i depilacja laserowa
 
 ## [Depilacja laserowa jako biznes: dlaczego jesień to dobry moment na otwarcie gabinetu?](https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/)

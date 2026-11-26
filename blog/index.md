@@ -12,6 +12,12 @@ LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
 
+Blog LTS Market2026-11-26
+
+## [Jak kupić używany laser do depilacji i nie dać się oszukać? Liczniki impulsów, podróbki i ukryte usterki](https://ltsmarket.pl/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/)
+
+Jak sprawdzić używany laser do depilacji przed zakupem? Licznik impulsów, podróbki, ukryte usterki, diagnostyka i gwarancja LTS Market.
+
 Blog LTS Market2026-11-25
 
 ## [Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia](https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/)
@@ -29,9 +35,3 @@ Blog LTS Market2026-11-24
 ## [Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów](https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/)
 
 Czy nowoczesny laser rzeczywiście wykorzystuje sztuczną inteligencję? Wyjaśniamy znaczenie pomiaru melaniny, spektrofotometrii, czujników i automatycznej kontroli parametrów.
-
-Blog LTS Market2026-11-24
-
-## [Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe](https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/)
-
-Czy trzy długości fal rzeczywiście oznaczają większą skuteczność? Wyjaśniamy fizykę laserów wielofalowych, konstrukcję głowic, znaczenie mocy optycznej oraz wyniki badań klinicznych.

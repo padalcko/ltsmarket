@@ -14,6 +14,12 @@ Practical guides to beauty equipment, financing and running a salon in Poland.
 
 LTS Market Blog2026-11-24
 
+## [Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths](https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/)
+
+Do three wavelengths necessarily mean better results? Explore the physics of multi-wavelength lasers, handpiece architecture, optical power and clinical research.
+
+LTS Market Blog2026-11-24
+
 ## [Top 4 Professional Laser Hair Removal Machines in 2026](https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/)
 
 Alexandrite or diode laser? Explore four professional hair removal systems, their technologies, cooling solutions and practical applications.
@@ -29,9 +35,3 @@ LTS Market Blog2026-11-20
 ## [Why Dermoscopy Matters in Laser Hair Removal](https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/)
 
 Explore how magnified hair and skin observation can support treatment documentation, consultations and professional laser hair removal workflows.
-
-LTS Market Blog2026-11-19
-
-## [What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained](https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/)
-
-Discover why 2000–4000 W is only part of the story. A practical explanation of ICE Flow cooling, pulse settings and FAC laser optics.

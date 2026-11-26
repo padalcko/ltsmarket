@@ -12,6 +12,12 @@ LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
 
+LTS Market Blog2026-11-26
+
+## [How to Buy a Used Hair Removal Laser Without Getting Scammed: Shot Counters, Counterfeits and Hidden Faults](https://ltsmarket.pl/en/blog/how-to-buy-a-used-hair-removal-laser-safely/)
+
+Learn how to check a used hair removal laser before buying. Shot counters, counterfeit devices, hidden faults, professional inspection and warranty.
+
 LTS Market Blog2026-11-25
 
 ## [Fast and comfortable laser hair removal: power, spot size, optics and cooling systems](https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/)
@@ -29,9 +35,3 @@ LTS Market Blog2026-11-24
 ## [Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety](https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/)
 
 Do modern hair removal lasers really use artificial intelligence? Discover melanin measurements, spectrophotometry, sensors and automatic parameter control.
-
-LTS Market Blog2026-11-24
-
-## [Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths](https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/)
-
-Do three wavelengths necessarily mean better results? Explore the physics of multi-wavelength lasers, handpiece architecture, optical power and clinical research.

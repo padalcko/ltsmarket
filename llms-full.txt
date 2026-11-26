@@ -190,6 +190,12 @@ LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
 
+Blog LTS Market2026-11-26
+
+### [Jak kupić używany laser do depilacji i nie dać się oszukać? Liczniki impulsów, podróbki i ukryte usterki](https://ltsmarket.pl/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/)
+
+Jak sprawdzić używany laser do depilacji przed zakupem? Licznik impulsów, podróbki, ukryte usterki, diagnostyka i gwarancja LTS Market.
+
 Blog LTS Market2026-11-25
 
 ### [Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia](https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/)
@@ -207,12 +213,6 @@ Blog LTS Market2026-11-24
 ### [Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów](https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/)
 
 Czy nowoczesny laser rzeczywiście wykorzystuje sztuczną inteligencję? Wyjaśniamy znaczenie pomiaru melaniny, spektrofotometrii, czujników i automatycznej kontroli parametrów.
-
-Blog LTS Market2026-11-24
-
-### [Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe](https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/)
-
-Czy trzy długości fal rzeczywiście oznaczają większą skuteczność? Wyjaśniamy fizykę laserów wielofalowych, konstrukcję głowic, znaczenie mocy optycznej oraz wyniki badań klinicznych.
 
 ---
 
@@ -943,6 +943,280 @@ W kolejnej części serii przyjrzymy się technologiom wpływającym na szybkoś
 5. Sciton. Official manufacturer information on BroadBand Light technology. [https://sciton.com/](https://sciton.com/)
 6. Regulation (EU) 2017/745 on medical devices, including Annex XVI. [https://eur-lex.europa.eu/eli/reg/2017/745/oj](https://eur-lex.europa.eu/eli/reg/2017/745/oj)
 7. Commission Implementing Regulation (EU) 2022/2346 laying down common specifications for the groups of products without an intended medical purpose listed in Annex XVI. [https://eur-lex.europa.eu/eli/reg_impl/2022/2346/oj](https://eur-lex.europa.eu/eli/reg_impl/2022/2346/oj)
+
+[← Wszystkie artykuły](https://ltsmarket.pl/blog/)
+
+---
+
+## Jak kupić używany laser do depilacji i nie dać się oszukać? Liczniki impulsów, podróbki i ukryte usterki
+
+Źródło HTML: [Jak kupić używany laser do depilacji i nie dać się oszukać? Liczniki impulsów, podróbki i ukryte usterki](https://ltsmarket.pl/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/)
+
+Język: Polski
+
+Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/how-to-buy-a-used-hair-removal-laser-safely/), [Русский](https://ltsmarket.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyatsii-bez-riska/)
+
+> Jak sprawdzić używany laser do depilacji przed zakupem? Licznik impulsów, podróbki, ukryte usterki, diagnostyka i gwarancja LTS Market.
+
+Blog LTS Market
+
+26.11.2026 · LTS Market
+
+Kupując używany laser do depilacji, nie trzeba być inżynierem, znać się na elektronice ani rozumieć budowy głowicy laserowej. Najskuteczniejszym sposobem ograniczenia ryzyka nietrafionego zakupu jest powierzenie oceny urządzenia specjalistom zajmującym się jego naprawą i serwisowaniem, jeszcze przed przekazaniem pieniędzy. Jednak nawet jeśli sprzedawca pokazuje niewielką liczbę impulsów, oryginalne dokumenty i działające urządzenie, istnieją kwestie, o których powinien wiedzieć każdy właściciel salonu kosmetologicznego.
+
+### Dlaczego zakup używanego lasera przypomina zakup samochodu?
+
+Wyobraź sobie dwa samochody z tego samego rocznika. Jeden ma przebieg 70 tysięcy kilometrów, drugi 150 tysięcy. Który wybierzesz?
+
+Na pierwszy rzut oka odpowiedź wydaje się oczywista. Co jednak, jeśli pierwszy samochód przeszedł poważną naprawę, był nieregularnie serwisowany, a jego przebieg został zmieniony? Drugi natomiast ma pełną historię serwisową i regularnie przechodził przeglądy techniczne.
+
+W przypadku sprzętu kosmetologicznego sytuacja wygląda bardzo podobnie.
+
+Estetyczny wygląd, niewielka liczba impulsów oraz przekonujące zapewnienia sprzedawcy nie oznaczają jeszcze, że urządzenie jest w dobrym stanie technicznym i będzie pracowało przez wiele lat.
+
+Najważniejsze podzespoły lasera znajdują się wewnątrz obudowy. Ich stanu nie można ocenić na podstawie zdjęć w ogłoszeniu.
+
+### Czy można ufać licznikowi impulsów lasera?
+
+Liczba impulsów jest jednym z pierwszych parametrów, na które zwracają uwagę osoby kupujące używane urządzenia.
+
+To zrozumiałe. Kupujący chce wiedzieć, jak intensywnie eksploatowano laser i jak długo będzie mógł jeszcze z niego korzystać.
+
+Licznik impulsów ma jednak swoje ograniczenia.
+
+W zależności od konstrukcji urządzenia informacje o liczbie impulsów mogą być przechowywane w systemie sterowania, elektronice głowicy lub innych podzespołach. Podczas naprawy, wymiany płyty elektronicznej lub głowicy wskazania licznika mogą ulec zmianie albo zostać wyzerowane.
+
+Nie każde wyzerowanie licznika oznacza oszustwo. Czasami jest konsekwencją uzasadnionej naprawy. Problem pojawia się wtedy, gdy kupujący nie zostaje poinformowany o takich działaniach lub jest celowo wprowadzany w błąd.
+
+Nawet jeśli licznik pokazuje rzeczywistą liczbę impulsów, pozostaje jeszcze jedno pytanie: w jakich warunkach pracował laser?
+
+Badania dotyczące degradacji laserów półprzewodnikowych wskazują, że na ich trwałość wpływają między innymi:
+
+- temperatura diod laserowych;
+
+- natężenie prądu roboczego;
+
+- skuteczność odprowadzania ciepła;
+
+- moc promieniowania;
+
+- przeciążenia elektryczne;
+
+- wilgoć i uszkodzenia podzespołów.
+
+Dwa identyczne urządzenia z taką samą liczbą impulsów mogą znajdować się w zupełnie innym stanie technicznym.
+
+Dlatego licznik należy traktować jako dodatkowe źródło informacji, a nie gwarancję pozostałej żywotności urządzenia.
+
+### Laser działa, ale czy zapewnia odpowiednią moc?
+
+Sprzedawca uruchamia urządzenie. Wyświetlacz działa, układ chłodzenia się włącza, a głowica generuje impulsy. Na pierwszy rzut oka wszystko jest w porządku.
+
+Czy jednak rzeczywiste parametry promieniowania laserowego odpowiadają wartościom wyświetlanym na ekranie?
+
+Laser może generować impulsy, ale mieć obniżone lub niestabilne parametry wyjściowe. Przyczyną może być degradacja modułu diodowego, uszkodzenie optyki, problem z zasilaniem lub niewystarczające chłodzenie.
+
+Bez odpowiedniej aparatury pomiarowej trudno to ocenić.
+
+Podczas profesjonalnej diagnostyki specjalista wykorzystuje przyrządy pomiarowe dobrane do rodzaju lasera, długości fali oraz charakterystyki promieniowania. Wyniki porównuje się z dokumentacją techniczną konkretnego modelu.
+
+Ważna jest również stabilność parametrów podczas pracy.
+
+Urządzenie, które poprawnie działa podczas krótkiej prezentacji, może zacząć się przegrzewać lub tracić stabilność przy dłuższym obciążeniu.
+
+Dla salonu może to oznaczać przerwane zabiegi, niezadowolonych klientów oraz konieczność czasowego wstrzymania pracy.
+
+### Podrobione lasery: kiedy znana marka istnieje tylko na obudowie
+
+Podrabiane są nie tylko części samochodowe, ubrania i elektronika. Na rynku profesjonalnego sprzętu kosmetologicznego również występują kopie urządzeń znanych marek.
+
+Problem podrobionych urządzeń estetycznych był opisywany między innymi w czasopismach Lasers in Surgery and Medicine, Aesthetic Surgery Journal oraz Journal of Cosmetic Dermatology.
+
+Dobrze wykonana kopia może mieć podobną obudowę, interfejs, głowicę oraz logo. Nie oznacza to jednak, że wewnątrz zastosowano takie same podzespoły, zabezpieczenia lub źródła promieniowania.
+
+Warto odróżnić podróbkę od tańszego urządzenia innego producenta. Sprzęt mniej znanej marki nie musi być złej jakości. Problem pojawia się wtedy, gdy jedno urządzenie jest przedstawiane jako inne lub sprzedawca podaje nieprawdziwe informacje o jego pochodzeniu.
+
+Przed zakupem markowego lasera warto sprawdzić:
+
+- numer seryjny urządzenia;
+
+- numery seryjne głowic, jeśli producent je stosuje;
+
+- fabryczną tabliczkę znamionową;
+
+- zgodność dokumentów z konkretnym modelem;
+
+- pochodzenie sprzętu;
+
+- możliwość potwierdzenia autentyczności u producenta.
+
+Jeśli sprzedawca nie potrafi wyjaśnić pochodzenia urządzenia, nie warto podejmować decyzji pod presją czasu.
+
+### Ukryte usterki, których nie widać na zdjęciach
+
+Przygotowanie urządzenia do sprzedaży może obejmować czyszczenie obudowy, wymianę elementów zewnętrznych i usunięcie uszkodzeń kosmetycznych.
+
+To normalna praktyka. Wygląd urządzenia nie informuje jednak o stanie jego wewnętrznych podzespołów.
+
+Podczas diagnostyki można wykryć między innymi:
+
+- obniżone parametry modułu laserowego;
+
+- ślady wycieków płynu wewnątrz urządzenia;
+
+- uszkodzenia elementów optycznych;
+
+- niewystarczający przepływ płynu chłodzącego;
+
+- niesprawne wentylatory lub pompy;
+
+- uszkodzenia przewodów głowicy;
+
+- niestabilną pracę zasilacza;
+
+- skutki nieprofesjonalnych napraw;
+
+- niesprawne układy kontroli temperatury.
+
+Wcześniejsza naprawa sama w sobie nie oznacza, że urządzenie jest złe.
+
+Profesjonalnie naprawiony laser, z udokumentowaną wymianą podzespołów i przeprowadzonymi pomiarami technicznymi, może być lepszym wyborem niż urządzenie o nieznanej historii eksploatacji.
+
+Istotne jest nie to, czy laser był naprawiany, ale co naprawiono, kto wykonał naprawę i jakie wyniki uzyskano po jej zakończeniu.
+
+### Czy oznakowanie CE wystarczy, aby bezpiecznie kupić laser?
+
+Kupując sprzęt kosmetologiczny w Polsce, należy uwzględnić europejskie wymagania dotyczące zgodności urządzeń.
+
+Rozporządzenie wykonawcze Komisji (UE) 2022/2346 ustanawia wspólne specyfikacje dla określonych grup produktów bez przewidzianego zastosowania medycznego, w tym urządzeń laserowych i IPL stosowanych do usuwania owłosienia oraz innych zabiegów na skórze.
+
+W odniesieniu do profesjonalnych urządzeń objętych odpowiednimi przepisami przewidziano regularną kontrolę parametrów wyjściowych, w tym pomiar gęstości energii świetlnej co najmniej raz w roku, zgodnie z instrukcjami producenta.
+
+Oznakowanie CE nie jest jednak potwierdzeniem aktualnego stanu technicznego używanego urządzenia.
+
+Sprzęt mógł spełniać wymagania w momencie wprowadzenia do obrotu, a następnie ulec uszkodzeniu, nieprofesjonalnej naprawie lub modyfikacji.
+
+Dlatego weryfikacja dokumentacji i diagnostyka techniczna wzajemnie się uzupełniają.
+
+### Ile naprawdę kosztuje tani laser?
+
+Rozważmy przykładową sytuację.
+
+Właściciel salonu znalazł używany laser diodowy za 25 000 zł. Inne urządzenie o podobnych parametrach kosztuje 30 000 zł, ale ma udokumentowaną historię serwisową, przeszło diagnostykę i jest sprzedawane z gwarancją.
+
+Pierwsza oferta wydaje się korzystniejsza.
+
+Załóżmy jednak, że po zakupie konieczna jest naprawa głowicy, układu chłodzenia oraz ponowna diagnostyka.
+
+| Koszty | Laser bez wcześniejszej kontroli | Laser sprawdzony |
+| --- | --- | --- |
+| Cena zakupu | 25 000 PLN | 30 000 PLN |
+| Naprawa głowicy | 6 000 PLN | 0 PLN |
+| Naprawa chłodzenia | 1 500 PLN | 0 PLN |
+| Diagnostyka | 600 PLN | W cenie |
+| Łączne koszty | 33 100 PLN | 30 000 PLN |
+
+Podane kwoty mają charakter ilustracyjny i nie stanowią wyceny naprawy konkretnego urządzenia.
+
+Nie uwzględniono również kosztów odwołanych zabiegów, przestoju salonu oraz konieczności zmiany terminów wizyt.
+
+Czasami najbardziej opłacalnym urządzeniem nie jest to najtańsze, ale to, które pozwala rozpocząć stabilną pracę po zakupie.
+
+### Co sprawdzić przed zakupem używanego lasera?
+
+| Element kontroli | Cel |
+| --- | --- |
+| Numery seryjne | Identyfikacja urządzenia |
+| Dokumentacja i pochodzenie | Weryfikacja autentyczności i zgodności |
+| Licznik impulsów | Ocena dostępnej historii eksploatacji |
+| Historia serwisowa | Informacje o naprawach i konserwacji |
+| Moduł laserowy | Ocena stanu źródła promieniowania |
+| Parametry wyjściowe | Weryfikacja rzeczywistych wartości |
+| Układ chłodzenia | Stabilność warunków termicznych |
+| Głowica i optyka | Wykrycie uszkodzeń i zużycia |
+| Systemy bezpieczeństwa | Kontrola funkcji ochronnych |
+| Dostępność części | Możliwość przyszłych napraw |
+| Warunki gwarancji | Ochrona kupującego po zakupie |
+
+Właściciel salonu nie musi samodzielnie wykonywać wszystkich tych czynności. Może skorzystać z pomocy specjalistów zajmujących się serwisowaniem urządzeń laserowych.
+
+### Masz na oku laser z OLX, ale nie wiesz, czy warto go kupić?
+
+To jeden z powodów, dla których LTS Market oferuje usługę profesjonalnego doboru sprzętu kosmetologicznego.
+
+Możesz samodzielnie znaleźć urządzenie na OLX lub innej platformie, a następnie skontaktować się z naszymi specjalistami.
+
+Pomożemy ocenić oferowany sprzęt, jego stan techniczny, zasadność zakupu oraz potencjalne ryzyko dalszej eksploatacji.
+
+**Cena usługi profesjonalnego doboru urządzenia wynosi 2500 PLN.**
+
+Używany sprzęt kupowany za pośrednictwem LTS Market w ramach tej usługi przechodzi diagnostykę techniczną, otrzymuje książkę serwisową oraz sześciomiesięczną gwarancję zgodnie z obowiązującymi warunkami.
+
+Szczegółowe informacje zawiera [gwarancja na używany sprzęt kosmetologiczny](https://ltsmarket.pl/zwroty-i-reklamacje/).
+
+Za techniczną ocenę urządzeń odpowiadają specjaliści Laser Tech Service. Więcej informacji znajdziesz na stronie usługi [profesjonalna kontrola używanego lasera przed zakupem](https://lasertechservice.pl/blog/kontrola-uzywanego-lasera-przed-zakupem/).
+
+Dzięki temu decyzja o zakupie może opierać się na ocenie technicznej, a nie wyłącznie na zdjęciach, opisie ogłoszenia lub zapewnieniach sprzedawcy.
+
+### Najczęściej zadawane pytania
+
+#### Czy licznik impulsów pozwala określić pozostałą żywotność lasera?
+
+Nie. Licznik pomaga ocenić historię eksploatacji, ale nie uwzględnia wszystkich czynników zużycia. Ocena aktualnego stanu urządzenia wymaga diagnostyki technicznej. Nawet diagnostyka nie pozwala zagwarantować dokładnej liczby przyszłych impulsów.
+
+#### Czy można wykryć zmieniony licznik impulsów?
+
+W niektórych przypadkach rozbieżności można wykryć poprzez analizę dokumentacji serwisowej, dostępnych danych systemowych i historii wymiany podzespołów. Ustalenie rzeczywistej liczby impulsów nie zawsze jest możliwe.
+
+#### Czy warto kupić naprawiany laser?
+
+Tak, pod warunkiem że naprawa została wykonana profesjonalnie, jest udokumentowana, a parametry wyjściowe i systemy bezpieczeństwa zostały sprawdzone.
+
+#### Czy można sprawdzić laser z OLX przed zakupem?
+
+Tak. Za zgodą sprzedawcy można zorganizować profesjonalną ocenę techniczną urządzenia przed podjęciem decyzji o zakupie.
+
+#### Jaka jest gwarancja na używany sprzęt LTS Market?
+
+Używane urządzenia sprzedawane przez LTS Market są objęte sześciomiesięczną gwarancją handlową zgodnie z opublikowanymi warunkami gwarancji.
+
+### Kupuj sprzęt do pracy, a nie do naprawy
+
+Laser powinien generować przychody Twojego salonu, a nie nieprzewidziane wydatki już w pierwszych miesiącach użytkowania.
+
+Używany sprzęt może być bardzo dobrym rozwiązaniem zarówno przy otwieraniu nowego salonu, jak i rozszerzaniu oferty zabiegowej. Ważne jest jednak, aby wiedzieć, co się kupuje.
+
+Nie musisz rezygnować z atrakcyjnej oferty z obawy przed nietrafionym zakupem. Warto zorganizować profesjonalną kontrolę urządzenia przed podjęciem ostatecznej decyzji.
+
+LTS Market
+
+Profesjonalny sprzęt kosmetologiczny, diagnostyka techniczna i wsparcie Twojego biznesu.
+
+sales@ltsmarket.pl
+
++48 575 254 431
+
+#### Źródła merytoryczne
+
+- Buying a Laser: Tips and Pearls, 2014.
+
+- Physician Alert: Beware of Counterfeit Medical Devices, Lasers in Surgery and Medicine, 2014.
+
+- Counterfeit Medical Devices: The Money You Save Up Front Will Cost You Big in the End, Aesthetic Surgery Journal, 2014.
+
+- Counterfeit Esthetic Devices and Patient Safety in Dermatology, Journal of Cosmetic Dermatology, 2018.
+
+- Processes of the Reliability and Degradation Mechanism of High-Power Semiconductor Lasers, Crystals, 2022, 12(6), 765.
+
+- Rozporządzenie wykonawcze Komisji (UE) 2022/2346.
+
+LUMOS | LEASING
+
+### Nowy laser. Nowe możliwości. Bez zamrażania kapitału.
+
+Rozważasz zakup używanego lasera? Sprawdź również możliwości finansowania nowego LUMOS. Rozwijaj swój salon, korzystając z nowoczesnej technologii i rozkładając inwestycję w czasie.
+
+[Poznaj LUMOS i możliwości leasingu](https://ltsmarket.pl/nowe/lumos/)
 
 [← Wszystkie artykuły](https://ltsmarket.pl/blog/)
 
@@ -2216,6 +2490,12 @@ Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organiza
 
 Blog LTS Market2026-11-24
 
+### [Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe](https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/)
+
+Czy trzy długości fal rzeczywiście oznaczają większą skuteczność? Wyjaśniamy fizykę laserów wielofalowych, konstrukcję głowic, znaczenie mocy optycznej oraz wyniki badań klinicznych.
+
+Blog LTS Market2026-11-24
+
 ### [TOP 4 profesjonalne lasery do epilacji w 2026 roku](https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/)
 
 Laser aleksandrytowy czy diodowy? Porównujemy cztery profesjonalne urządzenia, ich technologie, systemy chłodzenia oraz możliwości zastosowania w gabinetach kosmetologicznych.
@@ -2232,12 +2512,6 @@ Blog LTS Market2026-11-20
 
 Dokładniejsza obserwacja włosów i skóry, dokumentowanie efektów oraz bardziej świadoma konsultacja. Sprawdź, jak dermatoskop wspiera pracę kosmetologa.
 
-Blog LTS Market2026-11-19
-
-### [Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC](https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/)
-
-Dlaczego moc 2000–4000 W nie mówi wszystkiego o laserze diodowym? Wyjaśniamy chłodzenie ICE Flow, parametry impulsów i optykę FAC.
-
 ---
 
 ## Blog LTS Market
@@ -2253,6 +2527,12 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/page/3/), [Рус�
 LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
+
+Blog LTS Market2026-11-19
+
+### [Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC](https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/)
+
+Dlaczego moc 2000–4000 W nie mówi wszystkiego o laserze diodowym? Wyjaśniamy chłodzenie ICE Flow, parametry impulsów i optykę FAC.
 
 Blog LTS Market2026-11-17
 
@@ -2272,12 +2552,6 @@ Laserowe usuwanie tatuażu
 
 Jak działa laser Nd:YAG do usuwania tatuażu? Poznaj możliwości, ograniczenia i zasady wyboru urządzenia dla gabinetu w Polsce.
 
-Technologie kosmetologiczne
-
-### [Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF](https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/)
-
-Kawitacja i lifting RF w ofercie gabinetu: poznaj różnice między technologiami, zasady wyboru urządzenia i możliwości rozwoju usług z LTS Market.
-
 ---
 
 ## Blog LTS Market
@@ -2293,6 +2567,12 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/page/4/), [Рус�
 LTS Market
 
 Praktyczne poradniki o wyborze urządzeń kosmetycznych, finansowaniu i organizacji gabinetu w Polsce.
+
+Technologie kosmetologiczne
+
+### [Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF](https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/)
+
+Kawitacja i lifting RF w ofercie gabinetu: poznaj różnice między technologiami, zasady wyboru urządzenia i możliwości rozwoju usług z LTS Market.
 
 Biznes i depilacja laserowa
 
@@ -3210,6 +3490,12 @@ LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
 
+LTS Market Blog2026-11-26
+
+### [How to Buy a Used Hair Removal Laser Without Getting Scammed: Shot Counters, Counterfeits and Hidden Faults](https://ltsmarket.pl/en/blog/how-to-buy-a-used-hair-removal-laser-safely/)
+
+Learn how to check a used hair removal laser before buying. Shot counters, counterfeit devices, hidden faults, professional inspection and warranty.
+
 LTS Market Blog2026-11-25
 
 ### [Fast and comfortable laser hair removal: power, spot size, optics and cooling systems](https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/)
@@ -3227,12 +3513,6 @@ LTS Market Blog2026-11-24
 ### [Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety](https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/)
 
 Do modern hair removal lasers really use artificial intelligence? Discover melanin measurements, spectrophotometry, sensors and automatic parameter control.
-
-LTS Market Blog2026-11-24
-
-### [Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths](https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/)
-
-Do three wavelengths necessarily mean better results? Explore the physics of multi-wavelength lasers, handpiece architecture, optical power and clinical research.
 
 ---
 
@@ -4214,6 +4494,280 @@ Understanding how they work together makes it easier to evaluate equipment and a
 - [Contact cooling of the skin](https://pubmed.ncbi.nlm.nih.gov/10232811/)
 
 - [Micro-optics assembly for fast axis collimation by means of convolutional neural network](https://pubmed.ncbi.nlm.nih.gov/34615104/)
+
+[← All articles](https://ltsmarket.pl/en/blog/)
+
+---
+
+## How to Buy a Used Hair Removal Laser Without Getting Scammed: Shot Counters, Counterfeits and Hidden Faults
+
+HTML source: [How to Buy a Used Hair Removal Laser Without Getting Scammed: Shot Counters, Counterfeits and Hidden Faults](https://ltsmarket.pl/en/blog/how-to-buy-a-used-hair-removal-laser-safely/)
+
+Language: English
+
+Other languages: [Polski](https://ltsmarket.pl/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/), [Русский](https://ltsmarket.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyatsii-bez-riska/)
+
+> Learn how to check a used hair removal laser before buying. Shot counters, counterfeit devices, hidden faults, professional inspection and warranty.
+
+LTS Market Blog
+
+26.11.2026 · LTS Market
+
+Buying a used hair removal laser does not require you to be an engineer, understand electronics or know how a laser handpiece is built. One of the most reliable ways to reduce the risk of a bad purchase is to have the equipment assessed by specialists who repair and maintain aesthetic lasers before you hand over your money. However, even when a seller demonstrates a low shot count, original documentation and a functioning device, there are important details every salon owner should understand.
+
+### Why buying a used laser is similar to buying a used car
+
+Imagine two cars manufactured in the same year. One has covered 70,000 kilometres, while the other has covered 150,000. Which would you choose?
+
+At first glance, the answer seems obvious. But what if the first car has undergone major repairs, received irregular maintenance and had its mileage altered? Meanwhile, the second has a complete service history and has been maintained regularly.
+
+The situation with aesthetic equipment is remarkably similar.
+
+An attractive appearance, a low shot count and convincing assurances from the seller do not necessarily mean that a laser is in good technical condition or has a long remaining service life.
+
+The most important components are located inside the device. Their condition cannot be assessed from photographs in an online listing.
+
+### Can you trust a laser shot counter?
+
+The number of pulses is one of the first parameters buyers consider when purchasing used equipment.
+
+Understandably, buyers want to know how intensively a laser has been used and how long it might continue operating.
+
+However, shot counters have limitations.
+
+Depending on the design of the equipment, pulse count information may be stored in the control system, handpiece electronics or other components. During repairs or replacement of electronic boards or handpieces, the displayed count may change or be reset.
+
+Not every counter reset indicates fraud. Sometimes it is a legitimate consequence of a repair. The problem arises when buyers are not informed about such interventions or are deliberately misled about the equipment's history.
+
+Even if the shot counter displays an accurate number, another question remains: under what conditions was the laser operated?
+
+Research into semiconductor laser degradation indicates that service life is influenced by factors including:
+
+- laser diode temperature;
+
+- operating electrical current;
+
+- heat dissipation efficiency;
+
+- optical output power;
+
+- electrical overload;
+
+- moisture exposure and component damage.
+
+Two identical laser devices with the same shot count may be in completely different technical conditions.
+
+A shot counter should therefore be treated as an additional source of information rather than a guarantee of remaining service life.
+
+### The laser works, but does it deliver the required power?
+
+The seller switches on the device. The display works, the cooling system starts and the handpiece generates pulses. Everything appears to be functioning correctly.
+
+But do the actual laser emission parameters correspond to the values displayed on the screen?
+
+A laser may generate pulses while delivering reduced or unstable output. Possible causes include diode module degradation, damaged optics, power supply problems or insufficient cooling.
+
+Without suitable measurement equipment, these issues can be difficult to identify.
+
+During a professional inspection, a specialist uses measuring instruments selected according to the laser type, wavelength and emission characteristics. The results are compared with the technical documentation for the specific model.
+
+Output stability during operation is also important.
+
+A device that performs successfully during a short demonstration may begin overheating or become unstable under prolonged operating conditions.
+
+For a salon, this can mean interrupted treatments, dissatisfied clients and temporary business downtime.
+
+### Counterfeit lasers: when a well-known brand exists only on the casing
+
+Counterfeiting is not limited to car parts, clothing and consumer electronics. Copies of well-known brands also exist in the professional aesthetic equipment market.
+
+Counterfeit aesthetic devices have been discussed in scientific journals including Lasers in Surgery and Medicine, Aesthetic Surgery Journal and the Journal of Cosmetic Dermatology.
+
+A convincing imitation may have a similar casing, user interface, handpiece and logo. This does not mean that it contains the same components, protective systems or radiation sources.
+
+It is important to distinguish counterfeit equipment from affordable devices manufactured by other companies. A less familiar or budget-oriented brand is not necessarily inferior. The problem arises when one device is falsely represented as another or misleading information is provided about its origin.
+
+Before purchasing a branded laser, consider checking:
+
+- the device serial number;
+
+- handpiece serial numbers, where applicable;
+
+- the manufacturer's identification plate;
+
+- whether the documentation matches the specific model;
+
+- the equipment's origin;
+
+- whether authenticity can be confirmed by the manufacturer.
+
+If a seller cannot explain where the equipment came from, it is advisable not to rush into the purchase.
+
+### Hidden faults that cannot be seen in photographs
+
+Preparing equipment for resale may involve cleaning the casing, replacing external parts and correcting cosmetic damage.
+
+This is normal practice, but the appearance of a device does not reveal the condition of its internal components.
+
+A professional technical inspection may identify problems such as:
+
+- reduced laser module output;
+
+- evidence of internal coolant leaks;
+
+- damaged optical components;
+
+- insufficient coolant circulation;
+
+- faulty fans or pumps;
+
+- damaged handpiece cables;
+
+- unstable power supply operation;
+
+- consequences of improper repairs;
+
+- faulty temperature monitoring systems.
+
+A previous repair does not automatically make a device a poor choice.
+
+A professionally repaired laser with documented component replacements and technical test results may be a better investment than equipment with an unknown operating history.
+
+The important question is not whether the laser has been repaired, but what was repaired, who performed the work and what results were obtained afterwards.
+
+### Is CE marking enough to ensure a safe purchase?
+
+When purchasing aesthetic equipment in Poland, European conformity requirements must be considered.
+
+Commission Implementing Regulation (EU) 2022/2346 establishes common specifications for certain categories of products without an intended medical purpose, including laser and IPL equipment used for hair removal and other skin treatments.
+
+For professional equipment covered by the relevant provisions, regular output monitoring is required, including measurement of light energy density at least annually in accordance with the manufacturer's instructions.
+
+However, CE marking does not confirm the current technical condition of a used device.
+
+Equipment may have complied with applicable requirements when it was placed on the market but subsequently suffered damage, improper repairs or modifications.
+
+Documentation verification and technical inspection therefore complement each other.
+
+### How much does a cheap laser really cost?
+
+Consider a hypothetical example.
+
+A salon owner finds a used diode laser for PLN 25,000. Another device with similar specifications costs PLN 30,000 but has a documented service history, has undergone technical inspection and is sold with a warranty.
+
+Initially, the first option appears more attractive.
+
+Suppose that after purchasing the cheaper device, the laser handpiece and cooling system require repairs, followed by another diagnostic inspection.
+
+| Expenses | Laser without prior inspection | Inspected laser |
+| --- | --- | --- |
+| Purchase price | PLN 25,000 | PLN 30,000 |
+| Handpiece repair | PLN 6,000 | PLN 0 |
+| Cooling system repair | PLN 1,500 | PLN 0 |
+| Diagnostics | PLN 600 | Included |
+| Total expenses | PLN 33,100 | PLN 30,000 |
+
+These figures are provided solely to illustrate a possible scenario and do not constitute a repair quotation for any specific device.
+
+The example does not include losses associated with cancelled treatments, salon downtime or rescheduling client appointments.
+
+Sometimes the most economical equipment is not the cheapest option, but the one that allows your business to operate reliably after purchase.
+
+### What should you check before buying a used laser?
+
+| Inspection item | Purpose |
+| --- | --- |
+| Serial numbers | Equipment identification |
+| Documentation and origin | Authenticity and conformity verification |
+| Shot counter | Assessment of available operating history |
+| Service history | Information about repairs and maintenance |
+| Laser module | Assessment of the radiation source |
+| Output parameters | Verification of actual performance |
+| Cooling system | Thermal stability |
+| Handpiece and optics | Identification of damage and wear |
+| Safety systems | Verification of protective functions |
+| Spare parts availability | Future repair options |
+| Warranty terms | Buyer protection after purchase |
+
+Salon owners without technical training are not expected to perform all these checks themselves. Professional laser service specialists can assist with the assessment.
+
+### Found a good laser on OLX but unsure whether to buy it?
+
+This is one of the reasons LTS Market offers a professional aesthetic equipment sourcing service.
+
+You can find a device yourself on OLX or another marketplace and then contact our specialists.
+
+We can help assess the proposed equipment, its technical condition, whether the purchase makes sense and the potential risks associated with continued operation.
+
+**The professional equipment sourcing service costs PLN 2,500.**
+
+Used equipment purchased through LTS Market as part of this service undergoes technical diagnostics, receives a service record book and comes with a six-month warranty subject to the applicable warranty terms.
+
+Further information is available on our [warranty for used aesthetic equipment](https://ltsmarket.pl/en/returns-and-warranty/) page.
+
+Technical assessments are carried out by Laser Tech Service specialists. Learn more about [professional used aesthetic equipment sourcing](https://lasertechservice.pl/en/blog/used-aesthetic-laser-pre-purchase-inspection/).
+
+This approach allows buyers to make decisions based on technical assessment rather than relying exclusively on photographs, listing descriptions or assurances from sellers.
+
+### Frequently asked questions
+
+#### Can a shot counter determine the remaining service life of a laser?
+
+No. A shot counter helps assess operating history but does not account for every factor contributing to wear. Technical diagnostics are required to assess the current condition. Even a professional inspection cannot guarantee an exact number of future pulses.
+
+#### Can an altered laser shot counter be detected?
+
+In some cases, discrepancies can be identified by reviewing service records, available system data and component replacement history. Recovering the actual historical shot count is not always possible.
+
+#### Is it worth buying a repaired laser?
+
+Yes, provided that repairs were performed professionally, the repair history is documented, and output parameters and safety systems have been checked.
+
+#### Can a laser advertised on OLX be inspected before purchase?
+
+Yes. With the seller's consent, a professional technical assessment can be arranged before making a purchase decision.
+
+#### What warranty does LTS Market provide for used equipment?
+
+Used equipment sold by LTS Market comes with a six-month commercial warranty subject to the published warranty terms.
+
+### Buy equipment for your business, not for the repair workshop
+
+A laser should generate revenue for your salon rather than create unexpected expenses during the first months of operation.
+
+Used equipment can be an excellent option for opening a new salon or expanding an existing treatment portfolio. The important thing is understanding exactly what you are buying.
+
+You do not have to reject an attractive offer because you are afraid of making the wrong decision. Arranging a professional inspection before purchasing can help reduce that risk.
+
+LTS Market
+
+Professional aesthetic equipment, technical diagnostics and support for your business.
+
+sales@ltsmarket.pl
+
++48 575 254 431
+
+#### References
+
+- Buying a Laser: Tips and Pearls, 2014.
+
+- Physician Alert: Beware of Counterfeit Medical Devices, Lasers in Surgery and Medicine, 2014.
+
+- Counterfeit Medical Devices: The Money You Save Up Front Will Cost You Big in the End, Aesthetic Surgery Journal, 2014.
+
+- Counterfeit Esthetic Devices and Patient Safety in Dermatology, Journal of Cosmetic Dermatology, 2018.
+
+- Processes of the Reliability and Degradation Mechanism of High-Power Semiconductor Lasers, Crystals, 2022, 12(6), 765.
+
+- Commission Implementing Regulation (EU) 2022/2346.
+
+LUMOS | LEASING
+
+### New laser. New possibilities. Keep your capital working.
+
+Considering a used laser? Explore financing options for a new LUMOS as well. Grow your salon with modern technology while spreading the cost of your investment over time.
+
+[Explore LUMOS and leasing options](https://ltsmarket.pl/en/new/lumos/)
 
 [← All articles](https://ltsmarket.pl/en/blog/)
 
@@ -5623,6 +6177,12 @@ Practical guides to beauty equipment, financing and running a salon in Poland.
 
 LTS Market Blog2026-11-24
 
+### [Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths](https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/)
+
+Do three wavelengths necessarily mean better results? Explore the physics of multi-wavelength lasers, handpiece architecture, optical power and clinical research.
+
+LTS Market Blog2026-11-24
+
 ### [Top 4 Professional Laser Hair Removal Machines in 2026](https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/)
 
 Alexandrite or diode laser? Explore four professional hair removal systems, their technologies, cooling solutions and practical applications.
@@ -5639,12 +6199,6 @@ LTS Market Blog2026-11-20
 
 Explore how magnified hair and skin observation can support treatment documentation, consultations and professional laser hair removal workflows.
 
-LTS Market Blog2026-11-19
-
-### [What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained](https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/)
-
-Discover why 2000–4000 W is only part of the story. A practical explanation of ICE Flow cooling, pulse settings and FAC laser optics.
-
 ---
 
 ## LTS Market Blog
@@ -5660,6 +6214,12 @@ Other languages: [Polski](https://ltsmarket.pl/blog/page/3/), [Русский](h
 LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
+
+LTS Market Blog2026-11-19
+
+### [What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained](https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/)
+
+Discover why 2000–4000 W is only part of the story. A practical explanation of ICE Flow cooling, pulse settings and FAC laser optics.
 
 LTS Market Blog2026-11-17
 
@@ -5679,12 +6239,6 @@ Laser tattoo removal
 
 How does Nd:YAG tattoo removal work? Learn about its benefits, limitations and choosing equipment for a clinic in Poland.
 
-Beauty technologies
-
-### [Modern body contouring: combining cavitation and RF skin tightening](https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/)
-
-Explore cavitation and RF skin tightening for your salon in Poland: technology differences, equipment selection, financing and technical support.
-
 ---
 
 ## LTS Market Blog
@@ -5700,6 +6254,12 @@ Other languages: [Polski](https://ltsmarket.pl/blog/page/4/), [Русский](h
 LTS Market
 
 Practical guides to beauty equipment, financing and running a salon in Poland.
+
+Beauty technologies
+
+### [Modern body contouring: combining cavitation and RF skin tightening](https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/)
+
+Explore cavitation and RF skin tightening for your salon in Poland: technology differences, equipment selection, financing and technical support.
 
 Business and laser hair removal
 
@@ -9233,6 +9793,12 @@ LTS Market
 
 Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.
 
+Блог LTS Market2026-11-26
+
+### [Как купить б/у лазер для эпиляции и не стать жертвой обмана: скрученные счётчики, подделки и скрытые неисправности](https://ltsmarket.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyatsii-bez-riska/)
+
+Как проверить б/у лазер перед покупкой? Счётчик импульсов, подделки, скрытые неисправности, профессиональная диагностика и гарантия LTS Market.
+
 Блог LTS Market2026-11-25
 
 ### [Быстрая и комфортная лазерная эпиляция: мощность, размер рабочего пятна, оптика и системы охлаждения](https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/)
@@ -9250,12 +9816,6 @@ LTS Market
 ### [Интеллектуальные лазеры для эпиляции: искусственный интеллект, анализ меланина и безопасность процедур](https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/)
 
 Действительно ли современный лазер использует искусственный интеллект? Разбираем измерение меланина, спектрофотометрию, датчики и автоматическое управление параметрами.
-
-Блог LTS Market2026-11-24
-
-### [Многоволновые лазеры для эпиляции: физика, эффективность и маркетинговые мифы](https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/)
-
-Означают ли три длины волн более высокую эффективность? Разбираем физику многоволновых лазеров, конструкцию манипул, оптическую мощность и результаты клинических исследований.
 
 ---
 
@@ -9939,6 +10499,280 @@ Alpha стоит рассмотреть владельцам салонов, к�
 - [LUMOS](https://ltsmarket.pl/ru/novye/lumos/)
 
 - [Новые аппараты](https://ltsmarket.pl/ru/nowe.html)
+
+[← Все статьи](https://ltsmarket.pl/ru/blog/)
+
+---
+
+## Как купить б/у лазер для эпиляции и не стать жертвой обмана: скрученные счётчики, подделки и скрытые неисправности
+
+Источник HTML: [Как купить б/у лазер для эпиляции и не стать жертвой обмана: скрученные счётчики, подделки и скрытые неисправности](https://ltsmarket.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyatsii-bez-riska/)
+
+Язык: Русский
+
+Другие языковые версии: [Polski](https://ltsmarket.pl/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/), [English](https://ltsmarket.pl/en/blog/how-to-buy-a-used-hair-removal-laser-safely/)
+
+> Как проверить б/у лазер перед покупкой? Счётчик импульсов, подделки, скрытые неисправности, профессиональная диагностика и гарантия LTS Market.
+
+Блог LTS Market
+
+26.11.2026 · LTS Market
+
+Покупая б/у лазер для эпиляции, необязательно быть инженером, разбираться в электронике или знать внутреннее устройство лазерной манипулы. Один из наиболее надёжных способов снизить риск неудачной покупки заключается в том, чтобы ещё до передачи денег поручить оценку оборудования специалистам, занимающимся его ремонтом и обслуживанием. Однако даже если продавец демонстрирует небольшое количество импульсов, оригинальные документы и работающий аппарат, существуют нюансы, о которых стоит знать каждому владельцу косметологического салона.
+
+### Почему покупка б/у лазера напоминает покупку автомобиля?
+
+Представьте два автомобиля одного года выпуска. Пробег первого составляет 70 тысяч километров, второго 150 тысяч. Какой из них вы выберете?
+
+На первый взгляд ответ очевиден. Но что, если первый автомобиль пережил серьёзный ремонт, обслуживался нерегулярно, а его пробег был изменён? При этом второй имеет полную сервисную историю и регулярно проходил техническое обслуживание.
+
+С косметологическим оборудованием ситуация очень похожа.
+
+Хороший внешний вид, небольшое количество импульсов и убедительный рассказ продавца ещё не означают, что перед вами технически исправный аппарат с большим остаточным ресурсом.
+
+Самые важные компоненты лазера находятся внутри корпуса. Оценить их состояние по фотографиям в объявлении невозможно.
+
+### Можно ли доверять счётчику импульсов лазера?
+
+Количество импульсов является одним из первых параметров, на которые обращают внимание покупатели подержанного оборудования.
+
+Это понятно. Покупатель хочет знать, насколько интенсивно использовался аппарат и сколько он ещё сможет проработать.
+
+Однако счётчик импульсов имеет свои ограничения.
+
+В зависимости от конструкции оборудования информация о количестве импульсов может храниться в системе управления, электронике манипулы или других компонентах. При ремонте, замене электронных плат или манипулы показания могут изменяться или обнуляться.
+
+Не каждое обнуление счётчика является мошенничеством. Иногда это следствие вполне обоснованного ремонта. Проблема возникает тогда, когда покупателю не сообщают о таких вмешательствах или сознательно вводят его в заблуждение.
+
+Даже если счётчик показывает правильное количество импульсов, остаётся другой вопрос: в каких условиях работал лазер?
+
+Научные исследования деградации полупроводниковых лазеров показывают, что на их ресурс влияют:
+
+- температура лазерных диодов;
+
+- рабочий электрический ток;
+
+- эффективность отвода тепла;
+
+- мощность излучения;
+
+- электрические перегрузки;
+
+- воздействие влаги и повреждение компонентов.
+
+Два одинаковых лазерных аппарата с одинаковым количеством импульсов могут находиться в совершенно разном техническом состоянии.
+
+Поэтому счётчик следует рассматривать как дополнительный источник информации, а не гарантию остаточного ресурса.
+
+### Лазер работает, но выдаёт ли он необходимую мощность?
+
+Продавец включает аппарат. Дисплей работает, охлаждение запускается, манипула генерирует импульсы. На первый взгляд всё хорошо.
+
+Но соответствуют ли фактические параметры лазерного излучения значениям, отображаемым на экране?
+
+Лазер может генерировать импульсы, но иметь сниженные или нестабильные выходные характеристики. Причиной могут быть деградация диодного модуля, повреждение оптики, проблемы с питанием или недостаточное охлаждение.
+
+Без соответствующего измерительного оборудования определить это сложно.
+
+Во время профессиональной диагностики специалист использует измерительные приборы, подобранные с учётом типа лазера, длины волны и характеристик излучения. Полученные результаты сравниваются с технической документацией конкретной модели.
+
+Важно также проверить стабильность параметров во время работы.
+
+Аппарат, успешно проходящий короткую демонстрацию, может начать перегреваться или терять стабильность при более продолжительной нагрузке.
+
+Для салона это может означать прерванные процедуры, недовольных клиентов и необходимость временно приостановить работу.
+
+### Поддельные лазеры: когда известный бренд существует только на корпусе
+
+Подделывают не только автомобильные запчасти, одежду и электронику. На рынке профессионального косметологического оборудования также существуют копии известных брендов.
+
+Проблема поддельных косметологических аппаратов неоднократно рассматривалась в научных журналах Lasers in Surgery and Medicine, Aesthetic Surgery Journal и Journal of Cosmetic Dermatology.
+
+Качественно изготовленная копия может иметь похожий корпус, интерфейс, манипулу и логотип. Однако это не означает, что внутри установлены такие же компоненты, системы защиты или источники излучения.
+
+Важно различать подделку и доступный аппарат другого производителя. Оборудование неизвестного или бюджетного бренда необязательно является некачественным. Проблема возникает тогда, когда один аппарат выдают за другой или предоставляют ложную информацию о его происхождении.
+
+При покупке брендового лазера стоит проверить:
+
+- серийный номер аппарата;
+
+- серийные номера манипул, если они предусмотрены производителем;
+
+- заводскую информационную табличку;
+
+- соответствие документов конкретной модели;
+
+- происхождение оборудования;
+
+- возможность подтверждения подлинности производителем.
+
+Если продавец не может объяснить происхождение аппарата, лучше не торопиться с покупкой.
+
+### Скрытые неисправности, которые невозможно увидеть на фотографиях
+
+Подготовка оборудования к продаже может включать очистку корпуса, замену внешних деталей и устранение косметических повреждений.
+
+Это нормальная практика, однако внешний вид аппарата ничего не говорит о состоянии его внутренних компонентов.
+
+Среди проблем, которые могут быть выявлены при технической диагностике:
+
+- снижение выходных характеристик лазерного модуля;
+
+- следы утечки жидкости внутри оборудования;
+
+- повреждение оптических элементов;
+
+- недостаточная циркуляция охлаждающей жидкости;
+
+- неисправность вентиляторов или насосов;
+
+- повреждение кабелей манипулы;
+
+- нестабильная работа блока питания;
+
+- последствия неквалифицированного ремонта;
+
+- неисправность систем контроля температуры.
+
+Наличие предыдущего ремонта само по себе не делает оборудование плохим.
+
+Напротив, профессионально отремонтированный аппарат с документально подтверждённой заменой компонентов и результатами технических испытаний может быть лучшим выбором, чем оборудование с неизвестной историей эксплуатации.
+
+Вопрос заключается не в том, ремонтировали ли лазер, а в том, что именно ремонтировали, кто это делал и какие результаты были получены после ремонта.
+
+### Достаточно ли маркировки CE для безопасной покупки?
+
+При покупке косметологического оборудования в Польше важно учитывать европейские требования к его соответствию.
+
+Исполнительный регламент Комиссии ЕС 2022/2346 устанавливает общие спецификации для определённых категорий оборудования без медицинского назначения, включая лазерные и IPL-системы для удаления волос и других процедур с кожей.
+
+Для профессионального оборудования, на которое распространяются соответствующие положения, предусмотрен регулярный контроль выходных характеристик, включая измерение плотности световой энергии не реже одного раза в год в соответствии с инструкциями производителя.
+
+Однако наличие маркировки CE не подтверждает текущее техническое состояние подержанного оборудования.
+
+Аппарат мог соответствовать установленным требованиям на момент введения в оборот, но впоследствии подвергнуться повреждениям, неквалифицированному ремонту или модификациям.
+
+Именно поэтому проверка документов и техническая диагностика дополняют друг друга.
+
+### Сколько на самом деле стоит дешёвый лазер?
+
+Рассмотрим условный пример.
+
+Владелец салона нашёл подержанный диодный лазер за 25 000 злотых. Другой аппарат с похожими характеристиками стоит 30 000 злотых, но имеет подтверждённую историю обслуживания, прошёл диагностику и продаётся с гарантией.
+
+На первый взгляд первый вариант выгоднее.
+
+Предположим, что после покупки необходимо отремонтировать лазерную манипулу, систему охлаждения и провести повторную диагностику.
+
+| Расходы | Аппарат без предварительной проверки | Проверенный аппарат |
+| --- | --- | --- |
+| Стоимость покупки | 25 000 PLN | 30 000 PLN |
+| Ремонт манипулы | 6 000 PLN | 0 PLN |
+| Ремонт охлаждения | 1 500 PLN | 0 PLN |
+| Диагностика | 600 PLN | Включена |
+| Общие расходы | 33 100 PLN | 30 000 PLN |
+
+Цифры приведены исключительно для иллюстрации возможного сценария и не являются сметой ремонта конкретного оборудования.
+
+В этом примере не учитываются потери от отменённых процедур, простоя салона и необходимости переноса записей клиентов.
+
+Иногда наиболее выгодным оборудованием оказывается не то, которое стоит дешевле всего, а то, которое позволяет стабильно работать после покупки.
+
+### Что необходимо проверить перед покупкой б/у лазера?
+
+| Что проверить | Для чего это необходимо |
+| --- | --- |
+| Серийные номера | Идентификация оборудования |
+| Документы и происхождение | Проверка подлинности и соответствия |
+| Счётчик импульсов | Оценка доступной истории эксплуатации |
+| Сервисная история | Информация о ремонтах и обслуживании |
+| Лазерный модуль | Оценка состояния излучателя |
+| Выходные характеристики | Проверка фактических параметров |
+| Система охлаждения | Стабильность теплового режима |
+| Манипула и оптика | Выявление повреждений и износа |
+| Системы безопасности | Проверка защитных функций |
+| Доступность запчастей | Возможность дальнейшего ремонта |
+| Гарантийные условия | Защита покупателя после приобретения |
+
+Если владелец салона не имеет технической подготовки, он не обязан самостоятельно выполнять все эти проверки. Для этого существуют специалисты по обслуживанию лазерного оборудования.
+
+### Вы нашли хороший лазер на OLX, но не уверены, стоит ли его покупать?
+
+Это одна из причин, по которой в LTS Market существует услуга профессионального подбора косметологического оборудования.
+
+Вы можете самостоятельно найти аппарат на OLX или другой площадке, после чего обратиться к нашим специалистам.
+
+Мы поможем оценить предлагаемое оборудование, его техническое состояние, целесообразность покупки и возможные риски дальнейшей эксплуатации.
+
+**Стоимость услуги профессионального подбора оборудования составляет 2500 PLN.**
+
+Подержанное оборудование, приобретённое через LTS Market в рамках этой услуги, проходит техническую диагностику, получает сервисную книжку и шестимесячную гарантию в соответствии с гарантийными условиями.
+
+Подробная информация представлена на странице [гарантия на б/у косметологическое оборудование](https://ltsmarket.pl/ru/vozvrat-i-garantiya/).
+
+Техническую оценку оборудования проводят специалисты Laser Tech Service. Подробнее об услуге: [профессиональный подбор б/у косметологического оборудования](https://lasertechservice.pl/ru/blog/proverka-bu-lazera-pered-pokupkoy/).
+
+Такой подход позволяет принимать решение о покупке на основе технической оценки, а не только фотографий, описания объявления или заверений продавца.
+
+### Часто задаваемые вопросы
+
+#### Можно ли определить остаточный ресурс лазера по количеству импульсов?
+
+Нет. Счётчик помогает оценить историю эксплуатации, но не учитывает всех факторов износа. Для оценки текущего состояния необходима техническая диагностика. Даже она не позволяет гарантировать точное количество будущих импульсов.
+
+#### Можно ли обнаружить изменённый счётчик импульсов?
+
+В некоторых случаях несоответствия можно выявить путём анализа сервисных записей, доступных системных данных и истории замены компонентов. Восстановить реальное количество импульсов возможно не всегда.
+
+#### Стоит ли покупать отремонтированный лазер?
+
+Да, если ремонт выполнен профессионально, его история документально подтверждена, а выходные параметры и системы безопасности проверены.
+
+#### Можно ли проверить лазер перед покупкой на OLX?
+
+Да. С согласия продавца можно организовать профессиональную техническую оценку оборудования перед принятием решения о покупке.
+
+#### Какая гарантия предоставляется на б/у оборудование LTS Market?
+
+Подержанное оборудование, продаваемое LTS Market, имеет шестимесячную коммерческую гарантию в соответствии с опубликованными гарантийными условиями.
+
+### Покупайте оборудование для работы, а не для ремонта
+
+Лазерный аппарат должен приносить доход вашему салону, а не создавать непредвиденные расходы уже в первые месяцы эксплуатации.
+
+Подержанное оборудование может стать отличным решением как для открытия нового салона, так и для расширения перечня услуг. Но только тогда, когда вы понимаете, что именно покупаете.
+
+Необязательно отказываться от выгодного предложения из-за страха ошибиться. Стоит организовать профессиональную проверку до момента приобретения.
+
+LTS Market
+
+Профессиональное косметологическое оборудование, техническая диагностика и поддержка вашего бизнеса.
+
+sales@ltsmarket.pl
+
++48 575 254 431
+
+#### Источники
+
+- Buying a Laser: Tips and Pearls, 2014.
+
+- Physician Alert: Beware of Counterfeit Medical Devices, Lasers in Surgery and Medicine, 2014.
+
+- Counterfeit Medical Devices: The Money You Save Up Front Will Cost You Big in the End, Aesthetic Surgery Journal, 2014.
+
+- Counterfeit Esthetic Devices and Patient Safety in Dermatology, Journal of Cosmetic Dermatology, 2018.
+
+- Processes of the Reliability and Degradation Mechanism of High-Power Semiconductor Lasers, Crystals, 2022, 12(6), 765.
+
+- Исполнительный регламент Комиссии ЕС 2022/2346.
+
+LUMOS | ЛИЗИНГ
+
+### Новый лазер. Новые возможности. Без замораживания капитала.
+
+Рассматриваете покупку подержанного лазера? Изучите также возможности финансирования нового LUMOS. Развивайте свой салон, используя современные технологии и распределяя инвестиционные расходы во времени.
+
+[Узнать больше о LUMOS и лизинге](https://ltsmarket.pl/ru/novye/lumos/)
 
 [← Все статьи](https://ltsmarket.pl/ru/blog/)
 
@@ -11686,6 +12520,12 @@ LTS Market
 
 Блог LTS Market2026-11-24
 
+### [Многоволновые лазеры для эпиляции: физика, эффективность и маркетинговые мифы](https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/)
+
+Означают ли три длины волн более высокую эффективность? Разбираем физику многоволновых лазеров, конструкцию манипул, оптическую мощность и результаты клинических исследований.
+
+Блог LTS Market2026-11-24
+
 ### [ТОП-4 профессиональных лазеров для эпиляции в 2026 году](https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/)
 
 Александритовый или диодный лазер? Сравниваем четыре профессиональных аппарата, их технологии, системы охлаждения и возможности применения.
@@ -11702,12 +12542,6 @@ LTS Market
 
 Более подробная оценка волос и кожи, наблюдение за результатами и наглядные консультации. Разбираемся, чем дерматоскоп полезен косметологу.
 
-Блог LTS Market2026-11-19
-
-### [Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC](https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/)
-
-Почему 2000–4000 Вт не гарантируют лучшую эпиляцию? Разбираем охлаждение ICE Flow, параметры импульсов и оптическую технологию FAC.
-
 ---
 
 ## Блог LTS Market
@@ -11723,6 +12557,12 @@ LTS Market
 LTS Market
 
 Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.
+
+Блог LTS Market2026-11-19
+
+### [Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC](https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/)
+
+Почему 2000–4000 Вт не гарантируют лучшую эпиляцию? Разбираем охлаждение ICE Flow, параметры импульсов и оптическую технологию FAC.
 
 Блог LTS Market2026-11-17
 
@@ -11742,12 +12582,6 @@ Lumos: 4 длины волны, мощность до 4000 Вт, CRM, Android и
 
 Как работает удаление тату лазером Nd:YAG? Возможности, ограничения и выбор оборудования для кабинета в Польше.
 
-Косметологические технологии
-
-### [Современное моделирование фигуры: сочетание кавитации и RF-лифтинга](https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/)
-
-Кавитация и RF-лифтинг в услугах салона: различия технологий, выбор оборудования, финансирование и сервис для кабинета в Польше с LTS Market.
-
 ---
 
 ## Блог LTS Market
@@ -11763,6 +12597,12 @@ Lumos: 4 длины волны, мощность до 4000 Вт, CRM, Android и
 LTS Market
 
 Практические статьи о выборе косметологического оборудования, финансировании и организации кабинета в Польше.
+
+Косметологические технологии
+
+### [Современное моделирование фигуры: сочетание кавитации и RF-лифтинга](https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/)
+
+Кавитация и RF-лифтинг в услугах салона: различия технологий, выбор оборудования, финансирование и сервис для кабинета в Польше с LTS Market.
 
 Бизнес и лазерная эпиляция
 

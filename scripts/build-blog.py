@@ -78,6 +78,10 @@ def build(lang, article, page=1):
     social_image = d.get('image') or d.get('social_image') if article else None
     if article and d.get('no_social_image'):
         head = re.sub(r'^\s*<meta\s+[^>]*(?:property|name)="(?:og:image(?::[^\"]*)?|twitter:image(?::[^\"]*)?)"[^>]*>\s*', '\n', head, flags=re.M)
+    if article and d.get('no_social_image'):
+        head = re.sub(r'(name="twitter:card" content=")[^"]*', r'\1summary', head)
+    if article and d.get('context_links_only'):
+        head = head.replace('</head>', '<style>.blog-article .alpha-faq details{border-bottom:1px solid var(--color-border);padding:16px 0}.blog-article .alpha-faq summary{cursor:pointer;font-weight:600}.blog-article .alpha-faq p{margin-top:12px}</style></head>')
     if social_image:
         replacements = {'og:image': DOMAIN+social_image, 'twitter:image': DOMAIN+social_image,
                         'og:image:alt': d.get('image_alt', d['title']), 'twitter:image:alt': d.get('image_alt', d['title']),
@@ -90,6 +94,8 @@ def build(lang, article, page=1):
     schema = {'@context':'https://schema.org','@type':'BlogPosting' if article else 'Blog','@id':DOMAIN+route(lang,article)+'#'+('article' if article else 'blog'),'url':DOMAIN+route(lang,article),'name':d['title'] if article else d['blog'],'description':desc,'inLanguage':lang,'publisher':{'@type':'Organization','name':'LTS Market','url':DOMAIN+'/'}}
     if article:
         schema.update(headline=d['title'],mainEntityOfPage=DOMAIN+route(lang,article))
+        for key in ('articleSection', 'keywords', 'about'):
+            if d.get(key): schema[key] = d[key]
         if not d.get('no_social_image'): schema['image']=DOMAIN+(social_image or '/assets/img/hero-lts-market.jpg')
         if d.get('modified'): schema['dateModified']=d['modified']
         if d.get('date'): schema['datePublished']=d['date']
@@ -119,10 +125,13 @@ def build(lang, article, page=1):
         sections=''.join(f'<section aria-labelledby="section-{i}"><h2 id="section-{i}">{escape(h)}</h2>'+''.join('<p>'+p.format(prefix=prefix(lang))+'</p>' for p in text.split('\n'))+'</section>' for i,(h,text) in enumerate(d['sections'],1))
         if d.get('sections_html'):
             sections=''.join(f'<section aria-labelledby="section-{i}"><h2 id="section-{i}">{escape(h)}</h2>{text}</section>' for i,(h,text) in enumerate(d['sections'],1))
-        cta='' if d.get("hide_cta") else f'<aside class="blog-cta"><h2>{d["cta"]}</h2><a class="button button--primary" href="{prefix(lang)}kontakt.html">{d["contact"]}</a></aside>'
+        cta='' if d.get("hide_cta") or d.get("single_cta") else f'<aside class="blog-cta"><h2>{d["cta"]}</h2><a class="button button--primary" href="{prefix(lang)}kontakt.html">{d["contact"]}</a></aside>'
         if d.get('action_cta'):
             action=d['action_cta']
             cta=f'<aside class="blog-cta blog-cta--lumos" aria-labelledby="lumos-cta-title"><div><p class="blog-cta__eyebrow">LTS MARKET · LUMOS</p><h2 id="lumos-cta-title">{escape(action["title"])}</h2><p class="blog-cta__description">{escape(action["description"])}</p></div><div class="blog-cta__actions"><a class="button button--primary" href="{escape(action["form_url"],quote=True)}">{escape(action["form_label"])} <span aria-hidden="true">→</span></a><a class="button button--outline" href="tel:+48575254431">{escape(action["call_label"])}</a></div></aside>'
+        if d.get('single_cta'):
+            action = d['single_cta']
+            cta = f'<aside class="blog-cta blog-cta--lumos" aria-labelledby="lumos-cta-title"><p class="blog-cta__eyebrow">{escape(action["label"])}</p><h2 id="lumos-cta-title">{escape(action["title"])}</h2><p class="blog-cta__description">{escape(action["description"])}</p><div class="blog-cta__actions"><a class="button button--primary" data-ai-include="true" href="{escape(action["url"], quote=True)}">{escape(action["button"])}</a></div></aside>'
         if d.get('hide_cta'): cta=''
         byline = f'<p class="blog-card__date"><time datetime="{escape(d["date"], quote=True)}">{".".join(reversed(d["date"].split("-")))}</time> · {escape(d["author"])}</p>' if d.get('author') else ''
         intro = f'<div class="blog-prose">{d["intro_html"]}</div>' if d.get('intro_html') else ''
@@ -135,7 +144,8 @@ def build(lang, article, page=1):
             reading = LABELS[lang]['minutes'].format(n=max(1, math.ceil(words / 200)))
             category = entry.get('category', d['blog'])
             date = f'<time class="blog-card__date" datetime="{escape(entry["date"], quote=True)}">{escape(entry["date"])}</time>' if entry.get('date') else ''
-            cards.append(f'<article class="blog-card"><div class="blog-card__meta"><span class="blog-card__category">{escape(category)}</span>{date}</div><h2><a href="{route(lang,i)}">{escape(entry.get("card_title", entry["title"]))}</a></h2><p class="blog-card__description">{escape(entry.get("card_description", entry["description"]))}</p><footer class="blog-card__footer"><span class="blog-card__reading">{reading}</span><a class="blog-card__link" href="{route(lang,i)}" aria-label="{escape(d["read"]+": "+entry.get("card_title", entry["title"]), quote=True)}">{d["read"]} <span aria-hidden="true">→</span></a></footer></article>')
+            card_style = ' style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden"' if entry.get('card_clamp') else ''
+            cards.append(f'<article class="blog-card"><div class="blog-card__meta"><span class="blog-card__category">{escape(category)}</span>{date}</div><h2{card_style}><a href="{route(lang,i)}">{escape(entry.get("card_title", entry["title"]))}</a></h2><p class="blog-card__description">{escape(entry.get("card_description", entry["description"]))}</p><footer class="blog-card__footer"><span class="blog-card__reading">{reading}</span><a class="blog-card__link" href="{route(lang,i)}" aria-label="{escape(d["read"]+": "+entry.get("card_title", entry["title"]), quote=True)}">{d["read"]} <span aria-hidden="true">→</span></a></footer></article>')
         pagination = ''
         if PAGE_COUNT > 1:
             links = ''.join(f'<a href="{listing_route(lang,n)}" aria-label="{LABELS[lang]["page"]} {n}"'+(' aria-current="page"' if n == page else '')+f'>{n}</a>' for n in range(1, PAGE_COUNT + 1))
@@ -145,10 +155,13 @@ def build(lang, article, page=1):
     output=output.replace('<p class="blog-lead"></p>', '')
     dest=ROOT / (route(lang,article) if article else listing_route(lang,page)).lstrip('/') / 'index.html'
     dest.parent.mkdir(parents=True,exist_ok=True)
-    dest.write_text(link_service_names(output))
+    output = link_service_names(output)
+    if article and d.get('context_links_only'):
+        output = re.sub(r'(<article class="blog-article">)(.*?)(</article>)', lambda m: m[1] + m[2].replace('<a class="service-name-link" href="https://lasertechservice.pl/">Laser Tech Service</a>', 'Laser Tech Service') + m[3], output, flags=re.S)
+    dest.write_text(output)
 
 # Route Market's generic blog links locally; retain the explicitly named service blog.
-for path in ([] if args.article_only else ROOT.rglob('*.html')):
+for path in ([] if args.article_only or args.slug else ROOT.rglob('*.html')):
     lang=path.relative_to(ROOT).parts[0]
     lang=lang if lang in ('en','ru') else 'pl'
     source=path.read_text()

@@ -128,7 +128,7 @@ def excluded(node):
     classes = node.attrs.get('class','').split()
     return (node.tag in SKIP or node.attrs.get('aria-hidden')=='true' or 'hidden' in node.attrs
             or any('breadcrumb' in c for c in classes) or node.has('lumos-diagram')
-            or node.has('alpha-cooling-diagram') or node.has('button'))
+            or node.has('alpha-cooling-diagram') or (node.has('button') and node.attrs.get('data-ai-include') != 'true'))
 
 
 def render(node, page, images=None):
