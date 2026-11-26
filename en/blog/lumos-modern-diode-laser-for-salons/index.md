@@ -10,6 +10,8 @@ Other languages: [Polski](https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodo
 
 LTS Market Blog
 
+Sofiia Shcherbakova — Client Manager
+
 ![Lumos — Front view](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ## Why Lumos deserves your attention

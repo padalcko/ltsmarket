@@ -10,6 +10,8 @@
 
 Блог LTS Market
 
+Sofiia Shcherbakova — менеджер по работе с клиентами
+
 ![Lumos — Вид спереди](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ## Почему Lumos заслуживает внимания

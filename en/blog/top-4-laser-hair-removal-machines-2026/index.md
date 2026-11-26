@@ -10,7 +10,7 @@ Other languages: [Polski](https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-202
 
 LTS Market Blog
 
-24.11.2026 · LTS Market
+24.11.2026 · Sofiia Shcherbakova — Client Manager
 
 The modern aesthetic equipment market offers a wide range of platforms designed for laser hair removal. Some use alexandrite technology, while others rely on diode or neodymium lasers. Manufacturers continue to improve optical systems, develop cooling solutions and introduce digital tools that support practitioners in their daily work.
 

@@ -10,6 +10,8 @@ Other languages: [Polski](https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitac
 
 LTS Market Blog
 
+Dmytro Zaitsev — CEO, founder and lead technical specialist
+
 Body contouring is an area to consider when developing a beauty salon in Poland. Equipment combining ultrasonic cavitation and RF skin tightening can support a service focused on body contours and skin appearance. The starting point is matching the technology to each client and the intended use of the particular device.
 
 ![Woman beside a beauty device with treatment handpieces](https://ltsmarket.pl/assets/img/blog/rf-article.webp)

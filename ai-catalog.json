@@ -144,7 +144,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "6194949fb519418367533e10948fbf565ab9e52cd2f4d4563586e98b51563c0d",
+      "contentSha256": "d24172ae3f6ba55fdc432f3915e26d597cf5be694ae8b3711da335daa19596a5",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -162,6 +162,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Jak otworzyć gabinet kosmetologiczny w Polsce w 2027 roku? Kompletny poradnik",
+              "url": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Jak kupić używany laser do depilacji i nie dać się oszukać? Liczniki impulsów, podróbki i ukryte usterki",
               "url": "https://ltsmarket.pl/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/"
             },
@@ -174,11 +179,6 @@
               "@type": "BlogPosting",
               "headline": "Technologie łączone w kosmetologii: epilacja laserowa, fotoodmładzanie i indywidualne programy zabiegowe",
               "url": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów",
-              "url": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/"
             }
           ]
         },
@@ -219,7 +219,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
         "x-default": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
       },
-      "contentSha256": "77085c57f9570db16a4ff1e37f25112c3c739a583f0c00c2e720f7fab947ed6a",
+      "contentSha256": "8f6e5ef34ab718bbdfc217ba744718595ddbabf9615107fc4d7eb62c078bedce",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -237,11 +237,12 @@
           "headline": "Alpha czy Alpha Mini? Dwa lasery diodowe, które warto poznać przed otwarciem salonu",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/",
           "image": "https://ltsmarket.pl/assets/img/nowe/alpha.webp",
-          "dateModified": "2026-11-23",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-23",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Sofiia Shcherbakova",
+            "jobTitle": "Client Manager"
           }
         },
         {
@@ -289,7 +290,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/",
         "x-default": "https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/"
       },
-      "contentSha256": "8cad8f71d3599244517e8f0ed5991edf126edc626ce05975e8d8e2b68afd75c9",
+      "contentSha256": "2491b557d4f73843caed38cee56ec13a965f9506f0666c3d8d95fba3f824aace",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -306,7 +307,13 @@
           },
           "headline": "Bezpieczne usuwanie tatuażu laserem Nd:YAG — co warto wiedzieć?",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/",
-          "image": "https://ltsmarket.pl/assets/img/blog/ndyg-tatoo-article-clean.jpg"
+          "image": "https://ltsmarket.pl/assets/img/blog/ndyg-tatoo-article-clean.jpg",
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, założyciel i główny specjalista techniczny"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -353,7 +360,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/",
         "x-default": "https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/"
       },
-      "contentSha256": "363852d1972ce778d6c528bf5acb8a61659eb15a4f8d1af566c7a118607e1b88",
+      "contentSha256": "ee252a547ce421e4b6f1cb367c256ece4be7eecd9da8e2953493155807caf9b6",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -370,7 +377,13 @@
           },
           "headline": "Depilacja laserowa jako biznes: dlaczego jesień to dobry moment na otwarcie gabinetu?",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/",
-          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg"
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Александр Падалко",
+            "jobTitle": "specjalista ds. rozwoju cyfrowego biznesu, widoczności w wyszukiwarkach i promocji w systemach AI"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -417,7 +430,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/",
         "x-default": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
       },
-      "contentSha256": "40ec74b13de34949ffed210655cb910a7d6eb7da48277e916c33994f481264c5",
+      "contentSha256": "012b55c1aadc04305c656e7b2f2d2e6ffb6910a9cef5ea98afb5fa713d0c0810",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -435,10 +448,12 @@
           "headline": "Dermatoskop — dodatkowe narzędzie kosmetologa. Dlaczego warto mieć go w laserze do epilacji?",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-20",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
         {
@@ -486,7 +501,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/",
         "x-default": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/"
       },
-      "contentSha256": "87d0b56427ce0bf3038c979fd2b064e1ce0c8d882c9d562a046fa473257f5668",
+      "contentSha256": "2373f8ffa858c05837125365ac6a1808a12fbb3b87f2191c8b79c695d31b2644",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -504,12 +519,12 @@
           "headline": "Technologie łączone w kosmetologii: epilacja laserowa, fotoodmładzanie i indywidualne programy zabiegowe",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
-          "dateModified": "2026-11-25",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-25",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
         {
@@ -557,7 +572,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyatsii-bez-riska/",
         "x-default": "https://ltsmarket.pl/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/"
       },
-      "contentSha256": "c23c34a78900ee3dcae0298705fb352afc0ae73643e33eb89e1fd15ba98f3bac",
+      "contentSha256": "753e6c5fc11eb0a7a1011ca9ffff992e9da9a726cd632f9477f2066a7e6a9d4d",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -590,9 +605,9 @@
           "dateModified": "2026-11-26",
           "datePublished": "2026-11-26",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
         {
@@ -628,6 +643,189 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/",
+      "markdownUrl": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/index.md",
+      "language": "pl",
+      "type": "articles",
+      "title": "Jak otworzyć gabinet kosmetologiczny w Polsce w 2027 roku? Kompletny poradnik",
+      "description": "Sprawdź, jak otworzyć gabinet kosmetologiczny w Polsce. Koszty, PKD, Sanepid, wyposażenie, leasing, kalkulatory rentowności i interaktywna checklista.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/",
+        "en": "https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/",
+        "ru": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/",
+        "x-default": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/"
+      },
+      "contentSha256": "f41f30800b93a80c60c73247bf18ba3e165e58989519d0d2f263ac10e84411e9",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/#article",
+          "url": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/",
+          "name": "Jak otworzyć gabinet kosmetologiczny w Polsce w 2027 roku? Kompletny poradnik",
+          "description": "Sprawdź, jak otworzyć gabinet kosmetologiczny w Polsce. Koszty, PKD, Sanepid, wyposażenie, leasing, kalkulatory rentowności i interaktywna checklista.",
+          "inLanguage": "pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Jak otworzyć gabinet kosmetologiczny w Polsce w 2027 roku? Kompletny poradnik",
+          "mainEntityOfPage": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/",
+          "articleSection": "Business guide",
+          "keywords": [
+            "beauty business Poland",
+            "laser hair removal business",
+            "startup costs",
+            "leasing"
+          ],
+          "about": [
+            "Beauty business startup in Poland",
+            "Laser hair removal studio"
+          ],
+          "dateModified": "2026-11-26",
+          "datePublished": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Александр Падалко",
+            "jobTitle": "specjalista ds. rozwoju cyfrowego biznesu, widoczności w wyszukiwarkach i promocji w systemach AI"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Strona główna",
+              "item": {
+                "@id": "https://ltsmarket.pl/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Jak otworzyć gabinet kosmetologiczny w Polsce w 2027 roku? Kompletny poradnik",
+              "item": {
+                "@id": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/"
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Ile kosztuje otwarcie gabinetu depilacji laserowej?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "W przykładowym modelu niewielkiego gabinetu z używanym urządzeniem budżet wynosi 60 000 zł. Rzeczywiste koszty zależą od wyposażenia, lokalu i sposobu finansowania."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jaki kod PKD obowiązuje gabinet kosmetologiczny?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "W klasyfikacji PKD 2025 właściwym kodem dla działalności kosmetycznej jest 96.22.Z."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy trzeba zgłosić otwarcie gabinetu do Sanepidu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nie istnieje ogólny obowiązek zgłaszania samego rozpoczęcia działalności kosmetycznej. Mogą jednak obowiązywać inne wymagania dotyczące lokalu i wykonywanych usług."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy kosmetolog może wykonywać depilację laserową?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Możliwość wykonania konkretnego zabiegu zależy od jego charakteru, przeznaczenia urządzenia, kwalifikacji operatora i aktualnych przepisów."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy można kupić używany laser do gabinetu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak. Przed zakupem należy zweryfikować dokumentację, stan techniczny i historię serwisową urządzenia."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy można wziąć laser kosmetyczny w leasing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tak, jeśli urządzenie i przedsiębiorca spełniają warunki instytucji finansującej."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Ile klientów potrzeba do pokrycia kosztów?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "W modelu z kosztami stałymi 7500 zł, ceną zabiegu 200 zł i kosztem zmiennym 20 zł potrzeba co najmniej 42 zabiegów miesięcznie."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy laser może zwrócić się w ciągu roku?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jest to możliwe w określonych scenariuszach finansowych, ale zależy od rzeczywistych przychodów, kosztów, podatków i liczby klientów."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy urządzenie musi posiadać oznakowanie CE?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Urządzenie musi spełniać mające zastosowanie wymagania dotyczące zgodności. Samo oznakowanie CE nie zastępuje weryfikacji dokumentacji."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Jak często należy serwisować laser?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Częstotliwość zależy od zaleceń producenta, konstrukcji urządzenia i intensywności eksploatacji."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy nowy gabinet może otrzymać dofinansowanie?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Może ubiegać się o dostępne programy finansowania, jeżeli spełnia ich warunki. Dostępność i wysokość wsparcia zależą od konkretnego programu."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Czy LTS Market pomaga wybrać urządzenie?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "LTS Market oferuje nowe i używane wyposażenie oraz usługę profesjonalnego doboru urządzeń zgodnie z aktualną ofertą."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/",
       "markdownUrl": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/index.md",
       "language": "pl",
@@ -640,7 +838,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/",
         "x-default": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/"
       },
-      "contentSha256": "31533e126809b9077f24e1795c12fc0bdaaefa30ebd54c1ae264cb12aa45b721",
+      "contentSha256": "bf55e2c95b3b86c0ba1c1e2a6d004c14fd845ca4144bcd106da60158436fadac",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -658,11 +856,12 @@
           "headline": "Lasery wielofalowe do epilacji: fizyka, skuteczność i mity marketingowe",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/",
           "image": "https://ltsmarket.pl/assets/img/blog/multi-wavelength/pl/selective-photothermolysis.svg",
-          "dateModified": "2026-11-24",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-24",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
         {
@@ -710,7 +909,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/",
         "x-default": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/"
       },
-      "contentSha256": "a544c7b6af2e5c440b06e9ca7e476d8ab307f31d404db84d049d4c3998e08700",
+      "contentSha256": "7e935a6e64b0156ab66408a232808ed4a35cae840fc357529362c70b0ea98cfc",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -728,7 +927,12 @@
           "headline": "Lumos — inteligentny laser diodowy, który zmienia sposób pracy nowoczesnego salonu",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/",
           "image": "https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp",
-          "dateModified": "2026-11-09"
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Sofiia Shcherbakova",
+            "jobTitle": "Client Manager"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -775,7 +979,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/",
         "x-default": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
       },
-      "contentSha256": "c0707c69888eaa07a97fe3492eb899007433f9fd1ab02bbf238bf1cb4d268709",
+      "contentSha256": "ef70cf0ea0e05a6f68e68b46d2962fa6d751898a8b48f8613b411054bfd86504",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -793,10 +997,12 @@
           "headline": "Co naprawdę decyduje o jakości lasera diodowego? Moc, chłodzenie ICE Flow i optyka FAC",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-19",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
         {
@@ -844,7 +1050,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/",
         "x-default": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/"
       },
-      "contentSha256": "a3a3f4de3c2ffc4959b637e46e602aa3b13238db8cba7b117f0ff289d1b09f01",
+      "contentSha256": "40f5f32563837facd1698b9f5132f8e28a504d68eb151a58bc5416691d4c47cf",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -862,12 +1068,12 @@
           "headline": "Szybka i komfortowa epilacja laserowa: moc, wielkość plamki, optyka i systemy chłodzenia",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
-          "dateModified": "2026-11-25",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-25",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
         {
@@ -915,7 +1121,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/",
         "x-default": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/"
       },
-      "contentSha256": "4aae77224305383fff198633ebc57235d12f4f51c7d2818af488877286b83bad",
+      "contentSha256": "9c95658f9aba7dbb4b7eb7621b7208850c77ad94b026ce201a379f836d44cb61",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -932,7 +1138,13 @@
           },
           "headline": "Modelowanie sylwetki: zalety połączenia kawitacji i liftingu RF",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/",
-          "image": "https://ltsmarket.pl/assets/img/blog/rf-article.webp"
+          "image": "https://ltsmarket.pl/assets/img/blog/rf-article.webp",
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, założyciel i główny specjalista techniczny"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -979,7 +1191,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/",
         "x-default": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/"
       },
-      "contentSha256": "52d7f107427e22c6d805c226822d1e28ffc2b2929ca97791acdb044d83432426",
+      "contentSha256": "8034c48b855bfdb10bb24233945dfc317efb66d1d3094aee74c16c099325cf7e",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -997,11 +1209,12 @@
           "headline": "Inteligentne lasery do epilacji: sztuczna inteligencja, analiza melaniny i bezpieczeństwo zabiegów",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/",
           "image": "https://ltsmarket.pl/assets/img/blog/ai-hair-removal/pl/phototype-vs-melanin.svg",
-          "dateModified": "2026-11-24",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-24",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
         {
@@ -1049,7 +1262,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
         "x-default": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
       },
-      "contentSha256": "d53f4ed928bf08e1b1dd364be8c636d32bea1651fafcff7bba1cb08a91c62cf2",
+      "contentSha256": "33c6bbc06ed79785f8459ad7af288efe7cf5d0e4eedd5a684321cd05ff70c023",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1067,11 +1280,12 @@
           "headline": "TOP 4 profesjonalne lasery do epilacji w 2026 roku",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/",
           "image": "https://ltsmarket.pl/assets/img/blog/top-4-laser-hair-removal-2026/top-4-laser-hair-removal-2026.webp",
-          "dateModified": "2026-11-24",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-24",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Sofiia Shcherbakova",
+            "jobTitle": "Client Manager"
           }
         },
         {
@@ -1119,7 +1333,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/",
         "x-default": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
       },
-      "contentSha256": "47fcf1028cbf93dedc23fd65d7e25e4d976578d72d12f9b77d39cf35166e0ed2",
+      "contentSha256": "404d2a57089fd2ac1c45481e02837d8a5934eb613010bfb1b85449a0aba74cd8",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1137,10 +1351,12 @@
           "headline": "Zakup używanego lasera kosmetycznego. Dlaczego warto zaufać specjalistom Laser Tech Service?",
           "mainEntityOfPage": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-17",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market we współpracy z Laser Tech Service"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, założyciel i główny specjalista techniczny"
           }
         },
         {
@@ -1311,7 +1527,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "642d9a3a84f7d11642861232ac563527dab747534459de2c9633bdab8ab56e1e",
+      "contentSha256": "fe1cef8af031f1eac38a457d7365d23bde0ebfd548e7768bf1a0cb4fc70116b1",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1329,6 +1545,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "How to Open an Aesthetic Beauty Business in Poland in 2027",
+              "url": "https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "How to Buy a Used Hair Removal Laser Without Getting Scammed: Shot Counters, Counterfeits and Hidden Faults",
               "url": "https://ltsmarket.pl/en/blog/how-to-buy-a-used-hair-removal-laser-safely/"
             },
@@ -1341,11 +1562,6 @@
               "@type": "BlogPosting",
               "headline": "Combined aesthetic technologies: laser hair removal, photorejuvenation and personalised treatment programmes",
               "url": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety",
-              "url": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/"
             }
           ]
         },
@@ -1386,7 +1602,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
         "x-default": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
       },
-      "contentSha256": "cf8d8ea219f75425c6852c8126711e7faadf15ac7bf185f0fb180b855f4890d0",
+      "contentSha256": "9c39d992a62056134b2ae581ffef27b3bf2b6dd821de0aac3f5eae5ab77b55a8",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1404,11 +1620,12 @@
           "headline": "Alpha vs Alpha Mini: Which Diode Laser Is Right for Your Beauty Salon?",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/alpha-vs-alpha-mini-diode-laser/",
           "image": "https://ltsmarket.pl/assets/img/nowe/alpha.webp",
-          "dateModified": "2026-11-23",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-23",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Sofiia Shcherbakova",
+            "jobTitle": "Client Manager"
           }
         },
         {
@@ -1456,7 +1673,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/",
         "x-default": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/"
       },
-      "contentSha256": "6c2e91932a9a329a03a86db8ff902ccaa30b40e9e56dc4b83df9ee5c55a936a8",
+      "contentSha256": "b560021f1e886aac5f763da4981c7007f89e39424d1d3b9ccdf381db99263a92",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1474,11 +1691,12 @@
           "headline": "Intelligent hair removal lasers: artificial intelligence, melanin analysis and treatment safety",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/artificial-intelligence-in-laser-hair-removal/",
           "image": "https://ltsmarket.pl/assets/img/blog/ai-hair-removal/en/phototype-vs-melanin.svg",
-          "dateModified": "2026-11-24",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-24",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
         {
@@ -1526,7 +1744,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/",
         "x-default": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/"
       },
-      "contentSha256": "e71e6824edf39e89f450d32e587fa95dd33e33d53f0cec3d148862a649a0e847",
+      "contentSha256": "e08d92755a134ea8285640dc127b6c514ae244d37c8ffa4bebcc5ce5af885033",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1543,7 +1761,13 @@
           },
           "headline": "Modern body contouring: combining cavitation and RF skin tightening",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/body-contouring-cavitation-rf/",
-          "image": "https://ltsmarket.pl/assets/img/blog/rf-article.webp"
+          "image": "https://ltsmarket.pl/assets/img/blog/rf-article.webp",
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, founder and lead technical specialist"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -1590,7 +1814,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/",
         "x-default": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
       },
-      "contentSha256": "14791917f1f92939b13ddc9a9ce557834454fed00ccb1d4a0d66d3e896c6dfed",
+      "contentSha256": "9341f92cc62126b772ebd208b01b333304b63927cb95b55401af0bc47a0386e3",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1608,10 +1832,12 @@
           "headline": "Dermoscopy: An Additional Tool for Laser Hair Removal Professionals",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/dermatoscope-laser-hair-removal/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-20",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
         {
@@ -1659,7 +1885,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/",
         "x-default": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
       },
-      "contentSha256": "0c2186d26c001e96391abf0fe60a1f47689c47ed2ad6001f62fa18cb0a97aaa2",
+      "contentSha256": "077f5a76eeed712ba6d9914f4686bd0c16e1ad805f1f3cb6457d67f09d726168",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1677,10 +1903,12 @@
           "headline": "What Really Makes a Good Diode Laser? Power, ICE Flow Cooling and FAC Optics Explained",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/diode-laser-power-ice-flow-fac/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-19",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
         {
@@ -1728,7 +1956,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyatsii-bez-riska/",
         "x-default": "https://ltsmarket.pl/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/"
       },
-      "contentSha256": "d45f299748b52c0fab8ff1ed3586b4ba464a0389aabda5984f6f7119b4dd51ce",
+      "contentSha256": "4c556c0cd80292fcba93215946cf8fcc4d75e7033a2bda4598526890e43e3535",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1760,9 +1988,9 @@
           "dateModified": "2026-11-26",
           "datePublished": "2026-11-26",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
         {
@@ -1798,6 +2026,189 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/",
+      "markdownUrl": "https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/index.md",
+      "language": "en",
+      "type": "articles",
+      "title": "How to Open an Aesthetic Beauty Business in Poland in 2027",
+      "description": "Learn how to start an aesthetic beauty business in Poland. Registration, regulations, equipment, leasing, startup costs and interactive profitability calculators.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/",
+        "en": "https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/",
+        "ru": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/",
+        "x-default": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/"
+      },
+      "contentSha256": "7551fc0ac607bc3516a91377d45ac0d31f933307de1358b24fbbf42603f61ddd",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/#article",
+          "url": "https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/",
+          "name": "How to Open an Aesthetic Beauty Business in Poland in 2027",
+          "description": "Learn how to start an aesthetic beauty business in Poland. Registration, regulations, equipment, leasing, startup costs and interactive profitability calculators.",
+          "inLanguage": "en",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "How to Open an Aesthetic Beauty Business in Poland in 2027",
+          "mainEntityOfPage": "https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/",
+          "articleSection": "Business guide",
+          "keywords": [
+            "beauty business Poland",
+            "laser hair removal business",
+            "startup costs",
+            "leasing"
+          ],
+          "about": [
+            "Beauty business startup in Poland",
+            "Laser hair removal studio"
+          ],
+          "dateModified": "2026-11-26",
+          "datePublished": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Александр Падалко",
+            "jobTitle": "specialist in digital business development, search visibility and promotion in AI systems"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "LTS Market Blog",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "How to Open an Aesthetic Beauty Business in Poland in 2027",
+              "item": {
+                "@id": "https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/"
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much does it cost to open a laser hair removal studio?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The illustrative budget for a small studio using pre-owned equipment is PLN 60,000. Actual costs depend on equipment, premises and financing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which PKD code applies to a beauty studio?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Under PKD 2025, beauty activities are classified under code 96.22.Z."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I need to notify the sanitary authorities before opening?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There is no general notification obligation solely for starting cosmetic activities. Other premises and service-related requirements may apply."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can a cosmetologist perform laser hair removal?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This depends on the procedure, equipment intended purpose, operator qualifications and applicable regulations."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I buy a pre-owned laser?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, provided that its documentation, technical condition and maintenance history are properly verified."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can cosmetic lasers be financed through leasing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, subject to equipment eligibility and the financing provider's approval."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many treatments are required to break even?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "With fixed costs of PLN 7,500, a treatment price of PLN 200 and variable costs of PLN 20, at least 42 treatments per month are required."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can a laser pay for itself within one year?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This is possible under certain financial scenarios, but depends on actual demand, expenses, taxation and financing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does cosmetic laser equipment require CE marking?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Equipment must meet applicable conformity requirements. A CE label alone does not replace documentation verification."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How often should a laser be serviced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Service frequency depends on manufacturer recommendations, equipment design and operating intensity."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can a new beauty business receive financial support?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Businesses may apply for available programmes if they meet the eligibility criteria. Approval is not guaranteed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does LTS Market help businesses select equipment?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "LTS Market offers new and pre-owned equipment and professional equipment selection services according to its current offer."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/en/blog/laser-hair-removal-business/",
       "markdownUrl": "https://ltsmarket.pl/en/blog/laser-hair-removal-business/index.md",
       "language": "en",
@@ -1810,7 +2221,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/",
         "x-default": "https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/"
       },
-      "contentSha256": "8b15c864a15863be51b4bcefcf02baec85a8215a9a5657766b076395a9aea6cf",
+      "contentSha256": "18f94d4f11036c6224c6eacea43c65085a3d9d2b57da92acdd56278bb11a0e5e",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1827,7 +2238,13 @@
           },
           "headline": "Laser hair removal as a business: why plan your salon opening for autumn?",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/laser-hair-removal-business/",
-          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg"
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Александр Падалко",
+            "jobTitle": "specialist in digital business development, search visibility and promotion in AI systems"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -1874,7 +2291,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/",
         "x-default": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/"
       },
-      "contentSha256": "dec3924c078e0a04bedad48222805e9b1de42a5c043a5b84c9d6de81297f8865",
+      "contentSha256": "3dd3074537e14cfd22f50bff2b4f9369e87bf0dda59ca9a60461288ee39cb01f",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1892,12 +2309,12 @@
           "headline": "Combined aesthetic technologies: laser hair removal, photorejuvenation and personalised treatment programmes",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/laser-hair-removal-ipl-bbl-combined-treatments/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
-          "dateModified": "2026-11-25",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-25",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
         {
@@ -1945,7 +2362,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/",
         "x-default": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/"
       },
-      "contentSha256": "582c806fea488c0127447ec341334fb6915a5b1eb2d5f12b6ae049a107c51d53",
+      "contentSha256": "b2052dd201618393421692cced9f958e86dbf11e45618750a1e141b25dc9ae61",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -1963,12 +2380,12 @@
           "headline": "Fast and comfortable laser hair removal: power, spot size, optics and cooling systems",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/laser-power-fac-optics-cooling/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
-          "dateModified": "2026-11-25",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-25",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
         {
@@ -2016,7 +2433,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/",
         "x-default": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/"
       },
-      "contentSha256": "4074189c5e737a01fbaf90cce2456ee46df9a8dbc821aabdffbd93d24ead8c3b",
+      "contentSha256": "7fe0b7a814a61d9462424e583689092b3c1e5135dd54bb1f5a8a0e52b4fae7f5",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2034,7 +2451,12 @@
           "headline": "Lumos — the intelligent diode laser designed for modern beauty businesses",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/lumos-modern-diode-laser-for-salons/",
           "image": "https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp",
-          "dateModified": "2026-11-09"
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Sofiia Shcherbakova",
+            "jobTitle": "Client Manager"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -2081,7 +2503,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/",
         "x-default": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/"
       },
-      "contentSha256": "e0b2ce61f7d1d38933f4bcbba9a06e23182a1b8b90fd3cc44f9b07786346ba88",
+      "contentSha256": "37bcddc2fdf772b6ce3488893c320841a177b758348a7c054cff866ee0ccbfa6",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2099,11 +2521,12 @@
           "headline": "Multi-wavelength lasers for hair removal: physics, effectiveness and marketing myths",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/multi-wavelength-laser-hair-removal/",
           "image": "https://ltsmarket.pl/assets/img/blog/multi-wavelength/en/selective-photothermolysis.svg",
-          "dateModified": "2026-11-24",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-24",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
         {
@@ -2151,7 +2574,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/",
         "x-default": "https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/"
       },
-      "contentSha256": "b05d8d4510993c4f9ed0a64fb6a005d0c47715361d0ba06359000f22d9ed8d71",
+      "contentSha256": "f095cf64cd061c740d8648eac9dc20e5b7038dc07d2d2f4f6c0c140820a99037",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2168,7 +2591,13 @@
           },
           "headline": "Safe tattoo removal with an Nd:YAG laser: what should you know?",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/safe-tattoo-removal-nd-yag-laser/",
-          "image": "https://ltsmarket.pl/assets/img/blog/ndyg-tatoo-article-clean.jpg"
+          "image": "https://ltsmarket.pl/assets/img/blog/ndyg-tatoo-article-clean.jpg",
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, founder and lead technical specialist"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -2215,7 +2644,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
         "x-default": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
       },
-      "contentSha256": "c0b515145a9d94a161701b8f5c7158ba91d3460cea541cbb4dbe664bfd773ff9",
+      "contentSha256": "26f476dec04b8c99ab51ee99b1b300ce24c1c67739375cac18067daef2905cce",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2233,11 +2662,12 @@
           "headline": "Top 4 Professional Laser Hair Removal Machines in 2026",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/top-4-laser-hair-removal-machines-2026/",
           "image": "https://ltsmarket.pl/assets/img/blog/top-4-laser-hair-removal-2026/top-4-laser-hair-removal-2026.webp",
-          "dateModified": "2026-11-24",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-24",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Sofiia Shcherbakova",
+            "jobTitle": "Client Manager"
           }
         },
         {
@@ -2285,7 +2715,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/",
         "x-default": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
       },
-      "contentSha256": "ce23aff45be3235067e66acf2c17a1af6ce04e98d74828b66b1b525dd7230d16",
+      "contentSha256": "376c57f8c8757e664dba59d5d79b1e0dadeef8d5c1ce71799ee83aeedd1a106b",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -2303,10 +2733,12 @@
           "headline": "Buying a Used Aesthetic Laser: Why Professional Inspection by Laser Tech Service Matters",
           "mainEntityOfPage": "https://ltsmarket.pl/en/blog/used-aesthetic-laser-inspection/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-17",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market in cooperation with Laser Tech Service"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, founder and lead technical specialist"
           }
         },
         {
@@ -5360,7 +5792,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/",
         "x-default": "https://ltsmarket.pl/blog/"
       },
-      "contentSha256": "07cda43559ef1ac9d88bf452518db11e15a5269278453e9abcf94d9a68dc40fe",
+      "contentSha256": "2e83cf9aec4a334b92dfe836e8d1465ea372950fc779c8015955e96de84951e6",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5378,6 +5810,11 @@
           "blogPost": [
             {
               "@type": "BlogPosting",
+              "headline": "Как открыть кабинет аппаратной косметологии в Польше в 2027 году?",
+              "url": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/"
+            },
+            {
+              "@type": "BlogPosting",
               "headline": "Как купить б/у лазер для эпиляции и не стать жертвой обмана: скрученные счётчики, подделки и скрытые неисправности",
               "url": "https://ltsmarket.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyatsii-bez-riska/"
             },
@@ -5390,11 +5827,6 @@
               "@type": "BlogPosting",
               "headline": "Комбинированные технологии в косметологии: лазерная эпиляция, фотоомоложение и индивидуальные программы процедур",
               "url": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/"
-            },
-            {
-              "@type": "BlogPosting",
-              "headline": "Интеллектуальные лазеры для эпиляции: искусственный интеллект, анализ меланина и безопасность процедур",
-              "url": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/"
             }
           ]
         },
@@ -5435,7 +5867,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
         "x-default": "https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-diodowy/"
       },
-      "contentSha256": "9f3674665232264a9c79da8d555c3c6e958da43fe6bdd65b5a6ea39a0f2c74b6",
+      "contentSha256": "c5e05d8fbb803d8c2b81cd43f4e05a5067e640d33886fe0e1af03d10966b0d8a",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5453,11 +5885,12 @@
           "headline": "Alpha или Alpha Mini? Сравниваем два диодных лазера для профессиональной эпиляции",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/alpha-vs-alpha-mini-diodnyj-lazer/",
           "image": "https://ltsmarket.pl/assets/img/nowe/alpha.webp",
-          "dateModified": "2026-11-23",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-23",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Sofiia Shcherbakova",
+            "jobTitle": "менеджер по работе с клиентами"
           }
         },
         {
@@ -5505,7 +5938,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/",
         "x-default": "https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-laser-nd-yag/"
       },
-      "contentSha256": "bfcf1220c430dd59d2269fb25e04adac98a3aafe79acd8d1e3e3616ea3d0abc5",
+      "contentSha256": "8bb3e87985399ecfa9d06c0c4238afa0caf7c7faddf9760be04b417758fc2d41",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5522,7 +5955,13 @@
           },
           "headline": "Безопасное удаление татуировки лазером Nd:YAG: что важно знать?",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/bezopasnoe-udalenie-tatu-lazer-nd-yag/",
-          "image": "https://ltsmarket.pl/assets/img/blog/ndyg-tatoo-article-clean.jpg"
+          "image": "https://ltsmarket.pl/assets/img/blog/ndyg-tatoo-article-clean.jpg",
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, основатель и главный технический специалист"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -5569,7 +6008,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/",
         "x-default": "https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laserowej/"
       },
-      "contentSha256": "c1691889feb290fe87394b7c2d527f6ac8e4d6458546bb16999557cc810e3625",
+      "contentSha256": "c5184153b7abfd4c1c488a24e25035be8b12c17528889aeb0a1483c7b024bff3",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5587,10 +6026,12 @@
           "headline": "Дерматоскоп — дополнительный инструмент косметолога. Почему он полезен при лазерной эпиляции?",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/dermatoskop-v-lazernoy-epilyatsii/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-20",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
         {
@@ -5638,7 +6079,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/",
         "x-default": "https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epilacji-laserowej/"
       },
-      "contentSha256": "3343ea7cf4a4f066203eb62782980f0a1fa4340cf4258c5c88d4a3ba23ee3203",
+      "contentSha256": "99a72da5500b086a0316d0bdb72541fd4fe8a8fdbd34873192c020aa50c00d09",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5656,11 +6097,12 @@
           "headline": "Интеллектуальные лазеры для эпиляции: искусственный интеллект, анализ меланина и безопасность процедур",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/iskusstvennyy-intellekt-v-lazernoy-epilyatsii/",
           "image": "https://ltsmarket.pl/assets/img/blog/ai-hair-removal/ru/phototype-vs-melanin.svg",
-          "dateModified": "2026-11-24",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-24",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
         {
@@ -5708,7 +6150,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/kak-kupit-bu-lazer-dlya-epilyatsii-bez-riska/",
         "x-default": "https://ltsmarket.pl/blog/jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka/"
       },
-      "contentSha256": "53dee7062ebf2f7c126810d8bdd1665622b6b50f955d04dc782278db515e22e6",
+      "contentSha256": "a863b1301711fe5aa6800b3c61d785c6b7ea1615a809241217620e397e753d98",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5740,9 +6182,9 @@
           "dateModified": "2026-11-26",
           "datePublished": "2026-11-26",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
         {
@@ -5778,6 +6220,189 @@
       ]
     },
     {
+      "url": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/",
+      "markdownUrl": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/index.md",
+      "language": "ru",
+      "type": "articles",
+      "title": "Как открыть кабинет аппаратной косметологии в Польше в 2027 году?",
+      "description": "Практическое руководство по открытию кабинета косметологии в Польше. Расходы, законодательство, оборудование, лизинг и калькуляторы окупаемости.",
+      "languageAlternates": {
+        "pl": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/",
+        "en": "https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/",
+        "ru": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/",
+        "x-default": "https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/"
+      },
+      "contentSha256": "7dca08007dde3db7623fd8778e01ec782318f7df9d465057b59a92391c3f4fef",
+      "structuredData": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "@id": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/#article",
+          "url": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/",
+          "name": "Как открыть кабинет аппаратной косметологии в Польше в 2027 году?",
+          "description": "Практическое руководство по открытию кабинета косметологии в Польше. Расходы, законодательство, оборудование, лизинг и калькуляторы окупаемости.",
+          "inLanguage": "ru",
+          "publisher": {
+            "@type": "Organization",
+            "name": "LTS Market",
+            "url": "https://ltsmarket.pl/"
+          },
+          "headline": "Как открыть кабинет аппаратной косметологии в Польше в 2027 году?",
+          "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/",
+          "articleSection": "Business guide",
+          "keywords": [
+            "beauty business Poland",
+            "laser hair removal business",
+            "startup costs",
+            "leasing"
+          ],
+          "about": [
+            "Beauty business startup in Poland",
+            "Laser hair removal studio"
+          ],
+          "dateModified": "2026-11-26",
+          "datePublished": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Александр Падалко",
+            "jobTitle": "специалист по цифровому развитию бизнеса, поисковой видимости и продвижению в AI-системах"
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Главная",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Блог LTS Market",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Как открыть кабинет аппаратной косметологии в Польше в 2027 году?",
+              "item": {
+                "@id": "https://ltsmarket.pl/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/"
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Сколько стоит открыть кабинет лазерной эпиляции?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "В демонстрационной модели небольшого кабинета с подержанным аппаратом бюджет составляет 60 000 PLN. Фактические расходы зависят от оборудования, помещения и финансирования."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Какой код PKD нужен косметологическому кабинету?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "В классификаторе PKD 2025 косметическая деятельность обозначена кодом 96.22.Z."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Нужно ли уведомлять Sanepid об открытии кабинета?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Общего требования уведомлять исключительно о начале косметической деятельности нет. При этом могут действовать другие требования к помещению и услугам."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Может ли косметолог выполнять лазерную эпиляцию?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Это зависит от характера процедуры, назначения аппарата, квалификации оператора и действующих требований."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Можно ли купить подержанный лазер?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да, при условии проверки документации, технического состояния и истории обслуживания."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Можно ли приобрести лазер в лизинг?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Да, если предприниматель и оборудование соответствуют требованиям финансирующей организации."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Сколько клиентов нужно для покрытия расходов?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "При постоянных расходах 7500 PLN, цене процедуры 200 PLN и переменных расходах 20 PLN необходимо минимум 42 процедуры в месяц."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Может ли лазер окупиться за год?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Это возможно при определённых финансовых условиях, но зависит от фактической загрузки, расходов, налогов и финансирования."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Обязательна ли маркировка CE?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Устройство должно соответствовать применимым требованиям. Маркировка CE не заменяет проверку документации."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Как часто нужно обслуживать лазер?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Периодичность зависит от рекомендаций производителя, конструкции аппарата и интенсивности эксплуатации."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Может ли новый бизнес получить финансирование?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Предприниматель может подавать заявки на доступные программы при соблюдении их условий. Одобрение не гарантируется."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Помогает ли LTS Market подобрать оборудование?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "LTS Market предлагает новое и подержанное оборудование, а также профессиональный подбор согласно действующим условиям."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/",
       "markdownUrl": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/index.md",
       "language": "ru",
@@ -5790,7 +6415,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/",
         "x-default": "https://ltsmarket.pl/blog/depilacja-laserowa-jako-biznes/"
       },
-      "contentSha256": "4df0af04322f1362c77b9899fe849999baa0fa9e7194b0082c8e3e6ab835e411",
+      "contentSha256": "741ea70e8ccce4872ae50e123ee602dfd14a6b206ad95edd37f3a759aa913877",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5807,7 +6432,13 @@
           },
           "headline": "Лазерная эпиляция как бизнес: почему стоит запланировать открытие кабинета на осень?",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/lazernaya-epilyaciya-kak-biznes/",
-          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg"
+          "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Александр Падалко",
+            "jobTitle": "специалист по цифровому развитию бизнеса, поисковой видимости и продвижению в AI-системах"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -5854,7 +6485,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/",
         "x-default": "https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-zabiegi-laczone/"
       },
-      "contentSha256": "3bd0e1f8b515d2614851a24934d989bc2a18e9a2e82f9edc843d4a1ddab9bd47",
+      "contentSha256": "dbfca1fd19c89cff5462d016d2dda15baa9982e5467053fbb0d1eed5b96422b8",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5872,12 +6503,12 @@
           "headline": "Комбинированные технологии в косметологии: лазерная эпиляция, фотоомоложение и индивидуальные программы процедур",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
-          "dateModified": "2026-11-25",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-25",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
         {
@@ -5925,7 +6556,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/",
         "x-default": "https://ltsmarket.pl/blog/lumos-nowoczesny-laser-diodowy-dla-salonu/"
       },
-      "contentSha256": "a15d237b566159c962687f185070a257fccdee429b4df4aa021c306aa85af5db",
+      "contentSha256": "336a2e29cf83a16c46d0f1ef7c23e1cf0f40b212a3f0772ff7331e161cf6ce6a",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -5943,7 +6574,12 @@
           "headline": "Lumos — интеллектуальный диодный лазер для современного косметологического бизнеса",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/lumos-sovremennyy-diodnyy-lazer-dlya-salona/",
           "image": "https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp",
-          "dateModified": "2026-11-09"
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Sofiia Shcherbakova",
+            "jobTitle": "менеджер по работе с клиентами"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -5990,7 +6626,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/",
         "x-default": "https://ltsmarket.pl/blog/lasery-wielofalowe-do-epilacji/"
       },
-      "contentSha256": "c4a7da3eadb66548deb0c4bb7e10e669443b7400b6e0af4746263a4e95b1b773",
+      "contentSha256": "be3ea73581caa6512ac19c1b0b348400b026e8b62b17977e0859170424a30af1",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6008,11 +6644,12 @@
           "headline": "Многоволновые лазеры для эпиляции: физика, эффективность и маркетинговые мифы",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/mnogovolnovye-lazery-dlya-epilyatsii/",
           "image": "https://ltsmarket.pl/assets/img/blog/multi-wavelength/ru/selective-photothermolysis.svg",
-          "dateModified": "2026-11-24",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-24",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
         {
@@ -6060,7 +6697,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/",
         "x-default": "https://ltsmarket.pl/blog/modelowanie-sylwetki-kawitacja-rf/"
       },
-      "contentSha256": "59850cfbfecfd24b905aa5a7b2b4210501f78fe09bb2683e5ce537a7b1cc05fd",
+      "contentSha256": "b8acf952e1d26b11f0a8da8341359c31bcbe07187c58595baf7b72599d90bf2a",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6077,7 +6714,13 @@
           },
           "headline": "Современное моделирование фигуры: сочетание кавитации и RF-лифтинга",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/modelirovanie-figury-kavitaciya-rf/",
-          "image": "https://ltsmarket.pl/assets/img/blog/rf-article.webp"
+          "image": "https://ltsmarket.pl/assets/img/blog/rf-article.webp",
+          "dateModified": "2026-11-26",
+          "author": {
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, основатель и главный технический специалист"
+          }
         },
         {
           "@context": "https://schema.org",
@@ -6124,7 +6767,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/",
         "x-default": "https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/"
       },
-      "contentSha256": "4717e096bdfaec83e7a2fb5dea907e807f547313a49336df5dc09a858d4875ea",
+      "contentSha256": "c97c6c24cd2ed5a52ef399fd5615c2ab4b1ce6070fe7ac3cec78c30d303c5e95",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6142,10 +6785,12 @@
           "headline": "Что действительно определяет качество диодного лазера? Мощность, охлаждение ICE Flow и оптика FAC",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-ice-flow-fac/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-19",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
         {
@@ -6193,7 +6838,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/",
         "x-default": "https://ltsmarket.pl/blog/moc-lasera-optyka-fac-chlodzenie-epilacja/"
       },
-      "contentSha256": "86cda5797898bfb678ddba4793c2ab72a70ff7580f76a701e39635ce7cb5912a",
+      "contentSha256": "a4a0a45e015bd3ddaddc60bb1ca47565bcd4f70530432334680194a52b011570",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6211,12 +6856,12 @@
           "headline": "Быстрая и комфортная лазерная эпиляция: мощность, размер рабочего пятна, оптика и системы охлаждения",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/moshchnost-lazera-optika-fac-okhlazhdenie/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
-          "dateModified": "2026-11-25",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-25",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market",
-            "url": "https://ltsmarket.pl/"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
         {
@@ -6264,7 +6909,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/",
         "x-default": "https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagnostyka/"
       },
-      "contentSha256": "9bc5a2da98178c6220116f7b3bb28a0c9f19b7e3654e8c8872f599b9ae34fccc",
+      "contentSha256": "12258d306585f8a2ddae4066d6c03d159d2384b56ce0a46829f81f9f4c797963",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6282,10 +6927,12 @@
           "headline": "Покупка подержанного косметологического лазера. Почему стоит доверить выбор специалистам Laser Tech Service?",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/pokupka-bu-lazera-diagnostika/",
           "image": "https://ltsmarket.pl/assets/img/hero-lts-market.jpg",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-17",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market в сотрудничестве с Laser Tech Service"
+            "@type": "Person",
+            "name": "Dmytro Zaitsev",
+            "jobTitle": "CEO, основатель и главный технический специалист"
           }
         },
         {
@@ -6333,7 +6980,7 @@
         "ru": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
         "x-default": "https://ltsmarket.pl/blog/top-4-lasery-do-epilacji-2026/"
       },
-      "contentSha256": "e76a9a23117037e5cc112696d8325cc375bfe73ab3b2d86ccea4a358bdd773e0",
+      "contentSha256": "50ff1094f5f7e319d93f0c3ba842c8e99cf72dfe2193da34888f6a02d103cfc1",
       "structuredData": [
         {
           "@context": "https://schema.org",
@@ -6351,11 +6998,12 @@
           "headline": "ТОП-4 профессиональных лазеров для эпиляции в 2026 году",
           "mainEntityOfPage": "https://ltsmarket.pl/ru/blog/top-4-lazera-dlya-epilyatsii-2026/",
           "image": "https://ltsmarket.pl/assets/img/blog/top-4-laser-hair-removal-2026/top-4-laser-hair-removal-2026.webp",
-          "dateModified": "2026-11-24",
+          "dateModified": "2026-11-26",
           "datePublished": "2026-11-24",
           "author": {
-            "@type": "Organization",
-            "name": "LTS Market"
+            "@type": "Person",
+            "name": "Sofiia Shcherbakova",
+            "jobTitle": "менеджер по работе с клиентами"
           }
         },
         {

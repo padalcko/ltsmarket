@@ -10,7 +10,7 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/used-aesthetic-las
 
 Blog LTS Market
 
-17.11.2026 · LTS Market we współpracy z [Laser Tech Service](https://lasertechservice.pl/)
+17.11.2026 · Dmytro Zaitsev — CEO, założyciel i główny specjalista techniczny
 
 Zakup lasera kosmetycznego to jedna z najważniejszych inwestycji w rozwój salonu beauty. Niezależnie od tego, czy planujesz otworzyć nowy gabinet, czy rozszerzyć ofertę istniejącego salonu, wybór odpowiedniego urządzenia ma bezpośredni wpływ na jakość usług, koszty działalności i bezpieczeństwo klientów.
 

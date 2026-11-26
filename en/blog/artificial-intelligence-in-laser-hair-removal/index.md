@@ -10,7 +10,7 @@ Other languages: [Polski](https://ltsmarket.pl/blog/sztuczna-inteligencja-w-epil
 
 LTS Market Blog
 
-24.11.2026 · LTS Market
+24.11.2026 · Dmytro Zaitsev — CEO, founder and lead technical specialist
 
 The future of laser hair removal: technology, effectiveness and safety. Part 2.
 

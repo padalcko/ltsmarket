@@ -10,6 +10,8 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/laser-hair-removal
 
 Blog LTS Market
 
+Александр Падалко — specjalista ds. rozwoju cyfrowego biznesu, widoczności w wyszukiwarkach i promocji w systemach AI
+
 Jesień nie musi oznaczać wielkiego otwarcia i głośnej promocji. Może być spokojnym początkiem: czasem na przygotowanie gabinetu, poznanie urządzenia i rozmowy z pierwszymi klientami. Jeśli planujesz biznes związany z depilacją laserową w Polsce, zacznij od dobrego planu, a dopiero potem od konkretnego modelu lasera.
 
 ## Czy depilacja laserowa może być dobrym biznesem?
@@ -71,6 +73,8 @@ Nie przyjmuj każdej osoby za wszelką cenę. Jasne zasady kwalifikacji, gotowo�
 Spisz planowany zakres usług, budżet na wyposażenie oraz miesięczne koszty. Następnie porównaj dostępne modele, warunki zakupu i wsparcia. Na końcu zaplanuj przygotowanie zespołu i realistyczny harmonogram otwarcia.
 
 [Skontaktuj się z LTS Market](https://ltsmarket.pl/kontakt.html) i opisz swój pomysł na gabinet w Polsce. Podaj budżet oraz informację, czy interesuje Cię sprzęt nowy, używany czy leasing. To dobry punkt wyjścia do rozmowy o dostępnych rozwiązaniach.
+
+[Jak otworzyć gabinet kosmetologiczny w Polsce? Przeczytaj kompletny poradnik z kalkulatorami.](https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/)
 
 ## Zaplanuj swój gabinet z LTS Market
 

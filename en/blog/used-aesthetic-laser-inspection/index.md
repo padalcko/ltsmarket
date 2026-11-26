@@ -10,7 +10,7 @@ Other languages: [Polski](https://ltsmarket.pl/blog/zakup-uzywanego-lasera-diagn
 
 LTS Market Blog
 
-17.11.2026 · LTS Market in cooperation with [Laser Tech Service](https://lasertechservice.pl/)
+17.11.2026 · Dmytro Zaitsev — CEO, founder and lead technical specialist
 
 Purchasing an aesthetic laser is a significant investment for any beauty salon or aesthetic clinic. Whether you are opening a new business or expanding an existing treatment portfolio, choosing the right equipment affects treatment quality, operating costs and client safety.
 

@@ -10,7 +10,7 @@ Other languages: [Polski](https://ltsmarket.pl/blog/dermatoskop-w-epilacji-laser
 
 LTS Market Blog
 
-20.11.2026 · LTS Market
+20.11.2026 · Dmytro Zaitsev — CEO, founder and lead technical specialist
 
 **Professional laser hair removal is about more than laser power, wavelengths and treatment settings. It also requires careful observation of the skin, an understanding of hair characteristics and a reliable way to monitor visible changes throughout a treatment course. A dermatoscope can provide valuable support in all three areas.**
 

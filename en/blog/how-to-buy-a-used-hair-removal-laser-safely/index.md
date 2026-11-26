@@ -10,7 +10,7 @@ Other languages: [Polski](https://ltsmarket.pl/blog/jak-kupic-uzywany-laser-do-d
 
 LTS Market Blog
 
-26.11.2026 · LTS Market
+26.11.2026 · Dmytro Zaitsev — CEO, founder and lead technical specialist
 
 Buying a used hair removal laser does not require you to be an engineer, understand electronics or know how a laser handpiece is built. One of the most reliable ways to reduce the risk of a bad purchase is to have the equipment assessed by specialists who repair and maintain aesthetic lasers before you hand over your money. However, even when a seller demonstrates a low shot count, original documentation and a functioning device, there are important details every salon owner should understand.
 
@@ -259,6 +259,8 @@ sales@ltsmarket.pl
 - Processes of the Reliability and Degradation Mechanism of High-Power Semiconductor Lasers, Crystals, 2022, 12(6), 765.
 
 - Commission Implementing Regulation (EU) 2022/2346.
+
+[How to open a beauty business in Poland? Read the complete guide with calculators.](https://ltsmarket.pl/en/blog/how-to-open-a-beauty-clinic-in-poland/)
 
 LUMOS | LEASING
 

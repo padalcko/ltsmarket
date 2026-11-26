@@ -10,7 +10,7 @@ Other languages: [Polski](https://ltsmarket.pl/blog/moc-lasera-ice-flow-fac/), [
 
 LTS Market Blog
 
-19.11.2026 · LTS Market
+19.11.2026 · Dmytro Zaitsev — CEO, founder and lead technical specialist
 
 ## A good laser is more than a wattage figure
 

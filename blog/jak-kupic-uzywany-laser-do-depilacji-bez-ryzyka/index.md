@@ -10,7 +10,7 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/how-to-buy-a-used-
 
 Blog LTS Market
 
-26.11.2026 · LTS Market
+26.11.2026 · Dmytro Zaitsev — CEO, założyciel i główny specjalista techniczny
 
 Kupując używany laser do depilacji, nie trzeba być inżynierem, znać się na elektronice ani rozumieć budowy głowicy laserowej. Najskuteczniejszym sposobem ograniczenia ryzyka nietrafionego zakupu jest powierzenie oceny urządzenia specjalistom zajmującym się jego naprawą i serwisowaniem, jeszcze przed przekazaniem pieniędzy. Jednak nawet jeśli sprzedawca pokazuje niewielką liczbę impulsów, oryginalne dokumenty i działające urządzenie, istnieją kwestie, o których powinien wiedzieć każdy właściciel salonu kosmetologicznego.
 
@@ -259,6 +259,8 @@ sales@ltsmarket.pl
 - Processes of the Reliability and Degradation Mechanism of High-Power Semiconductor Lasers, Crystals, 2022, 12(6), 765.
 
 - Rozporządzenie wykonawcze Komisji (UE) 2022/2346.
+
+[Jak otworzyć gabinet kosmetologiczny w Polsce? Przeczytaj kompletny poradnik z kalkulatorami.](https://ltsmarket.pl/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/)
 
 LUMOS | LEASING
 

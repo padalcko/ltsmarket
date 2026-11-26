@@ -10,7 +10,7 @@ Other languages: [Polski](https://ltsmarket.pl/blog/epilacja-laserowa-ipl-bbl-za
 
 LTS Market Blog
 
-25.11.2026 · LTS Market
+25.11.2026 · Dmytro Zaitsev — CEO, founder and lead technical specialist
 
 *The future of laser hair removal: technology, effectiveness and safety. Part 3.*
 

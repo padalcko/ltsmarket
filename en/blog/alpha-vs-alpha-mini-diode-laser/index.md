@@ -10,7 +10,7 @@ Other languages: [Polski](https://ltsmarket.pl/blog/alpha-vs-alpha-mini-laser-di
 
 LTS Market Blog
 
-23.11.2026 · LTS Market
+23.11.2026 · Sofiia Shcherbakova — Client Manager
 
 ![Alpha diode laser in the LTS Market catalogue](https://ltsmarket.pl/assets/img/nowe/alpha.webp)
 

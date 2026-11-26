@@ -10,6 +10,8 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/body-contouring-ca
 
 Blog LTS Market
 
+Dmytro Zaitsev — CEO, założyciel i główny specjalista techniczny
+
 Modelowanie sylwetki to obszar, który warto rozważyć przy rozwijaniu oferty salonu kosmetycznego w Polsce. Urządzenia łączące kawitację ultradźwiękową i lifting RF pozwalają planować pielęgnację ukierunkowaną na kontur ciała oraz wygląd skóry. Kluczem jest dobór technologii do potrzeb klienta i możliwości konkretnego aparatu.
 
 ![Kobieta obok urządzenia kosmetycznego z głowicami zabiegowymi](https://ltsmarket.pl/assets/img/blog/rf-article.webp)

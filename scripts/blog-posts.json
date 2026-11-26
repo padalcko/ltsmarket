@@ -74,10 +74,12 @@
           ],
           [
             "Od pomysłu do konkretnego planu",
-            "Spisz planowany zakres usług, budżet na wyposażenie oraz miesięczne koszty. Następnie porównaj dostępne modele, warunki zakupu i wsparcia. Na końcu zaplanuj przygotowanie zespołu i realistyczny harmonogram otwarcia.\n<a href=\"{prefix}kontakt.html\">Skontaktuj się z LTS Market</a> i opisz swój pomysł na gabinet w Polsce. Podaj budżet oraz informację, czy interesuje Cię sprzęt nowy, używany czy leasing. To dobry punkt wyjścia do rozmowy o dostępnych rozwiązaniach."
+            "Spisz planowany zakres usług, budżet na wyposażenie oraz miesięczne koszty. Następnie porównaj dostępne modele, warunki zakupu i wsparcia. Na końcu zaplanuj przygotowanie zespołu i realistyczny harmonogram otwarcia.\n<a href=\"{prefix}kontakt.html\">Skontaktuj się z LTS Market</a> i opisz swój pomysł na gabinet w Polsce. Podaj budżet oraz informację, czy interesuje Cię sprzęt nowy, używany czy leasing. To dobry punkt wyjścia do rozmowy o dostępnych rozwiązaniach.\n<a href=\"/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/\">Jak otworzyć gabinet kosmetologiczny w Polsce? Przeczytaj kompletny poradnik z kalkulatorami.</a>"
           ]
         ],
-        "category": "Biznes i depilacja laserowa"
+        "category": "Biznes i depilacja laserowa",
+        "author_key": "oleksandr",
+        "modified": "2026-11-26"
       },
       "en": {
         "slug": "laser-hair-removal-business",
@@ -126,10 +128,12 @@
           ],
           [
             "Turn the idea into a practical plan",
-            "Write down your intended services, equipment budget and monthly expenses. Compare available models, purchase terms and support, then plan team preparation and a realistic opening schedule.\n<a href=\"{prefix}kontakt.html\">Contact LTS Market</a> with your plans for a salon in Poland. Include your budget and whether you are considering new equipment, a pre-owned device or leasing. This provides a useful starting point for discussing available options."
+            "Write down your intended services, equipment budget and monthly expenses. Compare available models, purchase terms and support, then plan team preparation and a realistic opening schedule.\n<a href=\"{prefix}kontakt.html\">Contact LTS Market</a> with your plans for a salon in Poland. Include your budget and whether you are considering new equipment, a pre-owned device or leasing. This provides a useful starting point for discussing available options.\n<a href=\"/en/blog/how-to-open-a-beauty-clinic-in-poland/\">How to open a beauty business in Poland? Read the complete guide with calculators.</a>"
           ]
         ],
-        "category": "Business and laser hair removal"
+        "category": "Business and laser hair removal",
+        "author_key": "oleksandr",
+        "modified": "2026-11-26"
       },
       "ru": {
         "slug": "lazernaya-epilyaciya-kak-biznes",
@@ -178,10 +182,12 @@
           ],
           [
             "От идеи к конкретному плану",
-            "Запишите перечень услуг, бюджет на оборудование и ежемесячные расходы. Затем сравните модели, условия покупки и поддержки. После этого спланируйте подготовку команды и реалистичный график открытия.\n<a href=\"{prefix}kontakt.html\">Свяжитесь с LTS Market</a> и расскажите о будущем кабинете в Польше. Укажите бюджет и интересующий вариант: новое оборудование, подержанный аппарат или лизинг. Это отправная точка для обсуждения доступных решений."
+            "Запишите перечень услуг, бюджет на оборудование и ежемесячные расходы. Затем сравните модели, условия покупки и поддержки. После этого спланируйте подготовку команды и реалистичный график открытия.\n<a href=\"{prefix}kontakt.html\">Свяжитесь с LTS Market</a> и расскажите о будущем кабинете в Польше. Укажите бюджет и интересующий вариант: новое оборудование, подержанный аппарат или лизинг. Это отправная точка для обсуждения доступных решений.\n<a href=\"/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/\">Как открыть косметологический кабинет в Польше? Читайте руководство с калькуляторами.</a>"
           ]
         ],
-        "category": "Бизнес и лазерная эпиляция"
+        "category": "Бизнес и лазерная эпиляция",
+        "author_key": "oleksandr",
+        "modified": "2026-11-26"
       }
     },
     {
@@ -231,7 +237,9 @@
         "image": "/assets/img/blog/rf-article.webp",
         "image_width": 1080,
         "image_height": 1080,
-        "category": "Technologie kosmetologiczne"
+        "category": "Technologie kosmetologiczne",
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       },
       "en": {
         "slug": "body-contouring-cavitation-rf",
@@ -279,7 +287,9 @@
         "image": "/assets/img/blog/rf-article.webp",
         "image_width": 1080,
         "image_height": 1080,
-        "category": "Beauty technologies"
+        "category": "Beauty technologies",
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       },
       "ru": {
         "slug": "modelirovanie-figury-kavitaciya-rf",
@@ -327,7 +337,9 @@
         "image": "/assets/img/blog/rf-article.webp",
         "image_width": 1080,
         "image_height": 1080,
-        "category": "Косметологические технологии"
+        "category": "Косметологические технологии",
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       }
     },
     {
@@ -369,7 +381,9 @@
         ],
         "image": "/assets/img/blog/ndyg-tatoo-article-clean.jpg",
         "image_width": 1672,
-        "image_height": 941
+        "image_height": 941,
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       },
       "en": {
         "slug": "safe-tattoo-removal-nd-yag-laser",
@@ -409,7 +423,9 @@
         ],
         "image": "/assets/img/blog/ndyg-tatoo-article-clean.jpg",
         "image_width": 1672,
-        "image_height": 941
+        "image_height": 941,
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       },
       "ru": {
         "slug": "bezopasnoe-udalenie-tatu-lazer-nd-yag",
@@ -449,7 +465,9 @@
         ],
         "image": "/assets/img/blog/ndyg-tatoo-article-clean.jpg",
         "image_width": 1672,
-        "image_height": 941
+        "image_height": 941,
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       }
     },
     {
@@ -532,14 +550,15 @@
         "image": "/assets/img/lumos/lumos-front-800.webp",
         "image_width": 800,
         "image_height": 800,
-        "modified": "2026-11-09",
+        "modified": "2026-11-26",
         "action_cta": {
           "title": "Lumos dla Twojego salonu",
           "description": "Poznaj cenę, dobierz konfigurację i zapytaj o leasing.",
           "form_label": "Wypełnij formularz",
           "form_url": "/nowe/lumos/#contact-form",
           "call_label": "Zadzwoń"
-        }
+        },
+        "author_key": "sofiia"
       },
       "en": {
         "slug": "lumos-modern-diode-laser-for-salons",
@@ -620,14 +639,15 @@
         "image": "/assets/img/lumos/lumos-front-800.webp",
         "image_width": 800,
         "image_height": 800,
-        "modified": "2026-11-09",
+        "modified": "2026-11-26",
         "action_cta": {
           "title": "Lumos for your clinic",
           "description": "Explore pricing, choose your configuration and ask about leasing.",
           "form_label": "Fill in the form",
           "form_url": "/en/new/lumos/#contact-form",
           "call_label": "Call us"
-        }
+        },
+        "author_key": "sofiia"
       },
       "ru": {
         "slug": "lumos-sovremennyy-diodnyy-lazer-dlya-salona",
@@ -708,14 +728,15 @@
         "image": "/assets/img/lumos/lumos-front-800.webp",
         "image_width": 800,
         "image_height": 800,
-        "modified": "2026-11-09",
+        "modified": "2026-11-26",
         "action_cta": {
           "title": "Lumos для вашего салона",
           "description": "Узнайте стоимость, подберите комплектацию и обсудите лизинг.",
           "form_label": "Заполнить форму",
           "form_url": "/ru/novye/lumos/#contact-form",
           "call_label": "Позвонить"
-        }
+        },
+        "author_key": "sofiia"
       }
     },
     {
@@ -762,9 +783,10 @@
         ],
         "sections_html": true,
         "date": "2026-11-17",
-        "author": "LTS Market we współpracy z Laser Tech Service",
         "hide_cta": true,
-        "regional_hreflang": true
+        "regional_hreflang": true,
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       },
       "ru": {
         "slug": "pokupka-bu-lazera-diagnostika",
@@ -809,9 +831,10 @@
         ],
         "sections_html": true,
         "date": "2026-11-17",
-        "author": "LTS Market в сотрудничестве с Laser Tech Service",
         "hide_cta": true,
-        "regional_hreflang": true
+        "regional_hreflang": true,
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       },
       "en": {
         "slug": "used-aesthetic-laser-inspection",
@@ -856,9 +879,10 @@
         ],
         "sections_html": true,
         "date": "2026-11-17",
-        "author": "LTS Market in cooperation with Laser Tech Service",
         "hide_cta": true,
-        "regional_hreflang": true
+        "regional_hreflang": true,
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       }
     },
     {
@@ -905,7 +929,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-19",
-        "author": "LTS Market"
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       },
       "ru": {
         "slug": "moshchnost-lazera-ice-flow-fac",
@@ -950,7 +975,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-19",
-        "author": "LTS Market"
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       },
       "en": {
         "slug": "diode-laser-power-ice-flow-fac",
@@ -995,7 +1021,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-19",
-        "author": "LTS Market"
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       }
     },
     {
@@ -1044,7 +1071,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-20",
-        "author": "LTS Market"
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       },
       "ru": {
         "slug": "dermatoskop-v-lazernoy-epilyatsii",
@@ -1091,7 +1119,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-20",
-        "author": "LTS Market"
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       },
       "en": {
         "slug": "dermatoscope-laser-hair-removal",
@@ -1138,7 +1167,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-20",
-        "author": "LTS Market"
+        "author_key": "dmytro",
+        "modified": "2026-11-26"
       }
     },
     {
@@ -1181,12 +1211,12 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-23",
-        "modified": "2026-11-23",
-        "author": "LTS Market",
+        "modified": "2026-11-26",
         "image": "/assets/img/nowe/alpha.webp",
         "image_width": 800,
         "image_height": 960,
-        "image_alt": "Laser diodowy Alpha w ofercie LTS Market"
+        "image_alt": "Laser diodowy Alpha w ofercie LTS Market",
+        "author_key": "sofiia"
       },
       "ru": {
         "slug": "alpha-vs-alpha-mini-diodnyj-lazer",
@@ -1227,12 +1257,12 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-23",
-        "modified": "2026-11-23",
-        "author": "LTS Market",
+        "modified": "2026-11-26",
         "image": "/assets/img/nowe/alpha.webp",
         "image_width": 800,
         "image_height": 960,
-        "image_alt": "Диодный лазер Alpha в каталоге LTS Market"
+        "image_alt": "Диодный лазер Alpha в каталоге LTS Market",
+        "author_key": "sofiia"
       },
       "en": {
         "slug": "alpha-vs-alpha-mini-diode-laser",
@@ -1273,12 +1303,12 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-23",
-        "modified": "2026-11-23",
-        "author": "LTS Market",
+        "modified": "2026-11-26",
         "image": "/assets/img/nowe/alpha.webp",
         "image_width": 800,
         "image_height": 960,
-        "image_alt": "Alpha diode laser in the LTS Market catalogue"
+        "image_alt": "Alpha diode laser in the LTS Market catalogue",
+        "author_key": "sofiia"
       }
     },
     {
@@ -1309,14 +1339,14 @@
           ]
         ],
         "date": "2026-11-24",
-        "modified": "2026-11-24",
-        "author": "LTS Market",
+        "modified": "2026-11-26",
         "image": "/assets/img/blog/top-4-laser-hair-removal-2026/top-4-laser-hair-removal-2026.webp",
         "image_width": 1200,
         "image_height": 760,
         "image_alt": "Porównanie czterech profesjonalnych laserów do epilacji w 2026 roku",
         "sections_html": true,
-        "hide_cta": true
+        "hide_cta": true,
+        "author_key": "sofiia"
       },
       "ru": {
         "seo": "ТОП-4 лазера для эпиляции в 2026 году | LTS Market",
@@ -1345,14 +1375,14 @@
           ]
         ],
         "date": "2026-11-24",
-        "modified": "2026-11-24",
-        "author": "LTS Market",
+        "modified": "2026-11-26",
         "image": "/assets/img/blog/top-4-laser-hair-removal-2026/top-4-laser-hair-removal-2026.webp",
         "image_width": 1200,
         "image_height": 760,
         "image_alt": "Сравнение четырёх профессиональных лазеров для эпиляции в 2026 году",
         "sections_html": true,
-        "hide_cta": true
+        "hide_cta": true,
+        "author_key": "sofiia"
       },
       "en": {
         "seo": "Top 4 Laser Hair Removal Machines in 2026 | LTS Market",
@@ -1381,14 +1411,14 @@
           ]
         ],
         "date": "2026-11-24",
-        "modified": "2026-11-24",
-        "author": "LTS Market",
+        "modified": "2026-11-26",
         "image": "/assets/img/blog/top-4-laser-hair-removal-2026/top-4-laser-hair-removal-2026.webp",
         "image_width": 1200,
         "image_height": 760,
         "image_alt": "Comparison of four professional laser hair removal machines in 2026",
         "sections_html": true,
-        "hide_cta": true
+        "hide_cta": true,
+        "author_key": "sofiia"
       }
     },
     {
@@ -1469,9 +1499,9 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-24",
-        "modified": "2026-11-24",
-        "author": "LTS Market",
-        "social_image": "/assets/img/blog/multi-wavelength/pl/selective-photothermolysis.svg"
+        "modified": "2026-11-26",
+        "social_image": "/assets/img/blog/multi-wavelength/pl/selective-photothermolysis.svg",
+        "author_key": "dmytro"
       },
       "ru": {
         "slug": "mnogovolnovye-lazery-dlya-epilyatsii",
@@ -1550,9 +1580,9 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-24",
-        "modified": "2026-11-24",
-        "author": "LTS Market",
-        "social_image": "/assets/img/blog/multi-wavelength/ru/selective-photothermolysis.svg"
+        "modified": "2026-11-26",
+        "social_image": "/assets/img/blog/multi-wavelength/ru/selective-photothermolysis.svg",
+        "author_key": "dmytro"
       },
       "en": {
         "slug": "multi-wavelength-laser-hair-removal",
@@ -1631,9 +1661,9 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-24",
-        "modified": "2026-11-24",
-        "author": "LTS Market",
-        "social_image": "/assets/img/blog/multi-wavelength/en/selective-photothermolysis.svg"
+        "modified": "2026-11-26",
+        "social_image": "/assets/img/blog/multi-wavelength/en/selective-photothermolysis.svg",
+        "author_key": "dmytro"
       }
     },
     {
@@ -1722,9 +1752,9 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-24",
-        "modified": "2026-11-24",
-        "author": "LTS Market",
-        "social_image": "/assets/img/blog/ai-hair-removal/pl/phototype-vs-melanin.svg"
+        "modified": "2026-11-26",
+        "social_image": "/assets/img/blog/ai-hair-removal/pl/phototype-vs-melanin.svg",
+        "author_key": "dmytro"
       },
       "ru": {
         "slug": "iskusstvennyy-intellekt-v-lazernoy-epilyatsii",
@@ -1811,9 +1841,9 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-24",
-        "modified": "2026-11-24",
-        "author": "LTS Market",
-        "social_image": "/assets/img/blog/ai-hair-removal/ru/phototype-vs-melanin.svg"
+        "modified": "2026-11-26",
+        "social_image": "/assets/img/blog/ai-hair-removal/ru/phototype-vs-melanin.svg",
+        "author_key": "dmytro"
       },
       "en": {
         "slug": "artificial-intelligence-in-laser-hair-removal",
@@ -1900,9 +1930,9 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-24",
-        "modified": "2026-11-24",
-        "author": "LTS Market",
-        "social_image": "/assets/img/blog/ai-hair-removal/en/phototype-vs-melanin.svg"
+        "modified": "2026-11-26",
+        "social_image": "/assets/img/blog/ai-hair-removal/en/phototype-vs-melanin.svg",
+        "author_key": "dmytro"
       }
     },
     {
@@ -1979,9 +2009,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-25",
-        "modified": "2026-11-25",
-        "author": "LTS Market",
-        "author_url": "https://ltsmarket.pl/"
+        "modified": "2026-11-26",
+        "author_key": "dmytro"
       },
       "ru": {
         "slug": "lazernaya-epilyatsiya-ipl-bbl-kombinirovannye-protsedury",
@@ -2056,9 +2085,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-25",
-        "modified": "2026-11-25",
-        "author": "LTS Market",
-        "author_url": "https://ltsmarket.pl/"
+        "modified": "2026-11-26",
+        "author_key": "dmytro"
       },
       "en": {
         "slug": "laser-hair-removal-ipl-bbl-combined-treatments",
@@ -2133,9 +2161,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-25",
-        "modified": "2026-11-25",
-        "author": "LTS Market",
-        "author_url": "https://ltsmarket.pl/"
+        "modified": "2026-11-26",
+        "author_key": "dmytro"
       }
     },
     {
@@ -2216,9 +2243,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-25",
-        "modified": "2026-11-25",
-        "author": "LTS Market",
-        "author_url": "https://ltsmarket.pl/"
+        "modified": "2026-11-26",
+        "author_key": "dmytro"
       },
       "ru": {
         "slug": "moshchnost-lazera-optika-fac-okhlazhdenie",
@@ -2297,9 +2323,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-25",
-        "modified": "2026-11-25",
-        "author": "LTS Market",
-        "author_url": "https://ltsmarket.pl/"
+        "modified": "2026-11-26",
+        "author_key": "dmytro"
       },
       "en": {
         "slug": "laser-power-fac-optics-cooling",
@@ -2378,9 +2403,8 @@
         "sections_html": true,
         "hide_cta": true,
         "date": "2026-11-25",
-        "modified": "2026-11-25",
-        "author": "LTS Market",
-        "author_url": "https://ltsmarket.pl/"
+        "modified": "2026-11-26",
+        "author_key": "dmytro"
       }
     },
     {
@@ -2433,14 +2457,12 @@
           ],
           [
             "Kupuj sprzęt do pracy, a nie do naprawy",
-            "<p>Laser powinien generować przychody Twojego salonu, a nie nieprzewidziane wydatki już w pierwszych miesiącach użytkowania.</p><p>Używany sprzęt może być bardzo dobrym rozwiązaniem zarówno przy otwieraniu nowego salonu, jak i rozszerzaniu oferty zabiegowej. Ważne jest jednak, aby wiedzieć, co się kupuje.</p><p>Nie musisz rezygnować z atrakcyjnej oferty z obawy przed nietrafionym zakupem. Warto zorganizować profesjonalną kontrolę urządzenia przed podjęciem ostatecznej decyzji.</p><p>LTS Market</p><p>Profesjonalny sprzęt kosmetologiczny, diagnostyka techniczna i wsparcie Twojego biznesu.</p><p>sales@ltsmarket.pl</p><p>+48 575 254 431</p><h3>Źródła merytoryczne</h3><ul><li>Buying a Laser: Tips and Pearls, 2014.</li><li>Physician Alert: Beware of Counterfeit Medical Devices, Lasers in Surgery and Medicine, 2014.</li><li>Counterfeit Medical Devices: The Money You Save Up Front Will Cost You Big in the End, Aesthetic Surgery Journal, 2014.</li><li>Counterfeit Esthetic Devices and Patient Safety in Dermatology, Journal of Cosmetic Dermatology, 2018.</li><li>Processes of the Reliability and Degradation Mechanism of High-Power Semiconductor Lasers, Crystals, 2022, 12(6), 765.</li><li>Rozporządzenie wykonawcze Komisji (UE) 2022/2346.</li></ul>"
+            "<p>Laser powinien generować przychody Twojego salonu, a nie nieprzewidziane wydatki już w pierwszych miesiącach użytkowania.</p><p>Używany sprzęt może być bardzo dobrym rozwiązaniem zarówno przy otwieraniu nowego salonu, jak i rozszerzaniu oferty zabiegowej. Ważne jest jednak, aby wiedzieć, co się kupuje.</p><p>Nie musisz rezygnować z atrakcyjnej oferty z obawy przed nietrafionym zakupem. Warto zorganizować profesjonalną kontrolę urządzenia przed podjęciem ostatecznej decyzji.</p><p>LTS Market</p><p>Profesjonalny sprzęt kosmetologiczny, diagnostyka techniczna i wsparcie Twojego biznesu.</p><p>sales@ltsmarket.pl</p><p>+48 575 254 431</p><h3>Źródła merytoryczne</h3><ul><li>Buying a Laser: Tips and Pearls, 2014.</li><li>Physician Alert: Beware of Counterfeit Medical Devices, Lasers in Surgery and Medicine, 2014.</li><li>Counterfeit Medical Devices: The Money You Save Up Front Will Cost You Big in the End, Aesthetic Surgery Journal, 2014.</li><li>Counterfeit Esthetic Devices and Patient Safety in Dermatology, Journal of Cosmetic Dermatology, 2018.</li><li>Processes of the Reliability and Degradation Mechanism of High-Power Semiconductor Lasers, Crystals, 2022, 12(6), 765.</li><li>Rozporządzenie wykonawcze Komisji (UE) 2022/2346.</li></ul>\n<a href=\"/blog/jak-otworzyc-gabinet-kosmetologiczny-w-polsce/\">Jak otworzyć gabinet kosmetologiczny w Polsce? Przeczytaj kompletny poradnik z kalkulatorami.</a>"
           ]
         ],
         "sections_html": true,
         "date": "2026-11-26",
         "modified": "2026-11-26",
-        "author": "LTS Market",
-        "author_url": "https://ltsmarket.pl/",
         "no_social_image": true,
         "context_links_only": true,
         "card_clamp": true,
@@ -2485,7 +2507,8 @@
           "description": "Rozważasz zakup używanego lasera? Sprawdź również możliwości finansowania nowego LUMOS. Rozwijaj swój salon, korzystając z nowoczesnej technologii i rozkładając inwestycję w czasie.",
           "button": "Poznaj LUMOS i możliwości leasingu",
           "url": "/nowe/lumos/"
-        }
+        },
+        "author_key": "dmytro"
       },
       "ru": {
         "slug": "kak-kupit-bu-lazer-dlya-epilyatsii-bez-riska",
@@ -2536,14 +2559,12 @@
           ],
           [
             "Покупайте оборудование для работы, а не для ремонта",
-            "<p>Лазерный аппарат должен приносить доход вашему салону, а не создавать непредвиденные расходы уже в первые месяцы эксплуатации.</p><p>Подержанное оборудование может стать отличным решением как для открытия нового салона, так и для расширения перечня услуг. Но только тогда, когда вы понимаете, что именно покупаете.</p><p>Необязательно отказываться от выгодного предложения из-за страха ошибиться. Стоит организовать профессиональную проверку до момента приобретения.</p><p>LTS Market</p><p>Профессиональное косметологическое оборудование, техническая диагностика и поддержка вашего бизнеса.</p><p>sales@ltsmarket.pl</p><p>+48 575 254 431</p><h3>Источники</h3><ul><li>Buying a Laser: Tips and Pearls, 2014.</li><li>Physician Alert: Beware of Counterfeit Medical Devices, Lasers in Surgery and Medicine, 2014.</li><li>Counterfeit Medical Devices: The Money You Save Up Front Will Cost You Big in the End, Aesthetic Surgery Journal, 2014.</li><li>Counterfeit Esthetic Devices and Patient Safety in Dermatology, Journal of Cosmetic Dermatology, 2018.</li><li>Processes of the Reliability and Degradation Mechanism of High-Power Semiconductor Lasers, Crystals, 2022, 12(6), 765.</li><li>Исполнительный регламент Комиссии ЕС 2022/2346.</li></ul>"
+            "<p>Лазерный аппарат должен приносить доход вашему салону, а не создавать непредвиденные расходы уже в первые месяцы эксплуатации.</p><p>Подержанное оборудование может стать отличным решением как для открытия нового салона, так и для расширения перечня услуг. Но только тогда, когда вы понимаете, что именно покупаете.</p><p>Необязательно отказываться от выгодного предложения из-за страха ошибиться. Стоит организовать профессиональную проверку до момента приобретения.</p><p>LTS Market</p><p>Профессиональное косметологическое оборудование, техническая диагностика и поддержка вашего бизнеса.</p><p>sales@ltsmarket.pl</p><p>+48 575 254 431</p><h3>Источники</h3><ul><li>Buying a Laser: Tips and Pearls, 2014.</li><li>Physician Alert: Beware of Counterfeit Medical Devices, Lasers in Surgery and Medicine, 2014.</li><li>Counterfeit Medical Devices: The Money You Save Up Front Will Cost You Big in the End, Aesthetic Surgery Journal, 2014.</li><li>Counterfeit Esthetic Devices and Patient Safety in Dermatology, Journal of Cosmetic Dermatology, 2018.</li><li>Processes of the Reliability and Degradation Mechanism of High-Power Semiconductor Lasers, Crystals, 2022, 12(6), 765.</li><li>Исполнительный регламент Комиссии ЕС 2022/2346.</li></ul>\n<a href=\"/ru/blog/kak-otkryt-kosmetologicheskiy-kabinet-v-polshe/\">Как открыть косметологический кабинет в Польше? Читайте руководство с калькуляторами.</a>"
           ]
         ],
         "sections_html": true,
         "date": "2026-11-26",
         "modified": "2026-11-26",
-        "author": "LTS Market",
-        "author_url": "https://ltsmarket.pl/",
         "no_social_image": true,
         "context_links_only": true,
         "card_clamp": true,
@@ -2587,7 +2608,8 @@
           "description": "Рассматриваете покупку подержанного лазера? Изучите также возможности финансирования нового LUMOS. Развивайте свой салон, используя современные технологии и распределяя инвестиционные расходы во времени.",
           "button": "Узнать больше о LUMOS и лизинге",
           "url": "/ru/novye/lumos/"
-        }
+        },
+        "author_key": "dmytro"
       },
       "en": {
         "slug": "how-to-buy-a-used-hair-removal-laser-safely",
@@ -2638,14 +2660,12 @@
           ],
           [
             "Buy equipment for your business, not for the repair workshop",
-            "<p>A laser should generate revenue for your salon rather than create unexpected expenses during the first months of operation.</p><p>Used equipment can be an excellent option for opening a new salon or expanding an existing treatment portfolio. The important thing is understanding exactly what you are buying.</p><p>You do not have to reject an attractive offer because you are afraid of making the wrong decision. Arranging a professional inspection before purchasing can help reduce that risk.</p><p>LTS Market</p><p>Professional aesthetic equipment, technical diagnostics and support for your business.</p><p>sales@ltsmarket.pl</p><p>+48 575 254 431</p><h3>References</h3><ul><li>Buying a Laser: Tips and Pearls, 2014.</li><li>Physician Alert: Beware of Counterfeit Medical Devices, Lasers in Surgery and Medicine, 2014.</li><li>Counterfeit Medical Devices: The Money You Save Up Front Will Cost You Big in the End, Aesthetic Surgery Journal, 2014.</li><li>Counterfeit Esthetic Devices and Patient Safety in Dermatology, Journal of Cosmetic Dermatology, 2018.</li><li>Processes of the Reliability and Degradation Mechanism of High-Power Semiconductor Lasers, Crystals, 2022, 12(6), 765.</li><li>Commission Implementing Regulation (EU) 2022/2346.</li></ul>"
+            "<p>A laser should generate revenue for your salon rather than create unexpected expenses during the first months of operation.</p><p>Used equipment can be an excellent option for opening a new salon or expanding an existing treatment portfolio. The important thing is understanding exactly what you are buying.</p><p>You do not have to reject an attractive offer because you are afraid of making the wrong decision. Arranging a professional inspection before purchasing can help reduce that risk.</p><p>LTS Market</p><p>Professional aesthetic equipment, technical diagnostics and support for your business.</p><p>sales@ltsmarket.pl</p><p>+48 575 254 431</p><h3>References</h3><ul><li>Buying a Laser: Tips and Pearls, 2014.</li><li>Physician Alert: Beware of Counterfeit Medical Devices, Lasers in Surgery and Medicine, 2014.</li><li>Counterfeit Medical Devices: The Money You Save Up Front Will Cost You Big in the End, Aesthetic Surgery Journal, 2014.</li><li>Counterfeit Esthetic Devices and Patient Safety in Dermatology, Journal of Cosmetic Dermatology, 2018.</li><li>Processes of the Reliability and Degradation Mechanism of High-Power Semiconductor Lasers, Crystals, 2022, 12(6), 765.</li><li>Commission Implementing Regulation (EU) 2022/2346.</li></ul>\n<a href=\"/en/blog/how-to-open-a-beauty-clinic-in-poland/\">How to open a beauty business in Poland? Read the complete guide with calculators.</a>"
           ]
         ],
         "sections_html": true,
         "date": "2026-11-26",
         "modified": "2026-11-26",
-        "author": "LTS Market",
-        "author_url": "https://ltsmarket.pl/",
         "no_social_image": true,
         "context_links_only": true,
         "card_clamp": true,
@@ -2689,7 +2709,88 @@
           "description": "Considering a used laser? Explore financing options for a new LUMOS as well. Grow your salon with modern technology while spreading the cost of your investment over time.",
           "button": "Explore LUMOS and leasing options",
           "url": "/en/new/lumos/"
-        }
+        },
+        "author_key": "dmytro"
+      }
+    },
+    {
+      "pl": {
+        "slug": "jak-otworzyc-gabinet-kosmetologiczny-w-polsce",
+        "title": "Jak otworzyć gabinet kosmetologiczny w Polsce w 2027 roku? Kompletny poradnik",
+        "seo": "Jak otworzyć gabinet kosmetologiczny w Polsce? Poradnik 2027",
+        "description": "Sprawdź, jak otworzyć gabinet kosmetologiczny w Polsce. Koszty, PKD, Sanepid, wyposażenie, leasing, kalkulatory rentowności i interaktywna checklista.",
+        "card_description": "Praktyczny poradnik otwarcia gabinetu kosmetologicznego w Polsce. Sprawdź koszty, wymagania, możliwości finansowania i oblicz rentowność własnego biznesu.",
+        "category": "Kalkulatory",
+        "lead": "",
+        "sections": [],
+        "date": "2026-11-26",
+        "modified": "2026-11-26",
+        "no_social_image": true,
+        "clinic_guide": true,
+        "articleSection": "Business guide",
+        "keywords": [
+          "beauty business Poland",
+          "laser hair removal business",
+          "startup costs",
+          "leasing"
+        ],
+        "about": [
+          "Beauty business startup in Poland",
+          "Laser hair removal studio"
+        ],
+        "author_key": "oleksandr"
+      },
+      "ru": {
+        "slug": "kak-otkryt-kosmetologicheskiy-kabinet-v-polshe",
+        "title": "Как открыть кабинет аппаратной косметологии в Польше в 2027 году?",
+        "seo": "Как открыть косметологический кабинет в Польше — 2027",
+        "description": "Практическое руководство по открытию кабинета косметологии в Польше. Расходы, законодательство, оборудование, лизинг и калькуляторы окупаемости.",
+        "card_description": "Практическое руководство по открытию косметологического кабинета в Польше. Расходы, требования, финансирование и интерактивные калькуляторы.",
+        "category": "Калькуляторы",
+        "lead": "",
+        "sections": [],
+        "date": "2026-11-26",
+        "modified": "2026-11-26",
+        "no_social_image": true,
+        "clinic_guide": true,
+        "articleSection": "Business guide",
+        "keywords": [
+          "beauty business Poland",
+          "laser hair removal business",
+          "startup costs",
+          "leasing"
+        ],
+        "about": [
+          "Beauty business startup in Poland",
+          "Laser hair removal studio"
+        ],
+        "author_key": "oleksandr"
+      },
+      "en": {
+        "slug": "how-to-open-a-beauty-clinic-in-poland",
+        "title": "How to Open an Aesthetic Beauty Business in Poland in 2027",
+        "seo": "How to Open a Beauty Business in Poland: 2027 Guide",
+        "description": "Learn how to start an aesthetic beauty business in Poland. Registration, regulations, equipment, leasing, startup costs and interactive profitability calculators.",
+        "card_description": "A practical guide to starting a beauty business in Poland, including regulations, startup costs, financing options and interactive profitability calculators.",
+        "category": "Calculators",
+        "lead": "",
+        "sections": [],
+        "date": "2026-11-26",
+        "modified": "2026-11-26",
+        "no_social_image": true,
+        "clinic_guide": true,
+        "articleSection": "Business guide",
+        "keywords": [
+          "beauty business Poland",
+          "laser hair removal business",
+          "startup costs",
+          "leasing"
+        ],
+        "about": [
+          "Beauty business startup in Poland",
+          "Laser hair removal studio"
+        ],
+        "author_key": "oleksandr"
       }
     }
   ]

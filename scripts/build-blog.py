@@ -1,6 +1,7 @@
 """Build the three static blog editions from blog-posts.json and existing site chrome."""
 from pathlib import Path
 from site_content import link_service_names
+from clinic_guide import article as clinic_article, L as CLINIC_LABELS
 from html import escape
 import json
 import re
@@ -15,10 +16,8 @@ DATA = CONTENT['site']
 POSTS = CONTENT['posts']
 parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--slug', help='Regenerate only this Polish article slug plus all blog listings')
-parser.add_argument('--article-only', action='store_true', help='With --slug, regenerate only the three article pages')
+parser.add_argument('--article-only', action='store_true', help='Regenerate article pages without blog listings or sitemap')
 args = parser.parse_args()
-if args.article_only and not args.slug:
-    parser.error('--article-only requires --slug')
 if args.slug and not any(post['pl']['slug'] == args.slug for post in POSTS):
     parser.error('Unknown Polish article slug')
 DOMAIN = 'https://ltsmarket.pl'
@@ -28,6 +27,23 @@ LABELS = {
     'pl': {'minutes': 'około {n} min czytania', 'pages': 'Strony bloga', 'page': 'Strona'},
     'en': {'minutes': 'about {n} min read', 'pages': 'Blog pages', 'page': 'Page'},
     'ru': {'minutes': 'около {n} мин чтения', 'pages': 'Страницы блога', 'page': 'Страница'},
+}
+AUTHORS = {
+    'oleksandr': {
+        'pl': ('Александр Падалко', 'specjalista ds. rozwoju cyfrowego biznesu, widoczności w wyszukiwarkach i promocji w systemach AI'),
+        'ru': ('Александр Падалко', 'специалист по цифровому развитию бизнеса, поисковой видимости и продвижению в AI-системах'),
+        'en': ('Александр Падалко', 'specialist in digital business development, search visibility and promotion in AI systems'),
+    },
+    'dmytro': {
+        'pl': ('Dmytro Zaitsev', 'CEO, założyciel i główny specjalista techniczny'),
+        'ru': ('Dmytro Zaitsev', 'CEO, основатель и главный технический специалист'),
+        'en': ('Dmytro Zaitsev', 'CEO, founder and lead technical specialist'),
+    },
+    'sofiia': {
+        'pl': ('Sofiia Shcherbakova', 'Client Manager'),
+        'ru': ('Sofiia Shcherbakova', 'менеджер по работе с клиентами'),
+        'en': ('Sofiia Shcherbakova', 'Client Manager'),
+    },
 }
 
 def listing_route(lang, page=1):
@@ -52,10 +68,14 @@ def image_tag(entry):
 
 def build(lang, article, page=1):
     d = {**DATA[lang], **(POSTS[article - 1][lang] if article else {})}
+    if article and d.get('author_key'):
+        d['author'], d['author_title'] = AUTHORS[d['author_key']][lang]
     source = (ROOT / (prefix(lang).strip('/') + '/leasing.html').lstrip('/')).read_text()
     head, rest = source.split('  <body>', 1)
-    before, rest = rest.split('    <main id="main-content">', 1)
-    _, after = rest.split('    </main>', 1)
+    main_match = re.search(r'<main\b[^>]*\bid="main-content"[^>]*>.*?</main>', rest, flags=re.S)
+    if not main_match:
+        raise ValueError(f'Main element missing in {lang} Leasing template')
+    before, after = rest[:main_match.start()], rest[main_match.end():]
     title = d['seo'] if article else d['blog'] + ' | ' + {'pl':'Poradniki dla gabinetów','en':'Guides for salon owners','ru':'Статьи для владельцев кабинетов'}[lang]
     if not article and page > 1:
         title += f' | {LABELS[lang]["page"]} {page}'
@@ -71,6 +91,8 @@ def build(lang, article, page=1):
         for other in DATA:
             head = head.replace(DOMAIN+route(other), DOMAIN+listing_route(other,page))
     head = head.replace('/css/leasing.css','/css/blog.css')
+    if article and d.get('clinic_guide'):
+        head = head.replace('</head>', '<link rel="stylesheet" href="/css/clinic-guide.css">\n</head>')
     if article:
         head = head.replace('property="og:type" content="website"','property="og:type" content="article"')
     social_image = d.get('image') or d.get('social_image') if article else None
@@ -98,12 +120,17 @@ def build(lang, article, page=1):
         if d.get('modified'): schema['dateModified']=d['modified']
         if d.get('date'): schema['datePublished']=d['date']
         if d.get('author'):
-            schema['author']={'@type':'Organization','name':d['author']}
+            schema['author']={'@type':'Person' if d.get('author_key') else 'Organization','name':d['author']}
+            if d.get('author_title'): schema['author']['jobTitle']=d['author_title']
             if d.get('author_url'): schema['author']['url']=d['author_url']
     else:
         schema['blogPost']=[{'@type':'BlogPosting','headline':post[lang]['title'],'url':DOMAIN+route(lang,i)} for i,post in page_posts(page)]
         schema.update({'@id': DOMAIN+listing_route(lang,page)+'#blog', 'url': DOMAIN+listing_route(lang,page)})
-    structured = '\n'.join('<script type="application/ld+json">'+json.dumps(s,ensure_ascii=False)+'</script>' for s in [schema,{'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':crumbs}])
+    schemas=[schema,{'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':crumbs}]
+    if article and d.get('clinic_guide'):
+        _,_,_,faq_pairs=clinic_article(lang)
+        schemas.append({'@context':'https://schema.org','@type':'FAQPage','mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in faq_pairs]})
+    structured = '\n'.join('<script type="application/ld+json">'+json.dumps(s,ensure_ascii=False)+'</script>' for s in schemas)
     head = re.sub(r'<script type="application/ld\+json">.*?</script>',lambda m:structured,head,flags=re.S)
     # Only language links change to the equivalent blog page; commercial links stay intact.
     def languages(m):
@@ -119,11 +146,17 @@ def build(lang, article, page=1):
     breadcrumb += f'<a href="{route(lang)}">{d["blog"]}</a>' if article else f'<span aria-current="page">{d["blog"]}</span>'
     breadcrumb+='</nav>'
     if article:
+        if d.get('clinic_guide'):
+            guide_lead,guide_intro,guide_sections,_=clinic_article(lang)
+            d['lead']=guide_lead
+            d['intro_html']=guide_intro
+            d['sections']=guide_sections
+            d['sections_html']=guide_sections
         toc='<nav class="blog-toc" aria-label="'+d['toc']+'"><h2>'+d['toc']+'</h2><ol>'+''.join(f'<li><a href="#section-{i}">{escape(h)}</a></li>' for i,(h,p) in enumerate(d['sections'],1))+'</ol></nav>'
         sections=''.join(f'<section aria-labelledby="section-{i}"><h2 id="section-{i}">{escape(h)}</h2>'+''.join('<p>'+p.format(prefix=prefix(lang))+'</p>' for p in text.split('\n'))+'</section>' for i,(h,text) in enumerate(d['sections'],1))
         if d.get('sections_html'):
             sections=''.join(f'<section aria-labelledby="section-{i}"><h2 id="section-{i}">{escape(h)}</h2>{text}</section>' for i,(h,text) in enumerate(d['sections'],1))
-        cta='' if d.get("hide_cta") or d.get("single_cta") else f'<aside class="blog-cta"><h2>{d["cta"]}</h2><a class="button button--primary" href="{prefix(lang)}kontakt.html">{d["contact"]}</a></aside>'
+        cta='' if d.get("hide_cta") or d.get("single_cta") or d.get("clinic_guide") else f'<aside class="blog-cta"><h2>{d["cta"]}</h2><a class="button button--primary" href="{prefix(lang)}kontakt.html">{d["contact"]}</a></aside>'
         if d.get('action_cta'):
             action=d['action_cta']
             cta=f'<aside class="blog-cta blog-cta--lumos" aria-labelledby="lumos-cta-title"><div><p class="blog-cta__eyebrow">LTS MARKET · LUMOS</p><h2 id="lumos-cta-title">{escape(action["title"])}</h2><p class="blog-cta__description">{escape(action["description"])}</p></div><div class="blog-cta__actions"><a class="button button--primary" href="{escape(action["form_url"],quote=True)}">{escape(action["form_label"])} <span aria-hidden="true">→</span></a><a class="button button--outline" href="tel:+48575254431">{escape(action["call_label"])}</a></div></aside>'
@@ -132,7 +165,12 @@ def build(lang, article, page=1):
             product_alt = {'pl': 'Laser diodowy LUMOS — widok z przodu', 'ru': 'Диодный лазер LUMOS — вид спереди', 'en': 'LUMOS diode laser — front view'}[lang]
             cta = f'<aside class="blog-cta blog-cta--lumos blog-cta--lumos-product" aria-labelledby="lumos-cta-title"><div class="blog-cta__copy"><p class="blog-cta__eyebrow">{escape(action["label"])}</p><h2 id="lumos-cta-title">{escape(action["title"])}</h2><p class="blog-cta__description">{escape(action["description"])}</p></div><div class="blog-cta__product"><img src="/assets/img/lumos/lumos-front-cta-transparent.webp" width="480" height="480" alt="{escape(product_alt)}" loading="lazy" decoding="async"></div><div class="blog-cta__actions"><a class="button button--primary" data-ai-include="true" href="{escape(action["url"], quote=True)}">{escape(action["button"])}</a></div></aside>'
         if d.get('hide_cta'): cta=''
-        byline = f'<p class="blog-card__date"><time datetime="{escape(d["date"], quote=True)}">{".".join(reversed(d["date"].split("-")))}</time> · {escape(d["author"])}</p>' if d.get('author') else ''
+        if d.get('clinic_guide'):
+            labels=CLINIC_LABELS[lang]['cta']
+            cta=f'<aside class="blog-cta guide-cta"><h2>{escape(labels[0])}</h2><p>{escape(labels[1])}</p><div class="guide-button-row"><a class="button button--primary" href="{prefix(lang)}kontakt.html">{escape(labels[2])}</a><a class="button button--outline" href="{prefix(lang)}nowe.html">{escape(labels[3])}</a><a class="button button--outline" href="{prefix(lang)}leasing.html">{escape(labels[4])}</a></div></aside>'
+        date_html = f'<time datetime="{escape(d["date"], quote=True)}">{".".join(reversed(d["date"].split("-")))}</time> · ' if d.get('date') else ''
+        title_html = f' — {escape(d["author_title"])}' if d.get('author_title') else ''
+        byline = f'<p class="blog-card__date">{date_html}{escape(d["author"])}{title_html}</p>' if d.get('author') else ''
         intro = f'<div class="blog-prose">{d["intro_html"]}</div>' if d.get('intro_html') else ''
         main=f'<article class="blog-article"><header class="blog-heading"><p class="section-label">{d["blog"]}</p><h1>{escape(d["title"])}</h1>{byline}<p class="blog-lead">{d["lead"]}</p>{intro}</header>{image_tag(d)}{toc}<div class="blog-prose">{sections}</div>{cta}<a class="blog-back" href="{route(lang)}">← {d["back"]}</a></article>'
     else:
@@ -140,6 +178,8 @@ def build(lang, article, page=1):
         for i, post in page_posts(page):
             entry = post[lang]
             words = len(re.sub(r'<[^>]+>', ' ', entry['lead'] + ' ' + entry.get('intro_html', '') + ' ' + ' '.join(h+' '+text for h,text in entry['sections'])).split())
+            if entry.get('clinic_guide'):
+                words = len((ROOT / 'content/clinic-guide' / f'{lang}.txt').read_text().split())
             reading = LABELS[lang]['minutes'].format(n=max(1, math.ceil(words / 200)))
             category = entry.get('category', d['blog'])
             date = f'<time class="blog-card__date" datetime="{escape(entry["date"], quote=True)}">{escape(entry["date"])}</time>' if entry.get('date') else ''
@@ -151,6 +191,8 @@ def build(lang, article, page=1):
             pagination = f'<nav class="blog-pagination" aria-label="{LABELS[lang]["pages"]}">{links}</nav>'
         main=f'<header class="blog-heading blog-heading--listing"><p class="section-label">LTS Market</p><h1>{d["blog"]}</h1><p class="blog-lead">{d["intro"]}</p></header><div class="blog-grid">'+''.join(cards)+'</div>'+pagination
     output=head+'  <body>'+before+'<main id="main-content" class="blog-main'+(' blog-main--listing' if not article else '')+'"><div class="container">'+breadcrumb+main+'</div></main>'+after
+    if article and d.get('clinic_guide'):
+        output=output.replace('</body>','<script src="/js/clinic-guide.js" defer></script></body>')
     output=output.replace('<p class="blog-lead"></p>', '')
     dest=ROOT / (route(lang,article) if article else listing_route(lang,page)).lstrip('/') / 'index.html'
     dest.parent.mkdir(parents=True,exist_ok=True)
@@ -167,16 +209,17 @@ for path in ([] if args.article_only or args.slug else ROOT.rglob('*.html')):
     source=re.sub(r'(<a\b[^>]*href=")https://lasertechservice.pl/blog/("[^>]*>\s*(?:Blog|Блог)\s*</a>)',lambda m:m[1]+route(lang)+m[2],source)
     if source != path.read_text():
         path.write_text(source)
+related_slugs = {'depilacja-laserowa-jako-biznes', 'jak-kupic-uzywany-laser-do-depilacji-bez-ryzyka'} if args.slug == 'jak-otworzyc-gabinet-kosmetologiczny-w-polsce' and not args.article_only else set()
 for lang in DATA:
     for article in range(len(POSTS) + 1):
-        if (not args.article_only or article) and (not args.slug or not article or POSTS[article - 1]['pl']['slug'] == args.slug):
+        if (not args.article_only or article) and (not args.slug or not article or POSTS[article - 1]['pl']['slug'] == args.slug or POSTS[article - 1]['pl']['slug'] in related_slugs):
             build(lang,article)
     if not args.article_only:
         for page in range(2, PAGE_COUNT + 1):
             build(lang,0,page)
 
 if args.article_only:
-    print('Built three localized article pages.')
+    print(f'Built {3 if args.slug else len(DATA) * len(POSTS)} localized article pages.')
     sys.exit(0)
 
 # Preserve existing sitemap entries and refresh just the blog routes.

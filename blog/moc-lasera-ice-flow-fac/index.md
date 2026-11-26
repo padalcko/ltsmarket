@@ -10,7 +10,7 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/diode-laser-power-
 
 Blog LTS Market
 
-19.11.2026 · LTS Market
+19.11.2026 · Dmytro Zaitsev — CEO, założyciel i główny specjalista techniczny
 
 ## Dobry laser to coś więcej niż liczba watów
 

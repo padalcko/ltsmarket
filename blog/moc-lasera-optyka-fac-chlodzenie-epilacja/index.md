@@ -10,7 +10,7 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/laser-power-fac-op
 
 Blog LTS Market
 
-25.11.2026 · LTS Market
+25.11.2026 · Dmytro Zaitsev — CEO, założyciel i główny specjalista techniczny
 
 *Przyszłość epilacji laserowej: technologie, skuteczność i bezpieczeństwo. Część 4.*
 

@@ -10,6 +10,8 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/safe-tattoo-remova
 
 Blog LTS Market
 
+Dmytro Zaitsev — CEO, założyciel i główny specjalista techniczny
+
 Usunięcie tatuażu wymaga rozsądnego wyboru metody i indywidualnej oceny skóry. Laser Nd:YAG może skutecznie rozjaśniać wybrane pigmenty, ale sam typ urządzenia nie gwarantuje bezpieczeństwa ani pełnego usunięcia wzoru. Wyjaśniamy, co warto wiedzieć przed zabiegiem i zakupem sprzętu do gabinetu w Polsce.
 
 ![Urządzenie laserowe z ekranem i głowicami w gabinecie zabiegowym](https://ltsmarket.pl/assets/img/blog/ndyg-tatoo-article-clean.jpg)

@@ -1,0 +1,58 @@
+.guide-tool{margin:28px 0;padding:clamp(18px,4vw,32px);border:1px solid var(--color-border);border-radius:14px;background:#f4f7fa;color:var(--color-text);font-size:16px;line-height:1.55}
+.guide-tool h3{margin:0 0 20px}
+.guide-tool ol{padding-left:24px}
+.guide-tool li{margin:10px 0}
+.guide-tool li.is-done{color:#516170;text-decoration:line-through}
+.guide-tool label{display:block;font-weight:600}
+.guide-tool label:has([type=checkbox]){display:flex;align-items:flex-start;gap:10px;cursor:pointer}
+.guide-tool [type=checkbox]{width:20px;height:20px;flex:none;accent-color:var(--color-blue)}
+.guide-tool progress{display:block;width:100%;height:18px;margin:12px 0 18px;accent-color:var(--color-blue)}
+.guide-tool button{min-height:44px;padding:10px 16px;border:1px solid var(--color-blue);border-radius:7px;background:#fff;color:#075fae;font:inherit;font-weight:700;cursor:pointer}
+.guide-tool button:hover{background:var(--color-blue-soft)}
+.guide-tool button:focus-visible,.guide-tool input:focus-visible,.guide-cta a:focus-visible{outline:3px solid var(--color-blue);outline-offset:3px}
+.guide-tool [aria-pressed=true]{background:var(--color-blue);color:#fff}
+.guide-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.guide-fields label{min-width:0}
+.guide-fields input[type=number]{display:block;width:100%;min-height:44px;margin-top:6px;padding:9px 12px;border:1px solid #8898a7;border-radius:6px;background:#fff;color:var(--color-text);font:inherit}
+.guide-fields input[type=range]{display:block;width:100%;margin-top:12px;accent-color:var(--color-blue)}
+.guide-button-row{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}
+.guide-fixed{grid-column:1/-1;margin:4px 0 0;padding:18px;border:1px solid var(--color-border)}
+.guide-fixed legend{font-weight:700}
+.guide-results{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:1fr;gap:12px;margin:20px 0}
+.guide-results p{min-width:0;margin:0;padding:14px;background:#fff;border:1px solid var(--color-border);border-radius:8px}
+.guide-results strong{display:block;margin-top:4px;font-size:clamp(17px,2vw,24px);overflow-wrap:anywhere}
+.guide-result-state{display:block;margin-top:4px;font-size:13px;font-weight:600}
+.guide-results [data-negative=true]{color:#9f2d24}
+.guide-error{color:#9f2d24;font-weight:700}
+.guide-error:empty{display:none}
+.guide-table{max-width:100%;overflow-x:auto}
+.blog-prose .guide-table table{min-width:640px;margin:16px 0}
+.guide-budget-row{margin:12px 0}
+.guide-budget-row>span{display:block;font-weight:700}
+.guide-budget-bar{display:flex;width:100%;height:22px;margin-top:7px;overflow:hidden;border-radius:6px;background:#dce4eb}
+.guide-budget-bar i,.guide-budget-bar b{display:block;height:100%}
+.guide-budget-bar i{background:var(--color-blue)}
+.guide-budget-bar b{background:#526c83}
+.guide-legend{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 14px;font-size:14px}
+.guide-note{font-size:15px;color:#526170}
+.guide-tool[data-profit-tool] .guide-note{margin-top:12px;font-size:13px;line-height:1.5}
+.guide-chart svg{display:block;width:100%;height:auto;overflow:visible}
+.guide-chart svg text{font:12px system-ui,sans-serif;fill:#405365}
+.guide-chart [data-chart-line]{fill:none;stroke-width:3;stroke-linejoin:round}
+.guide-chart [data-chart-line=revenue]{stroke:#168cff}
+.guide-chart [data-chart-line=surplus]{stroke:#116c9a}
+.guide-chart [data-chart-line=cash]{stroke:#ca6a29}
+.guide-grid-line{stroke:#d4dfe8;stroke-width:1}
+.guide-zero{stroke:#33495d;stroke-width:2;stroke-dasharray:5 5}
+.guide-chart-legend{display:flex;flex-wrap:wrap;gap:16px;font-size:14px}
+.guide-chart-legend span::before{content:"";display:inline-block;width:12px;height:12px;margin-right:6px;background:#168cff}
+.guide-chart-legend span:nth-child(2)::before{background:#116c9a}
+.guide-chart-legend span:nth-child(3)::before{background:#ca6a29}
+.guide-cta p{margin-bottom:20px}
+.guide-cta .button--outline{border-color:#c9d7e3;color:#fff}
+.guide-cta .guide-button-row{margin:0}
+.blog-prose .alpha-faq details{border-bottom:1px solid var(--color-border);padding:14px 0}
+.blog-prose .alpha-faq summary{cursor:pointer;font-weight:700}
+.blog-prose .alpha-faq p{margin-top:12px}
+@media(max-width:600px){.guide-fields,.guide-results,.guide-legend{grid-template-columns:1fr}.guide-tool{padding:18px}.guide-button-row>*{flex:1 1 100%}}
+@media(prefers-reduced-motion:reduce){.guide-tool *{scroll-behavior:auto;transition:none!important}}

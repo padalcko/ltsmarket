@@ -10,7 +10,7 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/dermatoscope-laser
 
 Blog LTS Market
 
-20.11.2026 · LTS Market
+20.11.2026 · Dmytro Zaitsev — CEO, założyciel i główny specjalista techniczny
 
 **Nowoczesna epilacja laserowa to nie tylko odpowiednio dobrane urządzenie i parametry zabiegu. To również umiejętność obserwowania skóry, oceny owłosienia oraz dokumentowania zmian zachodzących podczas kolejnych wizyt. Dermatoskop może stać się jednym z najbardziej praktycznych narzędzi wspierających tę pracę.**
 

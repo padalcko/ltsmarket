@@ -10,6 +10,8 @@ Other languages: [Polski](https://ltsmarket.pl/blog/bezpieczne-usuwanie-tatuazu-
 
 LTS Market Blog
 
+Dmytro Zaitsev — CEO, founder and lead technical specialist
+
 Removing a tattoo calls for a considered choice of method and an individual skin assessment. An Nd:YAG laser can effectively lighten certain pigments, but the device type alone cannot guarantee safety or complete clearance. Here is what to consider before treatment or buying equipment for a clinic in Poland.
 
 ![Laser device with a screen and handpieces in a treatment room](https://ltsmarket.pl/assets/img/blog/ndyg-tatoo-article-clean.jpg)

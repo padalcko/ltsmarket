@@ -10,7 +10,7 @@
 
 Блог LTS Market
 
-23.11.2026 · LTS Market
+23.11.2026 · Sofiia Shcherbakova — менеджер по работе с клиентами
 
 ![Диодный лазер Alpha в каталоге LTS Market](https://ltsmarket.pl/assets/img/nowe/alpha.webp)
 

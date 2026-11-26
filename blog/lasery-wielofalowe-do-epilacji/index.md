@@ -10,7 +10,7 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/multi-wavelength-l
 
 Blog LTS Market
 
-24.11.2026 · LTS Market
+24.11.2026 · Dmytro Zaitsev — CEO, założyciel i główny specjalista techniczny
 
 Przyszłość epilacji laserowej: technologie, skuteczność i bezpieczeństwo. Część 1.
 

@@ -10,7 +10,7 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/alpha-vs-alpha-min
 
 Blog LTS Market
 
-23.11.2026 · LTS Market
+23.11.2026 · Sofiia Shcherbakova — Client Manager
 
 ![Laser diodowy Alpha w ofercie LTS Market](https://ltsmarket.pl/assets/img/nowe/alpha.webp)
 

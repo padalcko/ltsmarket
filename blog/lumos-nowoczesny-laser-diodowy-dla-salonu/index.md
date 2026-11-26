@@ -10,6 +10,8 @@ Inne wersje językowe: [English](https://ltsmarket.pl/en/blog/lumos-modern-diode
 
 Blog LTS Market
 
+Sofiia Shcherbakova — Client Manager
+
 ![Lumos — Widok z przodu](https://ltsmarket.pl/assets/img/lumos/lumos-front-800.webp)
 
 ## Dlaczego Lumos zasługuje na uwagę?
